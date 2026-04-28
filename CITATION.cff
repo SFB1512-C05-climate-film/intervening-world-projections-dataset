@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=https://citation-file-format.github.io/1.2.0/schema.json
+
+cff-version: 1.2.0
+title: >
+  Intervening World Projections: Audiovisuality of Climate
+  Change – Dataset
+message: >
+  If you use this dataset, please cite it using the metadata
+  below.
+type: dataset
+authors:
+  - given-names: Matthias
+    family-names: Grotkopp
+    affiliation: Freie Universität Berlin
+    orcid: 'https://orcid.org/0000-0002-0954-3111'
+  - given-names: Yvonne
+    family-names: Pfeilschifter
+    affiliation: Freie Unversität Berlin
+  - given-names: Derya
+    family-names: Demir
+    affiliation: Freie Universität Berlin / QUADRIGA
+    orcid: 'https://orcid.org/0009-0000-2237-9400'
+identifiers:
+- type: doi
+  value: 10.5281/zenodo.15585269
+  description: Zenodo
+repository-code: 'https://github.com/SFB1512-C05-climate-film'
+abstract: >
+  A corpus of audiovisual research objects (films,
+  documentaries, and social media videos)  on anthropogenic
+  climate change, examining the circulation of audio-visual
+  patterns  and the construction of future scenarios across
+  science, journalism, entertainment, and activism;  the
+  corpus includes film metadata, annotation packages based
+  on the AdA Filmontology, and moviebarcode visualisations
+keywords:
+  - film studies
+  - audiovisual media studies
+  - climate change
+  - corpus research
+  - metadata
+  - annotation
+  - moviebarcode
+  - AdA Filmontology
+  - digital humanities
+license: CC-BY-SA-4.0
+version: 1.0.0
+date-released: '2026-04-28'
+references:
+  - type: standard
+    title: "AdA Filmontology"
+    authors:
+      - name: "AdA Research Group"
+    url: "https://github.com/ProjectAdA/public"
