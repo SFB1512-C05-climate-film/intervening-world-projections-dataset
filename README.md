@@ -37,7 +37,7 @@ The dataset consists of four data types. Due to copyright restrictions, only the
     * Annotation data: 78 annotation packages in `azp` and `json`formats
     * Moviebarcodes: 303 visualizations in `png` format
     * Metadata: tabular descriptions of the corpus in `xlsx`, `csv`, `html`, and `json` formats
-    * Metadatasschema in `yml`format
+    * Metadatasschema in `yml` format
 
 The metadata serve both to document and describe the dataset, as well as to structure and connect the individual data records.
 
@@ -49,26 +49,26 @@ The metadata serve both to document and describe the dataset, as well as to stru
 
 ### Authors
 
-Matthias Grotkopp 
-Freie Universität Berlin / CRC 1512
+Matthias Grotkopp <br>
+Freie Universität Berlin / CRC 1512 <br>
 *Project Lead and Supervision, Funding Acquisition, Methodology and Conceptualisation, Research and Analysis*
 
-Yvonne Pfeilschifter
-Freie Universität Berlin / CRC 1512
+Yvonne Pfeilschifter <br>
+Freie Universität Berlin / CRC 1512<br>
 *Subproject Lead, Methodology and Conceptualisation, Research and Analysis*
 
-Derya Demir
-Freie Universität Berlin / QUADRIGA
+Derya Demir <br>
+Freie Universität Berlin / QUADRIGA <br>
 *Data Curation and Management, Publication and Data Support* 
 
 ### Contributors
 
-Konstantin Lück
-Freie Universität Berlin / QUADRIGA
+Konstantin Lück <br>
+Freie Universität Berlin / QUADRIGA <br>
 *Data Collection* 
 
-Raphael Schotten
-Freie Universität Berlin
+Raphael Schotten <br>
+Freie Universität Berlin <br>
 *Data Collection*
 
 ---
