@@ -1,0 +1,136 @@
+schema:
+  name: corpus_metadata_schema_climate_film_c05
+  version: "1.0.0"
+  fields:
+    - name: title
+      type: string
+      required: true
+      dc-mapping: "dc:title"
+      en15744-mapping: "Title"
+      description: "Original title of the audiovisual resource in its original language"
+      example: "Anthropocene: The Human Epoch"
+
+    - name: object_id
+      type: string
+      required: true
+      dc-mapping: "dc:identifier"
+      en15744-mapping: "Identifier"
+      pattern: "^[fev][0-9]{3}[a-z0-9]$"
+      description: >
+        Project-specific unique identifier (ID) for the object (audiovisual resource);
+        Composed of three parts: a classification prefix (f = feature film or documentary,
+        e = episode, v = video), a three-digit sequential number, and a suffix
+        consisting of the first letter or digit of the original title
+      example: "f002a"
+      notes: Can be adjusted for project purposes
+
+    - name: imdb_id
+      type: string
+      required: true
+      dc-mapping: "dc:identifier"
+      en15744-mapping: "Identifier"
+      description: "External IMDb identifier"
+      note: Other standards for external identifiers such as ISAN can also be used
+      example: "tt8399690"
+
+    - name: classification
+      type: string
+      required: true
+      dc-mapping: "dcterms:type"
+      en15744-mapping: "Genre"
+      vocabulary:
+        - feature film
+        - documentary
+        - episode
+        - video
+      description: "Corpus-specific structural format of the object (audiovisual resource)"
+      example: "documentary"
+      notes: > 
+        Can be adjusted for project purposes. No exact correspondence to EN 15744 or DC;
+        this field combines work type and genre as a corpus-specific simplification
+    
+    - name: country
+      type: string
+      required: true
+      dc-mapping: "dcterms:spatial"
+      en15744-mapping: "Country of Reference"
+      standard: ISO 3166-1 alpha-2
+      separator: "; "
+      description: "Country/countries of origin"
+      example: "CA"
+      note: >
+        No exact correspondence to DC
+    
+    - name: year
+      type: string
+      required: true
+      dc-mapping: "dcterms:issued"
+      en15744-mapping: "Year of Reference"
+      pattern: "^[0-9]{4}$" # Four digits 
+      description: "Year of initial release in the country of origin"
+      example: "2018"
+
+    - name: director
+      type: string
+      required: true
+      dc-mapping: "dcterms:creator"
+      en15744-mapping: "Credits"
+      separator: "; "
+      description: "First and last name of the director(s); multiple directors are separated with semicolon"
+      example: "Jennifer Baichwal; Edward Burtynsky; Nicholas de Pencier"
+      notes: Can be adjusted for more inclusive credit practices
+
+    - name: runtime_min
+      type: string
+      required: false
+      dc-mapping: "dcterms:extent"
+      en15744-mapping: "Original Duration"
+      pattern: "^[0-9]+ Min\\.$"
+      description: "Runtime in minutes, human-readable"
+      example: "87 Min."
+    
+    - name: runtime_iso
+      type: string
+      required: true
+      dc-mapping: "dcterms:extent"
+      en15744-mapping: "Original Duration"
+      standard: ISO 8601 duration
+      pattern: "^PT([0-9]+H)?([0-9]+M)?$"
+      description: "Runtime following ISO 8601 duration format, machine-readable"
+      example: "PT1H27M"
+    
+    - name: season_episode
+      type: string
+      required: false
+      dc_mapping: "dcterms:isPartOf"
+      en15744_mapping: "Series / Serial"
+      pattern: "^S[0-9]{2}E[0-9]{2}$"
+      description: >
+        Season and episode number for serial formats.
+        Only relevant if classification = "episode"
+      example: "S01E04"
+      notes: >
+        Follows the widely used de-facto convention. 
+        No official ISO standard exists for this format
+
+    - name: episode_title
+      type: string
+      required: false
+      dc-mapping: "dc:title"
+      en15744-mapping: "Title"
+      description: "Original title of the series episode in its original language"
+      example: "To the Ends of the Earth"
+      notes: Only relevant if classification = "episode"
+    
+    - name: modes_intervention
+      type: string
+      required: false
+      vocabulary:
+      - destabilization/restabilization
+      - escalation/de-escalation
+      - disruptive scaling
+      - non-linear temporalities
+      - post-anthropocentric reperspectivations
+      - unintended consequences
+      - collisions
+      description: "Project-specific analysis categories"
