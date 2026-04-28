@@ -1,0 +1,2145 @@
+{ "annotations": [
+
+                {
+                        "id": "063a9964-d552-11ed-b1d9-57c040d8297f",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 910320,
+                        "end": 912084,
+                        "content": "swell"
+                },
+
+                {
+                        "id": "d4c44b27-ba97-11ed-bfc2-f552a62b6c27",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 910700,
+                        "end": 941292,
+                        "content": "1"
+                },
+
+                {
+                        "id": "b3ba6cd6-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 910700,
+                        "end": 941292,
+                        "content": ""
+                },
+
+                {
+                        "id": "b89de0e8-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 910700,
+                        "end": 941292,
+                        "content": "1"
+                },
+
+                {
+                        "id": "be491800-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 910700,
+                        "end": 941292,
+                        "content": "dark,[TO],bright-dark"
+                },
+
+                {
+                        "id": "c4a8da32-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 910700,
+                        "end": 941292,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "04f95a8c-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ColourRange",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 910700,
+                        "end": 1101300,
+                        "content": "black,orange,cyan,white,saddlebrown"
+                },
+
+                {
+                        "id": "4a761fcc-d52f-11ed-b1d9-57c040d8297f",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 910700,
+                        "end": 941292,
+                        "content": "0,[TO],3"
+                },
+
+                {
+                        "id": "754526a2-d530-11ed-b1d9-57c040d8297f",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 910700,
+                        "end": 941292,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "6cbd498c-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 910700,
+                        "end": 941292,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "764ef964-d531-11ed-b1d9-57c040d8297f",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 910700,
+                        "end": 1022574,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "c5c047c8-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 910700,
+                        "end": 941292,
+                        "content": "minimal,shaking"
+                },
+
+                {
+                        "id": "765c8902-d532-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 910700,
+                        "end": 941292,
+                        "content": "slow,[TO],medium"
+                },
+
+                {
+                        "id": "771b40fe-d532-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 910700,
+                        "end": 941292,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "e83cad2c-d532-11ed-b1d9-57c040d8297f",
+                        "type": "MontageFigureMacro",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 910700,
+                        "end": 1101300,
+                        "content": "tbd cross-cut/framing (fire vs. laptop)"
+                },
+
+                {
+                        "id": "60fae6de-d551-11ed-b1d9-57c040d8297f",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 910700,
+                        "end": 941292,
+                        "content": "object"
+                },
+
+                {
+                        "id": "0b863298-d552-11ed-b1d9-57c040d8297f",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 912084,
+                        "end": 913759,
+                        "content": "subside"
+                },
+
+                {
+                        "id": "d362843e-d551-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 913965,
+                        "end": 916857,
+                        "content": "Comment se projeter dans un tel future?"
+                },
+
+                {
+                        "id": "ab855da2-d55f-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 913965,
+                        "end": 916857,
+                        "content": "suffering"
+                },
+
+                {
+                        "id": "e00dfc2c-d551-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 921018,
+                        "end": 931456,
+                        "content": "J'ai besoin des chercheurs qui comme ??? alertent depuis si longtemps. Comment font-ils pour vivre avec leur savoir? Moi qui n'arrive pas à vivre avec le mien."
+                },
+
+                {
+                        "id": "ab855da3-d55f-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 921018,
+                        "end": 931456,
+                        "content": "suffering"
+                },
+
+                {
+                        "id": "1d0682e8-d552-11ed-b1d9-57c040d8297f",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 925490,
+                        "end": 932683,
+                        "content": "whirring"
+                },
+
+                {
+                        "id": "3048543a-d552-11ed-b1d9-57c040d8297f",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 932683,
+                        "end": 933585,
+                        "content": "explosive"
+                },
+
+                {
+                        "id": "3fb63e14-d552-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 935863,
+                        "end": 945372,
+                        "content": "Ce que vous voyez donc, c'est que les émissions de gaz à effet de serre et [surtout?] l'usage de l'énergie fossile sont logés dans tout ce que nous faisons toute la journée partout."
+                },
+
+                {
+                        "id": "ab855da4-d55f-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 935863,
+                        "end": 945372,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "c52e839c-d2bb-11ed-9f06-dbfdfd73b71b",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 941292,
+                        "end": 954800,
+                        "content": "2"
+                },
+
+                {
+                        "id": "b3ba6cd7-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 941292,
+                        "end": 945267,
+                        "content": ""
+                },
+
+                {
+                        "id": "be491801-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 941292,
+                        "end": 954800,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "c4a8da33-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 941292,
+                        "end": 954800,
+                        "content": "medium closeup,shoulder closeup"
+                },
+
+                {
+                        "id": "a99891f3-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 941292,
+                        "end": 954800,
+                        "content": "0,[VS],3"
+                },
+
+                {
+                        "id": "754526a3-d530-11ed-b1d9-57c040d8297f",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 941292,
+                        "end": 954800,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "6cbd498d-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 941292,
+                        "end": 954800,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c5c047c9-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 941292,
+                        "end": 954800,
+                        "content": "static"
+                },
+
+                {
+                        "id": "d8f6214b-d550-11ed-b1d9-57c040d8297f",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 941292,
+                        "end": 954800,
+                        "content": "object,group,human being"
+                },
+
+                {
+                        "id": "762d2440-d551-11ed-b1d9-57c040d8297f",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 941292,
+                        "end": 954800,
+                        "content": "2"
+                },
+
+                {
+                        "id": "b3ba6cd8-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 945267,
+                        "end": 948287,
+                        "content": ""
+                },
+
+                {
+                        "id": "4a43bc76-d552-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 945372,
+                        "end": 948387,
+                        "content": "Sur une planéte finie, malheureusement la croissance perpétuelle, ça n'existe pas."
+                },
+
+                {
+                        "id": "ab855da5-d55f-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 945372,
+                        "end": 948387,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "b3ba6cd9-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 948287,
+                        "end": 949427,
+                        "content": ""
+                },
+
+                {
+                        "id": "4ffb255a-d552-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 948387,
+                        "end": 949612,
+                        "content": "... ça veut dire décroissance?"
+                },
+
+                {
+                        "id": "ab855da6-d55f-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 948387,
+                        "end": 949612,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "b3ba6cda-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 949427,
+                        "end": 954800,
+                        "content": ""
+                },
+
+                {
+                        "id": "54cf0600-d552-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 949612,
+                        "end": 955792,
+                        "content": "La décroissance, elle a commencé en Europe depuis 10 ans. Et soi dit en passant on pronostique que ça va continuer pour des raisons energétiques."
+                },
+
+                {
+                        "id": "ab855da7-d55f-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 949612,
+                        "end": 955792,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "d4c44b28-ba97-11ed-bfc2-f552a62b6c27",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 954800,
+                        "end": 958234,
+                        "content": "3"
+                },
+
+                {
+                        "id": "b3ba6cdb-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 954800,
+                        "end": 958234,
+                        "content": ""
+                },
+
+                {
+                        "id": "b89de0ea-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 954800,
+                        "end": 958234,
+                        "content": "3"
+                },
+
+                {
+                        "id": "be491802-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 954800,
+                        "end": 958234,
+                        "content": "dark"
+                },
+
+                {
+                        "id": "c4a8da34-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 954800,
+                        "end": 958234,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "a99891f4-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 954800,
+                        "end": 958234,
+                        "content": "1"
+                },
+
+                {
+                        "id": "754526a4-d530-11ed-b1d9-57c040d8297f",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 954800,
+                        "end": 958234,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "6cbd498e-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 954800,
+                        "end": 958234,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c5c047ca-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 954800,
+                        "end": 958234,
+                        "content": "static"
+                },
+
+                {
+                        "id": "d8f6214c-d550-11ed-b1d9-57c040d8297f",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 954800,
+                        "end": 958234,
+                        "content": "single,human being"
+                },
+
+                {
+                        "id": "5b6086a6-d552-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 955792,
+                        "end": 964171,
+                        "content": "Tout le monde commence à dire [que] c'est trop tard. Et c'est totalement désésperant, contreproductive, et je pense que ça contribue très largement à abaisser les bras, donc je..."
+                },
+
+                {
+                        "id": "ab855da8-d55f-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 955792,
+                        "end": 964171,
+                        "content": "confident"
+                },
+
+                {
+                        "id": "d4c44b29-ba97-11ed-bfc2-f552a62b6c27",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 958234,
+                        "end": 967200,
+                        "content": "4"
+                },
+
+                {
+                        "id": "b3ba6cdc-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 958234,
+                        "end": 961331,
+                        "content": ""
+                },
+
+                {
+                        "id": "b89de0eb-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 958234,
+                        "end": 967200,
+                        "content": "4"
+                },
+
+                {
+                        "id": "be491803-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 958234,
+                        "end": 967200,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "c4a8da35-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 958234,
+                        "end": 967200,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "a99891f5-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 958234,
+                        "end": 967200,
+                        "content": "0,[VS],3"
+                },
+
+                {
+                        "id": "754526a5-d530-11ed-b1d9-57c040d8297f",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 958234,
+                        "end": 967200,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "6cbd498f-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 958234,
+                        "end": 967200,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c5c047cb-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 958234,
+                        "end": 967200,
+                        "content": "static"
+                },
+
+                {
+                        "id": "d8f6214d-d550-11ed-b1d9-57c040d8297f",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 958234,
+                        "end": 967200,
+                        "content": "object,group,human being"
+                },
+
+                {
+                        "id": "b3ba6cdd-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 961331,
+                        "end": 964085,
+                        "content": ""
+                },
+
+                {
+                        "id": "b3ba6cde-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 964085,
+                        "end": 965210,
+                        "content": ""
+                },
+
+                {
+                        "id": "682ca702-d552-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 964171,
+                        "end": 978117,
+                        "content": "Si la question est: C'est trop tard pour garder une espèce humaine, là je dis non non, c'est pas trop tard, l'éspèce humaine va passer à travers le problème, j'ai aucun.. voilà. Si on dit c'est trop tard pour que chaque représentant de l'espèce humaine passe totalement indemne à travers le problème, là je dis oui, c'est déjà le cas."
+                },
+
+                {
+                        "id": "ab855da9-d55f-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 964171,
+                        "end": 978117,
+                        "content": "confident"
+                },
+
+                {
+                        "id": "b3ba6cdf-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 965210,
+                        "end": 967200,
+                        "content": ""
+                },
+
+                {
+                        "id": "d4c44b2a-ba97-11ed-bfc2-f552a62b6c27",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 967200,
+                        "end": 978034,
+                        "content": "5"
+                },
+
+                {
+                        "id": "b3ba6ce0-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 967200,
+                        "end": 978034,
+                        "content": ""
+                },
+
+                {
+                        "id": "b89de0ec-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 967200,
+                        "end": 978034,
+                        "content": "5"
+                },
+
+                {
+                        "id": "be491804-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 967200,
+                        "end": 978034,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "c4a8da36-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 967200,
+                        "end": 978034,
+                        "content": "closeup,medium closeup"
+                },
+
+                {
+                        "id": "a99891f6-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 967200,
+                        "end": 978034,
+                        "content": "2"
+                },
+
+                {
+                        "id": "754526a6-d530-11ed-b1d9-57c040d8297f",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 967200,
+                        "end": 978034,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "6cbd4990-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 967200,
+                        "end": 978034,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c5c047cc-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 967200,
+                        "end": 978034,
+                        "content": "static"
+                },
+
+                {
+                        "id": "d8f6214e-d550-11ed-b1d9-57c040d8297f",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 967200,
+                        "end": 978034,
+                        "content": "object,single,human being"
+                },
+
+                {
+                        "id": "d4c44b2b-ba97-11ed-bfc2-f552a62b6c27",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 978034,
+                        "end": 981534,
+                        "content": "6"
+                },
+
+                {
+                        "id": "b3ba6ce1-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 978034,
+                        "end": 979118,
+                        "content": ""
+                },
+
+                {
+                        "id": "b89de0ed-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 978034,
+                        "end": 981534,
+                        "content": "6"
+                },
+
+                {
+                        "id": "be491805-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 978034,
+                        "end": 981534,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "c4a8da37-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 978034,
+                        "end": 981534,
+                        "content": "medium closeup,shoulder closeup"
+                },
+
+                {
+                        "id": "a99891f7-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 978034,
+                        "end": 981534,
+                        "content": "0,[VS],3"
+                },
+
+                {
+                        "id": "754526a7-d530-11ed-b1d9-57c040d8297f",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 978034,
+                        "end": 981534,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "6cbd4991-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 978034,
+                        "end": 981534,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c5c047cd-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 978034,
+                        "end": 981534,
+                        "content": "static"
+                },
+
+                {
+                        "id": "d8f6214f-d550-11ed-b1d9-57c040d8297f",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 978034,
+                        "end": 981534,
+                        "content": "object,single,human being"
+                },
+
+                {
+                        "id": "75064db6-d552-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 978117,
+                        "end": 991511,
+                        "content": "Le changement climatique, il a déjà contribuer à mettre un million de Syriens en Europe. Le déclenchement de la guerre en Syrie doit quelque chose aux sècheresses récurantes qui ont commencé à s'installer dans le pays et qui ont fait décroitre la production agricole avec une population croissante."
+                },
+
+                {
+                        "id": "ab855daa-d55f-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 978117,
+                        "end": 991511,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "b3ba6ce2-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 979118,
+                        "end": 981534,
+                        "content": ""
+                },
+
+                {
+                        "id": "d4c44b2c-ba97-11ed-bfc2-f552a62b6c27",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 981534,
+                        "end": 984134,
+                        "content": "7"
+                },
+
+                {
+                        "id": "b3ba6ce3-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 981534,
+                        "end": 984134,
+                        "content": ""
+                },
+
+                {
+                        "id": "b89de0ee-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 981534,
+                        "end": 984134,
+                        "content": "7"
+                },
+
+                {
+                        "id": "be491806-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 981534,
+                        "end": 984134,
+                        "content": "dark"
+                },
+
+                {
+                        "id": "c4a8da38-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 981534,
+                        "end": 984134,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "a99891f8-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 981534,
+                        "end": 984134,
+                        "content": "0,[VS],2"
+                },
+
+                {
+                        "id": "754526a8-d530-11ed-b1d9-57c040d8297f",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 981534,
+                        "end": 984134,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "6cbd4992-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 981534,
+                        "end": 984134,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c5c047ce-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 981534,
+                        "end": 984134,
+                        "content": "static"
+                },
+
+                {
+                        "id": "d8f62150-d550-11ed-b1d9-57c040d8297f",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 981534,
+                        "end": 984134,
+                        "content": "single,human being"
+                },
+
+                {
+                        "id": "d4c44b2d-ba97-11ed-bfc2-f552a62b6c27",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 984134,
+                        "end": 991067,
+                        "content": "8"
+                },
+
+                {
+                        "id": "b3ba6ce4-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 984134,
+                        "end": 991067,
+                        "content": ""
+                },
+
+                {
+                        "id": "b89de0ef-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 984134,
+                        "end": 991067,
+                        "content": "8"
+                },
+
+                {
+                        "id": "be491807-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 984134,
+                        "end": 991067,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "c4a8da39-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 984134,
+                        "end": 991067,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "a99891f9-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 984134,
+                        "end": 991067,
+                        "content": "2"
+                },
+
+                {
+                        "id": "754526a9-d530-11ed-b1d9-57c040d8297f",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 984134,
+                        "end": 991067,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "6cbd4993-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 984134,
+                        "end": 991067,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c5c047cf-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 984134,
+                        "end": 991067,
+                        "content": "static"
+                },
+
+                {
+                        "id": "d8f62151-d550-11ed-b1d9-57c040d8297f",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 984134,
+                        "end": 991067,
+                        "content": "single,human being,object"
+                },
+
+                {
+                        "id": "d4c44b31-ba97-11ed-bfc2-f552a62b6c27",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 991067,
+                        "end": 1012034,
+                        "content": "9\n9\n9\n9"
+                },
+
+                {
+                        "id": "b3ba6ce5-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 991067,
+                        "end": 998900,
+                        "content": ""
+                },
+
+                {
+                        "id": "b89de0f0-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 991067,
+                        "end": 1012034,
+                        "content": "9\n9\n9\n9"
+                },
+
+                {
+                        "id": "be491808-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 991067,
+                        "end": 1012034,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "c4a8da3a-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 991067,
+                        "end": 1012034,
+                        "content": "shoulder closeup,medium shot"
+                },
+
+                {
+                        "id": "a99891fa-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 991067,
+                        "end": 1012034,
+                        "content": "3"
+                },
+
+                {
+                        "id": "754526aa-d530-11ed-b1d9-57c040d8297f",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 991067,
+                        "end": 1012034,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "6cbd4994-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 991067,
+                        "end": 1012034,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c5c047d0-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 991067,
+                        "end": 1012034,
+                        "content": "static"
+                },
+
+                {
+                        "id": "d8f62152-d550-11ed-b1d9-57c040d8297f",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 991067,
+                        "end": 1012034,
+                        "content": "group,human being,object"
+                },
+
+                {
+                        "id": "7eec5eb0-d552-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 991511,
+                        "end": 998788,
+                        "content": "Transformer le monde avec de moins en moins d'énergies fossiles, c'est pas annecdotique, un truc que vous faites à côté des affaires sérieuses, c'est au centre de toutes les affaires sérieuses."
+                },
+
+                {
+                        "id": "ab855dab-d55f-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 991511,
+                        "end": 998788,
+                        "content": "angry"
+                },
+
+                {
+                        "id": "8682077e-d552-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 998788,
+                        "end": 1002620,
+                        "content": "On est d'accord, je croit que tout le monde est absolument d'accord. Mais..."
+                },
+
+                {
+                        "id": "ab855dac-d55f-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 998788,
+                        "end": 1002620,
+                        "content": "joyful"
+                },
+
+                {
+                        "id": "b3ba6ce6-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 998900,
+                        "end": 1002234,
+                        "content": ""
+                },
+
+                {
+                        "id": "b3ba6ce7-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1002234,
+                        "end": 1010034,
+                        "content": ""
+                },
+
+                {
+                        "id": "8ce3a136-d552-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1002620,
+                        "end": 1017602,
+                        "content": "Comment réduire.. je dirais.. notre façon de vivre... au moins qu'on ne veuille nous ramener un petit peu à la vie en Afrique avec nos dames qui vont taper dans les gamelles pour faire à manger... on retourne en arrière et on n'évolue pas du tout, pour revenier à tout ça, d'accord, mais ça me paraît un peu compliqué."
+                },
+
+                {
+                        "id": "ab855dad-d55f-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1002620,
+                        "end": 1017602,
+                        "content": "disgusted (ironic)"
+                },
+
+                {
+                        "id": "b3ba6ce8-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1010034,
+                        "end": 1012034,
+                        "content": ""
+                },
+
+                {
+                        "id": "d4c44b32-ba97-11ed-bfc2-f552a62b6c27",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1012034,
+                        "end": 1027200,
+                        "content": "10"
+                },
+
+                {
+                        "id": "b3ba6ce9-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1012034,
+                        "end": 1012860,
+                        "content": ""
+                },
+
+                {
+                        "id": "b89de0f1-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1012034,
+                        "end": 1027200,
+                        "content": "10"
+                },
+
+                {
+                        "id": "be491809-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1012034,
+                        "end": 1027200,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "c4a8da3b-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1012034,
+                        "end": 1027200,
+                        "content": "medium closeup,long shot,medium shot"
+                },
+
+                {
+                        "id": "a99891fb-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1012034,
+                        "end": 1027200,
+                        "content": "2"
+                },
+
+                {
+                        "id": "754526ab-d530-11ed-b1d9-57c040d8297f",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1012034,
+                        "end": 1027200,
+                        "content": "undirected,[TO],up"
+                },
+
+                {
+                        "id": "6cbd4995-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1012034,
+                        "end": 1027200,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c5c047d1-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1012034,
+                        "end": 1027200,
+                        "content": "static"
+                },
+
+                {
+                        "id": "d8f62153-d550-11ed-b1d9-57c040d8297f",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1012034,
+                        "end": 1027200,
+                        "content": "object,group,human being"
+                },
+
+                {
+                        "id": "b3ba6cea-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1012860,
+                        "end": 1015090,
+                        "content": ""
+                },
+
+                {
+                        "id": "b3ba6ceb-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1015090,
+                        "end": 1017314,
+                        "content": ""
+                },
+
+                {
+                        "id": "b3ba6cec-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1017314,
+                        "end": 1022462,
+                        "content": ""
+                },
+
+                {
+                        "id": "a1b38be4-d552-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1017602,
+                        "end": 1022389,
+                        "content": "On sortira jamais de ce problème sans vision. Sans vision c'est le chaos qui règlera la situation."
+                },
+
+                {
+                        "id": "ab855dae-d55f-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1017602,
+                        "end": 1022389,
+                        "content": "angry"
+                },
+
+                {
+                        "id": "b3ba6ced-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1022462,
+                        "end": 1027200,
+                        "content": ""
+                },
+
+                {
+                        "id": "92c5091c-d531-11ed-b1d9-57c040d8297f",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1022574,
+                        "end": 1027200,
+                        "content": "tbd freeze"
+                },
+
+                {
+                        "id": "d4c44b33-ba97-11ed-bfc2-f552a62b6c27",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1027200,
+                        "end": 1030515,
+                        "content": "11"
+                },
+
+                {
+                        "id": "b3ba6cee-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1027200,
+                        "end": 1030515,
+                        "content": ""
+                },
+
+                {
+                        "id": "b89de0f2-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1027200,
+                        "end": 1030515,
+                        "content": "11"
+                },
+
+                {
+                        "id": "be49180a-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1027200,
+                        "end": 1030515,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "c4a8da3c-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1027200,
+                        "end": 1030515,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "a99891fc-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1027200,
+                        "end": 1030515,
+                        "content": "3"
+                },
+
+                {
+                        "id": "754526ac-d530-11ed-b1d9-57c040d8297f",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1027200,
+                        "end": 1030515,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "6cbd4996-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1027200,
+                        "end": 1030515,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "94f9e2c0-d531-11ed-b1d9-57c040d8297f",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1027200,
+                        "end": 1039467,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "c5c047d2-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1027200,
+                        "end": 1030515,
+                        "content": "shaking"
+                },
+
+                {
+                        "id": "6ecf5624-d532-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1027200,
+                        "end": 1030515,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "6fe32572-d532-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1027200,
+                        "end": 1030515,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "d8f62154-d550-11ed-b1d9-57c040d8297f",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1027200,
+                        "end": 1030515,
+                        "content": "object"
+                },
+
+                {
+                        "id": "0f050232-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1030515,
+                        "end": 1035100,
+                        "content": "12"
+                },
+
+                {
+                        "id": "b3ba6cef-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1030515,
+                        "end": 1035100,
+                        "content": ""
+                },
+
+                {
+                        "id": "b89de0f3-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1030515,
+                        "end": 1035100,
+                        "content": "12"
+                },
+
+                {
+                        "id": "be49180b-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1030515,
+                        "end": 1035100,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "c4a8da3d-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1030515,
+                        "end": 1035100,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "a99891fd-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1030515,
+                        "end": 1035100,
+                        "content": "3"
+                },
+
+                {
+                        "id": "754526ad-d530-11ed-b1d9-57c040d8297f",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1030515,
+                        "end": 1035100,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "6cbd4997-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1030515,
+                        "end": 1035100,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c5c047d3-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1030515,
+                        "end": 1035100,
+                        "content": "minimal"
+                },
+
+                {
+                        "id": "d8f62155-d550-11ed-b1d9-57c040d8297f",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1030515,
+                        "end": 1035100,
+                        "content": "object"
+                },
+
+                {
+                        "id": "b8c9b98e-d552-11ed-b1d9-57c040d8297f",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1031456,
+                        "end": 1032426,
+                        "content": "explosive"
+                },
+
+                {
+                        "id": "b39d85b2-d552-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1031986,
+                        "end": 1054477,
+                        "content": "Vous avez ici l'Europe il y a 20 mille ans. Dons, 20000 ans, on est au coeur de la dernière âge glacière, il fait raisonnablement froid et nos ancêtres de l'époque pursuivent les derniers mammouthes, en espérant bien en attraper un. Vous voyer que L'Europe il y a 20000 ans ne ressemble pas vraiment à l'Europe d'aujourd'hui. Vous avez en gros des écosystèmes qui ressemblent à ce que nous avons aujourd'hui au nord de la Sibérie. "
+                },
+
+                {
+                        "id": "ab855daf-d55f-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1031994,
+                        "end": 1054477,
+                        "content": "confident"
+                },
+
+                {
+                        "id": "d4c44b34-ba97-11ed-bfc2-f552a62b6c27",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1035100,
+                        "end": 1039467,
+                        "content": "13"
+                },
+
+                {
+                        "id": "b3ba6cf0-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1035100,
+                        "end": 1039467,
+                        "content": ""
+                },
+
+                {
+                        "id": "b89de0f4-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1035100,
+                        "end": 1039467,
+                        "content": "13"
+                },
+
+                {
+                        "id": "be49180c-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1035100,
+                        "end": 1039467,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "c4a8da3e-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1035100,
+                        "end": 1039467,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "a99891fe-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1035100,
+                        "end": 1039467,
+                        "content": "3"
+                },
+
+                {
+                        "id": "754526ae-d530-11ed-b1d9-57c040d8297f",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1035100,
+                        "end": 1039467,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "6cbd4998-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1035100,
+                        "end": 1039467,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c5c047d4-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1035100,
+                        "end": 1039467,
+                        "content": "static"
+                },
+
+                {
+                        "id": "d8f62156-d550-11ed-b1d9-57c040d8297f",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1035100,
+                        "end": 1039467,
+                        "content": "object"
+                },
+
+                {
+                        "id": "d4c44b35-ba97-11ed-bfc2-f552a62b6c27",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1039467,
+                        "end": 1054400,
+                        "content": "14"
+                },
+
+                {
+                        "id": "b3ba6cf1-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1039467,
+                        "end": 1054400,
+                        "content": ""
+                },
+
+                {
+                        "id": "b89de0f5-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1039467,
+                        "end": 1054400,
+                        "content": "14"
+                },
+
+                {
+                        "id": "be49180d-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1039467,
+                        "end": 1054400,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "c4a8da3f-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1039467,
+                        "end": 1054400,
+                        "content": "closeup,medium shot,extreme long shot"
+                },
+
+                {
+                        "id": "a99891ff-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1039467,
+                        "end": 1054400,
+                        "content": "2"
+                },
+
+                {
+                        "id": "754526af-d530-11ed-b1d9-57c040d8297f",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1039467,
+                        "end": 1054400,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "6cbd4999-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1039467,
+                        "end": 1054400,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "9e215248-d531-11ed-b1d9-57c040d8297f",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1039467,
+                        "end": 1054400,
+                        "content": "tbd timelapse"
+                },
+
+                {
+                        "id": "c5c047d5-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1039467,
+                        "end": 1054400,
+                        "content": "static"
+                },
+
+                {
+                        "id": "d8f62157-d550-11ed-b1d9-57c040d8297f",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1039467,
+                        "end": 1054400,
+                        "content": "graphics,object,single,human being"
+                },
+
+                {
+                        "id": "d4c44b36-ba97-11ed-bfc2-f552a62b6c27",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1054400,
+                        "end": 1068867,
+                        "content": "15"
+                },
+
+                {
+                        "id": "b3ba6cf2-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1054400,
+                        "end": 1068867,
+                        "content": ""
+                },
+
+                {
+                        "id": "b89de0f6-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1054400,
+                        "end": 1068867,
+                        "content": "15"
+                },
+
+                {
+                        "id": "be49180e-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1054400,
+                        "end": 1068867,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "c4a8da40-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1054400,
+                        "end": 1068867,
+                        "content": "shoulder closeup,medium shot,extreme long shot"
+                },
+
+                {
+                        "id": "432449fc-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1054400,
+                        "end": 1093067,
+                        "content": "darkgreen"
+                },
+
+                {
+                        "id": "a9989200-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1054400,
+                        "end": 1068867,
+                        "content": "2"
+                },
+
+                {
+                        "id": "754526b0-d530-11ed-b1d9-57c040d8297f",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1054400,
+                        "end": 1068867,
+                        "content": "right"
+                },
+
+                {
+                        "id": "6cbd499a-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1054400,
+                        "end": 1068867,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "a620c9f6-d531-11ed-b1d9-57c040d8297f",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1054400,
+                        "end": 1068867,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "c5c047d6-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1054400,
+                        "end": 1068867,
+                        "content": "static"
+                },
+
+                {
+                        "id": "d8f62158-d550-11ed-b1d9-57c040d8297f",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1054400,
+                        "end": 1068867,
+                        "content": "object,graphics,group,human being"
+                },
+
+                {
+                        "id": "f469d49c-d55c-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1054477,
+                        "end": 1093739,
+                        "content": "Quand la terre est passé de l'état de gauche à l'état de droite évidemment la température moyenne a augmenté, ça a réchauffeur. Et bien, l'élévation de temperature moyenne dont on parle, son ordre de grandeur, c'est 5 degrés. C'est 5 degrés en 5 mille ans. Pour faire simple, donc un degré par millénaire, 0,1 degré par siècle. 0,1 degré par siècle. Il faut [dire?] qu'en ce moment on est dans certain régions du monde sur un rhytme d'évolution de la température qui est.. donc 0,1 degré.. 0,05.. donc juste la moitié, par année! Par année. Déjà. Aujourd'hui."
+                },
+
+                {
+                        "id": "ab855db0-d55f-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1054477,
+                        "end": 1093739,
+                        "content": "confident"
+                },
+
+                {
+                        "id": "d4c44b37-ba97-11ed-bfc2-f552a62b6c27",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1068867,
+                        "end": 1093067,
+                        "content": "16"
+                },
+
+                {
+                        "id": "b3ba6cf3-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1068867,
+                        "end": 1093067,
+                        "content": ""
+                },
+
+                {
+                        "id": "b89de0f7-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1068867,
+                        "end": 1093067,
+                        "content": "16"
+                },
+
+                {
+                        "id": "be49180f-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1068867,
+                        "end": 1093067,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "c4a8da41-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1068867,
+                        "end": 1093067,
+                        "content": "extreme long shot,medium shot"
+                },
+
+                {
+                        "id": "a9989201-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1068867,
+                        "end": 1093067,
+                        "content": "2"
+                },
+
+                {
+                        "id": "754526b1-d530-11ed-b1d9-57c040d8297f",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1068867,
+                        "end": 1093067,
+                        "content": "up,[TO],undirected"
+                },
+
+                {
+                        "id": "6cbd499b-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1068867,
+                        "end": 1093067,
+                        "content": "straight-angle,top shot"
+                },
+
+                {
+                        "id": "ae0b85e8-d531-11ed-b1d9-57c040d8297f",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1068867,
+                        "end": 1093067,
+                        "content": "tbd timelapse"
+                },
+
+                {
+                        "id": "c5c047d7-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1068867,
+                        "end": 1093067,
+                        "content": "static,pan"
+                },
+
+                {
+                        "id": "ce2346f4-d531-11ed-b1d9-57c040d8297f",
+                        "type": "FoundFootage",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1068867,
+                        "end": 1093067,
+                        "content": "recorded session (presentation climate change)"
+                },
+
+                {
+                        "id": "6833f586-d532-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1068867,
+                        "end": 1093067,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "6833f587-d532-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1068867,
+                        "end": 1093067,
+                        "content": "right,left"
+                },
+
+                {
+                        "id": "d8f62159-d550-11ed-b1d9-57c040d8297f",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1068867,
+                        "end": 1093067,
+                        "content": "graphics,single,human being"
+                },
+
+                {
+                        "id": "d4c44b38-ba97-11ed-bfc2-f552a62b6c27",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1093067,
+                        "end": 1101300,
+                        "content": "17"
+                },
+
+                {
+                        "id": "b3ba6cf4-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1093067,
+                        "end": 1101300,
+                        "content": ""
+                },
+
+                {
+                        "id": "b89de0f8-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1093067,
+                        "end": 1101300,
+                        "content": "17"
+                },
+
+                {
+                        "id": "be491810-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1093067,
+                        "end": 1101300,
+                        "content": "dark"
+                },
+
+                {
+                        "id": "c4a8da42-d2be-11ed-9f06-dbfdfd73b71b",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1093067,
+                        "end": 1101300,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "a9989202-d52e-11ed-b1d9-57c040d8297f",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1093067,
+                        "end": 1101300,
+                        "content": "0,[VS],3"
+                },
+
+                {
+                        "id": "754526b2-d530-11ed-b1d9-57c040d8297f",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1093067,
+                        "end": 1101300,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "6cbd499c-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1093067,
+                        "end": 1101300,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "b4a63948-d531-11ed-b1d9-57c040d8297f",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1093067,
+                        "end": 1101300,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "c5c047d8-d531-11ed-b1d9-57c040d8297f",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1093067,
+                        "end": 1101300,
+                        "content": "static"
+                },
+
+                {
+                        "id": "d8f6215a-d550-11ed-b1d9-57c040d8297f",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1093067,
+                        "end": 1101300,
+                        "content": "object"
+                },
+
+                {
+                        "id": "e865cbf6-d552-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1095751,
+                        "end": 1099962,
+                        "content": "Ma conviction c'est que ce genre de transition à cette vitesse, c'est la guerre partout."
+                },
+
+                {
+                        "id": "ab855db1-d55f-11ed-b1d9-57c040d8297f",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/poiuz/Advene/Cappellin_Emmanuel_UNE%2520FOIS%2520QUE%2520TU%2520SAIS_2022.mp4",
+                        "begin": 1095751,
+                        "end": 1099962,
+                        "content": "confident"
+                }
+
+] }

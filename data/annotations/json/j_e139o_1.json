@@ -1,0 +1,1371 @@
+{ "annotations": [
+
+                {
+                        "id": "1275c854-f310-11ec-bb89-4c327598eb11",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 47130,
+                        "end": 90340,
+                        "content": "5"
+                },
+
+                {
+                        "id": "349e98e0-496c-11ed-ba9a-4c327598eb11",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90000,
+                        "end": 100000,
+                        "content": "68.04 71.03 73.51 72.63 72.34 74.25 73.62 76.53 75.17 73.27 75.04 76.37 76.54 79.12 77.27 76.72 74.26 72.74 75.60 76.32 78.48 75.91 79.23 79.66 75.26 77.77 77.30 77.96 79.18 81.36 82.09 81.24 82.28 83.59 85.42 87.18 85.34 86.41 89.53 88.91 85.04 86.11 85.78 89.74 89.60 85.40 83.44 85.47 85.65 88.97 87.36 84.69 83.00 86.59 88.07 88.99 90.20 91.66 91.98 94.35 94.20 92.52 93.52 92.95 93.40 93.52 95.22 82.11 89.55 90.26 91.52 88.19 91.69 88.23 91.14 82.76 85.75 87.84 86.60 89.65 91.26 94.68 93.75 91.19 87.13 90.89 92.39 85.05 85.50 88.76 83.49 86.07 92.07 84.19 86.36 89.02 86.30 81.31 87.08 89.70 92.41 86.93 85.66 80.06 86.63 83.51 85.56 89.21 82.13 90.25 83.43 91.63 83.29 88.07 87.04 89.77 82.74 85.86 84.83 84.98 89.44 89.78 84.17 90.82 90.09 85.60 92.64 88.74 88.26 86.19 87.84 88.11 84.25 86.64 83.32 83.24 82.65 83.26 84.93 84.98 83.15 88.08 83.26 79.26 83.77 81.05 82.43 85.75 84.74 80.29 82.73 81.14 82.12 88.08 85.32 88.56 79.40 84.00 86.04 85.41 85.83 78.76 83.36 81.54 88.27 82.65 79.51 82.93 84.28 78.55 83.47 83.86 84.34 81.05 82.56 86.95 79.35 79.22 84.13 82.03 81.50 79.52 85.28 81.15 77.31 84.47 84.33 79.72 78.20 81.47 79.69 82.42 85.90 81.27 81.86 81.11 80.73 79.61 78.59 79.33 77.92 77.75 84.62 85.75 83.16 85.36 85.19 84.97 83.18 82.82 86.86 88.91 84.83 81.14 81.44 85.63 83.21 81.39 80.72 86.99 85.31 84.34 81.40 78.55 76.95 76.83 74.98 77.86 74.44 78.00 75.06 74.41 75.97 74.81 75.09 73.10 78.08 72.07 77.35 74.81 74.99 74.84 72.09 70.64 71.48 73.80 74.34 74.14 76.83 71.67 71.56 72.77 70.60 69.22 72.45 73.77 70.40 70.67 72.59 71.57 70.99 71.65 70.70 71.02 67.46 70.81 69.43 70.25 68.16 69.04 68.95 69.44 68.05 64.90 65.66 69.89 65.46 71.37 67.28 66.39 66.96 70.70 65.05 65.39 70.67 69.56 70.01 68.99 70.63 69.97 72.65 66.53 68.47 71.04 70.62 69.16 69.24 70.93 70.62 69.22 73.21 70.13 72.68 72.56 69.77 71.32 70.98 71.02 71.16 71.38 71.37 72.09 69.99 68.84 70.13 70.77 69.13 71.95 71.21 72.54 73.72 74.98 73.67 75.50 77.05 76.32 74.64 76.70 73.70 75.96 76.14 73.44 72.80 74.39 75.75 72.71 73.79 72.30 71.38 73.29 73.20 72.57 72.39 71.19 74.25 71.62 72.70 72.28 72.88 74.52 73.33 71.59 72.38 70.94 72.96 70.72 71.10 77.10 79.13 78.04 75.79 77.89 75.19 77.49 75.26 76.59 73.70 76.25 71.73 75.27 73.86 77.02 71.56 75.52 75.53 73.67 72.72 77.27 74.78 75.28 72.94 74.46 71.82 73.86 73.11 74.82 73.74 72.43 73.69 73.06 72.36 71.56 72.22 72.58 71.42 71.99 72.12 69.77 71.29 71.11 73.32 69.51 74.78 71.28 73.93 70.04 74.89 73.08 73.46 71.72 71.98 71.01 72.90 71.95 73.42 70.86 73.95 71.83 73.11 70.46 73.46 72.48 71.79 72.51 70.72 73.05 73.01 71.43 74.04 71.59 73.87 75.43 73.88 76.33 74.83 76.76 74.80 76.45 75.15 75.83 75.29 75.58 74.55 75.28 75.35 76.14 73.27 73.21 72.59 69.97 71.90 74.97 72.86 72.68 73.08 72.63 71.85 72.95 74.25 72.36 73.24 70.42 72.74 74.76 71.79 72.74 72.16 74.82 73.46 72.75 70.22 73.85 70.33 73.00 71.48 72.24 72.72 71.59 72.30 71.46 72.00 72.30 71.98 72.98 72.74 73.31 71.11 73.47 71.36 71.68 73.07 72.27 73.46 73.79 70.42 71.77 73.98 77.27 77.71 76.98 78.03 72.85 74.15 76.88 70.88 77.54 76.52 71.28 75.07 74.73 73.63 77.85 76.12 75.33 71.04 75.20 76.27 71.57 74.85 75.21 73.02 75.34 74.40 72.01 73.84 76.09 72.60 71.16 73.94 72.01 69.81 75.38 73.89 67.48 75.29 72.82 70.24 72.91 74.72 75.71 69.31 73.39 73.39 71.41 72.95 72.55 71.42 73.01 73.33 70.20 73.15 72.46 73.18 71.60 73.04 72.66 71.17 73.95 69.34 71.27 72.34 73.61 71.34 73.22 72.21 73.37 73.93 71.40 74.20 72.17 73.46 73.52 70.12 71.98 75.58 70.89 72.93 72.84 72.66 70.59 70.45 71.31 71.03 74.97 71.79 69.32 71.27 70.01 69.40 72.07 72.22 72.57 71.11 72.39 70.27 70.04 73.25 72.51 71.93 70.95 68.65 73.45 72.45 70.80 71.15 71.07 70.39 70.72 70.71 71.45 73.34 70.95 73.12 70.49 72.54 71.21 70.60 74.97 73.62 70.36 75.00 72.07 70.39 74.58 71.62 71.34 71.01 67.86 72.10 69.48 70.15 72.92 70.06 71.15 74.02 69.10 70.81 70.90 71.22 71.45 68.70 70.48 71.49 71.03 72.11 72.12 69.87 70.00 73.10 71.81 70.74 71.38 72.09 68.77 70.91 70.15 68.28 70.55 69.27 67.45 72.05 70.03 70.12 70.80 70.39 68.29 69.15 68.68 68.40 69.83 70.78 69.69 71.73 69.18 69.50 70.28 69.10 70.56 70.88 71.29 70.89 71.61 71.56 72.02 71.17 72.38 71.37 72.89 73.20 72.64 70.29 71.57 72.30 70.28 72.79 73.09 72.25 72.05 72.07 72.17 72.18 72.81 70.15 71.50 69.09 70.37 71.90 70.83 70.15 71.47 70.93 71.60 73.16 71.77 72.13 69.99 70.72 70.30 71.75 69.24 69.82 72.76 71.35 69.51 73.25 72.42 69.67 73.21 73.44 70.81 72.84 73.85 72.77 71.46 74.74 75.02 73.33 74.23 71.30 72.16 71.86 72.58 73.04 72.68 71.30 72.65 73.61 74.70 74.04 73.10 73.47 73.69 71.35 72.97 70.47 73.41 73.85 71.81 73.08 74.63 73.01 74.03 72.11 73.23 73.34 74.70 75.33 73.55 72.60 72.43 73.69 71.19 73.52 73.51 70.26 71.86 72.51 72.74 74.61 73.68 71.60 73.26 70.72 71.28 72.21 74.16 70.95 72.12 70.31 69.79 72.21 72.13 71.28 72.67 70.51 69.46 68.33 68.61 70.55 72.26 71.87 69.58 68.78 70.42 67.86 68.28 68.30 69.96 69.46 69.51 71.16 69.34 69.42 73.01 69.10 69.47 69.81 68.55 70.33 70.03 70.10 70.30 71.20 68.41 68.79 70.35 68.94 69.80 71.39 69.88 70.09 69.83 70.26 70.22 71.29 71.37 71.51 70.75 71.73 69.87 70.62 68.20 70.22 69.33 69.98 71.35 71.21 72.15 68.60 68.90 70.69 69.86 69.60 70.54 70.95 71.31 69.95 70.69 71.30 70.25 72.11 68.64 70.76 72.31 69.23 70.88 70.75 67.28 69.35 70.76 69.37 70.57 70.05 68.46 69.85 69.44 70.92 71.23 70.85 71.16 71.73 69.82 68.64 71.52 70.25 70.07 68.91 69.15 68.02 68.90 68.38 67.19 70.51 71.35 70.91 72.70 71.68 69.96 70.75 69.25 70.88 71.91 68.94 71.83 69.76 68.57 71.11 70.93 70.52 71.58 72.47 72.88 69.87 72.41 70.28 72.45 69.07 69.53 72.26 69.55 69.40 71.11 69.72 69.48 69.79 68.06 70.73 70.87 70.10 71.47 70.15 71.60 70.88 70.89 70.58 72.14 69.95 71.00 70.84 68.33 67.93 68.72 68.38 69.95 69.64 66.91 69.47 69.94 66.78 69.81 69.09 68.54 70.26 70.00 69.13 68.73 68.18 70.78 67.91 68.05 65.88 67.05 67.56 67.33 66.59 68.81 67.63 68.58 68.54 68.98 69.47 69.09 71.79 70.56 70.43 71.61 69.55 69.16 68.19 72.67 70.55 69.37 70.80 71.23 68.11 70.68 69.33 70.24 68.58 68.92 68.72 68.73 69.27 68.11 69.34 68.63 66.76 69.86 69.39 69.49"
+                },
+
+                {
+                        "id": "d3ecbf82-ed49-11ec-8e35-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90299,
+                        "end": 90463,
+                        "content": "5"
+                },
+
+                {
+                        "id": "cf1dc19c-00fc-11ed-8488-4c327598eb11",
+                        "type": "annotation",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90299,
+                        "end": 161870,
+                        "content": "Scene 02_Frozen Worlds"
+                },
+
+                {
+                        "id": "8b5e2898-4968-11ed-ba9a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90299,
+                        "end": 90463,
+                        "content": "5"
+                },
+
+                {
+                        "id": "8e33a872-4968-11ed-ba9a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90299,
+                        "end": 90463,
+                        "content": "5"
+                },
+
+                {
+                        "id": "9257f318-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90299,
+                        "end": 90463,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "979f5fa0-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90299,
+                        "end": 90463,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "99990b9e-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90299,
+                        "end": 90463,
+                        "content": "right"
+                },
+
+                {
+                        "id": "9b99faca-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90299,
+                        "end": 90463,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e0016058-4969-11ed-ba9a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90299,
+                        "end": 90463,
+                        "content": "0"
+                },
+
+                {
+                        "id": "4ad0688c-496c-11ed-ba9a-4c327598eb11",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90299,
+                        "end": 90463,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "a91551c2-496d-11ed-ba9a-4c327598eb11",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90299,
+                        "end": 127418,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "0ad687ce-4972-11ed-ba9a-4c327598eb11",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90299,
+                        "end": 90779,
+                        "content": "explosive"
+                },
+
+                {
+                        "id": "1275d204-f310-11ec-bb89-4c327598eb11",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90340,
+                        "end": 91049,
+                        "content": "6"
+                },
+
+                {
+                        "id": "55b69fde-f2cb-11ec-8745-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90463,
+                        "end": 90545,
+                        "content": "6"
+                },
+
+                {
+                        "id": "8b5e43c8-4968-11ed-ba9a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90463,
+                        "end": 90545,
+                        "content": "6"
+                },
+
+                {
+                        "id": "8e33bede-4968-11ed-ba9a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90463,
+                        "end": 90545,
+                        "content": "6"
+                },
+
+                {
+                        "id": "925821c6-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90463,
+                        "end": 90545,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "979f762a-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90463,
+                        "end": 90545,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "999922c8-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90463,
+                        "end": 90545,
+                        "content": "circle"
+                },
+
+                {
+                        "id": "9b9a11a4-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90463,
+                        "end": 90545,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "e0017534-4969-11ed-ba9a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90463,
+                        "end": 90545,
+                        "content": "0"
+                },
+
+                {
+                        "id": "4ad07ef8-496c-11ed-ba9a-4c327598eb11",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90463,
+                        "end": 90545,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "cb2cd2d2-f092-11ec-b536-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90545,
+                        "end": 91049,
+                        "content": "7"
+                },
+
+                {
+                        "id": "8b5e534a-4968-11ed-ba9a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90545,
+                        "end": 91049,
+                        "content": "7"
+                },
+
+                {
+                        "id": "8e33cf50-4968-11ed-ba9a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90545,
+                        "end": 91049,
+                        "content": "7"
+                },
+
+                {
+                        "id": "9258426e-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90545,
+                        "end": 91049,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "979f828c-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90545,
+                        "end": 91049,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "99992f84-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90545,
+                        "end": 91049,
+                        "content": "circle,left"
+                },
+
+                {
+                        "id": "9b9a1f8c-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90545,
+                        "end": 91049,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "e0018150-4969-11ed-ba9a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90545,
+                        "end": 91049,
+                        "content": "1"
+                },
+
+                {
+                        "id": "e18d33f2-4969-11ed-ba9a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90545,
+                        "end": 91049,
+                        "content": "down"
+                },
+
+                {
+                        "id": "4ad08dc6-496c-11ed-ba9a-4c327598eb11",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90545,
+                        "end": 91049,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "0eee7ede-4972-11ed-ba9a-4c327598eb11",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 90779,
+                        "end": 91097,
+                        "content": "subside"
+                },
+
+                {
+                        "id": "d3ecd0b2-ed49-11ec-8e35-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91049,
+                        "end": 91213,
+                        "content": "8"
+                },
+
+                {
+                        "id": "1275dc04-f310-11ec-bb89-4c327598eb11",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91049,
+                        "end": 92008,
+                        "content": "7"
+                },
+
+                {
+                        "id": "8b5e622c-4968-11ed-ba9a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91049,
+                        "end": 91213,
+                        "content": "8"
+                },
+
+                {
+                        "id": "8e33df18-4968-11ed-ba9a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91049,
+                        "end": 91213,
+                        "content": "8"
+                },
+
+                {
+                        "id": "92586032-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91049,
+                        "end": 91213,
+                        "content": "static"
+                },
+
+                {
+                        "id": "9b9a2c7a-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91049,
+                        "end": 91213,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "e0018be6-4969-11ed-ba9a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91049,
+                        "end": 91213,
+                        "content": "1"
+                },
+
+                {
+                        "id": "e18d3ed8-4969-11ed-ba9a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91049,
+                        "end": 91213,
+                        "content": "down,up"
+                },
+
+                {
+                        "id": "4ad09a5a-496c-11ed-ba9a-4c327598eb11",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91049,
+                        "end": 91213,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "1c580e78-4972-11ed-ba9a-4c327598eb11",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91097,
+                        "end": 91359,
+                        "content": "explosive"
+                },
+
+                {
+                        "id": "d58c5036-f092-11ec-b536-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91213,
+                        "end": 92008,
+                        "content": "9"
+                },
+
+                {
+                        "id": "8b5e70f0-4968-11ed-ba9a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91213,
+                        "end": 92008,
+                        "content": "9"
+                },
+
+                {
+                        "id": "8e33edfa-4968-11ed-ba9a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91213,
+                        "end": 92008,
+                        "content": "9"
+                },
+
+                {
+                        "id": "92587bb2-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91213,
+                        "end": 92008,
+                        "content": "pan"
+                },
+
+                {
+                        "id": "979f979a-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91213,
+                        "end": 92008,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "99994c1c-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91213,
+                        "end": 92008,
+                        "content": "left"
+                },
+
+                {
+                        "id": "9b9a3918-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91213,
+                        "end": 92008,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "e0019672-4969-11ed-ba9a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91213,
+                        "end": 92008,
+                        "content": "1"
+                },
+
+                {
+                        "id": "e18d4950-4969-11ed-ba9a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91213,
+                        "end": 92008,
+                        "content": "down"
+                },
+
+                {
+                        "id": "4ad0abc6-496c-11ed-ba9a-4c327598eb11",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91213,
+                        "end": 92008,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "112ba41a-4972-11ed-ba9a-4c327598eb11",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91359,
+                        "end": 91935,
+                        "content": "subside"
+                },
+
+                {
+                        "id": "30ca9024-4972-11ed-ba9a-4c327598eb11",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 91935,
+                        "end": 92519,
+                        "content": "swell"
+                },
+
+                {
+                        "id": "d3ece340-ed49-11ec-8e35-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92008,
+                        "end": 92172,
+                        "content": "10"
+                },
+
+                {
+                        "id": "1275e5dc-f310-11ec-bb89-4c327598eb11",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92008,
+                        "end": 111486,
+                        "content": "8"
+                },
+
+                {
+                        "id": "8b5e8068-4968-11ed-ba9a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92008,
+                        "end": 92172,
+                        "content": "10"
+                },
+
+                {
+                        "id": "8e33fd40-4968-11ed-ba9a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92008,
+                        "end": 92172,
+                        "content": "10"
+                },
+
+                {
+                        "id": "92589552-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92008,
+                        "end": 92172,
+                        "content": "static"
+                },
+
+                {
+                        "id": "9b9a4552-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92008,
+                        "end": 92172,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "e001a2c0-4969-11ed-ba9a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92008,
+                        "end": 92172,
+                        "content": "1"
+                },
+
+                {
+                        "id": "e18d53b4-4969-11ed-ba9a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92008,
+                        "end": 92172,
+                        "content": "down,up"
+                },
+
+                {
+                        "id": "4ad0b918-496c-11ed-ba9a-4c327598eb11",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92008,
+                        "end": 92172,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "4cded5c2-4972-11ed-ba9a-4c327598eb11",
+                        "type": "MusicMood",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92112,
+                        "end": 158433,
+                        "content": "gentle"
+                },
+
+                {
+                        "id": "aa78d340-4972-11ed-ba9a-4c327598eb11",
+                        "type": "MusicIntensity",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92112,
+                        "end": 158433,
+                        "content": "2,[TO],3"
+                },
+
+                {
+                        "id": "e0de358a-f092-11ec-b536-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92172,
+                        "end": 111486,
+                        "content": "11"
+                },
+
+                {
+                        "id": "8b5e994a-4968-11ed-ba9a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92172,
+                        "end": 111486,
+                        "content": "11"
+                },
+
+                {
+                        "id": "8e340aec-4968-11ed-ba9a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92172,
+                        "end": 111486,
+                        "content": "11"
+                },
+
+                {
+                        "id": "9258aede-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92172,
+                        "end": 111486,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "979faca8-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92172,
+                        "end": 111486,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "999963f0-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92172,
+                        "end": 111486,
+                        "content": "forward"
+                },
+
+                {
+                        "id": "9b9a5c4a-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92172,
+                        "end": 111486,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "e001af04-4969-11ed-ba9a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92172,
+                        "end": 111486,
+                        "content": "0"
+                },
+
+                {
+                        "id": "4ad0c5ac-496c-11ed-ba9a-4c327598eb11",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 92172,
+                        "end": 111486,
+                        "content": "medium long shot,[TO],long shot"
+                },
+
+                {
+                        "id": "349ec428-496c-11ed-ba9a-4c327598eb11",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 100000,
+                        "end": 110000,
+                        "content": "69.97 69.94 69.26 66.81 67.31 70.77 69.77 66.08 72.66 68.66 67.72 69.99 68.12 68.38 69.21 69.96 66.42 68.96 68.43 67.04 68.58 67.12 68.14 66.11 67.61 66.83 63.62 65.32 66.62 67.26 68.85 69.04 66.74 65.99 67.53 68.17 64.78 67.89 68.89 70.26 69.45 72.33 70.40 70.42 72.65 69.08 71.96 69.56 72.10 72.04 73.20 80.04 80.66 81.94 77.07 76.50 77.27 77.35 78.70 73.92 75.50 74.48 75.44 72.40 73.32 72.46 74.80 74.74 76.36 74.92 74.77 72.79 74.46 73.03 73.77 73.76 72.50 71.91 70.57 73.07 73.95 75.98 74.01 75.78 71.63 72.63 72.71 73.05 75.28 75.50 76.05 72.33 76.36 71.91 74.62 71.74 74.56 74.93 70.76 75.25 73.33 75.05 72.68 74.18 74.20 74.36 72.88 75.78 80.29 87.53 86.52 83.87 83.75 82.53 78.51 80.19 81.14 78.07 71.92 69.14 71.07 70.23 72.90 70.81 79.33 82.43 84.81 85.48 82.06 82.69 85.54 84.33 83.17 85.15 80.09 82.89 84.46 83.39 81.71 80.37 80.76 80.78 80.83 82.03 82.95 81.46 81.49 81.49 77.89 79.40 81.55 82.81 84.71 84.37 84.74 84.41 79.01 78.54 74.98 74.53 72.76 75.60 74.38 76.85 77.76 82.14 82.43 81.87 83.49 82.55 82.07 82.91 82.11 82.27 80.57 79.59 79.09 75.99 75.08 74.74 71.80 75.08 70.32 71.27 73.90 76.85 78.52 80.49 80.88 82.86 83.14 79.66 81.22 77.90 76.29 77.70 81.71 79.41 79.40 79.51 82.26 80.52 76.85 73.37 75.37 75.72 78.00 76.27 78.00 77.31 75.16 78.32 83.34 78.47 80.27 81.55 75.32 77.45 73.98 72.36 75.18 74.63 77.94 85.14 81.21 82.05 80.16 82.30 79.82 79.05 77.26 77.46 78.21 80.19 77.27 72.72 70.88 68.15 67.31 64.84 68.71 67.49 67.79 86.32 82.48 80.88 82.23 79.76 80.01 82.68 82.85 84.26 83.96 85.14 84.95 82.56 78.75 77.83 76.88 79.15 80.20 80.01 81.53 83.23 81.50 82.48 85.43 82.72 82.40 81.52 79.60 73.28 69.78 69.10 69.21 67.91 69.88 69.43 75.89 83.71 81.51 80.20 78.19 73.37 70.53 66.23 64.66 67.30 66.51 64.76 67.52 65.68 68.38 65.41 70.44 66.63 68.38 68.69 65.71 68.50 65.44 69.11 67.55 69.26 68.68 68.48 67.72 68.84 66.96 67.37 71.76 69.94 68.31 68.68 68.77 70.51 69.60 80.60 85.13 81.69 77.88 79.58 78.56 80.19 82.71 82.47 82.96 84.05 83.15 84.13 84.28 83.62 81.97 80.80 80.65 81.96 80.63 77.59 76.15 77.57 83.07 81.77 83.22 84.02 85.82 82.59 81.12 78.60 81.50 79.07 76.45 73.85 84.85 83.70 80.01 80.51 81.55 82.02 82.61 82.87 81.93 81.68 82.29 82.98 81.88 80.01 80.33 78.04 79.99 77.98 78.65 80.69 79.22 80.79 78.22 78.08 75.16 74.87 74.29 72.60 74.17 66.20 67.15 70.71 67.90 68.55 70.93 69.33 70.25 71.78 74.10 76.14 79.32 76.75 75.65 77.79 78.69 82.53 82.44 81.59 80.84 82.31 81.41 76.15 78.73 78.76 74.69 72.61 76.40 75.67 77.54 80.49 78.69 82.97 84.12 83.43 82.42 83.65 81.03 80.00 78.68 79.94 79.50 80.33 79.70 80.04 79.82 79.35 80.36 78.09 77.19 75.73 76.37 76.41 77.14 76.91 79.56 75.99 78.23 77.40 81.42 80.54 78.15 78.12 74.85 73.75 73.23 70.79 68.37 70.49 74.71 78.52 82.09 79.26 79.61 80.11 80.29 81.36 80.11 80.51 80.34 79.77 80.86 80.38 80.42 78.88 79.57 80.63 83.30 83.86 85.08 85.76 83.73 83.90 83.14 80.21 78.57 77.34 76.82 73.28 72.48 70.16 70.73 68.65 67.16 62.81 65.54 66.04 64.65 65.06 63.30 62.58 67.97 62.65 65.35 71.09 73.65 77.64 81.40 79.64 76.90 77.94 80.07 81.07 81.10 78.68 71.88 71.34 70.58 67.91 66.86 67.77 66.47 64.32 67.81 64.95 68.12 68.69 65.80 66.19 66.79 68.60 64.04 65.17 68.17 62.41 64.50 61.25 64.67 64.24 67.25 65.83 66.62 84.76 86.60 84.88 83.49 82.50 78.63 75.11 75.39 73.93 74.26 72.17 75.12 73.53 71.03 73.31 78.55 80.63 80.05 84.38 81.80 81.92 83.93 84.40 82.59 83.10 82.98 82.47 82.35 81.29 83.35 83.38 85.36 83.92 85.31 85.50 87.58 86.76 84.62 81.63 80.03 79.75 81.44 79.47 74.30 75.22 76.73 74.76 77.08 81.42 82.49 86.31 82.32 80.90 81.06 81.32 80.23 84.59 80.27 74.21 72.99 71.81 70.15 66.95 67.73 67.75 67.09 68.28 72.50 72.27 72.62 70.72 78.13 81.42 78.13 77.94 80.33 78.54 80.01 74.33 76.57 74.29 71.68 72.64 71.03 79.91 76.59 78.85 84.00 84.92 83.44 83.55 83.25 81.29 80.75 80.18 80.26 81.94 80.94 87.73 85.47 87.42 86.26 85.39 86.28 86.07 84.28 80.31 82.22 85.94 84.48 86.12 82.94 77.18 79.83 84.47 83.64 80.88 81.12 81.46 76.05 70.33 68.22 67.05 62.06 64.73 65.59 62.82 65.57 65.78 64.93 64.57 66.32 64.87 66.10 67.00 65.58 66.34 67.38 66.28 65.42 66.75 65.01 66.74 64.58 64.32 64.75 64.83 65.05 66.24 66.28 65.90 66.92 66.14 64.94 68.25 65.87 64.38 65.37 67.62 67.11 67.06 66.64 67.00 67.60 66.35 66.68 67.05 67.98 66.45 67.56 69.93 68.54 67.67 68.59 67.66 68.02 67.48 67.29 68.90 66.82 68.35 67.29 67.41 68.58 68.85 64.89 67.68 68.14 68.00 68.52 69.08 67.50 67.16 69.62 68.83 67.68 69.44 68.33 69.86 67.45 70.01 69.31 67.90 68.90 70.46 69.66 70.64 70.64 70.21 69.47 69.45 69.00 67.57 69.39 69.00 68.69 66.90 70.10 68.01 68.21 67.12 67.20 70.21 68.54 70.06 67.76 70.96 67.21 71.26 69.97 68.92 70.91 70.07 70.19 70.47 69.87 70.29 69.60 67.77 68.61 68.46 69.21 68.77 67.66 69.78 68.85 69.05 69.53 68.26 70.08 67.45 68.36 69.90 68.39 66.02 70.40 68.78 67.70 69.84 68.53 69.90 69.26 64.83 69.43 69.83 69.78 66.11 70.76 69.83 69.37 72.91 69.39 71.25 70.94 70.89 72.92 70.03 72.31 69.80 69.52 69.77 71.90 71.27 67.90 69.21 69.99 70.97 67.98 65.62 69.14 69.89 67.74 69.85 68.69 65.79 69.95 68.53 68.54 68.08 70.08 70.99 67.95 67.20 70.09 71.01 68.73 68.61 69.51 69.45 69.82 71.45 69.89 69.93 68.46 70.40 70.96 72.07 69.51 69.59 68.89 71.26 71.53 70.31 68.52 69.50 70.94 69.47 68.09 71.72 67.45 70.26 69.65 70.58 71.28 70.24 71.52 70.81 70.24 72.33 72.74 73.46 75.15 74.19 76.25 73.97 72.64 75.56 73.24 73.82 74.68 77.32 79.73 79.37 78.18 78.21 75.61 72.60 75.95 74.92 76.31 74.05 74.07 76.32 73.35 75.11 75.45 73.43 73.08 73.76 72.23 74.29 74.45 73.88 76.72 76.98 75.57 77.45 76.68 77.73 77.66 78.11 77.90 77.30 77.07 76.44 76.01 76.40 76.06 74.28 75.08 75.11 77.56 75.12 76.87 77.53 76.75 77.89 76.22 75.18 72.79 73.64 73.49 73.90 72.76 74.16 74.20 74.80 75.75 76.89 75.52 77.24 74.52 75.85 76.70 76.25 76.88 77.86 79.75 77.20 77.87 77.79 76.90 76.81 77.48 75.12 75.23 74.81 76.87 76.27 74.10 78.28 74.77 74.32 75.18 75.93 76.54 76.77 76.65 74.32 74.07 78.17 77.75 77.41 78.77 78.33 78.02 75.60 78.50 76.64 79.32 75.72 78.27 79.54 75.88 78.97 78.58 78.77 76.85 76.22 79.05 75.64 77.66 77.46 77.27 78.63 77.36 75.26"
+                },
+
+                {
+                        "id": "3fcdf5c8-00fe-11ed-85d5-4c327598eb11",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 101017,
+                        "end": 106564,
+                        "content": "The polar regions of our planet\nmay seem beyond the reach of most of us,"
+                },
+
+                {
+                        "id": "349ee93a-496c-11ed-ba9a-4c327598eb11",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 110000,
+                        "end": 120000,
+                        "content": "77.43 76.34 74.74 75.65 75.40 73.56 73.80 77.76 77.19 74.10 77.12 77.02 74.51 75.65 75.07 75.74 78.33 77.22 75.59 75.58 77.47 78.32 77.36 80.52 79.03 80.36 76.21 79.36 76.93 81.65 75.21 79.15 76.12 78.02 75.51 77.94 74.38 79.51 73.72 76.74 74.86 77.07 76.62 75.49 74.13 78.86 75.73 75.99 74.50 74.40 76.67 75.62 76.01 76.75 78.06 77.78 77.05 75.99 77.35 75.50 76.38 79.35 75.76 75.87 74.50 77.18 74.27 76.49 77.04 78.08 76.41 78.01 75.12 77.07 76.75 77.63 78.14 79.25 76.49 80.13 76.24 79.87 78.56 78.11 77.83 77.80 77.65 78.87 79.55 77.92 76.85 78.05 77.76 75.49 78.07 77.63 77.00 74.48 77.68 74.48 76.25 76.68 77.50 74.63 77.06 75.17 76.71 74.32 76.16 74.86 76.74 76.14 79.67 75.62 79.43 77.59 78.09 76.53 79.92 79.58 78.05 79.28 78.50 77.34 77.72 79.56 76.94 78.58 77.51 78.82 76.05 77.16 76.72 78.68 77.21 76.93 78.67 79.51 78.43 78.03 76.95 77.34 77.62 76.99 77.27 77.63 78.84 75.10 78.89 74.61 78.16 77.15 74.93 75.09 74.55 74.97 78.77 74.40 75.02 76.62 79.26 78.19 78.72 77.54 78.55 78.47 77.55 78.38 79.51 78.43 80.24 76.35 78.71 78.22 74.53 79.76 79.82 74.32 78.80 77.70 74.76 77.01 75.75 77.72 77.75 76.71 76.12 76.39 73.24 74.02 74.17 74.49 75.35 75.44 74.25 73.99 74.20 74.56 72.21 75.29 74.52 73.70 75.03 75.63 73.87 76.24 75.12 78.51 76.69 74.50 77.48 77.91 76.44 75.15 77.10 73.76 74.95 78.15 74.84 76.02 75.53 73.31 74.25 74.53 77.43 75.56 74.97 77.29 73.61 74.86 76.56 74.86 72.46 75.60 74.41 72.81 74.30 71.70 73.83 72.45 71.90 72.25 73.75 73.37 73.05 73.71 71.10 75.65 72.19 72.66 74.16 74.81 72.98 73.60 72.97 74.64 74.11 73.06 73.13 75.45 73.99 73.73 75.09 71.72 73.21 74.15 70.66 75.78 71.54 71.14 76.76 71.97 72.92 76.20 72.62 72.25 74.08 73.93 72.58 75.01 74.13 72.18 74.44 72.06 73.23 75.14 72.53 72.86 78.90 77.47 82.66 83.83 84.83 87.04 87.02 84.82 84.64 79.68 76.83 74.01 74.61 69.76 67.90 81.69 79.63 84.86 83.85 82.40 81.88 81.33 79.66 82.52 80.94 80.94 82.24 78.98 76.83 80.72 78.01 79.83 77.44 81.25 81.38 79.61 82.00 79.45 79.40 79.32 79.79 83.46 84.26 84.61 81.86 81.80 82.08 83.30 82.29 81.56 80.56 80.03 77.63 71.44 68.58 65.98 70.93 74.17 69.49 69.26 66.79 67.35 65.43 67.02 68.11 65.30 66.66 75.90 77.85 83.13 81.82 81.10 79.32 76.63 80.02 79.59 79.46 79.38 83.28 83.49 82.53 80.25 80.55 81.73 79.19 79.15 79.89 81.38 82.03 82.77 83.35 81.68 81.43 81.13 80.49 81.20 80.30 80.07 76.38 77.91 74.60 76.03 76.28 75.67 75.98 75.22 76.57 76.32 77.09 77.97 75.98 78.41 77.71 73.55 78.51 77.65 75.21 74.47 73.99 75.14 76.35 74.64 76.44 76.02 76.70 75.11 74.78 66.14 64.62 65.17 66.10 64.58 64.12 62.78 64.97 62.72 65.03 65.82 66.44 65.03 63.57 68.27 65.22 66.72 67.78 66.92 63.77 66.02 64.75 63.88 63.85 65.41 66.19 66.73 63.87 79.53 83.02 85.33 79.83 84.54 81.58 84.44 82.07 80.63 84.34 81.43 84.31 82.81 84.15 80.91 84.54 79.16 75.04 75.03 66.34 64.74 63.15 68.16 67.48 65.61 69.55 76.85 88.90 86.44 83.63 83.98 85.69 86.03 86.26 83.90 83.79 82.03 81.69 81.81 81.58 80.38 78.04 75.98 74.03 76.19 79.18 81.41 80.12 80.59 80.63 79.66 78.83 74.95 75.42 73.16 71.16 65.83 69.07 70.93 73.00 76.45 79.24 78.48 79.32 79.33 80.04 79.53 77.31 75.28 74.50 76.72 75.27 77.66 80.22 80.65 76.54 74.72 75.30 76.68 77.98 67.96 65.23 65.81 69.36 72.32 76.25 82.57 81.27 80.90 83.21 87.60 85.57 83.86 84.33 86.18 83.43 84.68 81.90 82.10 82.00 82.07 82.81 80.95 77.88 75.08 73.79 74.56 70.87 63.89 63.03 64.16 64.45 63.44 62.11 63.60 63.94 62.01 63.46 64.79 64.16 63.55 62.37 63.19 62.81 63.18 64.84 64.20 63.39 67.66 68.23 62.70 66.33 65.16 60.63 65.62 64.71 63.76 64.76 64.14 63.71 64.21 65.19 63.87 64.93 62.65 63.68 65.56 62.87 63.30 66.09 64.59 63.35 65.83 63.13 62.46 65.93 62.67 62.47 65.23 63.72 66.80 63.57 66.50 66.88 63.26 65.95 66.83 63.88 64.18 64.13 65.11 65.86 64.93 63.73 63.88 64.73 64.13 64.82 66.03 63.41 63.89 65.00 64.98 64.29 65.35 63.49 67.05 65.19 64.19 67.24 66.80 66.21 65.83 64.99 64.80 64.33 65.33 64.26 66.95 66.63 66.02 68.32 67.64 65.27 65.91 64.74 64.38 66.57 65.73 62.47 65.08 63.68 63.87 65.89 66.35 66.86 66.42 65.53 68.48 66.04 64.24 67.36 64.56 64.28 67.84 64.22 64.60 66.19 64.56 64.56 63.58 63.83 64.11 63.54 63.09 62.41 65.78 64.22 65.15 68.29 66.79 66.22 68.96 67.59 65.10 67.20 69.16 67.42 67.24 67.75 66.35 67.63 65.15 67.22 67.13 64.17 64.06 69.36 67.32 67.05 70.54 69.06 69.78 69.50 66.77 71.27 67.84 69.30 71.77 70.62 70.66 72.84 77.45 77.81 77.29 74.66 75.15 74.78 73.89 74.15 76.45 73.86 75.46 72.55 73.52 74.19 73.82 74.49 72.04 75.25 73.85 74.61 72.36 74.72 74.82 72.48 75.39 74.37 73.42 73.99 76.69 75.73 75.79 75.68 76.11 75.52 75.48 75.31 73.06 74.10 73.46 72.25 75.02 72.27 74.98 75.20 76.27 73.31 72.36 73.79 74.08 74.19 74.42 74.02 74.06 76.47 74.44 74.96 75.33 74.07 75.73 77.41 75.62 75.30 75.20 75.63 74.72 76.71 74.92 74.19 76.72 74.49 75.09 73.98 74.28 74.40 73.85 71.67 74.23 73.76 74.92 76.91 77.18 75.80 76.11 79.44 77.15 76.97 77.23 76.09 77.28 77.10 77.28 76.44 78.01 77.67 77.40 76.40 77.40 74.26 75.61 76.95 74.31 76.31 75.79 78.98 76.40 77.00 79.24 77.32 76.39 76.01 77.41 76.86 76.43 74.83 77.05 77.89 71.71 75.25 75.42 72.98 74.40 74.81 73.19 73.81 73.71 74.60 72.71 73.91 73.42 73.43 70.66 73.18 72.06 72.80 74.21 74.17 73.60 72.97 73.01 75.32 79.14 79.64 77.22 75.26 76.99 77.68 78.46 74.93 74.79 75.52 78.37 74.96 75.12 75.11 77.74 76.10 77.43 77.94 77.80 77.39 76.63 77.16 77.75 74.85 79.06 75.36 76.56 77.43 77.59 77.91 76.48 76.71 77.60 76.31 76.11 76.82 79.47 75.95 76.60 75.22 79.39 79.61 78.36 76.96 80.73 76.88 78.46 75.28 76.08 76.94 74.32 77.33 77.54 79.45 77.73 78.71 78.56 77.81 74.84 75.33 76.32 76.50 76.53 74.60 76.89 75.19 75.44 74.55 77.31 73.90 76.42 74.29 74.27 74.14 74.37 77.05 76.33 76.06 75.39 77.50 74.36 75.94 76.04 76.60 77.12 75.21 77.59 75.96 75.67 75.22 75.59 73.68 75.21 75.34 73.62 76.33 75.20 75.40 74.95 76.11 76.46 77.22 77.73 76.65 79.21 76.23 77.24 75.57 75.48 74.53 74.64 77.35 75.90 76.85 75.43 74.90 76.72 75.56 77.32 75.66 76.72 75.46 73.37 73.01 75.53 75.83 72.54 75.78 72.01 74.25 71.91 77.49 74.28 75.69 76.15 78.31 77.81 80.43 78.97 76.67 78.10 74.45 78.43 75.41 77.83"
+                },
+
+                {
+                        "id": "d3ecf81c-ed49-11ec-8e35-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 111486,
+                        "end": 119869,
+                        "content": "12"
+                },
+
+                {
+                        "id": "1275efb4-f310-11ec-bb89-4c327598eb11",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 111486,
+                        "end": 119869,
+                        "content": "9"
+                },
+
+                {
+                        "id": "8b5ea8c2-4968-11ed-ba9a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 111486,
+                        "end": 119869,
+                        "content": "12"
+                },
+
+                {
+                        "id": "8e3418c0-4968-11ed-ba9a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 111486,
+                        "end": 119869,
+                        "content": "12"
+                },
+
+                {
+                        "id": "9258c86a-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 111486,
+                        "end": 119869,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "979fb716-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 111486,
+                        "end": 119869,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "999977be-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 111486,
+                        "end": 119869,
+                        "content": "right"
+                },
+
+                {
+                        "id": "9b9a6b90-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 111486,
+                        "end": 119869,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e001be7c-4969-11ed-ba9a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 111486,
+                        "end": 119869,
+                        "content": "1,[VS],0"
+                },
+
+                {
+                        "id": "e18d6a48-4969-11ed-ba9a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 111486,
+                        "end": 119869,
+                        "content": "down,right"
+                },
+
+                {
+                        "id": "4ad0d22c-496c-11ed-ba9a-4c327598eb11",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 111486,
+                        "end": 119869,
+                        "content": "extreme long shot"
+                },
+
+                {
+                        "id": "3fce11ca-00fe-11ed-85d5-4c327598eb11",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 112821,
+                        "end": 115532,
+                        "content": "but they are not beyond our influence."
+                },
+
+                {
+                        "id": "d3ed096a-ed49-11ec-8e35-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 119869,
+                        "end": 127418,
+                        "content": "13"
+                },
+
+                {
+                        "id": "1275f914-f310-11ec-bb89-4c327598eb11",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 119869,
+                        "end": 127418,
+                        "content": "10"
+                },
+
+                {
+                        "id": "8b5eb768-4968-11ed-ba9a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 119869,
+                        "end": 127418,
+                        "content": "13"
+                },
+
+                {
+                        "id": "8e342644-4968-11ed-ba9a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 119869,
+                        "end": 127418,
+                        "content": "13"
+                },
+
+                {
+                        "id": "9258e1ce-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 119869,
+                        "end": 127418,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "979fca08-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 119869,
+                        "end": 127418,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "99998380-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 119869,
+                        "end": 127418,
+                        "content": "right"
+                },
+
+                {
+                        "id": "9b9a7874-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 119869,
+                        "end": 127418,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e001caac-4969-11ed-ba9a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 119869,
+                        "end": 127418,
+                        "content": "1,[VS],0"
+                },
+
+                {
+                        "id": "e18d74de-4969-11ed-ba9a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 119869,
+                        "end": 127418,
+                        "content": "right"
+                },
+
+                {
+                        "id": "4ad0ded4-496c-11ed-ba9a-4c327598eb11",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 119869,
+                        "end": 127418,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "349ef86c-496c-11ed-ba9a-4c327598eb11",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 120000,
+                        "end": 130000,
+                        "content": "78.56 79.71 80.34 76.25 77.26 75.00 76.71 76.72 78.50 71.89 79.09 72.65 72.23 77.32 75.64 75.29 78.77 75.07 73.94 74.38 77.92 78.70 77.37 78.06 74.92 75.01 76.64 77.55 77.03 76.97 74.34 77.29 74.04 75.64 77.55 75.35 75.96 75.62 73.58 74.82 80.63 75.14 73.02 73.45 74.96 75.36 72.37 75.24 76.36 76.29 75.16 78.07 77.61 73.70 77.45 77.38 77.40 75.75 78.00 80.89 79.78 78.87 77.47 81.93 81.76 83.76 87.41 85.21 84.30 81.18 77.45 79.45 83.53 82.27 83.53 82.74 80.41 80.83 79.88 80.00 81.03 80.73 80.01 80.70 79.89 81.22 82.44 81.15 82.06 80.67 80.67 80.17 81.70 80.69 79.78 78.62 75.10 71.06 70.96 69.84 68.94 71.27 69.14 69.71 69.86 70.73 69.71 67.90 66.28 69.17 66.75 67.31 70.13 67.62 66.97 67.64 66.15 67.58 70.08 65.79 70.62 69.00 67.51 68.59 71.37 67.92 72.06 70.24 70.82 69.15 80.53 84.82 82.56 78.40 85.09 83.17 84.76 82.38 79.80 77.19 80.59 80.71 79.48 82.13 83.07 85.77 85.20 84.44 84.48 81.66 81.36 82.58 81.77 81.67 79.94 80.18 79.96 78.99 78.18 77.13 69.53 69.17 69.11 68.43 72.13 75.21 78.07 82.51 76.29 77.25 83.00 85.97 86.42 84.65 84.41 81.47 80.91 81.22 80.76 81.11 80.99 78.98 78.26 76.02 73.30 69.58 73.94 74.28 78.03 82.03 82.74 82.35 83.31 80.35 81.49 78.64 72.95 73.72 69.22 71.82 72.85 74.47 78.11 73.97 79.31 75.49 77.13 76.05 80.28 77.60 79.60 79.54 79.53 76.98 76.01 78.97 79.61 82.48 83.16 82.27 80.75 76.55 76.53 75.97 72.35 68.81 74.35 71.98 67.46 67.98 66.76 64.76 64.49 66.18 65.33 65.53 64.74 66.11 66.78 66.07 67.27 65.80 66.89 66.74 66.04 67.56 65.95 67.42 67.14 65.82 67.30 66.70 64.27 68.70 68.56 65.22 66.24 65.66 66.80 66.26 66.53 66.66 68.51 68.03 67.14 68.90 67.32 70.37 76.57 83.43 82.65 81.69 82.33 83.63 82.78 82.64 84.06 82.12 81.50 80.46 75.37 70.82 69.39 68.02 69.53 65.88 68.13 67.67 66.63 69.51 72.97 75.48 81.17 86.42 86.00 85.79 83.41 83.02 79.93 80.11 81.80 87.86 86.80 84.88 83.00 82.40 82.75 81.29 82.23 81.91 79.88 79.51 77.17 81.03 79.39 81.76 82.95 81.86 83.00 82.94 80.95 79.27 78.07 76.58 73.35 74.02 76.24 83.00 80.89 78.36 78.28 77.11 79.79 78.73 79.92 82.65 77.06 77.12 76.70 76.82 75.22 77.22 78.15 77.58 77.33 77.03 78.60 78.84 78.60 76.29 77.56 79.33 80.58 80.66 72.82 72.58 70.53 66.96 65.86 67.02 66.42 68.19 70.40 74.35 76.27 78.79 77.30 82.03 83.06 83.52 81.02 81.07 81.27 81.24 81.35 80.25 80.30 80.36 81.21 81.89 82.67 82.05 81.73 80.04 77.56 78.91 79.86 79.20 74.36 77.21 78.76 80.43 77.59 75.08 76.05 75.09 70.64 72.36 71.54 75.75 78.32 76.10 77.52 79.72 79.45 82.08 82.68 81.72 79.93 77.50 73.34 73.41 73.15 72.03 70.93 69.56 69.29 68.22 68.17 70.66 69.64 72.25 73.05 72.77 73.70 74.98 75.38 75.71 75.24 78.23 79.90 76.67 81.75 83.87 82.87 82.27 83.48 84.42 84.92 85.21 86.28 84.50 82.54 84.15 80.89 81.11 80.32 78.74 79.81 79.60 73.94 77.11 77.55 82.06 81.89 78.86 81.33 79.96 78.68 78.74 76.15 77.88 77.73 78.40 78.42 80.12 76.47 78.06 77.95 75.63 74.37 73.84 76.01 74.95 76.41 76.85 76.36 77.95 77.84 77.77 79.43 84.10 83.52 81.59 80.47 80.90 83.38 82.85 83.58 81.80 81.38 83.47 81.03 83.27 82.37 82.69 80.32 82.10 81.80 80.03 80.37 81.11 79.40 79.90 80.03 80.01 79.74 80.97 80.23 81.13 79.78 80.68 79.21 80.64 79.50 76.95 79.54 80.58 80.18 75.42 73.64 73.68 73.75 74.09 72.53 75.98 75.27 76.34 77.86 82.54 84.27 83.15 86.27 84.73 84.78 86.60 84.74 85.91 84.19 81.57 79.05 76.04 70.41 69.01 67.85 67.79 69.51 72.83 77.08 77.13 75.42 72.68 73.29 71.12 75.98 72.89 71.17 70.66 72.99 74.04 71.62 72.24 73.20 71.83 71.52 70.32 71.18 72.18 72.34 73.81 68.78 73.13 71.59 73.11 68.75 71.87 73.32 71.79 74.68 73.49 76.89 72.68 75.86 74.48 76.18 71.97 75.78 73.85 73.09 74.60 75.21 72.80 75.30 73.77 75.53 71.44 75.81 75.14 74.01 74.31 72.68 74.62 74.67 74.58 72.27 71.96 75.24 74.72 72.83 74.93 74.86 74.42 76.28 76.50 74.07 76.54 76.09 80.02 77.60 75.85 76.13 77.63 77.32 77.38 75.82 77.21 74.18 77.60 73.71 77.16 75.35 78.74 76.30 78.20 78.77 75.79 79.97 75.69 79.07 75.92 79.59 75.78 78.02 79.51 77.91 80.09 78.09 78.09 79.61 78.24 77.93 80.30 79.35 79.38 77.24 79.24 77.84 77.70 79.80 77.15 79.15 77.62 77.77 79.63 78.80 80.28 79.17 81.87 79.91 78.48 81.13 78.72 80.30 78.69 78.97 78.54 78.43 78.78 78.46 79.55 78.87 80.34 78.77 79.18 80.75 80.93 82.18 80.17 81.71 81.83 81.99 83.20 81.19 81.73 83.31 82.38 80.47 81.40 79.36 81.57 77.85 78.45 78.81 79.92 80.11 80.91 81.90 80.36 82.40 81.33 81.05 80.70 82.01 80.02 78.59 80.28 81.18 82.62 80.75 81.08 82.76 83.45 79.73 80.37 80.26 80.30 80.67 80.01 80.94 78.64 81.32 81.44 80.75 81.36 82.28 81.81 82.32 80.24 81.87 80.35 80.81 82.28 80.12 79.28 78.23 78.31 77.65 78.17 77.79 77.45 79.39 78.62 78.17 80.59 79.55 79.52 80.22 79.14 79.10 78.93 79.62 78.89 78.99 78.91 79.79 78.27 79.45 79.65 81.49 80.11 80.30 79.58 78.78 80.18 77.48 79.11 79.03 77.79 78.53 78.08 79.02 79.34 76.44 77.24 78.18 79.50 78.74 76.92 77.87 77.92 78.88 78.82 79.64 80.31 77.59 80.43 80.39 79.09 78.98 77.10 81.01 76.86 78.73 77.30 78.34 78.08 76.85 78.13 77.77 78.00 77.09 78.07 78.00 78.51 76.91 76.07 78.01 73.39 76.31 74.00 72.94 73.17 75.22 76.83 76.07 79.78 81.49 80.64 77.54 77.95 77.32 77.10 76.83 78.69 76.39 75.74 76.04 76.04 77.17 77.01 74.51 74.79 75.84 74.42 74.44 74.67 73.89 74.20 73.50 75.34 74.29 74.47 76.51 75.71 76.06 74.09 72.57 73.94 73.96 76.40 74.55 75.14 73.14 73.70 76.67 76.62 75.62 75.72 73.46 75.22 71.75 71.96 74.44 71.33 74.42 72.26 74.67 73.47 71.86 73.31 77.71 73.51 71.96 73.14 74.20 76.67 74.70 72.86 74.54 75.28 74.43 76.31 75.98 80.76 90.70 86.17 83.91 82.61 81.48 82.26 83.74 80.75 80.47 77.85 76.09 75.84 76.47 74.77 75.60 76.46 75.94 79.03 80.90 83.88 84.57 84.25 82.72 82.34 82.16 81.85 80.57 80.52 80.67 82.20 85.27 82.58 83.22 82.36 81.79 77.09 80.70 75.74 78.26 74.32 75.97 77.60 76.34 74.52 77.18 75.58 72.33 78.02 76.51 77.78 81.06 79.37 81.70 78.12 87.15 86.63 83.66 79.92 80.48 82.59 80.22 80.90 79.76 80.89 80.75 80.07 79.44 80.86 82.11 78.29 74.35 69.12 74.11 71.89 78.67 77.45 78.50 80.49 82.57 83.25 83.10 82.70 82.00 83.74 80.84 81.08 82.00 75.35 74.80 75.15 74.80 74.99 75.77 80.27 82.24 78.92 78.65 78.07 77.68 75.28 72.08 69.23 72.30 69.63 72.47 72.20"
+                },
+
+                {
+                        "id": "3fce278c-00fe-11ed-85d5-4c327598eb11",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 120578,
+                        "end": 125458,
+                        "content": "We, unintentionally,\nare changing these frozen worlds,"
+                },
+
+                {
+                        "id": "d3ed1b44-ed49-11ec-8e35-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 127418,
+                        "end": 135051,
+                        "content": "14"
+                },
+
+                {
+                        "id": "12760256-f310-11ec-bb89-4c327598eb11",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 127418,
+                        "end": 135051,
+                        "content": "11"
+                },
+
+                {
+                        "id": "8b5ec47e-4968-11ed-ba9a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 127418,
+                        "end": 135051,
+                        "content": "14"
+                },
+
+                {
+                        "id": "8e3433b4-4968-11ed-ba9a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 127418,
+                        "end": 135051,
+                        "content": "14"
+                },
+
+                {
+                        "id": "9258f8c6-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 127418,
+                        "end": 135051,
+                        "content": "static"
+                },
+
+                {
+                        "id": "9b9a8404-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 127418,
+                        "end": 135051,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "e001dbf0-4969-11ed-ba9a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 127418,
+                        "end": 135051,
+                        "content": "1"
+                },
+
+                {
+                        "id": "e18d85aa-4969-11ed-ba9a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 127418,
+                        "end": 135051,
+                        "content": "right,down"
+                },
+
+                {
+                        "id": "4ad0eb72-496c-11ed-ba9a-4c327598eb11",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 127418,
+                        "end": 135051,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "fb7bf1aa-496d-11ed-ba9a-4c327598eb11",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 127418,
+                        "end": 153444,
+                        "content": "slow motion"
+                },
+
+                {
+                        "id": "3fce3ce0-00fe-11ed-85d5-4c327598eb11",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 128878,
+                        "end": 131965,
+                        "content": "and these changes\nwill not just affect the poles"
+                },
+
+                {
+                        "id": "349f0672-496c-11ed-ba9a-4c327598eb11",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 130000,
+                        "end": 140000,
+                        "content": "67.98 68.51 71.61 71.29 69.50 70.63 76.41 73.38 69.81 73.55 69.90 70.82 76.51 74.22 69.42 71.12 69.55 68.22 73.28 83.19 83.55 84.87 80.51 79.96 83.08 84.10 80.30 82.29 81.86 79.09 81.23 81.82 83.36 80.15 82.85 79.25 78.76 81.59 83.57 83.53 85.02 84.59 84.97 82.08 81.46 81.22 83.90 83.59 81.43 79.00 79.61 80.09 76.31 70.03 68.52 73.85 65.38 68.84 70.58 75.50 83.67 85.20 84.14 85.21 87.11 83.01 83.07 79.78 80.41 78.20 77.46 75.26 77.58 77.83 79.30 80.20 79.19 80.03 79.05 82.62 77.32 76.01 71.34 70.95 71.86 79.66 86.98 84.25 78.72 72.60 72.34 70.21 67.30 71.88 66.93 72.71 75.70 72.53 76.03 85.86 86.76 82.23 80.34 82.82 78.30 80.28 76.91 73.45 67.04 68.75 71.18 71.45 71.79 70.08 68.83 65.54 67.47 69.40 66.01 73.49 79.20 78.18 84.24 86.55 81.99 81.51 79.72 72.90 68.80 68.09 68.16 69.91 69.23 67.04 64.32 82.90 76.88 80.84 79.39 83.87 86.38 88.25 85.56 85.50 89.21 87.95 83.71 83.83 83.48 79.21 81.37 83.18 84.07 83.18 79.59 75.03 80.66 77.64 79.67 78.38 73.80 74.04 74.73 74.41 77.40 74.04 71.52 74.23 70.55 75.63 76.09 75.38 77.87 76.69 77.36 76.02 76.19 73.97 72.61 70.55 69.60 71.80 73.19 69.30 70.39 73.39 74.07 71.59 73.85 72.33 71.08 70.06 70.45 67.75 67.18 68.06 68.44 64.57 67.33 67.88 66.00 63.90 65.00 70.11 68.75 69.97 69.49 71.54 69.01 67.02 68.88 70.59 65.56 68.35 68.20 67.78 69.30 69.23 74.99 70.56 70.08 71.00 69.69 70.77 70.14 68.62 68.94 70.41 68.91 69.52 70.70 70.31 73.13 72.00 70.01 74.52 70.51 70.11 74.42 72.96 71.94 72.30 71.84 75.97 75.85 72.86 72.32 73.11 74.42 73.50 73.53 71.85 73.16 73.50 75.97 70.95 75.68 71.20 72.78 75.52 71.93 70.70 72.43 72.04 70.49 69.92 70.46 74.51 72.36 72.35 72.49 75.22 74.09 74.87 75.70 72.84 73.83 75.46 75.59 74.61 73.86 72.27 73.07 75.73 72.50 74.98 74.16 73.69 70.84 73.12 70.62 79.90 79.29 87.92 84.06 87.22 84.74 83.95 80.48 79.30 79.12 76.04 72.37 69.37 67.57 70.71 67.56 73.46 75.57 74.87 75.54 70.69 69.33 70.53 71.17 67.72 72.11 71.37 68.50 67.56 69.53 71.41 66.60 69.92 67.75 69.83 70.37 65.31 67.45 68.11 77.34 84.10 86.80 86.08 83.53 83.52 81.95 83.13 80.27 80.47 81.00 77.42 79.91 74.45 76.84 74.99 73.06 71.54 77.72 76.99 76.50 79.28 79.43 81.55 83.95 87.16 87.11 86.13 86.00 85.65 84.65 81.83 82.26 80.45 82.15 83.52 85.46 84.80 82.31 79.04 81.27 83.48 82.66 80.63 81.89 80.69 78.28 79.77 77.49 76.80 74.39 75.51 77.18 74.23 76.38 78.48 76.49 78.83 78.02 74.10 71.14 69.91 69.91 68.15 70.25 83.36 78.35 73.64 74.15 74.07 79.97 81.10 80.22 80.59 81.26 85.92 87.22 83.40 82.87 84.19 81.79 82.97 82.86 81.91 79.25 78.88 77.55 73.44 76.13 76.76 83.99 84.31 84.72 84.67 84.07 83.30 82.71 76.45 80.96 79.65 70.46 68.80 72.63 69.46 69.22 69.74 68.83 78.16 84.01 79.77 82.44 79.65 74.17 70.84 67.97 71.08 70.66 70.45 68.84 69.18 67.58 68.69 70.80 67.19 66.34 67.09 69.12 69.93 67.77 71.10 68.93 70.25 70.12 70.30 69.93 68.66 69.76 69.40 70.03 68.82 69.13 69.08 72.86 71.52 71.60 73.05 76.03 73.40 73.98 73.52 75.53 73.74 71.03 74.01 74.94 72.68 75.57 75.03 72.98 73.64 74.72 71.81 75.34 72.87 73.89 75.59 73.17 74.33 74.16 72.41 74.65 74.58 72.55 74.58 74.18 73.52 76.31 74.82 73.50 73.15 73.10 73.49 72.15 75.21 72.76 73.62 75.43 72.47 73.03 75.53 73.02 74.50 74.61 74.05 74.33 76.00 74.28 77.18 74.63 74.73 74.89 77.28 72.14 75.80 73.11 76.45 74.72 76.81 76.12 74.66 77.98 74.35 76.79 75.81 76.20 74.47 73.92 75.00 77.11 78.11 76.43 75.80 77.02 79.48 75.47 78.39 78.96 77.29 77.37 76.01 76.15 75.78 76.30 75.76 76.75 76.65 77.77 77.41 76.26 79.63 76.20 76.71 78.72 78.09 77.91 74.84 79.40 75.51 77.31 76.55 76.29 76.21 75.51 77.79 77.39 78.01 78.32 78.12 77.79 76.87 78.06 77.68 76.71 80.05 79.41 77.17 79.10 80.59 78.88 79.24 79.45 77.72 80.23 80.63 78.55 79.98 81.67 80.38 80.74 82.56 79.47 79.26 81.42 81.57 82.25 81.68 81.27 81.23 84.54 80.42 82.05 81.54 83.46 81.18 81.15 82.53 81.49 80.38 81.25 81.44 81.40 79.44 81.33 80.17 81.63 81.69 81.67 80.61 80.95 82.81 82.62 82.60 82.72 82.03 81.11 80.34 78.04 83.18 81.05 85.04 81.87 82.56 83.12 82.60 80.73 79.59 82.66 83.45 86.24 86.02 86.44 85.46 84.52 83.78 83.67 81.46 82.43 83.50 82.33 82.33 82.91 83.88 83.90 84.05 81.78 83.91 83.26 82.72 80.87 80.78 82.60 82.70 79.15 82.06 84.48 84.02 84.30 84.81 81.42 83.84 82.99 81.21 82.64 84.77 84.89 86.71 84.43 84.38 85.08 83.36 83.11 85.31 83.01 84.15 83.61 81.79 83.88 81.89 84.54 83.81 82.41 83.48 83.24 83.35 83.58 84.87 83.58 84.32 84.98 83.26 84.34 85.73 82.95 82.80 84.80 84.23 85.42 85.05 85.31 84.52 83.97 83.29 82.18 84.02 83.37 82.89 82.85 84.40 84.62 83.67 82.68 84.94 81.98 83.81 81.49 81.67 83.82 84.69 82.51 84.26 82.91 81.40 82.36 81.46 82.59 83.92 83.59 82.49 83.06 86.40 85.16 82.36 79.12 80.15 83.01 82.14 84.24 84.59 83.39 85.52 82.66 85.12 82.25 84.25 82.94 86.29 84.88 86.29 85.45 83.70 85.67 84.38 84.96 81.78 82.95 82.42 84.01 82.77 82.93 83.27 82.16 83.42 83.18 83.54 82.65 83.68 83.53 82.56 83.50 86.30 83.61 85.06 84.21 82.38 84.31 84.73 84.01 81.58 81.32 81.40 80.17 80.54 82.54 84.84 82.13 83.31 82.99 82.66 80.75 82.73 80.93 84.47 84.21 82.57 83.80 82.75 83.13 83.67 82.13 84.65 81.28 83.82 82.47 82.95 82.17 82.09 84.78 78.61 84.14 82.97 82.59 80.41 82.54 82.33 82.33 81.64 83.05 83.27 83.92 84.16 83.92 84.15 84.03 83.54 83.32 83.57 86.05 84.90 86.28 80.95 81.82 81.82 84.05 84.43 84.15 85.16 86.34 84.41 82.20 83.05 83.28 84.79 83.76 84.04 83.36 86.36 83.16 82.87 82.99 81.40 82.40 82.78 84.10 82.61 81.11 82.52 80.95 81.80 83.27 79.86 83.45 81.51 83.66 81.82 81.25 81.65 80.88 84.18 81.63 83.59 80.61 81.75 81.02 82.28 82.26 81.54 83.85 83.42 80.72 80.73 80.76 81.19 81.70 81.65 82.74 80.53 83.63 82.43 81.03 81.81 82.28 80.97 82.50 81.74 81.47 80.97 81.82 82.16 83.96 81.10 81.51 81.18 78.42 81.06 84.05 85.06 80.40 84.45 84.70 79.15 83.16 83.36 79.67 79.95 82.12 80.40 79.57 81.60 81.61 81.56 82.87 79.31 79.71 82.88 79.32 80.37 80.15 78.21 79.64 81.12 81.18 79.88 80.19 79.13 82.13 81.20 79.93 81.77 81.96 83.82 81.77 83.44 82.82 80.95 82.44 80.45 79.61 81.70 80.85 80.17 80.57 84.93 86.55 82.56 83.59 83.87 83.11 78.48 83.00 81.79 79.77 79.67 81.07 78.65 81.39 79.24 80.68 81.68 82.32 79.51"
+                },
+
+                {
+                        "id": "3fce50a4-00fe-11ed-85d5-4c327598eb11",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 132841,
+                        "end": 134425,
+                        "content": "but the whole planet."
+                },
+
+                {
+                        "id": "d3ed2db4-ed49-11ec-8e35-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 135051,
+                        "end": 142600,
+                        "content": "15"
+                },
+
+                {
+                        "id": "12760c42-f310-11ec-bb89-4c327598eb11",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 135051,
+                        "end": 142600,
+                        "content": "12"
+                },
+
+                {
+                        "id": "8b5ed1ee-4968-11ed-ba9a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 135051,
+                        "end": 142600,
+                        "content": "15"
+                },
+
+                {
+                        "id": "8e344156-4968-11ed-ba9a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 135051,
+                        "end": 142600,
+                        "content": "15"
+                },
+
+                {
+                        "id": "92591004-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 135051,
+                        "end": 142600,
+                        "content": "tilt"
+                },
+
+                {
+                        "id": "979fe38a-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 135051,
+                        "end": 142600,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "99999a96-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 135051,
+                        "end": 142600,
+                        "content": "down"
+                },
+
+                {
+                        "id": "9b9a8f9e-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 135051,
+                        "end": 142600,
+                        "content": "low-angle,[TO],high-angle"
+                },
+
+                {
+                        "id": "e001e9e2-4969-11ed-ba9a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 135051,
+                        "end": 142600,
+                        "content": "2"
+                },
+
+                {
+                        "id": "e18d9068-4969-11ed-ba9a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 135051,
+                        "end": 142600,
+                        "content": "down,right,left"
+                },
+
+                {
+                        "id": "4ad0f7fc-496c-11ed-ba9a-4c327598eb11",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 135051,
+                        "end": 142600,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "349f13ba-496c-11ed-ba9a-4c327598eb11",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 140000,
+                        "end": 150000,
+                        "content": "81.19 81.56 80.69 82.30 83.22 83.13 82.07 81.29 82.80 81.98 80.78 82.13 82.02 80.28 81.23 81.42 80.09 79.04 81.39 82.81 82.49 78.88 82.38 81.40 83.38 82.79 80.53 80.06 82.27 83.63 81.13 83.35 82.73 81.20 83.65 81.92 79.35 81.39 83.17 84.42 84.32 85.34 83.03 82.52 80.50 83.14 81.07 82.25 82.79 80.17 78.80 81.32 82.28 81.89 83.26 82.18 79.19 80.65 81.36 81.89 82.92 82.63 79.65 81.92 79.55 79.41 81.12 81.16 80.97 81.62 82.99 79.32 80.66 82.84 80.56 81.09 82.78 81.04 78.78 80.52 79.25 81.05 80.40 80.15 81.77 80.13 80.25 76.91 79.18 79.65 78.41 78.79 77.57 79.25 79.19 80.78 78.04 78.85 78.62 79.69 78.31 78.50 78.63 78.21 77.01 76.16 77.94 78.96 79.95 81.12 81.43 79.07 79.87 78.26 79.07 77.33 79.79 78.46 76.16 79.11 79.04 79.39 80.00 78.66 76.64 77.90 79.94 79.28 78.98 78.87 79.46 81.03 80.74 80.23 80.14 79.09 78.00 80.18 80.05 79.37 79.91 79.20 78.51 81.50 78.26 78.74 78.86 80.69 77.29 78.75 77.25 76.92 78.79 78.55 79.23 78.97 79.27 78.39 79.36 78.86 79.13 76.67 78.69 78.27 79.74 77.11 76.51 80.23 77.82 78.62 79.28 79.55 78.61 80.67 78.84 80.60 79.40 79.65 79.41 79.90 77.10 79.26 80.30 78.08 78.58 78.61 77.62 78.00 78.66 76.46 75.62 76.59 77.90 79.10 75.82 78.30 74.87 78.25 79.13 78.36 78.37 79.64 77.37 76.73 75.59 76.20 77.69 76.18 79.46 76.41 78.28 80.93 79.04 79.91 76.46 79.09 77.36 79.19 80.09 77.26 76.53 79.94 80.98 80.81 78.26 80.80 78.56 79.47 80.19 82.64 78.36 78.56 79.40 77.16 79.52 78.19 79.04 78.86 82.71 83.36 82.00 83.60 81.48 82.47 83.68 84.76 82.24 82.60 87.00 82.81 83.44 87.71 86.83 83.41 85.50 86.70 84.51 84.51 86.05 86.05 89.96 93.33 88.21 92.73 95.89 97.25 91.73 94.88 95.71 97.83 94.07 93.86 95.19 94.61 94.27 92.97 95.25 93.88 97.10 92.05 97.59 99.37 97.76 96.12 96.94 94.57 96.50 95.95 98.11 92.05 96.81 100.00 95.21 98.76 93.84 94.15 98.27 96.73 90.99 98.12 93.90 90.56 93.76 94.32 96.05 99.18 96.12 92.31 94.26 88.67 92.83 91.48 89.62 88.56 92.11 90.85 89.06 93.32 89.37 89.24 91.92 92.84 92.42 88.96 91.79 92.85 90.97 94.43 91.71 87.47 92.90 88.17 93.83 92.39 89.61 88.46 90.86 87.35 92.43 90.75 89.24 85.73 93.77 84.54 91.93 86.05 87.87 90.69 88.92 89.40 89.45 88.40 88.92 92.84 87.16 88.26 87.33 92.37 93.88 87.35 89.12 89.21 87.10 90.06 90.48 87.13 83.31 91.56 87.33 86.80 87.72 88.84 88.40 92.21 88.48 85.24 88.22 89.90 87.40 85.38 85.70 90.82 85.57 86.82 88.04 89.93 86.02 86.62 90.26 90.84 87.65 87.89 85.97 84.23 85.84 85.05 85.86 86.83 88.43 87.34 86.60 90.87 84.54 85.97 84.57 82.30 86.20 87.01 88.19 90.27 87.70 86.23 89.01 90.74 89.13 88.55 84.81 87.58 87.58 86.55 87.15 87.16 88.01 88.70 86.33 86.83 84.22 88.01 84.87 85.39 91.85 91.94 85.41 86.58 85.10 88.19 85.86 85.91 84.35 81.98 85.60 88.17 83.95 83.89 90.37 86.04 85.83 86.79 85.44 84.88 86.50 86.84 86.90 86.61 85.19 86.69 87.03 84.45 85.92 85.81 86.39 85.00 84.61 83.55 83.15 84.32 84.25 88.25 83.38 86.20 86.10 81.80 85.68 86.58 83.02 81.37 82.81 84.91 87.65 78.87 81.86 84.03 86.09 83.36 83.49 83.65 84.77 84.39 85.41 85.42 86.53 85.82 87.21 87.18 88.69 86.41 87.55 86.29 83.38 86.49 83.55 84.63 85.69 82.32 80.03 86.48 86.02 86.48 82.64 85.82 86.25 85.83 87.08 87.52 82.81 84.33 87.94 84.87 82.79 86.01 84.87 86.69 85.03 86.64 85.54 88.41 85.05 87.70 84.75 85.49 85.72 85.34 86.32 85.61 84.91 84.44 83.76 85.93 82.42 85.81 80.50 85.00 83.53 84.98 83.08 85.66 82.88 87.86 85.42 87.28 85.93 83.76 86.21 85.54 84.79 82.31 84.43 86.04 87.85 87.52 87.50 86.87 86.77 85.18 87.02 87.46 88.87 86.60 88.36 88.71 87.04 87.26 87.26 83.87 87.05 87.42 86.86 85.87 86.97 86.98 84.52 86.45 85.23 84.26 87.50 86.49 85.30 85.53 85.67 85.25 87.91 87.26 89.70 87.09 90.12 88.56 86.86 87.78 85.97 86.19 84.15 86.08 87.51 86.27 89.53 85.31 86.01 85.89 85.14 84.03 84.81 86.22 85.61 85.65 84.93 85.29 85.76 85.13 84.59 88.61 86.16 86.74 86.52 83.89 85.44 85.61 87.89 86.97 86.42 86.48 84.44 86.33 85.48 85.22 87.05 84.67 85.29 85.43 84.39 83.69 85.92 84.07 84.67 86.50 83.72 84.04 85.92 84.32 85.29 84.01 83.54 84.97 83.69 83.84 84.24 82.38 86.14 83.42 82.47 81.90 84.69 81.96 85.26 85.85 84.58 86.09 86.62 85.55 86.81 85.36 83.23 84.63 82.37 85.24 82.84 81.21 85.35 86.12 86.33 87.69 83.99 84.54 86.74 83.02 86.89 84.85 85.14 86.98 86.84 86.12 86.02 83.55 86.76 82.18 83.41 84.01 89.57 88.73 85.58 87.65 87.48 85.97 83.51 84.81 85.05 85.96 87.27 85.76 82.15 86.20 86.02 84.03 86.28 86.07 86.29 84.73 82.93 86.29 84.80 85.48 84.82 85.72 85.95 84.36 86.82 85.82 85.90 87.43 84.23 86.44 85.04 85.09 84.21 87.16 84.43 85.77 85.33 85.64 86.28 82.97 83.89 82.79 85.21 87.52 85.65 83.71 87.26 84.57 87.06 83.10 88.45 84.09 84.90 86.39 84.96 85.70 85.82 85.16 85.21 83.86 84.26 85.10 82.84 83.82 84.39 85.06 85.33 86.76 85.65 86.71 88.39 85.96 87.62 84.64 85.54 85.74 86.55 87.52 86.22 86.55 85.58 86.14 85.25 84.74 85.48 83.26 85.08 84.67 83.61 84.78 84.66 83.65 81.48 85.15 85.14 83.35 87.08 85.32 85.95 85.71 87.86 84.86 87.16 87.52 84.33 87.71 87.50 86.87 88.14 84.70 86.57 87.55 83.95 86.79 85.08 84.00 88.92 84.98 84.81 87.62 81.64 85.32 83.10 85.31 85.44 86.21 84.11 82.90 83.74 84.91 84.17 84.75 83.15 82.67 85.52 85.08 84.83 88.89 87.00 88.46 87.00 84.15 81.89 86.70 87.23 84.76 85.31 85.53 83.43 86.37 84.82 85.54 86.07 85.35 84.76 83.82 85.74 84.81 85.73 83.11 85.43 85.68 84.75 84.42 85.01 84.71 85.30 85.76 84.58 85.44 86.81 87.52 84.25 88.66 85.31 86.64 86.95 83.48 86.31 87.20 87.32 85.30 84.18 84.46 82.47 82.12 83.44 81.43 81.54 86.39 84.74 82.56 82.53 82.82 86.68 84.16 85.91 85.34 84.66 83.84 83.95 82.75 85.97 82.09 83.67 85.39 85.42 85.27 85.39 88.28 86.86 83.54 86.15 85.54 84.75 84.15 85.80 83.34 88.38 85.33 86.02 85.14 85.92 85.15 85.67 82.85 85.32 83.54 83.87 83.53 86.10 88.85 84.71 85.45 84.99 87.33 85.97 84.94 86.79 88.84 81.32 86.15 87.05 88.02 85.10 86.73 85.42 85.14 86.49 84.42 87.02 85.32 86.68 82.01 87.98 85.29 83.42 85.82 86.73 87.19 85.25 86.60 86.49 85.06 86.70 86.40 85.90 85.52 86.91 85.39 86.32 86.13 88.89 88.54 85.26 86.79 85.58 85.71 87.76 86.25 86.88 86.95 86.51 89.47 89.59 86.87 86.61 85.53 89.36 87.12 89.26 85.33 86.37 86.24 87.94 87.14 89.73 87.54 86.65 86.42"
+                },
+
+                {
+                        "id": "915e33be-4972-11ed-ba9a-4c327598eb11",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 142070,
+                        "end": 144900,
+                        "content": "explosive"
+                },
+
+                {
+                        "id": "d3ed4042-ed49-11ec-8e35-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 142600,
+                        "end": 153444,
+                        "content": "16"
+                },
+
+                {
+                        "id": "12761642-f310-11ec-bb89-4c327598eb11",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 142600,
+                        "end": 153444,
+                        "content": "13"
+                },
+
+                {
+                        "id": "8b5edfa4-4968-11ed-ba9a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 142600,
+                        "end": 153444,
+                        "content": "16"
+                },
+
+                {
+                        "id": "8e344e8a-4968-11ed-ba9a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 142600,
+                        "end": 153444,
+                        "content": "16"
+                },
+
+                {
+                        "id": "925924f4-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 142600,
+                        "end": 153444,
+                        "content": "minimal"
+                },
+
+                {
+                        "id": "9b9a9a98-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 142600,
+                        "end": 153444,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e001f676-4969-11ed-ba9a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 142600,
+                        "end": 153444,
+                        "content": "1,[TO],2"
+                },
+
+                {
+                        "id": "e18d9b12-4969-11ed-ba9a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 142600,
+                        "end": 153444,
+                        "content": "up,towards,down"
+                },
+
+                {
+                        "id": "4ad10468-496c-11ed-ba9a-4c327598eb11",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 142600,
+                        "end": 153444,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "349f20b2-496c-11ed-ba9a-4c327598eb11",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 150000,
+                        "end": 160000,
+                        "content": "87.76 88.83 87.64 87.16 85.85 87.60 89.25 84.75 85.99 86.90 86.94 86.81 88.20 89.38 89.62 86.17 86.42 88.36 89.47 88.21 86.79 87.37 85.20 85.33 85.47 87.35 84.33 84.96 81.88 84.27 84.78 85.49 85.86 86.54 87.57 85.87 85.73 83.66 86.11 84.76 82.22 86.53 84.58 86.50 86.70 86.94 85.48 85.42 86.65 85.02 82.73 86.13 86.38 83.51 84.87 81.15 79.93 84.40 84.62 85.38 84.69 86.07 83.76 87.71 85.67 85.28 84.09 84.88 87.46 85.09 86.79 86.43 86.64 84.05 85.79 85.81 85.34 87.48 86.39 86.46 86.42 86.87 85.81 87.35 88.07 88.98 86.53 90.08 89.09 88.48 89.33 88.40 86.61 90.04 87.41 88.66 88.33 88.96 86.29 86.13 89.98 88.50 87.59 89.88 88.06 89.26 87.94 88.89 88.11 86.19 88.42 90.11 85.17 89.09 86.71 89.89 91.24 86.67 88.41 88.98 86.23 87.48 89.04 90.04 88.29 88.16 88.55 87.77 88.46 89.71 87.29 88.87 87.17 86.76 85.77 86.85 84.14 88.45 87.28 87.48 89.33 88.20 88.04 89.87 87.90 88.44 89.67 87.16 91.27 88.20 91.88 89.54 90.35 90.35 90.15 89.50 91.53 90.25 93.47 88.93 89.70 90.60 91.07 89.69 89.91 91.39 91.44 91.99 92.17 90.53 90.08 89.15 90.85 88.46 89.42 87.07 88.41 88.77 87.85 88.29 87.76 89.90 89.00 87.04 90.22 88.01 89.74 92.55 90.53 92.33 89.29 89.71 91.22 89.94 89.96 90.48 90.98 88.64 91.83 90.69 90.57 90.22 88.69 90.49 88.32 90.02 87.72 88.55 88.90 90.28 91.01 89.42 90.75 89.55 89.40 90.84 89.53 90.47 88.88 89.64 89.28 91.49 88.92 91.12 92.68 91.25 90.54 92.26 91.50 91.99 93.35 91.88 90.31 89.71 92.75 89.14 89.48 92.34 87.60 89.64 91.39 93.08 91.68 88.19 90.20 89.87 88.60 92.30 90.11 87.36 90.93 88.39 89.48 90.07 88.81 90.68 90.01 89.98 90.37 89.60 90.47 91.31 90.35 89.45 90.54 92.90 91.69 90.65 93.19 88.94 92.12 92.46 90.04 90.60 94.18 92.24 93.53 91.84 92.48 90.64 93.68 92.19 91.09 91.75 90.01 94.00 92.17 87.88 91.83 94.54 91.53 94.83 92.31 91.34 93.77 95.64 93.42 94.84 95.08 95.04 97.79 95.71 94.09 93.04 94.15 97.08 96.15 95.79 96.90 96.33 98.02 94.05 94.74 93.63 95.31 93.82 97.44 92.85 93.50 96.83 96.30 93.12 96.57 97.87 95.40 96.51 95.18 97.79 97.38 95.95 94.55 96.49 96.09 97.36 98.64 95.10 94.76 95.17 92.13 95.14 93.22 94.13 93.25 91.10 96.28 94.81 89.81 95.87 92.31 92.51 95.53 92.88 93.12 93.83 92.21 92.57 93.84 91.42 93.20 93.16 94.70 93.74 94.30 95.61 93.19 95.73 90.29 94.24 89.94 92.10 89.98 93.55 90.76 91.73 90.59 92.76 92.29 92.95 88.13 90.30 90.24 90.80 90.87 90.81 90.91 89.12 86.93 90.24 88.68 90.44 89.92 91.32 88.81 90.41 91.53 91.54 87.30 90.94 88.12 85.47 89.17 87.94 89.14 86.13 89.46 89.39 90.58 88.17 88.86 92.78 90.96 89.51 87.78 89.20 89.42 90.68 86.99 87.81 88.71 88.32 90.91 89.79 91.54 89.64 83.00 88.48 91.00 88.57 91.82 89.89 87.63 92.34 91.41 90.38 92.07 89.62 87.66 89.31 87.98 92.91 90.40 88.66 87.52 86.79 86.06 87.07 87.42 87.32 90.21 89.09 92.93 89.81 92.10 91.06 93.40 90.46 90.84 92.80 88.98 89.25 90.25 84.19 88.62 90.33 88.23 88.49 89.51 89.22 89.89 82.82 89.12 86.44 88.42 91.48 84.30 86.03 88.14 89.08 85.52 85.20 90.15 86.80 85.18 88.61 87.65 84.50 83.79 83.44 88.88 84.24 86.83 88.72 82.60 84.65 86.51 83.99 90.48 85.85 83.41 84.65 84.59 83.59 86.22 79.48 81.36 82.18 75.50 78.46 86.39 87.10 85.51 76.38 80.11 83.46 77.66 88.42 86.47 76.19 81.34 87.25 86.43 78.86 80.49 80.48 84.34 80.57 79.77 78.99 83.59 82.47 78.81 80.18 79.55 83.53 77.63 78.22 80.30 79.89 77.16 75.10 75.68 73.77 78.85 79.27 82.33 79.22 79.17 76.46 71.11 75.31 76.79 79.24 74.79 73.26 75.38 79.47 76.72 80.60 76.46 74.35 73.97 69.58 69.67 78.23 77.65 73.08 72.71 80.15 78.73 76.85 73.11 74.53 71.46 75.38 79.62 80.84 71.41 74.74 73.19 74.64 70.84 75.24 73.06 69.07 70.69 71.88 74.77 70.62 70.09 65.74 73.46 74.59 67.04 69.84 69.20 68.38 70.92 70.26 65.46 69.79 69.72 68.56 70.00 68.99 71.85 72.28 70.13 73.65 69.18 73.22 70.59 66.90 72.17 68.66 71.11 67.33 67.00 68.76 68.81 70.56 71.49 67.70 67.12 64.33 64.81 70.04 65.16 68.10 67.19 67.13 71.10 68.46 67.08 70.65 71.68 68.29 60.24 71.00 65.11 65.32 61.99 68.61 67.92 66.64 65.92 66.88 64.50 67.07 64.07 66.65 63.91 64.37 64.29 67.24 62.97 64.88 65.93 68.39 65.66 65.45 65.69 61.51 63.33 65.38 66.23 68.45 61.13 66.54 66.10 62.97 63.61 62.45 62.35 60.21 66.32 59.73 63.95 58.02 60.56 61.68 61.20 58.92 60.81 65.22 62.98 66.32 65.33 60.46 59.78 62.04 63.74 62.49 61.89 60.02 61.38 64.08 60.59 62.41 61.10 60.88 59.55 59.91 61.86 56.38 58.75 62.18 58.85 63.71 60.80 61.85 61.12 61.34 62.71 57.36 58.31 61.04 60.46 56.97 59.73 62.10 56.27 57.64 57.04 56.58 58.73 59.19 56.36 59.88 60.01 53.42 55.62 58.51 59.33 61.64 57.54 60.50 61.28 58.54 56.42 57.13 57.40 56.97 57.00 59.26 56.29 59.58 55.80 60.26 58.07 57.55 55.36 56.83 56.66 58.92 59.19 54.68 55.65 56.51 59.15 52.10 54.34 56.65 56.91 56.22 53.71 55.16 57.45 55.86 58.49 53.48 55.69 54.99 53.84 56.66 58.52 55.62 54.51 55.35 51.21 55.08 56.03 49.67 55.93 57.95 54.30 54.07 54.15 56.57 57.67 58.10 50.76 56.16 50.11 51.79 56.96 55.85 57.97 56.54 56.45 52.89 55.58 50.12 50.02 52.59 48.90 51.45 52.10 53.81 49.95 53.97 54.59 50.78 53.22 49.41 54.13 53.20 53.39 51.33 50.19 52.37 52.81 52.30 51.67 53.33 50.83 44.15 50.64 51.67 49.37 51.02 51.33 48.08 52.23 50.74 50.35 50.54 48.71 51.56 51.36 50.18 52.80 49.69 51.34 51.32 52.98 50.10 50.24 48.08 50.71 47.66 49.58 49.14 49.97 51.74 52.33 49.75 48.30 52.11 48.63 52.24 51.13 49.51 51.83 49.94 50.64 48.55 50.38 48.10 50.19 48.85 49.38 46.81 50.68 48.12 49.47 51.32 50.50 50.93 47.84 48.17 47.69 47.95 45.33 50.67 49.01 49.79 50.78 52.42 48.66 46.82 51.57 48.64 49.06 49.28 47.75 47.41 49.19 50.49 50.47 51.24 47.32 48.89 47.99 50.84 47.77 48.46 46.85 46.87 46.81 47.18 49.19 45.35 48.55 49.84 47.20 48.79 46.68 47.77 45.11 47.83 47.92 45.22 47.16 50.57 50.68 51.70 49.99 46.08 49.50 46.56 47.21 47.48 47.33 49.52 50.05 48.85 49.19 49.71 45.43 46.37 48.91 50.50 52.28 50.20 48.16 50.96 51.55 49.29 51.87 49.04 48.42 51.69 50.80 52.44 50.60 49.11 48.57 52.73 50.67 50.25 49.80 51.12 50.21 49.01 48.97 51.17 50.57 50.57 49.22 51.10 54.43 49.57 55.53 52.62 50.84 53.07 51.36 53.24 51.98 52.38 51.73 51.76 53.50 53.63 53.40 52.83 52.45 51.36 49.84 51.87 50.89 49.89 51.91 49.39 51.09 52.69 50.64 53.61 51.86 49.88"
+                },
+
+                {
+                        "id": "d3ed521c-ed49-11ec-8e35-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 153444,
+                        "end": 161870,
+                        "content": "17"
+                },
+
+                {
+                        "id": "12761f84-f310-11ec-bb89-4c327598eb11",
+                        "type": "scenechange1",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 153444,
+                        "end": 161870,
+                        "content": "14"
+                },
+
+                {
+                        "id": "8b5eecc4-4968-11ed-ba9a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 153444,
+                        "end": 161870,
+                        "content": "17"
+                },
+
+                {
+                        "id": "8e34a5b0-4968-11ed-ba9a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 153444,
+                        "end": 161870,
+                        "content": "17"
+                },
+
+                {
+                        "id": "92593ee4-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 153444,
+                        "end": 161870,
+                        "content": "static"
+                },
+
+                {
+                        "id": "9b9aa5d8-4968-11ed-ba9a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 153444,
+                        "end": 161870,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e00203d2-4969-11ed-ba9a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 153444,
+                        "end": 161870,
+                        "content": "1,[VS]"
+                },
+
+                {
+                        "id": "e18da56c-4969-11ed-ba9a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 153444,
+                        "end": 161870,
+                        "content": "undirected,[VS],towards,away"
+                },
+
+                {
+                        "id": "4ad111c4-496c-11ed-ba9a-4c327598eb11",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 153444,
+                        "end": 161870,
+                        "content": "neither"
+                },
+
+                {
+                        "id": "d79c0190-4971-11ed-ba9a-4c327598eb11",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 153444,
+                        "end": 161870,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "3c433f2e-496c-11ed-ba9a-4c327598eb11",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/Users/stefanlachenmayr/Our_Planet_Episode_02_Frozen_Worlds_Lanfear_Sophie.mp4",
+                        "begin": 160000,
+                        "end": 170000,
+                        "content": "52.11 51.38 51.69 51.64 51.16 51.09 52.90 50.05 51.51 52.28 51.46 51.70 49.94 49.28 47.84 50.65 52.00 55.50 52.02 52.07 53.25 53.99 54.13 53.81 54.62 54.35 53.19 55.62 52.86 54.20 54.03 53.83 51.99 49.99 51.22 52.82 52.14 51.95 52.11 52.98 54.05 48.44 48.82 50.45 51.37 50.10 48.54 48.80 49.44 50.67 50.48 49.46 46.96 49.35 52.14 51.08 51.90 50.53 49.85 50.62 50.65 53.42 53.49 53.27 54.15 55.48 55.78 52.08 52.44 49.61 52.64 51.48 50.53 50.60 50.53 48.67 51.37 48.58 48.79 53.39 53.68 52.94 50.96 49.67 51.89 51.21 48.58 52.00 49.28 53.13 50.25 52.68 53.30 54.74 51.93 54.60 53.61 55.18 52.45 54.17 55.02 55.89 55.24 55.05 55.99 57.02 53.60 53.85 55.74 57.11 56.67 55.36 58.01 57.31 55.05 58.51 53.70 55.99 56.93 57.67 53.52 55.85 55.63 59.21 56.81 57.99 57.80 59.66 58.90 57.35 56.44 56.47 60.37 59.76 59.09 59.61 60.13 60.09 58.49 60.51 58.68 56.60 56.88 57.97 59.59 57.13 56.79 59.27 58.88 55.56 55.42 55.54 57.29 55.74 60.27 58.66 56.19 54.44 53.88 55.10 57.01 54.11 55.27 57.51 55.12 53.68 57.65 57.57 56.24 56.24 52.87 57.75 57.16 57.49 58.05 56.45 56.34 58.17 57.01 54.91 57.12 57.16 58.23 60.28 57.90 58.65 57.78 55.00 56.32 52.89 56.12 54.80 57.49 57.42 54.83 54.98 57.76 53.77 55.33 53.70 53.02 53.38 55.24 53.76 53.80 53.29 52.77 56.71 56.43 55.33 54.76 53.64 53.40 56.25 56.09 57.26 55.10 53.26 56.09 56.39 55.38 54.12 53.24 51.63 54.07 52.48 52.88 54.75 53.01 53.53 52.56 51.78 51.77 53.58 54.28 53.50 54.67 57.79 54.74 56.64 58.11 60.83 59.78 60.63 58.75 58.38 58.62 58.12 57.03 57.99 59.57 59.69 57.37 60.23 57.85 58.29 57.57 56.24 57.75 57.12 58.63 59.14 61.11 61.86 61.33 60.80 60.46 59.94 61.63 60.83 59.49 60.16 60.61 59.50 61.08 62.06 61.26 60.07 60.30 60.80 61.46 60.19 60.08 59.17 58.60 61.01 60.32 61.16 60.54 59.62 60.97 60.27 60.20 59.09 60.80 60.03 59.48 60.68 61.31 58.99 59.41 59.75 61.80 61.99 61.11 60.72 58.91 60.18 60.06 59.54 58.17 59.45 60.19 60.77 61.29 60.89 59.43 61.63 60.34 60.42 62.34 60.73 60.89 61.04 59.50 60.73 59.36 60.41 59.16 60.55 62.55 61.18 60.25 59.34 59.91 59.40 60.52 60.50 62.46 62.80 61.01 63.54 61.69 61.42 62.52 60.49 61.81 60.67 60.01 59.15 56.98 58.42 59.17 59.69 59.93 59.77 60.16 61.27 61.70 61.11 62.78 64.33 64.68 62.72 60.67 59.73 61.95 62.49 60.99 63.06 64.35 65.08 65.60 65.88 63.65 60.50 59.69 57.04 58.95 61.65 60.05 62.20 61.23 59.84 60.13 59.45 57.34 58.64 58.92 58.86 59.50 60.84 63.43 65.02 64.71 64.30 63.82 61.65 61.62 61.44 62.34 62.87 62.13 61.14 60.98 62.02 62.09 62.19 62.30 60.46 65.60 66.45 68.18 83.21 69.54 76.53 81.19 84.19 87.83 80.41 82.76 83.91 82.40 84.10 82.97 81.17 81.51 82.73 81.55 80.33 81.16 79.62 78.81 77.69 79.04 77.56 72.32 73.31 71.29 70.23 68.66 67.89 64.32 64.07 60.99 81.38 81.46 77.51 81.03 83.45 83.67 84.72 84.29 83.07 81.81 79.56 82.00 83.13 79.97 82.29 78.15 78.87 78.00 76.99 75.55 71.90 67.66 74.62 66.18 65.87 70.38 69.10 62.96 63.39 63.27 64.55 62.09 61.27 64.97 82.37 77.14 79.70 82.25 80.26 74.67 78.60 78.99 70.34 69.47 61.62 60.59 62.35 61.83 61.78 87.25 85.88 80.52 78.16 80.31 84.85 84.81 80.80 80.39 79.91 81.94 81.51 81.14 80.40 73.48 64.32 67.24 63.29 61.32 59.39 60.02 59.45 58.20 62.29 61.75 58.08 57.65 56.75 60.41 60.87 59.32 57.34 56.00 57.16 60.36 61.00 61.81 61.15 61.32 60.63 58.87 59.33 60.17 59.46 57.09 57.10 56.20 56.81 59.26 60.84 60.07 61.29 61.45 61.05 63.76 61.76 60.88 59.83 62.36 62.59 62.99 64.67 64.62 62.70 62.02 62.32 62.27 62.65 63.61 64.06 65.04 65.91 65.77 63.79 63.61 62.88 62.41 62.01 62.11 61.57 63.64 64.38 66.39 66.13 63.27 63.32 62.68 63.58 61.21 62.72 62.91 63.16 63.89 63.31 62.93 63.17 63.56 64.43 64.30 63.76 63.97 63.81 64.01 64.74 65.59 65.19 65.01 64.64 65.35 64.27 65.15 64.07 64.07 63.77 64.53 63.68 64.54 64.58 63.66 66.51 64.21 62.88 63.82 64.70 66.02 62.71 63.07 63.14 63.39 62.79 62.08 60.66 62.15 61.58 62.06 63.89 64.85 65.02 64.33 66.27 65.43 64.68 63.03 62.88 64.71 62.38 62.78 62.76 62.21 60.39 59.99 61.92 62.54 62.21 63.36 61.76 61.66 61.15 61.74 63.17 63.08 63.97 63.97 63.33 62.40 63.56 63.94 61.58 59.45 58.06 59.51 61.96 62.03 63.34 63.27 64.24 66.07 64.94 63.79 63.71 62.45 60.80 62.17 61.15 61.60 62.08 61.78 63.96 63.36 62.72 63.00 64.56 62.92 62.48 63.58 65.59 64.36 64.42 64.62 64.43 63.33 64.49 64.57 65.00 63.38 62.57 63.00 63.27 64.51 62.45 63.18 62.55 62.18 63.88 63.27 64.22 62.36 61.28 61.61 65.38 64.72 64.90 66.96 66.23 64.44 65.17 65.37 65.86 67.40 67.39 67.59 66.64 66.23 65.47 65.22 64.80 64.17 63.96 62.53 62.15 62.80 64.33 66.34 65.32 65.43 63.27 63.60 64.88 63.78 62.95 64.02 63.44 62.92 64.76 63.47 65.43 64.79 64.38 63.95 63.53 62.91 59.13 60.64 62.36 61.45 61.79 61.90 59.76 59.27 58.01 58.91 58.69 59.88 60.32 58.70 60.02 60.44 61.61 61.18 61.59 61.06 60.27 60.62 63.66 63.32 62.83 60.97 60.65 61.06 59.64 61.05 59.62 63.20 63.12 62.78 62.92 60.64 61.47 61.51 60.85 58.77 57.84 60.63 61.18 59.33 60.23 58.34 59.75 58.17 56.13 56.20 56.13 56.37 58.03 56.88 56.74 56.40 54.24 57.01 58.99 59.45 58.71 59.12 58.84 60.91 59.61 61.04 60.74 56.50 54.74 57.61 57.71 58.17 58.76 60.06 59.59 59.34 57.16 60.31 61.33 61.50 70.91 76.92 77.60 80.22 84.17 84.04 82.91 80.68 78.82 76.59 77.29 76.95 75.67 74.90 80.91 78.79 80.69 81.63 79.67 77.01 77.06 80.45 82.77 80.48 79.74 79.01 79.47 80.54 82.44 82.88 80.38 78.94 83.92 85.40 80.35 78.65 80.28 78.53 77.36 75.25 71.16 65.89 65.82 66.30 72.63 75.21 76.34 80.77 81.16 82.21 79.71 79.23 80.20 76.70 78.14 70.69 63.94 66.84 64.28 62.36 60.02 59.63 60.77 71.12 76.34 83.38 84.09 80.30 84.97 83.30 83.24 83.43 83.55 84.44 81.04 80.55 80.67 78.23 74.33 76.08 77.15 76.99 77.19 76.63 76.65 75.89 75.34 74.47 74.11 73.50 72.46 70.44 70.39 71.25 70.02 69.95 68.59 67.35 70.96 72.51 77.03 81.33 81.10 79.42 68.60 63.45 65.42 73.11 77.51 83.03 81.80 80.44 80.24 76.75 78.87 80.46 79.66 80.17 78.20 79.06 79.77 77.77 77.81 67.26 65.79 57.84 55.03 54.71 52.54 52.97 84.70 81.90 75.66 79.67 79.30 79.34 79.69 79.48 80.39 81.09 80.16 78.15 78.93 77.32 78.98 79.67 77.88 78.18 77.36 77.99 77.58 79.29 79.24 79.48 74.70 73.15 67.71 66.78 63.68 64.29 64.49 58.29 55.13 72.56 70.86"
+                }
+
+] }

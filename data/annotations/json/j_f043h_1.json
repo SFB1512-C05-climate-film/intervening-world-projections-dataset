@@ -1,0 +1,1524 @@
+{ "annotations": [
+
+                {
+                        "id": "80a9e63e-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": -47476,
+                        "end": -44574,
+                        "content": "[electricity crackling]"
+                },
+
+                {
+                        "id": "8faafa8a-73ff-11ee-81e7-ed77b3d93962",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1109080,
+                        "end": 1111440,
+                        "content": ""
+                },
+
+                {
+                        "id": "90b556b2-7401-11ee-81e7-ed77b3d93962",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1109080,
+                        "end": 1111440,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "e1bbbbce-8224-11ee-b937-5f0c01328bcf",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1109080,
+                        "end": 1111440,
+                        "content": "dark"
+                },
+
+                {
+                        "id": "dc62c220-8225-11ee-b937-5f0c01328bcf",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1109080,
+                        "end": 1111440,
+                        "content": "writing,object"
+                },
+
+                {
+                        "id": "4c5c27be-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ColourRange",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1109080,
+                        "end": 1150160,
+                        "content": "black,grey,sandybrown"
+                },
+
+                {
+                        "id": "cd1c7c00-8227-11ee-b937-5f0c01328bcf",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1109080,
+                        "end": 1150160,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "d4faed76-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1109080,
+                        "end": 1111440,
+                        "content": "0,[TO],2"
+                },
+
+                {
+                        "id": "46794db2-8228-11ee-b937-5f0c01328bcf",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1109080,
+                        "end": 1111440,
+                        "content": "up"
+                },
+
+                {
+                        "id": "bcdc0f12-8228-11ee-b937-5f0c01328bcf",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1109080,
+                        "end": 1111440,
+                        "content": "1"
+                },
+
+                {
+                        "id": "c9635d3a-8228-11ee-b937-5f0c01328bcf",
+                        "type": "MontageFigureMacro",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1109080,
+                        "end": 1138355,
+                        "content": "Pov"
+                },
+
+                {
+                        "id": "ef31f350-8228-11ee-b937-5f0c01328bcf",
+                        "type": "FoundFootage",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1109080,
+                        "end": 1111440,
+                        "content": "tbd"
+                },
+
+                {
+                        "id": "1c01199c-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1109080,
+                        "end": 1111440,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "1e30ac6e-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1109080,
+                        "end": 1111440,
+                        "content": "static"
+                },
+
+                {
+                        "id": "5d8f1442-822c-11ee-b937-5f0c01328bcf",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1109080,
+                        "end": 1150124,
+                        "content": "52.73 50.73 52.18 53.90 49.99 52.42 52.22 52.54 54.18 52.06 50.59 51.85 47.37 48.77 50.09 50.34 49.05 48.32 49.34 46.38 48.79 47.96 51.68 80.54 83.89 55.23 53.32 53.90 59.32 50.99 49.14 49.86 46.34 51.09 48.79 52.72 49.71 48.67 46.24 71.59 70.38 67.74 71.39 74.22 72.22 77.83 69.39 71.24 71.04 67.27 55.31 51.74 51.07 50.90 50.34 50.02 52.40 53.71 50.33 50.68 50.50 51.03 49.94 53.96 52.34 49.42 52.18 52.08 52.76 50.42 52.37 83.63 83.26 72.84 72.77 73.33 70.36 76.50 70.20 71.91 66.56 50.93 50.51 52.15 52.26 50.60 49.22 48.68 50.09 48.84 54.83 51.70 52.47 51.36 56.15 56.60 57.90 59.57 59.31 59.77 63.09 67.56 69.00 66.52 63.51 62.63 64.57 66.61 66.22 68.06 68.74 67.05 67.72 66.63 68.13 68.87 68.86 68.28 68.39 76.56 75.40 70.46 75.25 72.10 69.62 66.24 78.58 72.49 70.18 74.10 75.60 72.16 64.47 58.85 59.30 56.85 56.36 56.00 55.84 54.08 54.24 56.46 55.66 55.50 56.28 54.32 53.66 55.01 53.74 54.80 53.52 52.74 53.78 53.69 54.39 77.90 74.86 69.78 70.74 66.46 73.06 68.44 72.50 68.82 72.04 72.07 70.04 65.69 67.34 66.42 64.36 54.28 53.30 51.72 52.93 51.78 52.70 53.92 54.47 56.67 51.66 53.30 56.86 66.16 72.59 64.94 73.94 75.30 69.06 55.77 60.92 63.72 62.45 58.13 55.87 57.70 57.22 59.00 57.86 60.69 59.12 61.07 62.87 64.20 64.03 64.95 64.38 63.32 61.86 59.38 62.25 62.93 63.25 62.61 63.53 64.77 64.24 63.61 64.25 65.90 81.97 67.44 73.73 74.95 70.80 73.30 72.09 76.43 74.08 75.91 73.35 64.58 63.03 67.59 68.48 68.08 72.72 65.74 81.06 81.73 78.15 77.57 71.82 71.99 80.76 73.74 80.48 78.28 69.86 65.41 66.86 66.33 66.27 66.77 64.45 65.84 67.54 64.53 65.54 64.32 60.82 62.02 60.46 60.23 59.96 61.58 61.51 61.75 58.86 58.52 58.28 61.49 58.77 59.76 62.61 62.75 58.02 58.37 62.74 63.26 61.64 62.99 63.49 62.00 64.03 60.71 62.06 63.30 65.20 62.82 64.25 59.67 61.52 63.79 62.68 62.92 62.59 59.39 59.83 59.63 61.80 61.47 59.28 61.71 60.06 55.25 57.00 56.90 55.10 60.96 57.23 80.47 80.66 74.80 72.93 76.80 65.88 74.31 69.79 77.40 76.74 76.66 83.16 79.46 65.54 79.91 75.49 79.64 77.51 75.14 68.79 63.28 54.19 56.99 56.20 53.53 80.67 81.38 77.49 75.13 78.15 79.15 73.06 79.96 78.04 73.27 63.13 59.53 60.18 62.36 62.21 62.25 62.72 62.56 64.72 65.31 66.43 67.76 72.22 77.80 71.46 71.65 73.29 73.47 66.00 65.75 73.16 75.65 67.29 64.67 67.03 62.29 77.13 89.88 65.71 64.50 67.12 65.93 66.71 67.18 67.80 65.37 63.61 56.74 59.53 60.14 83.96 73.46 66.74 61.26 64.21 56.21 58.57 59.33 58.13 59.51 58.82 58.72 62.75 68.51 60.48 59.75 60.73 58.50 61.99 61.47 62.56 60.72 59.89 57.94 62.92 62.74 61.60 61.51 61.71 63.35 62.46 60.16 63.17 61.43 66.86 61.37 62.12 62.53 61.58 61.87 62.96 62.68 59.93 59.32 58.89 59.55 59.91 63.14 63.50 63.47 64.53 64.66 65.15 72.59 73.89 72.40 64.51 60.89 61.27 65.71 76.95 83.05 81.12 66.57 64.35 68.26 64.33 84.34 85.35 80.55 78.74 60.00 60.01 60.18 61.87 57.56 66.12 63.76 68.94 62.02 59.80 57.65 57.82 59.13 62.19 58.59 60.70 59.43 80.86 81.54 68.39 78.85 79.98 74.92 75.80 76.04 62.94 54.06 70.76 79.51 78.62 76.39 73.63 73.15 76.41 78.22 75.78 70.11 65.18 54.98 58.53 58.03 54.83 54.19 54.27 61.03 85.33 79.44 57.89 66.47 68.28 66.41 61.40 89.57 72.09 87.69 67.73 62.28 59.35 62.77 66.05 84.91 79.69 63.20 70.50 66.61 68.29 62.24 60.02 59.70 59.42 85.82 89.37 76.10 77.45 82.48 74.97 73.02 69.76 65.31 63.80 60.55 56.99 63.16 68.24 71.52 69.24 62.83 61.36 67.56 72.22 70.63 60.73 60.81 57.49 60.61 58.58 58.82 74.07 74.13 76.27 71.60 68.89 69.76 70.18 60.64 64.95 65.69 63.94 77.35 74.02 72.57 75.10 73.09 67.92 68.23 68.00 75.62 72.28 63.00 68.81 75.89 75.92 72.20 73.48 74.67 72.31 74.55 74.64 77.03 72.60 70.22 70.48 75.77 72.12 82.73 82.61 72.41 74.13 70.26 72.93 73.29 68.82 62.77 64.11 61.11 57.78 59.23 65.95 68.24 72.07 72.66 66.27 70.79 73.36 65.95 73.91 72.88 77.79 73.29 73.17 68.39 61.50 67.44 66.89 67.09 62.92 60.80 56.92 56.91 58.98 53.88 64.95 69.02 70.77 65.70 58.79 61.70 76.22 78.10 69.05 74.13 67.61 66.38 76.47 71.16 80.62 66.86 77.26 72.95 76.52 69.30 68.98 70.43 72.87 69.93 71.66 67.02 70.22 74.55 69.46 74.43 73.10 77.35 77.40 78.05 75.04 75.83 76.65 83.02 83.13 64.16 65.96 69.16 68.80 62.91 54.12 52.30 52.86 61.15 60.86 67.78 67.69 69.53 64.30 54.72 72.55 71.93 69.19 72.77 70.77 71.54 71.26 77.44 74.89 72.81 77.34 71.04 77.87 74.40 73.09 76.39 75.50 69.73 71.97 73.59 75.60 73.93 77.21 77.38 78.58 75.83 68.95 70.37 71.54 71.07 71.41 70.35 75.04 75.27 71.62 72.75 71.30 70.40 67.63 66.66 75.35 69.55 65.26 67.94 71.09 67.35 81.58 72.44 73.60 69.98 66.73 75.00 75.57 79.22 80.23 68.03 71.83 87.26 78.01 81.41 82.95 77.23 75.93 80.92 81.16 78.19 75.51 71.57 84.20 81.47 74.14 80.84 67.95 82.03 79.31 76.45 78.86 78.67 84.96 76.22 69.91 76.93 76.10 72.33 80.13 76.50 62.03 56.84 58.63 57.94 60.84 59.40 73.66 74.83 72.51 76.01 69.93 77.29 74.87 69.38 62.92 55.84 58.13 67.16 76.18 78.09 67.79 68.18 72.33 74.43 69.87 71.50 72.90 68.64 66.27 63.66 72.40 73.92 73.75 72.89 64.50 61.41 60.51 73.10 76.53 62.22 74.79 75.86 72.30 76.65 70.40 64.45 68.13 66.79 79.79 79.69 75.25 65.65 59.74 57.72 77.20 76.22 74.41 73.30 77.22 75.90 69.92 64.60 60.24 56.78 55.97 55.79 65.27 70.59 66.78 59.62 66.12 67.90 68.01 60.48 58.60 54.13 56.48 56.37 58.05 62.09 62.61 65.70 58.76 54.84 57.12 56.41 57.59 60.16 59.63 59.88 64.14 65.65 67.52 60.13 63.77 65.16 65.90 58.78 58.23 56.17 55.68 55.97 54.54 58.45 64.40 66.87 61.42 48.60 48.15 46.85 49.75 50.15 49.27 56.43 64.33 64.97 66.73 59.07 59.19 81.19 78.02 82.74 77.06 72.46 59.63 72.17 63.34 62.64 63.23 66.59 65.74 54.74 55.93 59.07 55.68 53.89 51.12 72.99 72.79 67.03 79.29 80.07 79.67 68.69 76.65 75.14 77.85 72.77 80.41 78.84 63.26 81.28 73.47 70.82 70.62 75.34 60.18 56.42 49.86 49.26 50.91 51.66 52.88 63.66 65.80 63.52 76.67 69.80 82.01 77.95 78.33 67.45 63.08 73.01 76.38 74.62 73.80 70.15 49.83 46.72 76.20 78.34 67.65 79.68 79.99 69.30 77.44 67.28 74.40 71.71 75.06 76.68 72.93 71.65 72.43 67.82 70.75 76.01 70.96 73.59 63.39 76.54 77.85 73.15 69.65 68.24 76.44 69.69 67.04 67.67 51.57 51.32 49.92 47.97 48.53 50.41 49.96 51.16 60.42 59.39 60.41 54.51 54.01 55.13 55.42 61.32 62.11 62.26 58.52 52.05 54.89 53.61"
+                },
+
+                {
+                        "id": "6f811880-822c-11ee-b937-5f0c01328bcf",
+                        "type": "Scene",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1109080,
+                        "end": 1150124,
+                        "content": "doomscrolling"
+                },
+
+                {
+                        "id": "f62a35d6-8229-11ee-b937-5f0c01328bcf",
+                        "type": "MusicMood",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1109727,
+                        "end": 1150205,
+                        "content": "ominous"
+                },
+
+                {
+                        "id": "a2f29996-822c-11ee-b937-5f0c01328bcf",
+                        "type": "MusicIntensity",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1109727,
+                        "end": 1150205,
+                        "content": "3"
+                },
+
+                {
+                        "id": "80a9e63f-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1110916,
+                        "end": 1112717,
+                        "content": "[Shawn] Mom, I've been trying."
+                },
+
+                {
+                        "id": "83baafb7-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1110916,
+                        "end": 1112717,
+                        "content": "disgusted (im sinne von distanziert)"
+                },
+
+                {
+                        "id": "8faafa8b-73ff-11ee-81e7-ed77b3d93962",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1111440,
+                        "end": 1112640,
+                        "content": ""
+                },
+
+                {
+                        "id": "90b556b3-7401-11ee-81e7-ed77b3d93962",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1111440,
+                        "end": 1112640,
+                        "content": "extreme closeup"
+                },
+
+                {
+                        "id": "d3f95460-8224-11ee-b937-5f0c01328bcf",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1111440,
+                        "end": 1112640,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "dc62c221-8225-11ee-b937-5f0c01328bcf",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1111440,
+                        "end": 1112640,
+                        "content": "object"
+                },
+
+                {
+                        "id": "d4faed77-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1111440,
+                        "end": 1112640,
+                        "content": "2,[TO],0"
+                },
+
+                {
+                        "id": "46794db3-8228-11ee-b937-5f0c01328bcf",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1111440,
+                        "end": 1112640,
+                        "content": "up"
+                },
+
+                {
+                        "id": "bcdc0f13-8228-11ee-b937-5f0c01328bcf",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1111440,
+                        "end": 1112640,
+                        "content": "2"
+                },
+
+                {
+                        "id": "f33b46b8-8228-11ee-b937-5f0c01328bcf",
+                        "type": "FoundFootage",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1111440,
+                        "end": 1112640,
+                        "content": "tbd"
+                },
+
+                {
+                        "id": "1c01199d-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1111440,
+                        "end": 1112640,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "1e30ac6f-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1111440,
+                        "end": 1112640,
+                        "content": "static"
+                },
+
+                {
+                        "id": "8faafa8c-73ff-11ee-81e7-ed77b3d93962",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1112640,
+                        "end": 1115080,
+                        "content": ""
+                },
+
+                {
+                        "id": "90b556b4-7401-11ee-81e7-ed77b3d93962",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1112640,
+                        "end": 1115080,
+                        "content": "extreme closeup"
+                },
+
+                {
+                        "id": "e50df558-8224-11ee-b937-5f0c01328bcf",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1112640,
+                        "end": 1150160,
+                        "content": "dark"
+                },
+
+                {
+                        "id": "dc62c222-8225-11ee-b937-5f0c01328bcf",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1112640,
+                        "end": 1115080,
+                        "content": "single,human being"
+                },
+
+                {
+                        "id": "d4faed78-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1112640,
+                        "end": 1115080,
+                        "content": "1"
+                },
+
+                {
+                        "id": "46794db4-8228-11ee-b937-5f0c01328bcf",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1112640,
+                        "end": 1115080,
+                        "content": "up,down"
+                },
+
+                {
+                        "id": "bcdc0f14-8228-11ee-b937-5f0c01328bcf",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1112640,
+                        "end": 1115080,
+                        "content": "3"
+                },
+
+                {
+                        "id": "1c01199e-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1112640,
+                        "end": 1115080,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "1e30ac70-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1112640,
+                        "end": 1115080,
+                        "content": "static"
+                },
+
+                {
+                        "id": "80a9e640-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1114853,
+                        "end": 1117655,
+                        "content": "I know, it's just been\na difficult semester."
+                },
+
+                {
+                        "id": "83baafb8-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1114853,
+                        "end": 1117655,
+                        "content": "disgusted (im sinne von distanziert)"
+                },
+
+                {
+                        "id": "8faafa8d-73ff-11ee-81e7-ed77b3d93962",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1115080,
+                        "end": 1116080,
+                        "content": ""
+                },
+
+                {
+                        "id": "90b556b5-7401-11ee-81e7-ed77b3d93962",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1115080,
+                        "end": 1116080,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "dc62c223-8225-11ee-b937-5f0c01328bcf",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1115080,
+                        "end": 1116080,
+                        "content": "object"
+                },
+
+                {
+                        "id": "d4faed79-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1115080,
+                        "end": 1116080,
+                        "content": "1"
+                },
+
+                {
+                        "id": "46794db5-8228-11ee-b937-5f0c01328bcf",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1115080,
+                        "end": 1116080,
+                        "content": "left"
+                },
+
+                {
+                        "id": "bcdc0f15-8228-11ee-b937-5f0c01328bcf",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1115080,
+                        "end": 1116080,
+                        "content": "4"
+                },
+
+                {
+                        "id": "1c01199f-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1115080,
+                        "end": 1116080,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "1e30ac71-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1115080,
+                        "end": 1116080,
+                        "content": "static"
+                },
+
+                {
+                        "id": "8faafa8e-73ff-11ee-81e7-ed77b3d93962",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1116080,
+                        "end": 1117720,
+                        "content": ""
+                },
+
+                {
+                        "id": "90b556b6-7401-11ee-81e7-ed77b3d93962",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1116080,
+                        "end": 1117720,
+                        "content": "extreme closeup"
+                },
+
+                {
+                        "id": "dc62c224-8225-11ee-b937-5f0c01328bcf",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1116080,
+                        "end": 1117720,
+                        "content": "writing"
+                },
+
+                {
+                        "id": "d4faed7a-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1116080,
+                        "end": 1117720,
+                        "content": "1"
+                },
+
+                {
+                        "id": "46794db6-8228-11ee-b937-5f0c01328bcf",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1116080,
+                        "end": 1117720,
+                        "content": "up"
+                },
+
+                {
+                        "id": "bcdc0f16-8228-11ee-b937-5f0c01328bcf",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1116080,
+                        "end": 1117720,
+                        "content": "5"
+                },
+
+                {
+                        "id": "f879e17a-8228-11ee-b937-5f0c01328bcf",
+                        "type": "FoundFootage",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1116080,
+                        "end": 1117720,
+                        "content": "tbd"
+                },
+
+                {
+                        "id": "1c0119a0-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1116080,
+                        "end": 1117720,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "1e30ac72-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1116080,
+                        "end": 1117720,
+                        "content": "static"
+                },
+
+                {
+                        "id": "80a9e641-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1117689,
+                        "end": 1119691,
+                        "content": "It's just a lot, you know?"
+                },
+
+                {
+                        "id": "83baafb9-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1117689,
+                        "end": 1119691,
+                        "content": "disgusted (im sinne von distanziert)"
+                },
+
+                {
+                        "id": "8faafa8f-73ff-11ee-81e7-ed77b3d93962",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1117720,
+                        "end": 1119360,
+                        "content": ""
+                },
+
+                {
+                        "id": "90b556b7-7401-11ee-81e7-ed77b3d93962",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1117720,
+                        "end": 1119360,
+                        "content": "extreme closeup"
+                },
+
+                {
+                        "id": "dc62c225-8225-11ee-b937-5f0c01328bcf",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1117720,
+                        "end": 1119360,
+                        "content": "single,human being"
+                },
+
+                {
+                        "id": "d4faed7b-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1117720,
+                        "end": 1119360,
+                        "content": "1"
+                },
+
+                {
+                        "id": "46794db7-8228-11ee-b937-5f0c01328bcf",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1117720,
+                        "end": 1119360,
+                        "content": "up"
+                },
+
+                {
+                        "id": "bcdc0f17-8228-11ee-b937-5f0c01328bcf",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1117720,
+                        "end": 1119360,
+                        "content": "6"
+                },
+
+                {
+                        "id": "1c0119a1-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1117720,
+                        "end": 1119360,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "1e30ac73-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1117720,
+                        "end": 1119360,
+                        "content": "static"
+                },
+
+                {
+                        "id": "8faafa90-73ff-11ee-81e7-ed77b3d93962",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1119360,
+                        "end": 1123080,
+                        "content": ""
+                },
+
+                {
+                        "id": "90b556b8-7401-11ee-81e7-ed77b3d93962",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1119360,
+                        "end": 1123080,
+                        "content": "extreme closeup"
+                },
+
+                {
+                        "id": "dc62c226-8225-11ee-b937-5f0c01328bcf",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1119360,
+                        "end": 1123080,
+                        "content": "writing,object"
+                },
+
+                {
+                        "id": "d4faed7c-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1119360,
+                        "end": 1123080,
+                        "content": "2,[VS],0"
+                },
+
+                {
+                        "id": "46794db8-8228-11ee-b937-5f0c01328bcf",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1119360,
+                        "end": 1123080,
+                        "content": "up"
+                },
+
+                {
+                        "id": "bcdc0f18-8228-11ee-b937-5f0c01328bcf",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1119360,
+                        "end": 1123080,
+                        "content": "7"
+                },
+
+                {
+                        "id": "fcd038c8-8228-11ee-b937-5f0c01328bcf",
+                        "type": "FoundFootage",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1119360,
+                        "end": 1123080,
+                        "content": "tbd"
+                },
+
+                {
+                        "id": "1c0119a2-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1119360,
+                        "end": 1123080,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "1e30ac74-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1119360,
+                        "end": 1123080,
+                        "content": "static"
+                },
+
+                {
+                        "id": "80a9e642-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1121994,
+                        "end": 1124930,
+                        "content": "But the new computer is\ndefinitely helping."
+                },
+
+                {
+                        "id": "83baafba-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1121994,
+                        "end": 1124930,
+                        "content": "disgusted (im sinne von distanziert)"
+                },
+
+                {
+                        "id": "8faafa94-73ff-11ee-81e7-ed77b3d93962",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1123080,
+                        "end": 1125000,
+                        "content": ""
+                },
+
+                {
+                        "id": "90b556b9-7401-11ee-81e7-ed77b3d93962",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1123080,
+                        "end": 1125000,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "dc62c227-8225-11ee-b937-5f0c01328bcf",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1123080,
+                        "end": 1125000,
+                        "content": "single,human being"
+                },
+
+                {
+                        "id": "d4faed7d-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1123080,
+                        "end": 1125000,
+                        "content": "1"
+                },
+
+                {
+                        "id": "46794db9-8228-11ee-b937-5f0c01328bcf",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1123080,
+                        "end": 1125000,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "bcdc0f19-8228-11ee-b937-5f0c01328bcf",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1123080,
+                        "end": 1125000,
+                        "content": "8"
+                },
+
+                {
+                        "id": "1c0119a3-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1123080,
+                        "end": 1125000,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "1e30ac75-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1123080,
+                        "end": 1125000,
+                        "content": "static"
+                },
+
+                {
+                        "id": "8faafa95-73ff-11ee-81e7-ed77b3d93962",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1125000,
+                        "end": 1127240,
+                        "content": ""
+                },
+
+                {
+                        "id": "90b556ba-7401-11ee-81e7-ed77b3d93962",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1125000,
+                        "end": 1127240,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "dc62c228-8225-11ee-b937-5f0c01328bcf",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1125000,
+                        "end": 1127240,
+                        "content": "object,writing"
+                },
+
+                {
+                        "id": "8603c026-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1125000,
+                        "end": 1127240,
+                        "content": "red,darkblue"
+                },
+
+                {
+                        "id": "d4faed7e-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1125000,
+                        "end": 1127240,
+                        "content": "3,[VS],0"
+                },
+
+                {
+                        "id": "46794dba-8228-11ee-b937-5f0c01328bcf",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1125000,
+                        "end": 1127240,
+                        "content": "up"
+                },
+
+                {
+                        "id": "bcdc0f1a-8228-11ee-b937-5f0c01328bcf",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1125000,
+                        "end": 1127240,
+                        "content": "9"
+                },
+
+                {
+                        "id": "00577f10-8229-11ee-b937-5f0c01328bcf",
+                        "type": "FoundFootage",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1125000,
+                        "end": 1127240,
+                        "content": "tbd"
+                },
+
+                {
+                        "id": "1c0119a4-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1125000,
+                        "end": 1127240,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "1e30ac76-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1125000,
+                        "end": 1127240,
+                        "content": "static"
+                },
+
+                {
+                        "id": "8faafa96-73ff-11ee-81e7-ed77b3d93962",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1127240,
+                        "end": 1129120,
+                        "content": ""
+                },
+
+                {
+                        "id": "90b556bb-7401-11ee-81e7-ed77b3d93962",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1127240,
+                        "end": 1129120,
+                        "content": "extreme closeup"
+                },
+
+                {
+                        "id": "dc62c229-8225-11ee-b937-5f0c01328bcf",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1127240,
+                        "end": 1129120,
+                        "content": "single,human being"
+                },
+
+                {
+                        "id": "d4faed7f-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1127240,
+                        "end": 1129120,
+                        "content": "1"
+                },
+
+                {
+                        "id": "46794dbb-8228-11ee-b937-5f0c01328bcf",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1127240,
+                        "end": 1129120,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "bcdc0f1b-8228-11ee-b937-5f0c01328bcf",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1127240,
+                        "end": 1129120,
+                        "content": "10"
+                },
+
+                {
+                        "id": "1c0119a5-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1127240,
+                        "end": 1129120,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "1e30ac77-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1127240,
+                        "end": 1129120,
+                        "content": "static"
+                },
+
+                {
+                        "id": "8faafa97-73ff-11ee-81e7-ed77b3d93962",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1129120,
+                        "end": 1131680,
+                        "content": ""
+                },
+
+                {
+                        "id": "90b556bc-7401-11ee-81e7-ed77b3d93962",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1129120,
+                        "end": 1131680,
+                        "content": "extreme closeup"
+                },
+
+                {
+                        "id": "dc62c22a-8225-11ee-b937-5f0c01328bcf",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1129120,
+                        "end": 1131680,
+                        "content": "writing"
+                },
+
+                {
+                        "id": "9805ebf0-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1129120,
+                        "end": 1131680,
+                        "content": "darkblue,red"
+                },
+
+                {
+                        "id": "d4faed80-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1129120,
+                        "end": 1131680,
+                        "content": "2,[TO],0"
+                },
+
+                {
+                        "id": "46794dbc-8228-11ee-b937-5f0c01328bcf",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1129120,
+                        "end": 1131680,
+                        "content": "up"
+                },
+
+                {
+                        "id": "bcdc0f1c-8228-11ee-b937-5f0c01328bcf",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1129120,
+                        "end": 1131680,
+                        "content": "11"
+                },
+
+                {
+                        "id": "044200e6-8229-11ee-b937-5f0c01328bcf",
+                        "type": "FoundFootage",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1129120,
+                        "end": 1131680,
+                        "content": "tbd graphics"
+                },
+
+                {
+                        "id": "1c0119a6-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1129120,
+                        "end": 1131680,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "1e30ac78-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1129120,
+                        "end": 1131680,
+                        "content": "static"
+                },
+
+                {
+                        "id": "80a9e643-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1130635,
+                        "end": 1131971,
+                        "content": "Yeah, you know what,"
+                },
+
+                {
+                        "id": "83baafbb-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1130635,
+                        "end": 1131971,
+                        "content": "disgusted (im sinne von distanziert)"
+                },
+
+                {
+                        "id": "8faafa99-73ff-11ee-81e7-ed77b3d93962",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1131680,
+                        "end": 1135400,
+                        "content": ""
+                },
+
+                {
+                        "id": "90b556bd-7401-11ee-81e7-ed77b3d93962",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1131680,
+                        "end": 1135400,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "dc62c22b-8225-11ee-b937-5f0c01328bcf",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1131680,
+                        "end": 1135400,
+                        "content": "single,human being"
+                },
+
+                {
+                        "id": "d4faed81-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1131680,
+                        "end": 1135400,
+                        "content": "1"
+                },
+
+                {
+                        "id": "46794dbd-8228-11ee-b937-5f0c01328bcf",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1131680,
+                        "end": 1135400,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "bcdc0f1d-8228-11ee-b937-5f0c01328bcf",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1131680,
+                        "end": 1135400,
+                        "content": "12"
+                },
+
+                {
+                        "id": "1c0119a7-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1131680,
+                        "end": 1135400,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "1e30ac79-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1131680,
+                        "end": 1135400,
+                        "content": "static"
+                },
+
+                {
+                        "id": "80a9e644-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1132004,
+                        "end": 1134772,
+                        "content": "I have to, uh...\nI actually have to go study."
+                },
+
+                {
+                        "id": "83baafbc-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1132004,
+                        "end": 1134772,
+                        "content": "disgusted (im sinne von distanziert)"
+                },
+
+                {
+                        "id": "8faafa9a-73ff-11ee-81e7-ed77b3d93962",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1135400,
+                        "end": 1138355,
+                        "content": ""
+                },
+
+                {
+                        "id": "90b556be-7401-11ee-81e7-ed77b3d93962",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1135400,
+                        "end": 1138355,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "dc62c22c-8225-11ee-b937-5f0c01328bcf",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1135400,
+                        "end": 1138355,
+                        "content": "object"
+                },
+
+                {
+                        "id": "a2ab5158-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1135400,
+                        "end": 1138355,
+                        "content": "red,orange,darkblue"
+                },
+
+                {
+                        "id": "d4faed82-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1135400,
+                        "end": 1138355,
+                        "content": "2"
+                },
+
+                {
+                        "id": "46794dbe-8228-11ee-b937-5f0c01328bcf",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1135400,
+                        "end": 1138355,
+                        "content": "down"
+                },
+
+                {
+                        "id": "bcdc0f1e-8228-11ee-b937-5f0c01328bcf",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1135400,
+                        "end": 1138355,
+                        "content": "13"
+                },
+
+                {
+                        "id": "0fc47836-8229-11ee-b937-5f0c01328bcf",
+                        "type": "FoundFootage",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1135400,
+                        "end": 1138355,
+                        "content": "tbd graphics"
+                },
+
+                {
+                        "id": "1c0119a8-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1135400,
+                        "end": 1138355,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "1e30ac7a-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1135400,
+                        "end": 1138355,
+                        "content": "static"
+                },
+
+                {
+                        "id": "80a9e645-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1135941,
+                        "end": 1137542,
+                        "content": "I love you, too. Bye."
+                },
+
+                {
+                        "id": "83baafbd-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1135941,
+                        "end": 1137542,
+                        "content": "disgusted (im sinne von distanziert)"
+                },
+
+                {
+                        "id": "518ec572-822a-11ee-b937-5f0c01328bcf",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1137181,
+                        "end": 1137832,
+                        "content": "explosive"
+                },
+
+                {
+                        "id": "5a213814-822a-11ee-b937-5f0c01328bcf",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1138293,
+                        "end": 1139152,
+                        "content": "explosive"
+                },
+
+                {
+                        "id": "601b4246-7401-11ee-81e7-ed77b3d93962",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1138355,
+                        "end": 1141960,
+                        "content": ""
+                },
+
+                {
+                        "id": "90b556bf-7401-11ee-81e7-ed77b3d93962",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1138355,
+                        "end": 1141960,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "dc62c22d-8225-11ee-b937-5f0c01328bcf",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1138355,
+                        "end": 1141960,
+                        "content": "single,human being"
+                },
+
+                {
+                        "id": "d4faed83-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1138355,
+                        "end": 1141960,
+                        "content": "3"
+                },
+
+                {
+                        "id": "46794dbf-8228-11ee-b937-5f0c01328bcf",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1138355,
+                        "end": 1141960,
+                        "content": "down,up"
+                },
+
+                {
+                        "id": "bcdc0f1f-8228-11ee-b937-5f0c01328bcf",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1138355,
+                        "end": 1141960,
+                        "content": "14"
+                },
+
+                {
+                        "id": "1c0119a9-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1138355,
+                        "end": 1141960,
+                        "content": "high-angle,[TO],straight-angle"
+                },
+
+                {
+                        "id": "1e30ac7b-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1138355,
+                        "end": 1141960,
+                        "content": "tilt"
+                },
+
+                {
+                        "id": "a5ad985a-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1138355,
+                        "end": 1141960,
+                        "content": "down,up"
+                },
+
+                {
+                        "id": "bf935caa-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1138355,
+                        "end": 1141960,
+                        "content": "fast"
+                },
+
+                {
+                        "id": "458b2b76-822a-11ee-b937-5f0c01328bcf",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1141166,
+                        "end": 1143220,
+                        "content": "whirring"
+                },
+
+                {
+                        "id": "8faafa9b-73ff-11ee-81e7-ed77b3d93962",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1141960,
+                        "end": 1150160,
+                        "content": ""
+                },
+
+                {
+                        "id": "90b556c0-7401-11ee-81e7-ed77b3d93962",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1141960,
+                        "end": 1150160,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "dc62c22e-8225-11ee-b937-5f0c01328bcf",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1141960,
+                        "end": 1150160,
+                        "content": "single,human being"
+                },
+
+                {
+                        "id": "d4faed84-8227-11ee-b937-5f0c01328bcf",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1141960,
+                        "end": 1150160,
+                        "content": "1"
+                },
+
+                {
+                        "id": "46794dc0-8228-11ee-b937-5f0c01328bcf",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1141960,
+                        "end": 1150160,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "bcdc0f20-8228-11ee-b937-5f0c01328bcf",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1141960,
+                        "end": 1150160,
+                        "content": "15"
+                },
+
+                {
+                        "id": "1c0119aa-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1141960,
+                        "end": 1150160,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "1e30ac7c-8229-11ee-b937-5f0c01328bcf",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1141960,
+                        "end": 1150160,
+                        "content": "static"
+                },
+
+                {
+                        "id": "80a9e647-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1144216,
+                        "end": 1145117,
+                        "content": "[Xochitl] <i>[over phone]</i>\n<i>Hello?</i> "
+                },
+
+                {
+                        "id": "83baafbf-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1144216,
+                        "end": 1145117,
+                        "content": "insecure"
+                },
+
+                {
+                        "id": "80a9e648-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1145150,
+                        "end": 1146651,
+                        "content": "[Shawn] Hey, Xochitl?"
+                },
+
+                {
+                        "id": "83baafc0-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1145150,
+                        "end": 1146651,
+                        "content": "insecure"
+                },
+
+                {
+                        "id": "80a9e649-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1146684,
+                        "end": 1147887,
+                        "content": "[Xochitl] <i>[over phone]</i>\nWho is this?"
+                },
+
+                {
+                        "id": "83baafc1-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1146684,
+                        "end": 1147887,
+                        "content": "insecure"
+                },
+
+                {
+                        "id": "80a9e64a-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1148020,
+                        "end": 1150116,
+                        "content": "[Shawn] Yeah, it's Shawn\nfrom Divest."
+                },
+
+                {
+                        "id": "83baafc2-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 1148020,
+                        "end": 1150116,
+                        "content": "insecure"
+                },
+
+                {
+                        "id": "80a9e79b-8225-11ee-b937-5f0c01328bcf",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Advene%2520DATA/Videos/Daniel%2520Goldhaber_HOW_TO_BLOW_UP_A_PIPELINE_2022.mp4",
+                        "begin": 6171810,
+                        "end": 6174512,
+                        "content": "[♪♪♪]"
+                }
+
+] }

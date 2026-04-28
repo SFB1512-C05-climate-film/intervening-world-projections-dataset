@@ -1,0 +1,1479 @@
+{ "annotations": [
+
+                {
+                        "id": "099399fa-fe61-11ef-9fe5-7242363b2846",
+                        "type": "Scene",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 994280,
+                        "end": 1092080,
+                        "content": "Scene 06_The Amur Leopard On The Brink Of Extinction"
+                },
+
+                {
+                        "id": "929a0946-0046-11f0-b73b-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 994280,
+                        "end": 1002760,
+                        "content": "131"
+                },
+
+                {
+                        "id": "7ef9231c-0047-11f0-b73b-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 994280,
+                        "end": 1002760,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "832eedea-0047-11f0-b73b-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 994280,
+                        "end": 1002760,
+                        "content": ""
+                },
+
+                {
+                        "id": "95016e80-0047-11f0-b73b-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 994280,
+                        "end": 1002760,
+                        "content": "1,[VS],0"
+                },
+
+                {
+                        "id": "961d8560-0047-11f0-b73b-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 994280,
+                        "end": 1002760,
+                        "content": "left"
+                },
+
+                {
+                        "id": "972b1cec-0047-11f0-b73b-7242363b2846",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 994280,
+                        "end": 1092080,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "99405a74-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 994280,
+                        "end": 1002760,
+                        "content": "pan,tilt"
+                },
+
+                {
+                        "id": "9b81cc8c-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 994280,
+                        "end": 1002760,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "9cf45cd8-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 994280,
+                        "end": 1002760,
+                        "content": "left,down"
+                },
+
+                {
+                        "id": "9e5de350-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 994280,
+                        "end": 1002760,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "975f7e86-00a8-11f0-b73b-7242363b2846",
+                        "type": "ExpressiveMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 994280,
+                        "end": 1171380,
+                        "content": ""
+                },
+
+                {
+                        "id": "9aa34ff0-00a8-11f0-b73b-7242363b2846",
+                        "type": "MusicMood",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 994280,
+                        "end": 1092238,
+                        "content": "sad"
+                },
+
+                {
+                        "id": "dc70d7b2-fe60-11ef-a831-7242363b2846",
+                        "type": "dc3bd134-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 994320,
+                        "end": 1002840,
+                        "content": "131"
+                },
+
+                {
+                        "id": "dd62e8a4-fe60-11ef-a831-7242363b2846",
+                        "type": "dd23e140-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 994360,
+                        "end": 1002880,
+                        "content": "111"
+                },
+
+                {
+                        "id": "03e974de-fe61-11ef-9fe5-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 998938,
+                        "end": 1003136,
+                        "content": "The Amur leopard, the rarest cat in the world."
+                },
+
+                {
+                        "id": "5fc59b66-0046-11f0-b73b-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 998938,
+                        "end": 1003136,
+                        "content": "The Amur leopard, the rarest cat in the world."
+                },
+
+                {
+                        "id": "5e6a356a-0046-11f0-b73b-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1002760,
+                        "end": 1016920,
+                        "content": "132"
+                },
+
+                {
+                        "id": "7ef973ee-0047-11f0-b73b-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1002760,
+                        "end": 1016920,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "832efb96-0047-11f0-b73b-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1002760,
+                        "end": 1016920,
+                        "content": ""
+                },
+
+                {
+                        "id": "95018762-0047-11f0-b73b-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1002760,
+                        "end": 1016920,
+                        "content": "1"
+                },
+
+                {
+                        "id": "961da7c0-0047-11f0-b73b-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1002760,
+                        "end": 1016920,
+                        "content": "right,down"
+                },
+
+                {
+                        "id": "99406c94-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1002760,
+                        "end": 1016920,
+                        "content": "pan,tilt"
+                },
+
+                {
+                        "id": "9b81e532-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1002760,
+                        "end": 1016920,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "9cf47a92-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1002760,
+                        "end": 1016920,
+                        "content": "right,up,down"
+                },
+
+                {
+                        "id": "9e5df976-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1002760,
+                        "end": 1016920,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "dc71291a-fe60-11ef-a831-7242363b2846",
+                        "type": "dc3bd134-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1002840,
+                        "end": 1017000,
+                        "content": "132"
+                },
+
+                {
+                        "id": "dd635ee2-fe60-11ef-a831-7242363b2846",
+                        "type": "dd23e140-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1002880,
+                        "end": 1017040,
+                        "content": "112"
+                },
+
+                {
+                        "id": "03e97ec0-fe61-11ef-9fe5-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1006737,
+                        "end": 1012050,
+                        "content": "Here, in the deciduous forests of eastern Russia,\nthe winter makes hunting very difficult."
+                },
+
+                {
+                        "id": "5fc5be0c-0046-11f0-b73b-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1006737,
+                        "end": 1012050,
+                        "content": "Here, in the deciduous forests of eastern Russia, the winter makes hunting very difficult."
+                },
+
+                {
+                        "id": "03e98870-fe61-11ef-9fe5-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1012497,
+                        "end": 1016456,
+                        "content": "Prey animals are scarce\nand there's no concealing vegetation."
+                },
+
+                {
+                        "id": "5fc5caaa-0046-11f0-b73b-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1012497,
+                        "end": 1016456,
+                        "content": "Prey animals are scarce and there's no concealing vegetation."
+                },
+
+                {
+                        "id": "5e6a3cfe-0046-11f0-b73b-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1016920,
+                        "end": 1019560,
+                        "content": "133"
+                },
+
+                {
+                        "id": "7ef9fd1e-0047-11f0-b73b-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1016920,
+                        "end": 1019560,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "832f01f4-0047-11f0-b73b-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1016920,
+                        "end": 1019560,
+                        "content": ""
+                },
+
+                {
+                        "id": "95019194-0047-11f0-b73b-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1016920,
+                        "end": 1019560,
+                        "content": "1"
+                },
+
+                {
+                        "id": "961db738-0047-11f0-b73b-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1016920,
+                        "end": 1019560,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "99407504-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1016920,
+                        "end": 1019560,
+                        "content": "static"
+                },
+
+                {
+                        "id": "9e5e0240-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1016920,
+                        "end": 1019560,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "dc717f1e-fe60-11ef-a831-7242363b2846",
+                        "type": "dc3bd134-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1017000,
+                        "end": 1019640,
+                        "content": "133"
+                },
+
+                {
+                        "id": "dd63d3b8-fe60-11ef-a831-7242363b2846",
+                        "type": "dd23e140-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1017040,
+                        "end": 1019680,
+                        "content": "113"
+                },
+
+                {
+                        "id": "5e6a4348-0046-11f0-b73b-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1019560,
+                        "end": 1024080,
+                        "content": "134"
+                },
+
+                {
+                        "id": "7efa154c-0047-11f0-b73b-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1019560,
+                        "end": 1024080,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "832f07f8-0047-11f0-b73b-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1019560,
+                        "end": 1024080,
+                        "content": ""
+                },
+
+                {
+                        "id": "95019afe-0047-11f0-b73b-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1019560,
+                        "end": 1024080,
+                        "content": "1"
+                },
+
+                {
+                        "id": "961dc66a-0047-11f0-b73b-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1019560,
+                        "end": 1024080,
+                        "content": "left"
+                },
+
+                {
+                        "id": "99407d42-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1019560,
+                        "end": 1024080,
+                        "content": "static"
+                },
+
+                {
+                        "id": "9e5e0a9c-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1019560,
+                        "end": 1024080,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "dc71d130-fe60-11ef-a831-7242363b2846",
+                        "type": "dc3bd134-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1019640,
+                        "end": 1024160,
+                        "content": "134"
+                },
+
+                {
+                        "id": "dd644e38-fe60-11ef-a831-7242363b2846",
+                        "type": "dd23e140-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1019680,
+                        "end": 1024200,
+                        "content": "114"
+                },
+
+                {
+                        "id": "03e991f8-fe61-11ef-9fe5-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1020017,
+                        "end": 1023453,
+                        "content": "The cub is a year old\nand still dependent on its mother."
+                },
+
+                {
+                        "id": "5fc5d608-0046-11f0-b73b-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1020017,
+                        "end": 1023453,
+                        "content": "The cub is a year old and still dependent on its mother."
+                },
+
+                {
+                        "id": "5e6a4ae6-0046-11f0-b73b-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1024080,
+                        "end": 1031160,
+                        "content": "135"
+                },
+
+                {
+                        "id": "7efa2bae-0047-11f0-b73b-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1024080,
+                        "end": 1031160,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "832f0dfc-0047-11f0-b73b-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1024080,
+                        "end": 1031160,
+                        "content": ""
+                },
+
+                {
+                        "id": "9501a4d6-0047-11f0-b73b-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1024080,
+                        "end": 1031160,
+                        "content": "1"
+                },
+
+                {
+                        "id": "961dd592-0047-11f0-b73b-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1024080,
+                        "end": 1031160,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "99408508-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1024080,
+                        "end": 1031160,
+                        "content": "pan"
+                },
+
+                {
+                        "id": "9b820e9a-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1024080,
+                        "end": 1031160,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "9cf495c2-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1024080,
+                        "end": 1031160,
+                        "content": "right"
+                },
+
+                {
+                        "id": "9e5e1708-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1024080,
+                        "end": 1031160,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "dc722266-fe60-11ef-a831-7242363b2846",
+                        "type": "dc3bd134-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1024160,
+                        "end": 1031240,
+                        "content": "135"
+                },
+
+                {
+                        "id": "dd64c5f2-fe60-11ef-a831-7242363b2846",
+                        "type": "dd23e140-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1024200,
+                        "end": 1031280,
+                        "content": "115"
+                },
+
+                {
+                        "id": "b3505ac0-00a8-11f0-b73b-7242363b2846",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1025601,
+                        "end": 1027291,
+                        "content": "explosive"
+                },
+
+                {
+                        "id": "5e6a50ea-0046-11f0-b73b-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1031160,
+                        "end": 1033200,
+                        "content": "136"
+                },
+
+                {
+                        "id": "7efa49fe-0047-11f0-b73b-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1031160,
+                        "end": 1033200,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "832f1392-0047-11f0-b73b-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1031160,
+                        "end": 1033200,
+                        "content": ""
+                },
+
+                {
+                        "id": "9501ae18-0047-11f0-b73b-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1031160,
+                        "end": 1033200,
+                        "content": "0,[VS],1"
+                },
+
+                {
+                        "id": "961de384-0047-11f0-b73b-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1031160,
+                        "end": 1033200,
+                        "content": "undirected,left"
+                },
+
+                {
+                        "id": "9940f51a-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1031160,
+                        "end": 1033200,
+                        "content": "static"
+                },
+
+                {
+                        "id": "9e5e1e88-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1031160,
+                        "end": 1033200,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "dc727464-fe60-11ef-a831-7242363b2846",
+                        "type": "dc3bd134-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1031240,
+                        "end": 1033280,
+                        "content": "136"
+                },
+
+                {
+                        "id": "dd653a96-fe60-11ef-a831-7242363b2846",
+                        "type": "dd23e140-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1031280,
+                        "end": 1033320,
+                        "content": "116"
+                },
+
+                {
+                        "id": "03e99b3a-fe61-11ef-9fe5-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1031977,
+                        "end": 1035526,
+                        "content": "Deer are frequent casualties of the harsh winter"
+                },
+
+                {
+                        "id": "5fc5e102-0046-11f0-b73b-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1031977,
+                        "end": 1035526,
+                        "content": "Deer are frequent casualties of the harsh winter"
+                },
+
+                {
+                        "id": "5e6a57e8-0046-11f0-b73b-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1033200,
+                        "end": 1034320,
+                        "content": "137"
+                },
+
+                {
+                        "id": "7efa5e1c-0047-11f0-b73b-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1033200,
+                        "end": 1034320,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "832f1b94-0047-11f0-b73b-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1033200,
+                        "end": 1034320,
+                        "content": ""
+                },
+
+                {
+                        "id": "9501b87c-0047-11f0-b73b-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1033200,
+                        "end": 1034320,
+                        "content": "0,[VS],1"
+                },
+
+                {
+                        "id": "961df108-0047-11f0-b73b-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1033200,
+                        "end": 1034320,
+                        "content": "left"
+                },
+
+                {
+                        "id": "9e5e26f8-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1033200,
+                        "end": 1034320,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "9940fcc2-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1033200,
+                        "end": 1034320,
+                        "content": "static"
+                },
+
+                {
+                        "id": "dc72ca36-fe60-11ef-a831-7242363b2846",
+                        "type": "dc3bd134-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1033280,
+                        "end": 1034400,
+                        "content": "137"
+                },
+
+                {
+                        "id": "dd65b034-fe60-11ef-a831-7242363b2846",
+                        "type": "dd23e140-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1033320,
+                        "end": 1034440,
+                        "content": "117"
+                },
+
+                {
+                        "id": "5e6a5dce-0046-11f0-b73b-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1034320,
+                        "end": 1047080,
+                        "content": "138"
+                },
+
+                {
+                        "id": "7efa726c-0047-11f0-b73b-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1034320,
+                        "end": 1047080,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "832f23fa-0047-11f0-b73b-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1034320,
+                        "end": 1047080,
+                        "content": ""
+                },
+
+                {
+                        "id": "9501c308-0047-11f0-b73b-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1034320,
+                        "end": 1047080,
+                        "content": "1"
+                },
+
+                {
+                        "id": "961e07ce-0047-11f0-b73b-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1034320,
+                        "end": 1047080,
+                        "content": "left,down"
+                },
+
+                {
+                        "id": "994104b0-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1034320,
+                        "end": 1047080,
+                        "content": "pan,tilt"
+                },
+
+                {
+                        "id": "9b822916-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1034320,
+                        "end": 1047080,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "9cf4ad28-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1034320,
+                        "end": 1047080,
+                        "content": "left,down"
+                },
+
+                {
+                        "id": "9e5e2e8c-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1034320,
+                        "end": 1047080,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "dc731cca-fe60-11ef-a831-7242363b2846",
+                        "type": "dc3bd134-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1034400,
+                        "end": 1047160,
+                        "content": "138"
+                },
+
+                {
+                        "id": "dd6629ba-fe60-11ef-a831-7242363b2846",
+                        "type": "dd23e140-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1034440,
+                        "end": 1047200,
+                        "content": "118"
+                },
+
+                {
+                        "id": "03e9a53a-fe61-11ef-9fe5-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1035617,
+                        "end": 1039166,
+                        "content": "and these leopards are not above\nscavenging from a corpse."
+                },
+
+                {
+                        "id": "5fc5ec24-0046-11f0-b73b-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1035617,
+                        "end": 1039166,
+                        "content": "and these leopards are not above scavenging from a corpse."
+                },
+
+                {
+                        "id": "03e9aed6-fe61-11ef-9fe5-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1040057,
+                        "end": 1043094,
+                        "content": "African leopards could never survive here"
+                },
+
+                {
+                        "id": "5fc5f714-0046-11f0-b73b-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1040057,
+                        "end": 1043094,
+                        "content": "African leopards could never survive here"
+                },
+
+                {
+                        "id": "03e9b890-fe61-11ef-9fe5-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1043617,
+                        "end": 1047610,
+                        "content": "but the Russian cats have thick fur\nto shield them from the cold."
+                },
+
+                {
+                        "id": "5fc6034e-0046-11f0-b73b-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1043617,
+                        "end": 1047610,
+                        "content": "but the Russian cats have thick fur to shield them from the cold."
+                },
+
+                {
+                        "id": "5e6a6396-0046-11f0-b73b-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1047080,
+                        "end": 1049920,
+                        "content": "139"
+                },
+
+                {
+                        "id": "7efa8748-0047-11f0-b73b-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1047080,
+                        "end": 1049920,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "832f2be8-0047-11f0-b73b-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1047080,
+                        "end": 1049920,
+                        "content": ""
+                },
+
+                {
+                        "id": "9501ccf4-0047-11f0-b73b-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1047080,
+                        "end": 1049920,
+                        "content": "1"
+                },
+
+                {
+                        "id": "961e1638-0047-11f0-b73b-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1047080,
+                        "end": 1049920,
+                        "content": "up"
+                },
+
+                {
+                        "id": "99410bd6-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1047080,
+                        "end": 1049920,
+                        "content": "static"
+                },
+
+                {
+                        "id": "9e5e359e-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1047080,
+                        "end": 1049920,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "dc736e78-fe60-11ef-a831-7242363b2846",
+                        "type": "dc3bd134-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1047160,
+                        "end": 1050000,
+                        "content": "139"
+                },
+
+                {
+                        "id": "dd669f08-fe60-11ef-a831-7242363b2846",
+                        "type": "dd23e140-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1047200,
+                        "end": 1050040,
+                        "content": "119"
+                },
+
+                {
+                        "id": "5e6a6dd2-0046-11f0-b73b-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1049920,
+                        "end": 1061520,
+                        "content": "140"
+                },
+
+                {
+                        "id": "7efa9daa-0047-11f0-b73b-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1049920,
+                        "end": 1061520,
+                        "content": "shoulder closeup,[TO],closeup"
+                },
+
+                {
+                        "id": "832f33e0-0047-11f0-b73b-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1049920,
+                        "end": 1061520,
+                        "content": ""
+                },
+
+                {
+                        "id": "9501d604-0047-11f0-b73b-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1049920,
+                        "end": 1061520,
+                        "content": "1"
+                },
+
+                {
+                        "id": "961e23d0-0047-11f0-b73b-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1049920,
+                        "end": 1061520,
+                        "content": "up,down"
+                },
+
+                {
+                        "id": "994112f2-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1049920,
+                        "end": 1061520,
+                        "content": "tilt,pan"
+                },
+
+                {
+                        "id": "9b82397e-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1049920,
+                        "end": 1061520,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "9cf4bbec-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1049920,
+                        "end": 1061520,
+                        "content": "up,left,down"
+                },
+
+                {
+                        "id": "9e5e3cb0-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1049920,
+                        "end": 1061520,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "dc73c0da-fe60-11ef-a831-7242363b2846",
+                        "type": "dc3bd134-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1050000,
+                        "end": 1061600,
+                        "content": "140"
+                },
+
+                {
+                        "id": "dd6715aa-fe60-11ef-a831-7242363b2846",
+                        "type": "dd23e140-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1050040,
+                        "end": 1061640,
+                        "content": "120"
+                },
+
+                {
+                        "id": "03e9c254-fe61-11ef-9fe5-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1054096,
+                        "end": 1059568,
+                        "content": "There are only 40 Amur leopards left in the wild,\nand that number is falling."
+                },
+
+                {
+                        "id": "5fc60fb0-0046-11f0-b73b-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1054096,
+                        "end": 1059568,
+                        "content": "There are only 40 Amur leopards left in the wild, and that number is falling."
+                },
+
+                {
+                        "id": "5e6a73a4-0046-11f0-b73b-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1061520,
+                        "end": 1067200,
+                        "content": "141"
+                },
+
+                {
+                        "id": "7efab27c-0047-11f0-b73b-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1061520,
+                        "end": 1067200,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "832f3c00-0047-11f0-b73b-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1061520,
+                        "end": 1067200,
+                        "content": ""
+                },
+
+                {
+                        "id": "9501ded8-0047-11f0-b73b-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1061520,
+                        "end": 1067200,
+                        "content": "1"
+                },
+
+                {
+                        "id": "961e3122-0047-11f0-b73b-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1061520,
+                        "end": 1067200,
+                        "content": "left,down"
+                },
+
+                {
+                        "id": "99411a2c-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1061520,
+                        "end": 1067200,
+                        "content": "static"
+                },
+
+                {
+                        "id": "9e5e43fe-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1061520,
+                        "end": 1067200,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "03e9cc04-fe61-11ef-9fe5-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1061576,
+                        "end": 1066047,
+                        "content": "Like so many creatures, the cats\nhave been pushed to the very edge of extinction"
+                },
+
+                {
+                        "id": "5fc61c44-0046-11f0-b73b-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1061576,
+                        "end": 1066047,
+                        "content": "Like so many creatures, the cats have been pushed to the very edge of extinction"
+                },
+
+                {
+                        "id": "dc7415ee-fe60-11ef-a831-7242363b2846",
+                        "type": "dc3bd134-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1061600,
+                        "end": 1067280,
+                        "content": "141"
+                },
+
+                {
+                        "id": "dd678fbc-fe60-11ef-a831-7242363b2846",
+                        "type": "dd23e140-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1061640,
+                        "end": 1067320,
+                        "content": "121"
+                },
+
+                {
+                        "id": "03e9d4f6-fe61-11ef-9fe5-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1066136,
+                        "end": 1069333,
+                        "content": "by hunting and the destruction of their habitat."
+                },
+
+                {
+                        "id": "5fc6287e-0046-11f0-b73b-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1066136,
+                        "end": 1069333,
+                        "content": "by hunting and the destruction of their habitat."
+                },
+
+                {
+                        "id": "5e6a796c-0046-11f0-b73b-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1067200,
+                        "end": 1077520,
+                        "content": "142"
+                },
+
+                {
+                        "id": "7efac62c-0047-11f0-b73b-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1067200,
+                        "end": 1077520,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "832f4510-0047-11f0-b73b-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1067200,
+                        "end": 1077520,
+                        "content": ""
+                },
+
+                {
+                        "id": "9501e7de-0047-11f0-b73b-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1067200,
+                        "end": 1077520,
+                        "content": "1"
+                },
+
+                {
+                        "id": "961e3e9c-0047-11f0-b73b-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1067200,
+                        "end": 1077520,
+                        "content": "up,left,right"
+                },
+
+                {
+                        "id": "9941215c-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1067200,
+                        "end": 1077520,
+                        "content": "tilt,pan"
+                },
+
+                {
+                        "id": "9b824982-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1067200,
+                        "end": 1077520,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "9cf4cb0a-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1067200,
+                        "end": 1077520,
+                        "content": "right,up,left,down"
+                },
+
+                {
+                        "id": "9e5e4b60-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1067200,
+                        "end": 1077520,
+                        "content": "low-angle,[TO],high-angle"
+                },
+
+                {
+                        "id": "dc74686e-fe60-11ef-a831-7242363b2846",
+                        "type": "dc3bd134-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1067280,
+                        "end": 1077600,
+                        "content": "142"
+                },
+
+                {
+                        "id": "dd68065e-fe60-11ef-a831-7242363b2846",
+                        "type": "dd23e140-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1067320,
+                        "end": 1077640,
+                        "content": "122"
+                },
+
+                {
+                        "id": "03e9dea6-fe61-11ef-9fe5-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1071496,
+                        "end": 1076490,
+                        "content": "The Amur leopard symbolises the fragility\nof our natural heritage."
+                },
+
+                {
+                        "id": "5fc634d6-0046-11f0-b73b-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1071496,
+                        "end": 1076490,
+                        "content": "The Amur leopard symbolises the fragility of our natural heritage."
+                },
+
+                {
+                        "id": "5e6a7f48-0046-11f0-b73b-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1077520,
+                        "end": 1092080,
+                        "content": "143"
+                },
+
+                {
+                        "id": "7efad9c8-0047-11f0-b73b-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1077520,
+                        "end": 1092080,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "832f4d58-0047-11f0-b73b-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1077520,
+                        "end": 1092080,
+                        "content": ""
+                },
+
+                {
+                        "id": "9501f0b2-0047-11f0-b73b-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1077520,
+                        "end": 1092080,
+                        "content": "1,[VS],0"
+                },
+
+                {
+                        "id": "961e4cac-0047-11f0-b73b-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1077520,
+                        "end": 1092080,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "99412896-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1077520,
+                        "end": 1092080,
+                        "content": "static"
+                },
+
+                {
+                        "id": "9e5e52e0-0047-11f0-b73b-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1077520,
+                        "end": 1092080,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "03e9e8a6-fe61-11ef-9fe5-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1077575,
+                        "end": 1081727,
+                        "content": "The future of an entire species\nhangs on the survival"
+                },
+
+                {
+                        "id": "5fc640fc-0046-11f0-b73b-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1077575,
+                        "end": 1081727,
+                        "content": "The future of an entire species hangs on the survival"
+                },
+
+                {
+                        "id": "dc74bbac-fe60-11ef-a831-7242363b2846",
+                        "type": "dc3bd134-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1077600,
+                        "end": 1092120,
+                        "content": "143"
+                },
+
+                {
+                        "id": "dd687dd2-fe60-11ef-a831-7242363b2846",
+                        "type": "dd23e140-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1077640,
+                        "end": 1092160,
+                        "content": "123"
+                },
+
+                {
+                        "id": "03e9f198-fe61-11ef-9fe5-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1081855,
+                        "end": 1084892,
+                        "content": "of a tiny number of mothers like this one."
+                },
+
+                {
+                        "id": "5fc653d0-0046-11f0-b73b-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1081855,
+                        "end": 1084892,
+                        "content": "of a tiny number of mothers like this one."
+                },
+
+                {
+                        "id": "03e9fb48-fe61-11ef-9fe5-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1090815,
+                        "end": 1096572,
+                        "content": "All animals, rare or common,\nultimately depend for their energy on the sun."
+                },
+
+                {
+                        "id": "dc751098-fe60-11ef-a831-7242363b2846",
+                        "type": "dc3bd134-fe60-11ef-a831-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_01_From_Pole_To_Pole_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 1092120,
+                        "end": 1102240,
+                        "content": "144"
+                }
+
+] }

@@ -1,0 +1,21 @@
+{ "annotations": [
+
+                {
+                        "id": "2b067244-8fab-11ef-a26c-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Life%2520on%2520Earth/Life_On_Earth_Episode_01_The_Infinite_Variety_Parsons_Christopher.mp4",
+                        "begin": 0,
+                        "end": 32890,
+                        "content": "1"
+                },
+
+                {
+                        "id": "812aaece-8fab-11ef-a26c-7242363b2846",
+                        "type": "Scene",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Life%2520on%2520Earth/Life_On_Earth_Episode_01_The_Infinite_Variety_Parsons_Christopher.mp4",
+                        "begin": 0,
+                        "end": 32890,
+                        "content": "Scene 01_Series Intro"
+                }
+
+] }

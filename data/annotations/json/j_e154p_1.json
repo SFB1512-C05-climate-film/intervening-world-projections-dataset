@@ -1,0 +1,2334 @@
+{ "annotations": [
+
+                {
+                        "id": "4e7220f8-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2134280,
+                        "end": 2137920,
+                        "content": "352"
+                },
+
+                {
+                        "id": "676bf4d0-00b1-11f0-b17f-7242363b2846",
+                        "type": "Scene",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2134280,
+                        "end": 2318360,
+                        "content": "Scene 12_Cycle Of The Seasons"
+                },
+
+                {
+                        "id": "fed2891a-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2134280,
+                        "end": 2137920,
+                        "content": "352"
+                },
+
+                {
+                        "id": "6199fd60-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2134280,
+                        "end": 2137920,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "6dfc2c72-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2134280,
+                        "end": 2137920,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6ca02c-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2134280,
+                        "end": 2137920,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9ee755c8-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2134280,
+                        "end": 2137920,
+                        "content": "left,undirected"
+                },
+
+                {
+                        "id": "a383ff46-00d2-11f0-a807-7242363b2846",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2134280,
+                        "end": 2150040,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "a5098494-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2134280,
+                        "end": 2137920,
+                        "content": "static"
+                },
+
+                {
+                        "id": "aa83860e-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2134280,
+                        "end": 2137920,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "f94192f8-0308-11f0-a807-7242363b2846",
+                        "type": "MusicMood",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2137738,
+                        "end": 2317518,
+                        "content": "gentle"
+                },
+
+                {
+                        "id": "4e72835e-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2137920,
+                        "end": 2141480,
+                        "content": "353"
+                },
+
+                {
+                        "id": "fed2ab5c-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2137920,
+                        "end": 2141480,
+                        "content": "353"
+                },
+
+                {
+                        "id": "619a199e-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2137920,
+                        "end": 2141480,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "6dfc47fc-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2137920,
+                        "end": 2141480,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6cc05c-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2137920,
+                        "end": 2141480,
+                        "content": "0,[VS],1"
+                },
+
+                {
+                        "id": "9ee76cde-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2137920,
+                        "end": 2141480,
+                        "content": "left,undirected"
+                },
+
+                {
+                        "id": "a5099f92-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2137920,
+                        "end": 2141480,
+                        "content": "static"
+                },
+
+                {
+                        "id": "aa839252-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2137920,
+                        "end": 2141480,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "fc30d4be-00cf-11f0-a807-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2138734,
+                        "end": 2142268,
+                        "content": "For all the inhabitants of this seasonal forest,"
+                },
+
+                {
+                        "id": "4e72e52e-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2141480,
+                        "end": 2146800,
+                        "content": "354"
+                },
+
+                {
+                        "id": "fed2b9f8-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2141480,
+                        "end": 2146800,
+                        "content": "354"
+                },
+
+                {
+                        "id": "619a34ba-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2141480,
+                        "end": 2146800,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "6dfc51f2-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2141480,
+                        "end": 2146800,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6ccdb8-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2141480,
+                        "end": 2146800,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9ee77634-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2141480,
+                        "end": 2146800,
+                        "content": "left,away"
+                },
+
+                {
+                        "id": "a509a898-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2141480,
+                        "end": 2146800,
+                        "content": "static"
+                },
+
+                {
+                        "id": "aa83987e-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2141480,
+                        "end": 2146800,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "fc30da7c-00cf-11f0-a807-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2142477,
+                        "end": 2145954,
+                        "content": "the long, cold wait is nearly over."
+                },
+
+                {
+                        "id": "4e734564-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2146800,
+                        "end": 2150040,
+                        "content": "355"
+                },
+
+                {
+                        "id": "fed2c704-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2146800,
+                        "end": 2150040,
+                        "content": "355"
+                },
+
+                {
+                        "id": "619a4108-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2146800,
+                        "end": 2150040,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "6dfc5a80-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2146800,
+                        "end": 2150040,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6cda06-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2146800,
+                        "end": 2150040,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9ee77eb8-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2146800,
+                        "end": 2150040,
+                        "content": "down"
+                },
+
+                {
+                        "id": "a509b068-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2146800,
+                        "end": 2150040,
+                        "content": "static"
+                },
+
+                {
+                        "id": "aa839e82-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2146800,
+                        "end": 2150040,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "4e73a496-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2150040,
+                        "end": 2163880,
+                        "content": "356"
+                },
+
+                {
+                        "id": "fed2d3a2-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2150040,
+                        "end": 2163880,
+                        "content": "356"
+                },
+
+                {
+                        "id": "619a4c5c-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2150040,
+                        "end": 2163880,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "6dfc62e6-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2150040,
+                        "end": 2163880,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6ce622-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2150040,
+                        "end": 2163880,
+                        "content": "1,[TO],2"
+                },
+
+                {
+                        "id": "9ee78e6c-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2150040,
+                        "end": 2163880,
+                        "content": "down,undirected"
+                },
+
+                {
+                        "id": "a38407d4-00d2-11f0-a807-7242363b2846",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2150040,
+                        "end": 2259160,
+                        "content": "timelapse"
+                },
+
+                {
+                        "id": "a509b7c0-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2150040,
+                        "end": 2163880,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "a6d03e1c-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2150040,
+                        "end": 2163880,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "a86a3444-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2150040,
+                        "end": 2163880,
+                        "content": "back"
+                },
+
+                {
+                        "id": "aa83a436-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2150040,
+                        "end": 2163880,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "7556e5fa-0309-11f0-a807-7242363b2846",
+                        "type": "MontageFigureMacro",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2150040,
+                        "end": 2245320,
+                        "content": "montage"
+                },
+
+                {
+                        "id": "fbcd501a-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2156717,
+                        "end": 2160403,
+                        "content": "The vultures have left behind\nplenty of good meat,"
+                },
+
+                {
+                        "id": "fc30e0b2-00cf-11f0-a807-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2158408,
+                        "end": 2162625,
+                        "content": "Spring in a deciduous woodland is special."
+                },
+
+                {
+                        "id": "fbcd58e4-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2160780,
+                        "end": 2163168,
+                        "content": "but it's stiff with frost."
+                },
+
+                {
+                        "id": "4e74045e-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2163880,
+                        "end": 2167480,
+                        "content": "357"
+                },
+
+                {
+                        "id": "fed2e04a-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2163880,
+                        "end": 2167480,
+                        "content": "357"
+                },
+
+                {
+                        "id": "619a5738-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2163880,
+                        "end": 2167480,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "6dfc6b4c-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2163880,
+                        "end": 2167480,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6cf202-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2163880,
+                        "end": 2167480,
+                        "content": "2"
+                },
+
+                {
+                        "id": "9ee7968c-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2163880,
+                        "end": 2167480,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "a509befa-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2163880,
+                        "end": 2167480,
+                        "content": "static"
+                },
+
+                {
+                        "id": "aa83ada0-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2163880,
+                        "end": 2167480,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "fbcd6276-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2165837,
+                        "end": 2171409,
+                        "content": "The mother works to open the hide, and\nmake feeding a little easier for her cub."
+                },
+
+                {
+                        "id": "fc30e67a-00cf-11f0-a807-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2166022,
+                        "end": 2171105,
+                        "content": "With no leaves overhead, the rays of the sun strike the forest floor directly,"
+                },
+
+                {
+                        "id": "4e746408-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2167480,
+                        "end": 2177200,
+                        "content": "358"
+                },
+
+                {
+                        "id": "fed2ee32-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2167480,
+                        "end": 2177200,
+                        "content": "358"
+                },
+
+                {
+                        "id": "619a6246-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2167480,
+                        "end": 2177200,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "6dfc7a92-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2167480,
+                        "end": 2177200,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6cfdc4-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2167480,
+                        "end": 2177200,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9ee79ec0-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2167480,
+                        "end": 2177200,
+                        "content": "up,undirected"
+                },
+
+                {
+                        "id": "a509c620-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2167480,
+                        "end": 2177200,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "a6d05028-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2167480,
+                        "end": 2177200,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "a86a466e-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2167480,
+                        "end": 2177200,
+                        "content": "circle"
+                },
+
+                {
+                        "id": "aa83b37c-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2167480,
+                        "end": 2177200,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "fc30ec4c-00cf-11f0-a807-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2171273,
+                        "end": 2175491,
+                        "content": "and their warmth rouses plants from their winter sleep."
+                },
+
+                {
+                        "id": "4e74c416-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2177200,
+                        "end": 2186080,
+                        "content": "359"
+                },
+
+                {
+                        "id": "fed2fa6c-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2177200,
+                        "end": 2186080,
+                        "content": "359"
+                },
+
+                {
+                        "id": "619a6cc8-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2177200,
+                        "end": 2186080,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "6dfc82d0-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2177200,
+                        "end": 2186080,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6d0990-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2177200,
+                        "end": 2186080,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9ee7a6ea-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2177200,
+                        "end": 2186080,
+                        "content": "up,undirected"
+                },
+
+                {
+                        "id": "a509cd46-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2177200,
+                        "end": 2186080,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "a6d05884-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2177200,
+                        "end": 2186080,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "a86a4e5c-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2177200,
+                        "end": 2186080,
+                        "content": "circle"
+                },
+
+                {
+                        "id": "aa83b930-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2177200,
+                        "end": 2186080,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "fc30f282-00cf-11f0-a807-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2181837,
+                        "end": 2184294,
+                        "content": "The ground living plants are in a hurry."
+                },
+
+                {
+                        "id": "fbcd6c8a-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2183055,
+                        "end": 2187509,
+                        "content": "There are only 40 Amur leopards\nleft in the wild,"
+                },
+
+                {
+                        "id": "fc30f8ea-00cf-11f0-a807-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2184433,
+                        "end": 2189433,
+                        "content": "Before long, the trees above will come into leaf and steal their light."
+                },
+
+                {
+                        "id": "4e752514-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2186080,
+                        "end": 2199320,
+                        "content": "360"
+                },
+
+                {
+                        "id": "fed306f6-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2186080,
+                        "end": 2199320,
+                        "content": "360"
+                },
+
+                {
+                        "id": "619a77d6-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2186080,
+                        "end": 2199320,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "6dfc8ad2-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2186080,
+                        "end": 2199320,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6d152a-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2186080,
+                        "end": 2199320,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9ee7aece-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2186080,
+                        "end": 2199320,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "a509d46c-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2186080,
+                        "end": 2199320,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "a6d0620c-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2186080,
+                        "end": 2199320,
+                        "content": "medium,[TO],slow"
+                },
+
+                {
+                        "id": "a86a56fe-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2186080,
+                        "end": 2199320,
+                        "content": "right,up"
+                },
+
+                {
+                        "id": "aa83be8a-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2186080,
+                        "end": 2199320,
+                        "content": "extreme high-angle,[TO],high-angle"
+                },
+
+                {
+                        "id": "fbcd7590-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2189744,
+                        "end": 2192621,
+                        "content": "and that number is still falling."
+                },
+
+                {
+                        "id": "fbcd7efa-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2193655,
+                        "end": 2198361,
+                        "content": "The harshness of the winter here\nhinders their increasing numbers."
+                },
+
+                {
+                        "id": "fbcd8864-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2198584,
+                        "end": 2202830,
+                        "content": "It takes one of these females longer\nto raise her young to independence ..."
+                },
+
+                {
+                        "id": "fc30feb2-00cf-11f0-a807-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2198916,
+                        "end": 2201653,
+                        "content": "Their flowers decorate the forest floor"
+                },
+
+                {
+                        "id": "4e7586f8-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2199320,
+                        "end": 2205920,
+                        "content": "361"
+                },
+
+                {
+                        "id": "fed318e4-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2199320,
+                        "end": 2205920,
+                        "content": "361"
+                },
+
+                {
+                        "id": "619a82ee-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2199320,
+                        "end": 2205920,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "6dfc92fc-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2199320,
+                        "end": 2205920,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6d210a-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2199320,
+                        "end": 2205920,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9ee7b734-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2199320,
+                        "end": 2205920,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "a509db88-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2199320,
+                        "end": 2205920,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "a6d06ad6-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2199320,
+                        "end": 2205920,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "a86a5f0a-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2199320,
+                        "end": 2205920,
+                        "content": "right,up"
+                },
+
+                {
+                        "id": "aa83c402-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2199320,
+                        "end": 2205920,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "fc310498-00cf-11f0-a807-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2201709,
+                        "end": 2206946,
+                        "content": "as they advertise their sweet nectar to the newly emerged insects."
+                },
+
+                {
+                        "id": "fbcd932c-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2202899,
+                        "end": 2205679,
+                        "content": "than it does a leopard in Africa."
+                },
+
+                {
+                        "id": "4e75e6de-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2205920,
+                        "end": 2212440,
+                        "content": "362"
+                },
+
+                {
+                        "id": "fed3255a-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2205920,
+                        "end": 2212440,
+                        "content": "362"
+                },
+
+                {
+                        "id": "619a8ece-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2205920,
+                        "end": 2212440,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "6dfc9b4e-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2205920,
+                        "end": 2212440,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6d2cc2-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2205920,
+                        "end": 2212440,
+                        "content": "2"
+                },
+
+                {
+                        "id": "9ee7bef0-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2205920,
+                        "end": 2212440,
+                        "content": "outward,undirected"
+                },
+
+                {
+                        "id": "a509e362-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2205920,
+                        "end": 2212440,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "a6d072e2-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2205920,
+                        "end": 2212440,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "a86a66e4-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2205920,
+                        "end": 2212440,
+                        "content": "circle"
+                },
+
+                {
+                        "id": "aa83c970-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2205920,
+                        "end": 2212440,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "4e764642-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2212440,
+                        "end": 2218480,
+                        "content": "363"
+                },
+
+                {
+                        "id": "fed32d5c-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2212440,
+                        "end": 2218480,
+                        "content": "363"
+                },
+
+                {
+                        "id": "619a9c5c-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2212440,
+                        "end": 2218480,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "6dfca35a-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2212440,
+                        "end": 2218480,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6d385c-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2212440,
+                        "end": 2218480,
+                        "content": "2"
+                },
+
+                {
+                        "id": "9ee7c6a2-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2212440,
+                        "end": 2218480,
+                        "content": "outward,undirected"
+                },
+
+                {
+                        "id": "a509eae2-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2212440,
+                        "end": 2218480,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "a6d07aa8-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2212440,
+                        "end": 2218480,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "a86a6f18-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2212440,
+                        "end": 2218480,
+                        "content": "circle"
+                },
+
+                {
+                        "id": "aa83cee8-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2212440,
+                        "end": 2218480,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "fbcd9e44-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2213513,
+                        "end": 2217758,
+                        "content": "If the mother can sustain her cub\nfor a few more weeks,"
+                },
+
+                {
+                        "id": "fbcda7ae-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2217843,
+                        "end": 2223610,
+                        "content": "spring will bring an increase in\nprey and her task will lighten."
+                },
+
+                {
+                        "id": "4e76a6e6-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2218480,
+                        "end": 2226920,
+                        "content": "364"
+                },
+
+                {
+                        "id": "fed3334c-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2218480,
+                        "end": 2226920,
+                        "content": "364"
+                },
+
+                {
+                        "id": "619aa77e-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2218480,
+                        "end": 2226920,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "6dfcab98-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2218480,
+                        "end": 2226920,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6d42ac-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2218480,
+                        "end": 2226920,
+                        "content": "2"
+                },
+
+                {
+                        "id": "9ee7ce9a-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2218480,
+                        "end": 2226920,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "a509f226-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2218480,
+                        "end": 2226920,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "a6d08282-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2218480,
+                        "end": 2226920,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "a86a7710-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2218480,
+                        "end": 2226920,
+                        "content": "right,up"
+                },
+
+                {
+                        "id": "aa83d46a-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2218480,
+                        "end": 2226920,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "fc310a88-00cf-11f0-a807-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2222803,
+                        "end": 2227048,
+                        "content": "The spring blooms of the deciduous woodlands have no equivalent"
+                },
+
+                {
+                        "id": "4e770668-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2226920,
+                        "end": 2245320,
+                        "content": "365"
+                },
+
+                {
+                        "id": "fed33932-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2226920,
+                        "end": 2245320,
+                        "content": "365"
+                },
+
+                {
+                        "id": "619ab1f6-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2226920,
+                        "end": 2245320,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "6dfcb3ae-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2226920,
+                        "end": 2245320,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6d4d92-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2226920,
+                        "end": 2245320,
+                        "content": "2"
+                },
+
+                {
+                        "id": "9ee7d70a-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2226920,
+                        "end": 2245320,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "a509f94c-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2226920,
+                        "end": 2245320,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "a6d08a84-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2226920,
+                        "end": 2245320,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "a86a7ecc-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2226920,
+                        "end": 2245320,
+                        "content": "right,up"
+                },
+
+                {
+                        "id": "aa83d9f6-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2226920,
+                        "end": 2245320,
+                        "content": "high-angle,[TO],straight-angle"
+                },
+
+                {
+                        "id": "475f2ab2-00d0-11f0-a807-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2227521,
+                        "end": 2231395,
+                        "content": "in either the great conifer forests, or the tropical jungles."
+                },
+
+                {
+                        "id": "fbcdb154-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2228734,
+                        "end": 2232268,
+                        "content": "For all the inhabitants\nof this seasonal forest,"
+                },
+
+                {
+                        "id": "fbcdba50-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2232477,
+                        "end": 2235954,
+                        "content": "the long, cold wait is nearly over."
+                },
+
+                {
+                        "id": "b3c615d4-00d1-11f0-a807-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2236265,
+                        "end": 2244845,
+                        "content": "Within a matter of weeks, the canopy has closed, and only a few wheeling shafts of light penetrate the woodland."
+                },
+
+                {
+                        "id": "4e7766da-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2245320,
+                        "end": 2254080,
+                        "content": "366"
+                },
+
+                {
+                        "id": "fed33f40-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2245320,
+                        "end": 2254080,
+                        "content": "366"
+                },
+
+                {
+                        "id": "619abcb4-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2245320,
+                        "end": 2254080,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "6dfcbba6-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2245320,
+                        "end": 2254080,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6d5904-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2245320,
+                        "end": 2254080,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9ee7deda-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2245320,
+                        "end": 2254080,
+                        "content": "left,towards"
+                },
+
+                {
+                        "id": "a50a004a-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2245320,
+                        "end": 2254080,
+                        "content": "static"
+                },
+
+                {
+                        "id": "aa83df82-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2245320,
+                        "end": 2254080,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "fbcdc3c4-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2248408,
+                        "end": 2252625,
+                        "content": "Spring in a deciduous woodland\nis special."
+                },
+
+                {
+                        "id": "c3401064-00d1-11f0-a807-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2253625,
+                        "end": 2261425,
+                        "content": "In the treetops, the broad leaves rapidly expand to their full size to make the most of summer while it lasts."
+                },
+
+                {
+                        "id": "4e77c68e-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2254080,
+                        "end": 2259160,
+                        "content": "367"
+                },
+
+                {
+                        "id": "fed34512-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2254080,
+                        "end": 2259160,
+                        "content": "367"
+                },
+
+                {
+                        "id": "619ac70e-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2254080,
+                        "end": 2259160,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "6dfcc39e-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2254080,
+                        "end": 2259160,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6d6408-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2254080,
+                        "end": 2259160,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9ee7e7cc-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2254080,
+                        "end": 2259160,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "a50a09fa-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2254080,
+                        "end": 2259160,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "a6d09a74-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2254080,
+                        "end": 2259160,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "a86a8f0c-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2254080,
+                        "end": 2259160,
+                        "content": "forward,right"
+                },
+
+                {
+                        "id": "aa83e4fa-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2254080,
+                        "end": 2259160,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "fbcdcd42-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2256522,
+                        "end": 2261605,
+                        "content": "With no leaves overhead, the rays of the\nsun strike the forest floor directly,"
+                },
+
+                {
+                        "id": "4e78294e-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2259160,
+                        "end": 2270600,
+                        "content": "368"
+                },
+
+                {
+                        "id": "fed34aee-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2259160,
+                        "end": 2270600,
+                        "content": "368"
+                },
+
+                {
+                        "id": "619ad17c-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2259160,
+                        "end": 2270600,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "6dfccb96-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2259160,
+                        "end": 2270600,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6d6e8a-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2259160,
+                        "end": 2270600,
+                        "content": "0"
+                },
+
+                {
+                        "id": "a38462ec-00d2-11f0-a807-7242363b2846",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2259160,
+                        "end": 2309280,
+                        "content": "timelapse"
+                },
+
+                {
+                        "id": "a50a115c-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2259160,
+                        "end": 2270600,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "a6d0a316-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2259160,
+                        "end": 2270600,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "a86a9718-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2259160,
+                        "end": 2270600,
+                        "content": "circle"
+                },
+
+                {
+                        "id": "aa83eb1c-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2259160,
+                        "end": 2270600,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "7df69a20-0309-11f0-a807-7242363b2846",
+                        "type": "MontageFigureMacro",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2259160,
+                        "end": 2309280,
+                        "content": "montage"
+                },
+
+                {
+                        "id": "fbcdd6b6-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2261773,
+                        "end": 2265991,
+                        "content": "and their warmth rouses plants\nfrom their winter sleep."
+                },
+
+                {
+                        "id": "cff44b22-00d1-11f0-a807-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2267865,
+                        "end": 2278795,
+                        "content": "Then, after a few months, the days begin to shorten again, and the trees must shut down and shed their leaves in preparation for the cold dark time ahead."
+                },
+
+                {
+                        "id": "4e788a60-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2270600,
+                        "end": 2274080,
+                        "content": "369"
+                },
+
+                {
+                        "id": "fed353ea-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2270600,
+                        "end": 2274080,
+                        "content": "369"
+                },
+
+                {
+                        "id": "619adbf4-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2270600,
+                        "end": 2274080,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "6dfcd3ca-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2270600,
+                        "end": 2274080,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6d80dc-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2270600,
+                        "end": 2274080,
+                        "content": "1"
+                },
+
+                {
+                        "id": "a50a1878-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2270600,
+                        "end": 2274080,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "a6d0aeec-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2270600,
+                        "end": 2274080,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "a86a9ede-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2270600,
+                        "end": 2274080,
+                        "content": "right,down"
+                },
+
+                {
+                        "id": "aa83f080-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2270600,
+                        "end": 2274080,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "9ee7f942-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2270600,
+                        "end": 2274080,
+                        "content": "right"
+                },
+
+                {
+                        "id": "fbcde02a-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2273337,
+                        "end": 2275794,
+                        "content": "The ground living plants\nare in a hurry."
+                },
+
+                {
+                        "id": "4e78ea32-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2274080,
+                        "end": 2282040,
+                        "content": "370"
+                },
+
+                {
+                        "id": "fed35a16-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2274080,
+                        "end": 2282040,
+                        "content": "370"
+                },
+
+                {
+                        "id": "619ae658-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2274080,
+                        "end": 2282040,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "6dfcdc9e-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2274080,
+                        "end": 2282040,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6d8b90-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2274080,
+                        "end": 2282040,
+                        "content": "1"
+                },
+
+                {
+                        "id": "a50a1f80-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2274080,
+                        "end": 2282040,
+                        "content": "pan"
+                },
+
+                {
+                        "id": "a6d0b6ee-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2274080,
+                        "end": 2282040,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "a86aa69a-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2274080,
+                        "end": 2282040,
+                        "content": "right,down"
+                },
+
+                {
+                        "id": "aa83f724-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2274080,
+                        "end": 2282040,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "9ee801da-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2274080,
+                        "end": 2282040,
+                        "content": "right"
+                },
+
+                {
+                        "id": "fbcde976-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2275933,
+                        "end": 2280933,
+                        "content": "Before long, the trees above will\ncome into leaf and steal their light."
+                },
+
+                {
+                        "id": "4e794b76-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2282040,
+                        "end": 2292920,
+                        "content": "371"
+                },
+
+                {
+                        "id": "fed3607e-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2282040,
+                        "end": 2292920,
+                        "content": "371"
+                },
+
+                {
+                        "id": "619af0bc-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2282040,
+                        "end": 2292920,
+                        "content": "extreme long shot"
+                },
+
+                {
+                        "id": "6dfce4b4-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2282040,
+                        "end": 2292920,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6d9572-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2282040,
+                        "end": 2292920,
+                        "content": "1"
+                },
+
+                {
+                        "id": "a50a26e2-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2282040,
+                        "end": 2292920,
+                        "content": "pan"
+                },
+
+                {
+                        "id": "a6d0bed2-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2282040,
+                        "end": 2292920,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "a86aae60-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2282040,
+                        "end": 2292920,
+                        "content": "right"
+                },
+
+                {
+                        "id": "aa83fcd8-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2282040,
+                        "end": 2292920,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "9ee809aa-00d2-11f0-a807-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2282040,
+                        "end": 2292920,
+                        "content": "right"
+                },
+
+                {
+                        "id": "ddd71b3e-00d1-11f0-a807-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2284165,
+                        "end": 2289185,
+                        "content": "Great tracts of North America flush red as the season progresses."
+                },
+
+                {
+                        "id": "e8f6bf1a-00d1-11f0-a807-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2290705,
+                        "end": 2297145,
+                        "content": "The effect is so spectacular and so extensive that it can be seen from space."
+                },
+
+                {
+                        "id": "fbcdf308-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2290916,
+                        "end": 2293653,
+                        "content": "Their flowers decorate\nthe forest floor ..."
+                },
+
+                {
+                        "id": "4e79ac1a-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2292920,
+                        "end": 2300120,
+                        "content": "372"
+                },
+
+                {
+                        "id": "fed3668c-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2292920,
+                        "end": 2300120,
+                        "content": "372"
+                },
+
+                {
+                        "id": "619afada-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2292920,
+                        "end": 2300120,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "6dfcedba-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2292920,
+                        "end": 2300120,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6d9f90-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2292920,
+                        "end": 2300120,
+                        "content": "0"
+                },
+
+                {
+                        "id": "a50a2dd6-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2292920,
+                        "end": 2300120,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "a6d0c6e8-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2292920,
+                        "end": 2300120,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "a86ab8ce-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2292920,
+                        "end": 2300120,
+                        "content": "down"
+                },
+
+                {
+                        "id": "aa84030e-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2292920,
+                        "end": 2300120,
+                        "content": "extreme high-angle"
+                },
+
+                {
+                        "id": "fbcdfce0-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2293709,
+                        "end": 2298946,
+                        "content": "as they advertise their sweet nectar\nto the newly emerged insects."
+                },
+
+                {
+                        "id": "4e7a0cf0-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2300120,
+                        "end": 2309280,
+                        "content": "373"
+                },
+
+                {
+                        "id": "fed36c68-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2300120,
+                        "end": 2309280,
+                        "content": "373"
+                },
+
+                {
+                        "id": "619b0520-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2300120,
+                        "end": 2309280,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "6dfcf6a2-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2300120,
+                        "end": 2309280,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6da95e-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2300120,
+                        "end": 2309280,
+                        "content": "0"
+                },
+
+                {
+                        "id": "a50a3a38-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2300120,
+                        "end": 2309280,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "a6d0cf1c-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2300120,
+                        "end": 2309280,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "a86ac0b2-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2300120,
+                        "end": 2309280,
+                        "content": "down,right"
+                },
+
+                {
+                        "id": "aa840886-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2300120,
+                        "end": 2309280,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "4e7a6d30-00b1-11f0-a5fa-7242363b2846",
+                        "type": "4df02a4e-00b1-11f0-a5fa-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2309280,
+                        "end": 2318360,
+                        "content": "374"
+                },
+
+                {
+                        "id": "fed37280-00cf-11f0-a807-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2309280,
+                        "end": 2318360,
+                        "content": "374"
+                },
+
+                {
+                        "id": "619b0f98-00d2-11f0-a807-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2309280,
+                        "end": 2318360,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "6dfcfecc-00d2-11f0-a807-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2309280,
+                        "end": 2318360,
+                        "content": ""
+                },
+
+                {
+                        "id": "9d6db386-00d2-11f0-a807-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2309280,
+                        "end": 2318360,
+                        "content": "0"
+                },
+
+                {
+                        "id": "a3848e3e-00d2-11f0-a807-7242363b2846",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2309280,
+                        "end": 2318360,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "a50a41ea-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2309280,
+                        "end": 2318360,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "a6d0d700-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2309280,
+                        "end": 2318360,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "a86ac8a0-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2309280,
+                        "end": 2318360,
+                        "content": "right"
+                },
+
+                {
+                        "id": "aa840dea-00d2-11f0-a807-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2309280,
+                        "end": 2318360,
+                        "content": "extreme low-angle"
+                },
+
+                {
+                        "id": "1827a8a8-00d2-11f0-a807-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2311334,
+                        "end": 2317481,
+                        "content": "The threat of winter frost is not the only reason for trees to shed leaves."
+                },
+
+                {
+                        "id": "fbce065e-00b1-11f0-b17f-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_10_Seasonal_Forests_Fothergill_Alastair_Linfield_Mark.mp4",
+                        "begin": 2316303,
+                        "end": 2320548,
+                        "content": "The spring blooms of the deciduous\nwoodlands have no equivalent ..."
+                }
+
+] }

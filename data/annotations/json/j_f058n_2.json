@@ -1,0 +1,3090 @@
+{ "annotations": [
+
+                {
+                        "id": "5bebd20e-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": -51520,
+                        "end": -48096,
+                        "content": "[WATER HISSING]"
+                },
+
+                {
+                        "id": "5bebd20f-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": -41200,
+                        "end": -37776,
+                        "content": "[WATER ROARING]"
+                },
+
+                {
+                        "id": "96a69f90-8f8b-11ee-bf0b-3993b09b3170",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2100000,
+                        "end": 2200000,
+                        "content": "77.08 77.67 50.82 72.56 74.12 74.93 77.76 74.18 52.40 46.50 41.43 39.89 41.07 40.83 43.58 42.18 40.46 41.45 43.37 40.20 42.06 78.70 77.06 61.93 79.24 79.47 57.49 59.62 79.99 77.50 72.08 72.29 78.50 77.26 74.26 55.12 48.16 64.98 63.29 70.42 69.57 65.08 62.14 75.81 46.07 77.94 73.31 72.08 54.62 47.21 41.49 44.94 43.71 40.33 41.82 47.93 59.68 61.28 68.01 73.27 73.12 76.58 76.07 71.87 48.65 41.35 71.97 75.37 59.82 76.28 79.37 76.94 76.28 59.94 71.86 59.72 42.75 45.11 58.18 55.83 52.05 52.07 51.66 79.66 80.20 75.15 63.60 79.55 74.89 75.01 77.97 76.90 65.97 78.55 72.33 72.70 68.37 65.25 73.72 73.02 73.12 72.32 66.09 71.26 72.05 77.75 77.61 68.39 78.21 78.75 72.55 45.55 48.94 67.81 44.46 78.70 59.78 75.13 74.26 59.98 43.47 43.83 47.08 49.22 42.35 40.80 41.29 43.55 75.93 73.95 60.82 50.38 45.17 42.87 47.06 65.47 59.82 74.54 68.26 59.75 77.29 74.87 69.79 75.56 72.85 74.41 69.56 72.16 73.44 54.76 51.73 43.02 41.97 41.03 41.95 41.37 39.14 41.51 40.18 40.70 42.17 40.63 43.23 39.52 41.34 39.96 41.09 42.96 52.55 60.02 69.67 61.82 54.31 63.79 64.96 63.82 56.64 50.51 41.98 72.92 77.41 78.03 77.57 73.63 72.04 54.41 52.37 42.60 42.75 40.10 70.12 94.08 72.64 75.10 67.90 58.44 57.61 77.29 57.23 65.77 76.93 73.14 45.54 45.56 54.55 73.28 72.60 57.40 73.64 78.59 64.56 59.81 77.32 72.34 73.11 68.04 63.15 52.57 46.35 44.07 57.45 45.99 43.24 40.56 40.50 39.27 41.51 41.08 41.42 40.93 42.32 43.55 40.34 42.71 42.18 46.97 42.52 41.05 41.01 42.16 41.60 40.58 44.54 56.55 45.62 50.88 41.24 44.60 42.89 42.08 66.61 44.07 45.75 42.77 43.56 40.49 40.59 42.90 42.12 42.16 51.20 44.16 41.18 40.65 48.84 60.46 65.32 69.13 72.52 72.73 74.95 75.55 71.78 73.20 72.56 68.84 68.72 69.60 68.48 67.48 64.70 60.64 54.80 52.35 54.67 55.02 54.95 54.91 55.99 57.94 56.90 56.94 57.23 60.89 65.24 65.68 68.21 69.13 71.28 68.01 71.20 74.09 73.68 73.91 78.79 78.06 78.39 77.00 76.96 76.97 72.78 77.95 68.44 68.26 68.05 65.10 63.84 65.82 71.03 77.39 75.89 80.44 82.35 84.76 83.16 84.53 83.15 81.42 74.33 69.24 68.29 67.45 67.91 65.52 68.51 66.10 67.47 66.81 66.78 65.98 66.49 62.31 59.66 62.78 61.11 65.99 62.07 62.73 64.63 63.19 90.46 72.15 68.00 72.03 71.01 71.13 69.46 69.50 70.69 72.43 76.97 78.56 77.89 78.05 77.85 76.91 78.75 79.82 80.35 79.86 79.48 78.88 80.58 82.84 81.52 84.03 85.96 82.10 83.36 83.11 76.58 76.27 76.55 76.84 78.30 79.79 81.15 83.47 81.36 66.65 68.04 66.58 68.62 65.87 66.36 68.73 75.83 77.75 76.79 79.31 77.02 80.77 79.95 80.36 80.77 80.14 77.62 73.48 67.09 68.34 66.48 71.25 71.25 67.00 66.94 70.49 76.95 76.86 77.10 78.03 75.14 78.03 79.74 78.38 79.77 80.71 76.08 78.11 79.44 77.03 79.17 77.22 78.65 77.22 76.58 75.05 73.29 71.88 69.76 70.72 71.70 70.56 72.69 71.03 73.47 71.80 73.75 73.41 72.83 76.34 75.90 76.97 76.35 76.40 76.11 76.11 77.97 77.46 75.88 74.00 74.80 75.60 75.13 75.11 78.02 76.79 78.69 77.11 75.32 75.48 78.07 77.42 78.36 76.66 78.35 78.58 76.70 76.17 83.05 81.51 80.96 82.59 80.96 79.08 80.43 81.40 80.99 77.35 80.54 79.22 78.64 77.05 77.07 75.23 74.92 75.36 77.29 73.02 72.00 73.43 75.37 75.04 74.21 72.10 72.45 71.36 71.71 73.11 71.76 72.34 71.22 73.51 71.73 72.30 70.64 73.05 71.54 77.37 80.51 80.06 79.79 78.70 78.93 79.04 78.89 76.51 77.99 77.61 76.81 74.99 73.47 79.56 78.94 77.92 78.23 77.02 76.51 76.09 72.30 74.44 71.13 72.22 72.45 71.82 70.79 72.80 72.14 72.14 71.72 69.09 67.94 66.97 67.63 68.62 66.31 76.00 76.31 75.21 74.78 73.81 76.44 74.26 72.30 73.54 73.74 72.48 77.14 77.16 75.62 75.66 75.90 78.69 75.21 75.44 78.25 75.48 75.18 74.76 73.03 73.90 70.96 76.81 80.26 78.76 79.79 78.71 78.82 76.23 76.53 77.15 75.44 74.61 72.82 72.85 74.94 73.58 70.57 71.13 71.77 70.98 70.06 66.35 67.50 68.36 70.66 66.74 67.14 74.00 74.10 72.89 73.89 74.94 74.12 73.46 72.26 73.49 71.74 72.05 72.38 73.60 74.18 72.59 73.58 75.42 75.44 74.05 73.84 76.63 71.72 76.72 76.32 73.39 81.61 80.52 78.78 78.85 80.15 78.94 79.44 80.82 78.43 76.96 77.59 76.36 75.89 72.37 72.41 71.05 69.64 70.40 71.45 68.42 67.48 67.71 76.92 77.34 77.08 76.01 75.63 74.53 75.32 73.46 75.71 74.79 75.92 71.28 76.87 79.17 74.58 75.15 74.26 74.39 76.87 77.49 76.69 75.02 75.14 72.26 71.02 79.13 81.60 80.66 81.22 80.61 78.68 77.52 77.32 78.69 78.12 76.28 75.39 76.38 75.99 80.23 78.90 77.12 77.27 76.35 76.65 76.62 75.30 75.70 75.16 72.92 75.40 75.96 72.48 72.90 73.84 74.20 71.97 72.04 73.54 74.79 72.66 74.42 73.13 71.81 69.48 72.43 72.26 74.23 75.58 69.95 70.79 74.78 73.69 71.21 70.88 69.78 69.32 70.32 67.64 68.48 72.53 67.58 72.16 71.04 69.19 68.61 69.16 72.58 72.08 71.93 72.31 67.52 67.16 70.24 72.24 80.05 79.48 78.86 80.29 79.91 79.78 79.50 79.35 77.76 76.04 77.61 76.85 75.32 73.27 73.59 73.61 73.82 73.31 73.61 72.10 72.89 70.77 74.51 74.24 73.48 74.12 77.04 76.70 74.81 75.24 75.12 75.23 76.31 76.99 75.05 76.47 77.21 75.32 74.10 74.12 73.39 73.97 76.06 75.75 74.46 76.61 77.36 75.91 74.46 75.53 78.18 75.25 74.50 73.63 75.72 75.20 75.47 78.06 74.19 75.02 76.35 76.60 76.18 75.95 76.84 77.15 75.39 74.98 76.04 75.27 76.78 75.18 74.86 75.86 75.71 74.98 76.72 75.05 74.84 76.79 75.42 76.09 76.28 76.18 76.27 75.35 74.94 73.36 73.21 73.11 71.79 72.49 73.82 73.79 71.48 75.17 76.34 73.49 72.49 73.52 73.88 76.48 72.90 75.18 74.33 76.75 75.16 75.29 74.24 75.58 74.35 74.30 72.07 76.02 74.92 74.93 74.58 74.13 73.14 74.78 72.42 72.65 72.63 71.40 70.53 72.09 77.56 74.85 72.97 78.18 82.45 81.94 83.12 79.52 81.41 82.44 84.24 79.72 81.72 81.97 78.92 84.36 79.28 80.43 79.65 81.00 82.10 81.26 82.92 81.04 82.48 82.94 81.67 81.41 81.61 84.15 81.64 84.11 81.94 82.40 81.50 83.44 83.36 80.34 84.63 79.60 82.51 79.71 81.98 83.25 80.54 85.00 80.61 82.57 82.39 83.38 80.16 81.11 81.02 83.41 81.06 81.83 83.92 81.29 79.61 81.79 82.12 83.41 81.89 82.57 78.54 82.90 80.46 81.07 82.02 79.78 81.10 80.51 81.73 79.37 82.27 80.48 78.42 81.19 80.38 78.48 79.28 80.86 77.58 81.43 80.88 78.84 79.11 79.91 83.30 79.10 79.35 80.11 77.69 81.97 78.81 78.52 78.18 81.30 80.68 78.07 76.98 78.91 80.76 78.63 79.81 80.06 80.84 79.50 76.41 89.96 86.05 88.45 89.05 86.90 87.96 86.26 88.31 87.05 87.95 90.67 86.15 89.01 85.53 90.34 84.20"
+                },
+
+                {
+                        "id": "07bb7698-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2125960,
+                        "end": 2127879,
+                        "content": "swell"
+                },
+
+                {
+                        "id": "c80d6216-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2126435,
+                        "end": 2130075,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "be0f9d62-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2126435,
+                        "end": 2130075,
+                        "content": ""
+                },
+
+                {
+                        "id": "ca99d91c-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "Scene",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2126435,
+                        "end": 2543515,
+                        "content": "moving through the contradictions"
+                },
+
+                {
+                        "id": "02eaf4fe-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2126435,
+                        "end": 2130075,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "d7c49176-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2126435,
+                        "end": 2130075,
+                        "content": "1"
+                },
+
+                {
+                        "id": "61272db8-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2126435,
+                        "end": 2130075,
+                        "content": "towards"
+                },
+
+                {
+                        "id": "0d1856be-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "ColourRange",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2126435,
+                        "end": 2543515,
+                        "content": "sandybrown,darkgreen,grey,saddlebrown,greenyellow,red,darkblue"
+                },
+
+                {
+                        "id": "a2520fd6-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2126435,
+                        "end": 2130075,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "a4183188-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2126435,
+                        "end": 2543515,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "e6a8fc34-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2126435,
+                        "end": 2130075,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9d8-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2126435,
+                        "end": 2130075,
+                        "content": "single,human being"
+                },
+
+                {
+                        "id": "07bb7699-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2127879,
+                        "end": 2129384,
+                        "content": "subside"
+                },
+
+                {
+                        "id": "c80d6217-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2130075,
+                        "end": 2132115,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "be0f9d63-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2130075,
+                        "end": 2132115,
+                        "content": ""
+                },
+
+                {
+                        "id": "f821caf2-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2130075,
+                        "end": 2146955,
+                        "content": "dark"
+                },
+
+                {
+                        "id": "d7c49177-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2130075,
+                        "end": 2132115,
+                        "content": "1"
+                },
+
+                {
+                        "id": "61272db9-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2130075,
+                        "end": 2132115,
+                        "content": "up,down"
+                },
+
+                {
+                        "id": "a2520fd7-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2130075,
+                        "end": 2132115,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "e6a8fc35-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2130075,
+                        "end": 2132115,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9d9-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2130075,
+                        "end": 2132115,
+                        "content": "object"
+                },
+
+                {
+                        "id": "c80d6218-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2132115,
+                        "end": 2135675,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "be0f9d64-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2132115,
+                        "end": 2135675,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c49178-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2132115,
+                        "end": 2135675,
+                        "content": "0"
+                },
+
+                {
+                        "id": "a2520fd8-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2132115,
+                        "end": 2135675,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "e6a8fc36-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2132115,
+                        "end": 2135675,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9da-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2132115,
+                        "end": 2135675,
+                        "content": "object"
+                },
+
+                {
+                        "id": "c80d6219-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2135675,
+                        "end": 2146955,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "be0f9d65-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2135675,
+                        "end": 2146955,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c49179-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2135675,
+                        "end": 2146955,
+                        "content": "2"
+                },
+
+                {
+                        "id": "61272dbb-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2135675,
+                        "end": 2146955,
+                        "content": "left"
+                },
+
+                {
+                        "id": "a2520fd9-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2135675,
+                        "end": 2146955,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc37-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2135675,
+                        "end": 2146955,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9db-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2135675,
+                        "end": 2146955,
+                        "content": "object"
+                },
+
+                {
+                        "id": "5bebd43d-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2137160,
+                        "end": 2138599,
+                        "content": "Easy."
+                },
+
+                {
+                        "id": "1b39ac00-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2137160,
+                        "end": 2138599,
+                        "content": "confident"
+                },
+
+                {
+                        "id": "5bebd43e-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2138600,
+                        "end": 2141023,
+                        "content": "Heavy load."
+                },
+
+                {
+                        "id": "1b39ac01-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2138600,
+                        "end": 2141023,
+                        "content": "confident"
+                },
+
+                {
+                        "id": "2bdd8c32-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "MusicMood",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2139614,
+                        "end": 2252063,
+                        "content": "calm,ominous"
+                },
+
+                {
+                        "id": "38f8e154-8f91-11ee-bf0b-3993b09b3170",
+                        "type": "MusicIntensity",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2139614,
+                        "end": 2252063,
+                        "content": "3"
+                },
+
+                {
+                        "id": "c80d621a-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2146955,
+                        "end": 2154995,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "be0f9d66-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2146955,
+                        "end": 2154995,
+                        "content": ""
+                },
+
+                {
+                        "id": "096ceeb8-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2146955,
+                        "end": 2288955,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "d7c4917a-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2146955,
+                        "end": 2154995,
+                        "content": "3"
+                },
+
+                {
+                        "id": "61272dbc-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2146955,
+                        "end": 2154995,
+                        "content": "down"
+                },
+
+                {
+                        "id": "64fb91d4-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2146955,
+                        "end": 2154995,
+                        "content": "yellow"
+                },
+
+                {
+                        "id": "a2520fda-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2146955,
+                        "end": 2154995,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "e6a8fc38-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2146955,
+                        "end": 2154995,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9dc-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2146955,
+                        "end": 2154995,
+                        "content": "object"
+                },
+
+                {
+                        "id": "c80d621b-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2154995,
+                        "end": 2177195,
+                        "content": "medium long shot,[TO],medium closeup"
+                },
+
+                {
+                        "id": "be0f9d67-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2154995,
+                        "end": 2177195,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c4917b-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2154995,
+                        "end": 2177195,
+                        "content": "2"
+                },
+
+                {
+                        "id": "61272dbd-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2154995,
+                        "end": 2177195,
+                        "content": "towards,left"
+                },
+
+                {
+                        "id": "a2520fdb-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2154995,
+                        "end": 2177195,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc39-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2154995,
+                        "end": 2177195,
+                        "content": "pan"
+                },
+
+                {
+                        "id": "92f8a2c8-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2154995,
+                        "end": 2177195,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "b2265988-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2154995,
+                        "end": 2177195,
+                        "content": "left"
+                },
+
+                {
+                        "id": "71ebc9dd-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2154995,
+                        "end": 2177195,
+                        "content": "object"
+                },
+
+                {
+                        "id": "c80d621c-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2177195,
+                        "end": 2187915,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "be0f9d68-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2177195,
+                        "end": 2187915,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c4917c-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2177195,
+                        "end": 2187915,
+                        "content": "3"
+                },
+
+                {
+                        "id": "61272dbe-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2177195,
+                        "end": 2187915,
+                        "content": "right"
+                },
+
+                {
+                        "id": "a2520fdc-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2177195,
+                        "end": 2187915,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc3a-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2177195,
+                        "end": 2187915,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9de-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2177195,
+                        "end": 2187915,
+                        "content": "group,human being"
+                },
+
+                {
+                        "id": "c80d621d-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2187915,
+                        "end": 2198475,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "be0f9d69-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2187915,
+                        "end": 2198475,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c4917d-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2187915,
+                        "end": 2198475,
+                        "content": "3"
+                },
+
+                {
+                        "id": "61272dbf-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2187915,
+                        "end": 2198475,
+                        "content": "towards"
+                },
+
+                {
+                        "id": "6e021078-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2187915,
+                        "end": 2198475,
+                        "content": "yellow"
+                },
+
+                {
+                        "id": "a2520fdd-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2187915,
+                        "end": 2198475,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc3b-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2187915,
+                        "end": 2198475,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "94510db8-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2187915,
+                        "end": 2198475,
+                        "content": "fast"
+                },
+
+                {
+                        "id": "b2265989-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2187915,
+                        "end": 2198475,
+                        "content": "forward"
+                },
+
+                {
+                        "id": "71ebc9df-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2187915,
+                        "end": 2198475,
+                        "content": "object"
+                },
+
+                {
+                        "id": "c80d621e-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2198475,
+                        "end": 2203315,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "be0f9d6a-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2198475,
+                        "end": 2203315,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c4917e-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2198475,
+                        "end": 2203315,
+                        "content": "3"
+                },
+
+                {
+                        "id": "61272dc0-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2198475,
+                        "end": 2203315,
+                        "content": "left"
+                },
+
+                {
+                        "id": "a2520fde-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2198475,
+                        "end": 2203315,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc3c-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2198475,
+                        "end": 2203315,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9e0-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2198475,
+                        "end": 2203315,
+                        "content": "single,human being"
+                },
+
+                {
+                        "id": "96a69f91-8f8b-11ee-bf0b-3993b09b3170",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2200000,
+                        "end": 2300000,
+                        "content": "88.83 90.82 89.01 88.14 84.40 89.83 85.53 90.07 85.52 89.24 87.68 87.24 88.86 85.25 85.77 85.38 87.69 88.97 87.43 89.06 87.49 90.76 86.73 89.99 89.23 84.87 89.78 87.71 87.51 86.43 87.59 84.50 87.65 78.10 70.21 72.67 78.44 80.42 79.58 80.46 82.83 80.97 79.89 79.66 78.53 79.69 78.25 79.00 77.88 77.92 78.80 78.96 79.23 78.86 80.02 79.75 78.94 79.24 83.15 82.22 82.55 82.11 81.51 82.00 83.31 82.29 81.79 80.85 80.54 78.05 80.42 78.67 80.25 78.08 77.98 77.83 76.84 77.43 74.99 75.21 74.70 74.71 73.70 73.92 74.10 75.77 75.90 74.60 74.12 74.79 75.25 73.71 76.76 76.41 76.51 73.95 73.46 76.56 76.17 73.75 71.81 76.88 75.84 76.09 73.49 71.02 73.80 75.38 72.35 73.16 74.82 76.26 76.13 75.28 75.14 73.24 76.20 74.61 76.11 77.62 74.46 73.55 73.74 77.43 75.74 73.03 74.32 70.41 71.88 71.46 70.60 71.16 72.08 71.04 70.52 75.78 76.28 73.62 74.37 74.79 75.94 76.99 75.56 74.49 74.54 76.76 76.34 80.94 80.04 77.95 80.00 77.42 76.02 73.67 73.51 72.42 71.68 72.40 73.59 75.82 74.98 76.09 75.37 76.08 75.40 76.24 78.56 78.44 79.01 78.30 73.12 73.67 74.39 74.89 74.37 72.78 69.80 69.12 68.84 68.04 70.91 72.09 68.45 70.74 74.87 76.12 75.12 74.75 76.97 76.49 75.67 75.44 73.91 75.53 75.37 76.72 78.11 77.95 77.84 75.47 76.42 74.91 73.06 74.02 73.74 72.81 74.72 74.54 74.69 77.38 74.72 75.47 76.64 77.00 76.04 74.38 77.96 75.57 74.86 76.60 75.40 73.82 77.26 73.11 73.97 72.65 74.58 74.63 74.23 76.74 77.28 74.35 76.57 77.54 75.96 79.70 79.77 78.00 79.79 80.07 80.15 79.42 78.07 76.10 78.15 76.96 74.60 78.10 75.10 75.53 77.15 76.29 77.37 78.10 78.54 75.31 77.45 74.09 75.17 77.44 76.26 77.47 79.72 79.19 79.40 78.38 78.40 79.28 76.45 77.34 76.36 77.62 73.74 75.74 77.27 73.33 73.80 71.28 70.72 70.35 69.79 68.58 68.92 74.73 66.18 73.67 75.43 74.18 74.12 75.33 75.12 78.54 77.92 79.11 75.40 75.83 75.22 73.29 75.81 76.28 72.88 77.44 76.22 74.69 74.03 75.49 75.42 76.13 74.93 74.07 77.03 74.93 75.17 77.23 77.08 74.83 75.91 76.75 75.68 75.15 75.61 73.58 73.51 71.85 73.44 71.78 70.84 69.93 72.03 69.40 72.22 68.26 73.81 70.58 69.01 67.64 68.57 74.32 73.68 73.19 74.11 73.95 72.08 75.01 75.80 74.00 72.34 73.45 72.17 70.35 74.22 77.70 75.87 75.02 75.20 76.47 75.47 75.55 76.34 75.51 72.75 78.55 81.63 81.52 80.38 79.70 79.35 79.14 78.00 81.79 78.70 77.80 79.21 77.17 78.18 81.97 78.49 79.06 77.77 77.64 77.20 78.66 79.09 77.25 77.67 83.21 78.50 78.35 78.30 80.72 79.40 78.47 78.08 78.09 83.87 79.52 81.43 83.65 82.25 82.42 85.17 86.98 82.13 81.64 84.18 83.88 82.51 80.99 86.41 82.20 82.55 80.70 81.62 80.24 84.90 83.54 84.81 83.14 79.45 78.15 80.05 79.83 80.38 78.96 81.83 80.49 78.16 84.80 79.75 79.11 79.57 78.97 75.32 79.92 77.04 81.55 78.50 79.03 76.76 76.56 75.02 75.01 72.66 73.09 74.36 75.29 75.55 73.58 72.40 74.69 75.76 72.94 72.18 73.65 74.88 70.31 76.40 75.01 76.90 83.12 76.06 74.47 84.05 82.76 78.20 84.11 81.71 73.29 69.64 68.32 80.18 79.29 82.59 76.96 84.13 76.13 83.77 80.30 79.64 78.47 80.01 71.90 71.18 75.29 71.12 69.74 68.26 72.10 68.68 68.92 71.57 69.50 71.24 71.19 70.48 71.76 72.01 83.76 83.90 79.56 80.71 68.29 71.09 71.39 70.26 71.25 72.59 67.66 69.67 69.47 71.72 73.86 68.21 69.40 70.84 67.95 69.23 69.76 70.93 70.47 74.69 70.87 74.22 75.53 74.91 80.77 82.26 85.22 84.60 79.38 80.73 75.58 70.94 69.86 70.89 69.13 72.60 70.84 71.33 69.82 69.26 69.35 67.20 70.63 69.63 69.91 71.38 70.84 69.18 68.29 69.71 70.72 71.27 72.35 71.68 82.51 83.78 75.21 78.06 81.78 81.40 82.03 74.46 75.69 78.77 80.12 75.73 76.05 75.73 78.66 76.06 76.29 76.88 75.51 76.46 76.87 82.09 82.22 84.65 82.57 85.05 79.22 79.39 79.06 78.16 76.10 76.54 76.47 75.74 77.05 75.47 78.82 80.27 78.83 81.11 78.58 78.92 76.96 77.31 80.14 79.16 81.25 79.83 84.04 83.89 84.20 84.18 81.13 80.82 76.96 78.90 78.94 76.33 74.65 75.37 75.07 73.03 72.35 72.97 75.46 74.57 71.90 74.56 70.85 73.92 72.77 74.91 74.47 72.58 71.19 75.11 75.91 78.63 74.57 74.15 77.21 75.16 79.19 75.31 76.88 76.42 76.28 75.85 75.90 74.60 74.09 77.22 75.51 74.98 74.62 74.10 73.23 74.01 73.35 73.22 73.97 73.44 71.34 73.27 72.86 73.17 72.75 75.50 73.56 74.59 76.04 75.36 76.74 79.32 75.21 76.30 77.52 75.01 75.11 75.76 73.70 73.22 74.43 74.16 75.08 73.05 74.60 71.35 74.93 78.05 74.37 71.36 71.82 73.20 71.97 74.13 73.49 73.75 74.58 74.07 74.46 72.94 73.07 72.54 71.19 74.32 81.25 73.99 74.09 73.14 72.08 70.03 72.42 73.09 72.01 70.82 72.51 72.27 73.07 72.73 73.72 87.02 75.39 73.07 77.78 76.88 78.05 76.94 76.26 76.25 81.25 77.35 76.92 75.48 77.05 75.99 76.26 75.74 84.74 76.50 73.31 76.84 76.75 73.17 75.69 73.86 72.00 75.78 72.64 73.08 73.80 73.80 74.81 77.97 79.56 76.84 78.94 78.86 80.19 77.44 80.40 76.72 79.66 76.16 78.06 76.52 78.31 74.98 80.95 77.73 77.46 75.10 74.53 74.52 75.46 74.37 71.42 73.67 74.49 74.04 71.47 72.55 74.48 73.72 80.02 77.19 76.61 73.85 75.67 75.14 75.99 74.78 74.89 74.57 75.19 72.67 76.99 71.96 73.74 74.13 73.08 76.01 70.97 71.79 68.94 68.68 70.45 71.55 70.64 69.37 68.15 68.42 70.33 68.73 66.45 66.41 66.85 69.47 64.69 65.74 66.48 64.46 66.21 77.14 77.78 67.83 67.07 68.41 68.09 66.96 68.86 65.87 69.64 64.59 69.38 69.66 68.10 68.58 67.09 68.51 69.08 69.94 71.29 77.44 75.99 74.81 77.96 77.09 76.62 75.30 77.05 76.86 75.16 76.57 75.46 73.94 73.49 72.99 73.76 73.21 70.09 70.11 74.67 76.22 73.55 73.05 71.23 73.15 71.70 71.74 73.88 70.88 79.34 75.06 75.07 75.06 75.33 73.89 73.67 74.50 72.46 71.43 74.81 71.70 72.79 71.03 69.85 72.10 71.57 69.93 72.28 71.82 69.90 69.25 68.53 68.14 67.99 69.13 72.53 69.50 69.22 74.64 75.84 75.41 74.69 75.02 75.18 74.36 74.83 76.71 74.09 75.38 75.96 73.73 73.76 74.45 72.27 73.05 73.07 71.94 73.23 70.46 73.17 75.50 74.98 71.41 70.76 73.13 71.57 75.09 73.41 70.28 72.64 73.24 72.86 71.85 72.08 71.87 70.00 68.76 69.88 70.75 68.33 71.78 69.59 70.30 69.13 69.28 67.31 71.58 68.42 68.18 69.90 71.40 79.81 67.28 71.22 69.47 72.89 71.65 70.75 71.04 71.73 73.82 74.85 74.40 74.10 76.37 71.79 73.48 78.41 75.37 74.28 76.26 76.17 75.86 76.43 75.11 73.24 74.81 74.04 73.05 72.11 75.76 74.85 73.05 71.76 73.89 72.68 74.27 72.22 73.04 76.73 76.34 75.11 77.24 79.00 79.20 76.78 76.90 75.11 76.45 75.59 75.13 75.73"
+                },
+
+                {
+                        "id": "c80d621f-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2203315,
+                        "end": 2216995,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "be0f9d6b-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2203315,
+                        "end": 2216995,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c4917f-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2203315,
+                        "end": 2216995,
+                        "content": "2"
+                },
+
+                {
+                        "id": "61272dc1-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2203315,
+                        "end": 2216995,
+                        "content": "away"
+                },
+
+                {
+                        "id": "711cbbc8-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2203315,
+                        "end": 2216995,
+                        "content": "yellow"
+                },
+
+                {
+                        "id": "a2520fdf-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2203315,
+                        "end": 2216995,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "e6a8fc3d-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2203315,
+                        "end": 2216995,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9e1-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2203315,
+                        "end": 2216995,
+                        "content": "object"
+                },
+
+                {
+                        "id": "c80d6220-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2216995,
+                        "end": 2236275,
+                        "content": "long shot,[TO],medium long shot"
+                },
+
+                {
+                        "id": "be0f9d6c-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2216995,
+                        "end": 2236275,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c49180-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2216995,
+                        "end": 2236275,
+                        "content": "2"
+                },
+
+                {
+                        "id": "61272dc2-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2216995,
+                        "end": 2236275,
+                        "content": "towards,left"
+                },
+
+                {
+                        "id": "a2520fe0-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2216995,
+                        "end": 2236275,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc3e-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2216995,
+                        "end": 2236275,
+                        "content": "pan"
+                },
+
+                {
+                        "id": "9954e906-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2216995,
+                        "end": 2236275,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "b226598a-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2216995,
+                        "end": 2236275,
+                        "content": "left"
+                },
+
+                {
+                        "id": "71ebc9e2-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2216995,
+                        "end": 2236275,
+                        "content": "object"
+                },
+
+                {
+                        "id": "c80d6221-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2236275,
+                        "end": 2243835,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "be0f9d6d-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2236275,
+                        "end": 2243835,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c49181-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2236275,
+                        "end": 2243835,
+                        "content": "3"
+                },
+
+                {
+                        "id": "61272dc3-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2236275,
+                        "end": 2243835,
+                        "content": "left"
+                },
+
+                {
+                        "id": "a2520fe1-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2236275,
+                        "end": 2243835,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc3f-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2236275,
+                        "end": 2243835,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9e3-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2236275,
+                        "end": 2243835,
+                        "content": "object"
+                },
+
+                {
+                        "id": "c80d6222-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2243835,
+                        "end": 2260795,
+                        "content": "medium shot,[TO],medium closeup"
+                },
+
+                {
+                        "id": "be0f9d6e-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2243835,
+                        "end": 2260795,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c49182-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2243835,
+                        "end": 2260795,
+                        "content": "3,[TO],2"
+                },
+
+                {
+                        "id": "61272dc4-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2243835,
+                        "end": 2260795,
+                        "content": "right"
+                },
+
+                {
+                        "id": "a2520fe2-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2243835,
+                        "end": 2260795,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc40-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2243835,
+                        "end": 2260795,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9e4-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2243835,
+                        "end": 2260795,
+                        "content": "group,human being"
+                },
+
+                {
+                        "id": "5bebd442-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2245200,
+                        "end": 2246959,
+                        "content": "You want to just follow me?"
+                },
+
+                {
+                        "id": "1b39ac02-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2245200,
+                        "end": 2246959,
+                        "content": "confident"
+                },
+
+                {
+                        "id": "5bebd443-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2246960,
+                        "end": 2249479,
+                        "content": "Wait, I thought you said\nno one would be here?"
+                },
+
+                {
+                        "id": "1b39ac03-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2246960,
+                        "end": 2249479,
+                        "content": "disgusted (distanziert)"
+                },
+
+                {
+                        "id": "5bebd444-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2249480,
+                        "end": 2252119,
+                        "content": "This is nothing."
+                },
+
+                {
+                        "id": "1b39ac04-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2249480,
+                        "end": 2252119,
+                        "content": "confident"
+                },
+
+                {
+                        "id": "5bebd445-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2252120,
+                        "end": 2253679,
+                        "content": "You should see it in the on-season."
+                },
+
+                {
+                        "id": "1b39ac05-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2252120,
+                        "end": 2253679,
+                        "content": "confident"
+                },
+
+                {
+                        "id": "5bebd446-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2253680,
+                        "end": 2255559,
+                        "content": "All right."
+                },
+
+                {
+                        "id": "1b39ac06-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2253680,
+                        "end": 2255559,
+                        "content": "disgusted (distanziert)"
+                },
+
+                {
+                        "id": "5bebd447-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2255560,
+                        "end": 2256599,
+                        "content": "Come on. Follow me."
+                },
+
+                {
+                        "id": "1b39ac07-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2255560,
+                        "end": 2256599,
+                        "content": "confident"
+                },
+
+                {
+                        "id": "a9b8c892-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "MusicMood",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2256108,
+                        "end": 2532035,
+                        "content": "calm,ominous"
+                },
+
+                {
+                        "id": "38f8e155-8f91-11ee-bf0b-3993b09b3170",
+                        "type": "MusicIntensity",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2256108,
+                        "end": 2532035,
+                        "content": "2,[TO],5"
+                },
+
+                {
+                        "id": "5bebd448-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2256600,
+                        "end": 2258261,
+                        "content": "All right."
+                },
+
+                {
+                        "id": "1b39ac08-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2256600,
+                        "end": 2258261,
+                        "content": "disgusted (distanziert)"
+                },
+
+                {
+                        "id": "c80d6223-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2260795,
+                        "end": 2272555,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "be0f9d6f-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2260795,
+                        "end": 2272555,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c49183-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2260795,
+                        "end": 2272555,
+                        "content": "2"
+                },
+
+                {
+                        "id": "61272dc5-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2260795,
+                        "end": 2272555,
+                        "content": "down"
+                },
+
+                {
+                        "id": "a2520fe3-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2260795,
+                        "end": 2272555,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc41-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2260795,
+                        "end": 2272555,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "9c15effa-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2260795,
+                        "end": 2272555,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "b226598b-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2260795,
+                        "end": 2272555,
+                        "content": "right"
+                },
+
+                {
+                        "id": "71ebc9e5-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2260795,
+                        "end": 2272555,
+                        "content": "location"
+                },
+
+                {
+                        "id": "c80d6224-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2272555,
+                        "end": 2279675,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "be0f9d70-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2272555,
+                        "end": 2279675,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c49184-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2272555,
+                        "end": 2279675,
+                        "content": "2"
+                },
+
+                {
+                        "id": "61272dc6-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2272555,
+                        "end": 2279675,
+                        "content": "right"
+                },
+
+                {
+                        "id": "a2520fe4-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2272555,
+                        "end": 2279675,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc42-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2272555,
+                        "end": 2279675,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9e6-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2272555,
+                        "end": 2279675,
+                        "content": "group,human being"
+                },
+
+                {
+                        "id": "c80d6225-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2279675,
+                        "end": 2288955,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "be0f9d71-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2279675,
+                        "end": 2288955,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c49185-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2279675,
+                        "end": 2288955,
+                        "content": "2"
+                },
+
+                {
+                        "id": "61272dc7-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2279675,
+                        "end": 2288955,
+                        "content": "right"
+                },
+
+                {
+                        "id": "801e4b1e-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2279675,
+                        "end": 2288955,
+                        "content": "yellow"
+                },
+
+                {
+                        "id": "a2520fe5-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2279675,
+                        "end": 2288955,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc43-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2279675,
+                        "end": 2288955,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9e7-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2279675,
+                        "end": 2288955,
+                        "content": "object,single,human being"
+                },
+
+                {
+                        "id": "c80d6226-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2288955,
+                        "end": 2306155,
+                        "content": "medium shot tbd,long shot"
+                },
+
+                {
+                        "id": "be0f9d72-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2288955,
+                        "end": 2306155,
+                        "content": ""
+                },
+
+                {
+                        "id": "2c7749a8-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2288955,
+                        "end": 2306155,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "d7c49186-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2288955,
+                        "end": 2306155,
+                        "content": "0,[VS],2"
+                },
+
+                {
+                        "id": "61272dc8-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2288955,
+                        "end": 2306155,
+                        "content": "left"
+                },
+
+                {
+                        "id": "a2520fe6-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2288955,
+                        "end": 2306155,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc44-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2288955,
+                        "end": 2306155,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9e8-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2288955,
+                        "end": 2306155,
+                        "content": "group,human being,object"
+                },
+
+                {
+                        "id": "4fe1a32a-8f8b-11ee-bf0b-3993b09b3170",
+                        "type": "MontageFigureMacro",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2288955,
+                        "end": 2306155,
+                        "content": "framing tbd"
+                },
+
+                {
+                        "id": "5bebd44a-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2291640,
+                        "end": 2293799,
+                        "content": "You're almost right\ndead in the middle,"
+                },
+
+                {
+                        "id": "1b39ac09-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2291640,
+                        "end": 2293799,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "5bebd44b-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2293800,
+                        "end": 2297239,
+                        "content": "just a little below the very\ncenter of the price range."
+                },
+
+                {
+                        "id": "1b39ac0a-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2293800,
+                        "end": 2297239,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "5bebd44c-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2297240,
+                        "end": 2300519,
+                        "content": "Let's see if you are on your\nway to Miami for six nights."
+                },
+
+                {
+                        "id": "1b39ac0b-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2297240,
+                        "end": 2300519,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "96a69f92-8f8b-11ee-bf0b-3993b09b3170",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2300000,
+                        "end": 2400000,
+                        "content": "75.27 73.77 73.49 73.43 72.81 72.63 72.50 72.10 71.83 69.82 70.43 73.01 70.01 70.48 69.90 73.83 77.92 75.95 74.69 76.19 77.17 79.73 78.49 78.05 79.06 81.30 79.46 78.26 77.79 77.28 80.28 77.47 75.91 77.66 75.57 79.17 74.42 76.86 76.46 78.29 77.45 77.01 75.77 73.88 75.46 77.75 78.24 78.15 77.82 80.12 78.11 79.78 78.78 78.84 81.03 77.63 76.41 78.09 76.38 76.20 74.79 73.56 69.57 70.63 69.81 68.28 67.77 70.86 74.09 69.16 67.40 65.44 65.71 67.07 69.68 72.77 73.95 76.24 73.43 73.31 74.96 76.86 78.33 75.90 74.64 74.03 72.63 74.45 73.29 72.28 74.01 74.16 74.78 73.20 75.52 72.26 72.47 74.43 73.54 73.82 73.17 69.70 67.99 69.01 72.99 71.87 74.09 74.67 77.50 78.20 78.69 79.47 77.88 78.88 77.55 79.11 76.38 74.57 77.43 75.30 76.23 76.19 73.70 74.43 72.75 70.82 72.02 71.43 70.25 71.02 70.87 69.98 71.73 70.70 69.91 74.06 74.89 74.32 73.38 73.66 75.25 75.28 74.54 74.66 74.60 75.07 75.02 75.23 74.93 73.56 74.78 74.09 72.63 72.86 72.78 72.72 68.92 70.12 69.41 68.81 69.37 67.65 70.12 67.95 65.95 70.31 72.21 69.97 68.51 69.01 69.27 70.52 70.45 69.85 68.43 68.67 67.89 68.44 67.26 67.22 66.48 66.38 63.92 66.44 67.41 64.46 63.59 61.67 63.66 63.93 66.79 68.94 66.71 64.97 67.97 67.00 65.69 65.81 64.44 69.49 73.15 69.48 70.85 70.55 83.17 79.06 68.63 69.72 69.55 78.11 75.87 74.78 72.62 70.45 71.47 72.14 69.77 70.32 79.97 82.09 71.31 71.91 71.61 68.02 66.15 69.20 67.17 65.86 66.69 66.18 65.64 66.58 67.00 65.32 64.73 64.65 74.57 66.20 73.17 65.18 66.25 69.59 69.77 68.43 72.01 68.48 72.16 69.66 67.82 68.09 68.66 69.43 69.15 69.95 72.46 71.68 69.71 70.51 70.20 68.38 69.07 67.58 65.93 67.12 65.59 70.62 69.68 68.73 68.64 68.48 67.17 68.91 67.92 66.43 68.04 67.26 66.78 66.72 65.31 66.08 64.93 64.48 63.98 62.90 60.99 62.57 63.38 62.37 62.54 60.14 62.33 63.86 62.19 62.99 62.23 61.33 63.86 72.87 72.72 71.89 72.10 72.18 72.91 72.43 73.76 73.11 71.24 71.77 74.02 75.78 75.14 73.95 74.00 75.61 74.70 73.36 73.22 72.45 72.44 72.15 72.24 70.87 72.18 71.45 72.54 71.36 71.78 73.85 72.15 71.95 73.06 72.86 72.85 72.96 71.56 70.91 71.07 72.17 72.03 71.12 70.63 76.62 77.75 75.13 75.86 74.76 71.78 74.20 71.41 70.99 71.53 71.32 69.37 70.70 71.05 71.70 72.30 70.87 71.12 71.08 71.31 69.85 67.86 68.83 66.81 67.76 65.87 66.60 66.60 66.45 67.28 67.86 66.35 67.17 66.37 67.25 68.97 66.10 66.22 66.29 67.91 65.07 67.85 66.83 69.13 75.45 74.76 72.22 71.73 77.21 73.32 73.57 73.24 71.20 72.86 72.05 72.16 73.10 73.82 73.86 76.29 70.62 71.68 73.07 71.11 73.71 70.89 71.22 72.37 72.75 71.79 76.19 73.61 73.62 74.29 72.89 74.32 74.85 73.37 75.39 74.51 74.13 74.15 72.11 71.50 70.59 70.97 72.31 72.63 74.19 76.71 74.34 73.32 74.07 75.54 72.50 72.08 71.29 74.14 73.95 72.97 73.56 74.10 74.60 74.44 72.56 71.83 71.09 70.70 69.26 69.75 70.29 70.11 69.54 69.66 71.20 70.09 73.85 70.28 73.45 69.24 70.24 70.45 67.07 68.56 69.50 68.26 69.09 67.30 72.64 67.57 67.94 68.79 67.74 69.38 73.53 70.24 68.35 67.64 76.02 80.29 81.76 82.96 78.92 70.48 70.67 69.40 69.30 67.88 69.20 83.81 82.78 73.42 80.80 68.46 82.53 75.27 81.43 80.35 67.90 80.25 80.29 73.11 70.93 76.79 75.48 78.92 83.46 75.43 80.72 75.21 82.42 82.33 67.22 71.41 81.36 82.08 71.21 68.75 72.47 74.66 76.42 71.58 68.60 73.62 68.07 65.94 67.42 77.38 75.16 67.01 65.30 65.52 68.19 66.84 66.19 65.76 65.67 64.97 64.53 65.46 66.76 67.60 68.43 65.78 70.50 64.83 70.97 72.09 68.19 73.30 64.03 62.43 63.36 64.94 63.17 63.26 63.38 78.90 74.99 78.68 73.07 73.35 73.00 64.34 65.11 65.04 66.54 67.33 69.14 66.63 70.49 67.76 68.80 70.80 75.28 71.19 76.00 70.73 69.14 75.54 75.37 76.36 75.65 76.26 74.29 75.72 76.20 74.83 77.39 76.53 76.12 74.41 73.64 75.41 75.54 74.44 74.80 73.95 72.11 72.63 75.45 72.21 68.02 69.05 70.49 71.49 72.72 71.06 70.79 71.77 71.37 71.28 70.15 68.54 68.83 69.57 76.24 74.33 68.32 67.20 67.93 68.42 64.86 65.97 67.55 67.66 69.93 70.39 70.67 66.73 73.71 68.56 69.16 67.56 67.19 66.78 65.58 67.02 64.28 64.92 62.92 63.13 62.10 60.83 63.41 63.43 59.73 60.08 60.39 61.74 65.07 64.36 61.23 68.87 68.37 66.65 69.45 66.14 69.73 72.34 68.95 70.42 71.36 68.69 73.10 73.26 71.91 69.93 69.76 69.83 69.34 67.48 67.64 77.09 78.27 75.77 75.38 76.60 78.23 77.78 75.91 75.96 74.87 76.73 73.68 73.41 73.12 72.41 70.69 72.36 71.76 70.28 70.17 70.46 69.52 68.50 69.39 68.35 69.83 70.06 69.94 69.66 69.77 69.94 68.76 71.37 72.31 70.28 69.10 68.04 68.36 68.90 69.26 66.18 68.75 65.80 66.63 67.30 66.26 66.93 65.89 66.46 65.82 65.08 63.24 65.75 63.73 62.69 63.98 64.84 64.82 63.62 60.62 65.76 65.09 62.87 61.07 63.91 65.38 73.44 71.22 69.64 67.13 66.56 68.73 67.87 68.21 65.26 67.98 66.83 65.84 67.31 66.56 70.08 66.96 67.18 68.97 68.34 68.16 68.57 64.97 67.45 67.87 70.73 72.71 68.26 71.07 71.72 71.56 71.84 72.13 72.39 75.80 74.38 76.13 74.76 74.06 73.16 74.19 73.12 72.23 71.75 71.52 73.02 72.72 74.46 70.83 68.93 71.61 73.90 70.27 69.26 68.56 69.75 68.73 69.81 69.01 69.41 67.44 71.20 70.48 71.67 71.09 68.41 70.26 69.05 68.67 67.63 64.80 64.52 63.42 67.13 66.59 67.10 63.69 63.63 63.21 61.18 60.84 59.46 60.33 58.96 60.67 59.97 57.62 67.79 70.76 71.16 68.95 66.33 66.29 70.60 71.04 67.18 67.36 65.37 66.37 67.41 68.64 65.93 63.56 64.36 64.29 63.65 64.19 66.11 67.17 64.33 65.77 63.52 63.18 64.85 65.32 65.08 66.24 65.47 63.38 62.75 64.17 63.49 65.09 62.57 66.12 63.77 60.90 60.64 60.24 71.66 58.77 56.25 68.15 70.34 71.31 70.15 68.04 75.85 72.96 72.12 68.39 69.53 74.94 71.52 71.11 70.46 69.40 69.40 69.32 68.47 72.76 66.64 69.43 68.49 69.17 68.50 69.86 70.78 70.26 68.39 68.93 68.24 68.04 67.26 69.74 70.23 66.19 67.29 66.30 65.67 68.67 65.57 66.17 66.29 66.20 64.36 65.88 66.82 67.48 69.19 67.80 65.83 68.55 66.73 66.20 66.94 65.68 66.19 68.46 69.54 69.85 69.51 70.16 72.26 70.04 67.61 67.67 68.50 69.56 70.70 68.66 67.44 70.73 66.28 72.16 71.62 74.13 73.80 75.08 72.23 72.91 70.86 71.85 71.85 73.19 73.62 72.77 67.16 67.58 68.10 70.69 67.69 65.41 69.24 68.34 70.33 68.59 70.62 67.55 69.03 67.75 68.07 68.07 68.51 69.04 67.30 64.09 65.26 68.81 68.82 67.11 64.23 64.36 67.34 68.57 72.51 72.32 73.32 73.87 72.01 68.09 67.14 69.33 71.18 72.72 73.00 70.75 69.37 75.85 74.30 71.76"
+                },
+
+                {
+                        "id": "5bebd44d-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2300520,
+                        "end": 2304479,
+                        "content": "Is she right?"
+                },
+
+                {
+                        "id": "1b39ac0c-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2300520,
+                        "end": 2304479,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "5bebd44e-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2304480,
+                        "end": 2305479,
+                        "content": "You got it!"
+                },
+
+                {
+                        "id": "1b39ac0d-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2304480,
+                        "end": 2305479,
+                        "content": "joyful"
+                },
+
+                {
+                        "id": "5bebd44f-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2305480,
+                        "end": 2307159,
+                        "content": "[CHEERS AND APPLAUSE]"
+                },
+
+                {
+                        "id": "1b39ac0e-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2305480,
+                        "end": 2307159,
+                        "content": "joyful"
+                },
+
+                {
+                        "id": "c80d6227-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2306155,
+                        "end": 2330915,
+                        "content": "medium long shot,long shot"
+                },
+
+                {
+                        "id": "be0f9d73-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2306155,
+                        "end": 2330915,
+                        "content": ""
+                },
+
+                {
+                        "id": "3a8870c6-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2306155,
+                        "end": 2330915,
+                        "content": "bright"
+                },
+
+                {
+                        "id": "d7c49187-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2306155,
+                        "end": 2330915,
+                        "content": "2"
+                },
+
+                {
+                        "id": "61272dc9-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2306155,
+                        "end": 2330915,
+                        "content": "left,right"
+                },
+
+                {
+                        "id": "a2520fe7-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2306155,
+                        "end": 2330915,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc45-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2306155,
+                        "end": 2330915,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9e9-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2306155,
+                        "end": 2330915,
+                        "content": "object,group,human being"
+                },
+
+                {
+                        "id": "5bebd450-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2307160,
+                        "end": 2309519,
+                        "content": "You're going to Miami!\nYou're going to Miami!"
+                },
+
+                {
+                        "id": "1b39ac0f-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2307160,
+                        "end": 2309519,
+                        "content": "joyful"
+                },
+
+                {
+                        "id": "5bebd451-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2309520,
+                        "end": 2312119,
+                        "content": "I've been walking\nfor, like, 11 miles."
+                },
+
+                {
+                        "id": "1b39ac10-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2309520,
+                        "end": 2312119,
+                        "content": "suffering"
+                },
+
+                {
+                        "id": "5bebd452-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2312120,
+                        "end": 2314599,
+                        "content": "I can't go any more."
+                },
+
+                {
+                        "id": "1b39ac11-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2312120,
+                        "end": 2314599,
+                        "content": "suffering"
+                },
+
+                {
+                        "id": "5bebd453-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2314600,
+                        "end": 2317023,
+                        "content": "My ankles are breaking."
+                },
+
+                {
+                        "id": "1b39ac12-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2314600,
+                        "end": 2317023,
+                        "content": "suffering"
+                },
+
+                {
+                        "id": "c80d6228-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2330915,
+                        "end": 2335195,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "be0f9d74-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2330915,
+                        "end": 2335195,
+                        "content": ""
+                },
+
+                {
+                        "id": "46eae380-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2330915,
+                        "end": 2368475,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "d7c49188-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2330915,
+                        "end": 2335195,
+                        "content": "1"
+                },
+
+                {
+                        "id": "61272dca-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2330915,
+                        "end": 2335195,
+                        "content": "right"
+                },
+
+                {
+                        "id": "a2520fe8-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2330915,
+                        "end": 2335195,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc46-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2330915,
+                        "end": 2335195,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9ea-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2330915,
+                        "end": 2335195,
+                        "content": "single,human being"
+                },
+
+                {
+                        "id": "c80d6229-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2335195,
+                        "end": 2347595,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "be0f9d75-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2335195,
+                        "end": 2347595,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c49189-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2335195,
+                        "end": 2347595,
+                        "content": "2"
+                },
+
+                {
+                        "id": "61272dcb-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2335195,
+                        "end": 2347595,
+                        "content": "undirected,right"
+                },
+
+                {
+                        "id": "a2520fe9-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2335195,
+                        "end": 2347595,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "e6a8fc47-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2335195,
+                        "end": 2347595,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9eb-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2335195,
+                        "end": 2347595,
+                        "content": "object"
+                },
+
+                {
+                        "id": "c80d622a-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2347595,
+                        "end": 2368475,
+                        "content": "medium closeup,[TO],long shot"
+                },
+
+                {
+                        "id": "be0f9d76-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2347595,
+                        "end": 2368475,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c4918a-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2347595,
+                        "end": 2368475,
+                        "content": "1"
+                },
+
+                {
+                        "id": "61272dcc-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2347595,
+                        "end": 2368475,
+                        "content": "left"
+                },
+
+                {
+                        "id": "a2520fea-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2347595,
+                        "end": 2368475,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc48-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2347595,
+                        "end": 2368475,
+                        "content": "pan"
+                },
+
+                {
+                        "id": "a020296c-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2347595,
+                        "end": 2368475,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "b226598c-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2347595,
+                        "end": 2368475,
+                        "content": "right"
+                },
+
+                {
+                        "id": "71ebc9ec-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2347595,
+                        "end": 2368475,
+                        "content": "group,human being,location"
+                },
+
+                {
+                        "id": "5bebd454-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2347720,
+                        "end": 2348719,
+                        "content": "We'll be fast."
+                },
+
+                {
+                        "id": "1b39ac13-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2347720,
+                        "end": 2348719,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "5bebd455-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2348720,
+                        "end": 2350959,
+                        "content": "Let's find a safe place to\npark the trailer, all right?"
+                },
+
+                {
+                        "id": "1b39ac14-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2348720,
+                        "end": 2350959,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "5bebd456-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2350960,
+                        "end": 2352079,
+                        "content": "And careful where you park."
+                },
+
+                {
+                        "id": "1b39ac15-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2350960,
+                        "end": 2352079,
+                        "content": "insecure"
+                },
+
+                {
+                        "id": "5bebd457-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2352080,
+                        "end": 2353239,
+                        "content": "The lot has cameras now, okay?"
+                },
+
+                {
+                        "id": "1b39ac16-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2352080,
+                        "end": 2353239,
+                        "content": "insecure"
+                },
+
+                {
+                        "id": "5bebd458-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2353240,
+                        "end": 2354265,
+                        "content": "Got it."
+                },
+
+                {
+                        "id": "1b39ac17-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2353240,
+                        "end": 2354265,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "c80d622b-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2368475,
+                        "end": 2377995,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "be0f9d77-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2368475,
+                        "end": 2377995,
+                        "content": ""
+                },
+
+                {
+                        "id": "510d436c-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2368475,
+                        "end": 2377995,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "d7c4918b-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2368475,
+                        "end": 2377995,
+                        "content": "0,[VS],2"
+                },
+
+                {
+                        "id": "61272dcd-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2368475,
+                        "end": 2377995,
+                        "content": "right"
+                },
+
+                {
+                        "id": "a2520feb-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2368475,
+                        "end": 2377995,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc49-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2368475,
+                        "end": 2377995,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9ed-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2368475,
+                        "end": 2377995,
+                        "content": "group,human being"
+                },
+
+                {
+                        "id": "5a65fd00-8f8b-11ee-bf0b-3993b09b3170",
+                        "type": "MontageFigureMacro",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2368475,
+                        "end": 2377995,
+                        "content": "framing tbd"
+                },
+
+                {
+                        "id": "c80d622c-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2377995,
+                        "end": 2385835,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "be0f9d78-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2377995,
+                        "end": 2385835,
+                        "content": ""
+                },
+
+                {
+                        "id": "6565e5a8-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2377995,
+                        "end": 2461475,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "d7c4918c-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2377995,
+                        "end": 2385835,
+                        "content": "1"
+                },
+
+                {
+                        "id": "61272dce-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2377995,
+                        "end": 2385835,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "a2520fec-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2377995,
+                        "end": 2385835,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "e6a8fc4a-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2377995,
+                        "end": 2385835,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9ee-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2377995,
+                        "end": 2385835,
+                        "content": "single,human being"
+                },
+
+                {
+                        "id": "c80d622d-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2385835,
+                        "end": 2391515,
+                        "content": "medium long shot,[TO],medium closeup"
+                },
+
+                {
+                        "id": "be0f9d79-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2385835,
+                        "end": 2391515,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c4918d-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2385835,
+                        "end": 2391515,
+                        "content": "2"
+                },
+
+                {
+                        "id": "61272dcf-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2385835,
+                        "end": 2391515,
+                        "content": "towards"
+                },
+
+                {
+                        "id": "a2520fed-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2385835,
+                        "end": 2391515,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc4b-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2385835,
+                        "end": 2391515,
+                        "content": "pan"
+                },
+
+                {
+                        "id": "a12a984c-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2385835,
+                        "end": 2391515,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "b226598d-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2385835,
+                        "end": 2391515,
+                        "content": "right"
+                },
+
+                {
+                        "id": "71ebc9ef-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2385835,
+                        "end": 2391515,
+                        "content": "group,human being"
+                },
+
+                {
+                        "id": "c80d622e-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2391515,
+                        "end": 2421115,
+                        "content": "medium long shot,[TO],long shot"
+                },
+
+                {
+                        "id": "be0f9d7a-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2391515,
+                        "end": 2421115,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c4918e-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2391515,
+                        "end": 2421115,
+                        "content": "2"
+                },
+
+                {
+                        "id": "61272dd0-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2391515,
+                        "end": 2421115,
+                        "content": "away"
+                },
+
+                {
+                        "id": "a2520fee-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2391515,
+                        "end": 2421115,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc4c-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2391515,
+                        "end": 2421115,
+                        "content": "pan"
+                },
+
+                {
+                        "id": "a12a984d-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2391515,
+                        "end": 2421115,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "b226598e-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2391515,
+                        "end": 2421115,
+                        "content": "right"
+                },
+
+                {
+                        "id": "71ebc9f0-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2391515,
+                        "end": 2421115,
+                        "content": "object,group,human being"
+                },
+
+                {
+                        "id": "96a69f93-8f8b-11ee-bf0b-3993b09b3170",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2400000,
+                        "end": 2500000,
+                        "content": "71.96 68.30 72.05 72.23 71.48 71.21 74.77 83.17 70.73 70.47 67.32 68.86 67.87 67.26 66.98 69.99 68.07 70.16 71.94 69.64 70.82 69.38 67.31 68.33 71.38 71.57 73.98 73.01 74.51 73.40 75.19 75.96 76.28 80.69 80.72 78.43 76.36 76.59 76.76 77.73 78.30 77.54 77.61 77.65 77.70 78.48 77.62 76.05 75.53 77.54 77.26 76.45 75.66 71.99 76.45 74.71 75.05 78.24 75.38 75.92 76.68 76.44 76.20 76.71 78.61 77.37 78.67 77.03 79.78 79.34 81.10 80.41 81.21 79.84 78.77 79.95 77.95 78.61 78.55 77.81 78.25 76.63 79.53 82.03 78.63 76.31 77.93 77.91 80.24 77.49 78.21 77.47 79.68 78.56 79.95 80.13 78.91 77.21 78.74 78.04 78.83 77.36 78.87 79.23 80.60 77.43 79.15 79.67 81.02 79.63 80.81 79.84 78.77 81.12 79.00 78.19 79.82 79.62 77.16 79.20 76.71 79.30 78.22 79.35 77.96 79.89 80.03 78.72 76.98 78.76 82.97 77.67 80.81 79.18 79.75 76.06 78.90 76.15 76.97 77.58 78.87 77.50 77.22 79.28 77.82 78.79 76.35 75.45 77.50 76.27 78.57 76.38 75.34 76.63 77.82 77.66 74.25 75.82 75.29 74.35 75.27 74.69 75.56 75.31 74.77 75.09 77.79 74.58 73.93 74.21 73.05 69.48 73.08 72.23 73.94 74.51 73.90 73.17 72.74 72.96 70.89 71.26 71.72 71.11 72.59 73.61 72.21 75.15 74.49 73.56 71.54 70.76 72.54 72.41 71.52 72.07 71.71 70.73 71.16 74.38 72.49 73.35 74.29 74.70 74.07 75.61 76.16 75.87 74.40 75.95 71.24 68.00 64.93 64.23 62.34 66.29 67.32 66.18 64.00 65.31 67.11 69.80 72.20 71.59 71.25 70.24 71.32 71.76 73.19 68.48 71.76 71.65 73.77 69.38 69.88 65.31 66.64 71.45 77.02 67.61 66.38 66.26 67.54 60.27 63.34 62.87 59.61 56.14 57.58 54.50 55.88 59.24 59.23 58.48 60.60 57.49 64.50 67.26 62.42 60.15 63.58 69.78 67.42 66.39 72.09 72.58 65.91 65.96 67.02 65.29 66.06 65.76 65.27 65.91 66.43 64.78 65.12 62.88 65.52 65.37 63.92 63.74 62.15 61.49 59.22 61.65 64.98 64.25 63.35 63.27 73.33 65.96 69.23 67.55 68.24 64.74 67.38 66.75 67.35 63.29 66.89 76.04 69.26 74.55 71.52 71.11 72.67 72.27 73.52 73.27 71.85 72.45 72.09 71.49 72.03 69.67 69.88 70.90 69.53 70.06 67.08 69.31 70.26 70.97 68.42 66.27 68.38 67.94 64.04 63.14 64.60 67.23 69.83 60.98 66.91 72.89 60.04 58.39 60.68 61.16 61.66 63.14 63.08 61.07 58.86 68.31 63.18 61.32 63.57 65.35 62.80 60.51 61.68 65.33 64.49 62.80 64.40 64.60 60.88 61.08 61.10 56.64 60.85 61.85 59.76 59.66 59.45 61.68 62.75 58.14 59.18 61.07 66.95 62.39 62.58 62.97 62.75 62.21 63.84 65.42 66.37 65.92 64.60 65.73 65.79 65.93 66.18 66.48 65.34 64.52 66.85 64.95 64.88 64.17 66.55 64.90 67.38 70.44 67.53 66.40 66.06 63.97 62.57 65.91 63.07 62.63 64.68 64.74 61.57 62.13 63.00 61.08 62.60 70.35 59.65 65.35 63.15 61.63 62.37 60.24 59.30 58.68 61.42 61.17 65.28 59.62 57.47 58.20 61.68 59.86 60.31 58.03 57.39 55.91 68.66 58.12 58.76 74.37 74.89 63.14 61.67 61.07 60.32 62.06 63.60 64.37 63.16 64.74 65.20 64.61 64.66 66.51 64.37 65.09 65.25 65.83 66.33 65.15 66.06 65.80 67.08 64.31 65.46 67.00 66.07 68.27 67.36 66.12 67.30 67.38 65.90 68.58 70.54 69.41 69.02 66.44 66.49 67.16 66.69 69.71 71.31 69.58 68.38 69.41 67.89 69.76 70.16 71.56 72.69 74.60 73.01 70.48 71.29 72.42 72.83 71.13 68.79 68.79 69.54 70.23 69.11 70.55 71.08 72.66 72.06 70.81 70.57 69.28 67.68 66.36 66.88 66.17 69.66 68.62 67.13 67.20 69.67 69.24 71.12 70.90 71.50 71.17 70.23 70.30 70.58 70.87 71.20 72.16 71.79 70.74 73.63 74.49 72.81 73.55 72.28 72.93 72.46 73.70 73.04 73.33 72.09 70.02 70.54 69.76 67.28 65.54 68.64 68.41 66.60 66.06 64.64 65.94 65.15 65.69 66.83 66.14 65.16 65.49 67.55 67.79 66.92 68.46 66.94 67.69 67.03 66.94 64.82 65.82 63.72 67.99 70.12 66.98 68.08 71.04 68.94 70.08 69.45 67.47 71.33 69.94 69.23 70.46 70.01 69.29 70.44 68.21 71.03 72.26 69.82 69.84 69.16 68.18 68.26 68.17 64.81 63.46 66.04 65.35 64.38 64.56 65.47 69.25 70.43 70.18 72.01 71.84 69.33 68.34 66.34 68.02 70.77 70.70 69.07 73.46 74.27 70.55 70.54 71.80 71.29 73.60 71.51 74.68 72.25 76.79 76.49 74.25 74.99 76.13 74.14 75.79 75.97 73.13 71.54 71.86 71.14 69.97 72.99 74.58 73.06 73.05 71.78 65.48 68.74 69.72 65.81 68.53 68.51 67.52 69.50 69.01 67.25 71.55 69.98 68.64 69.01 69.10 68.65 70.81 71.76 69.26 69.59 68.28 68.35 67.15 68.47 72.79 71.86 69.92 74.73 76.05 72.79 73.67 73.61 73.69 73.22 72.32 72.03 70.81 71.90 72.63 72.18 67.44 68.71 70.05 68.66 65.90 68.45 70.22 70.24 68.64 68.91 68.95 70.12 67.43 62.60 63.34 65.01 63.93 65.15 63.08 63.58 62.77 64.33 65.13 63.80 66.44 63.17 66.54 67.14 65.81 64.55 63.87 64.38 63.95 65.96 65.77 62.25 65.48 64.28 62.05 60.23 59.95 61.46 65.26 62.52 62.63 62.43 63.23 65.08 64.05 67.74 66.89 65.81 67.34 66.36 64.62 64.40 65.08 64.03 67.03 65.65 64.47 66.41 69.15 71.85 70.25 68.72 66.85 68.71 70.66 72.47 74.24 71.61 72.79 72.84 74.17 73.66 76.17 76.62 76.15 73.36 76.00 77.44 77.40 76.29 75.27 74.16 75.05 72.63 76.37 78.67 78.33 76.63 76.11 77.62 75.49 79.27 78.36 76.70 74.68 73.79 74.01 70.15 72.14 71.99 70.42 69.46 74.56 73.08 71.26 69.07 65.73 67.56 68.32 69.89 70.57 70.74 69.33 70.89 68.03 66.39 66.83 68.20 68.67 67.09 66.90 65.80 65.14 66.27 68.44 71.54 73.96 77.24 78.37 75.47 74.07 74.67 72.89 73.06 73.46 73.92 71.73 71.37 73.30 72.88 73.18 72.10 69.69 70.00 71.77 72.53 72.37 75.62 77.78 78.27 76.38 73.67 75.83 75.69 72.60 72.49 70.64 69.13 69.37 68.63 70.44 68.69 67.28 67.19 65.57 66.72 66.05 64.61 64.80 65.19 61.89 63.55 65.13 67.20 68.36 69.02 69.46 69.22 69.95 68.50 67.30 70.27 72.48 73.67 72.59 72.16 74.68 75.53 77.18 75.06 73.26 77.26 78.70 76.77 74.76 75.02 73.81 79.67 79.01 78.10 78.23 77.99 78.39 80.72 79.89 78.65 77.05 70.80 72.58 71.82 71.60 70.57 72.38 71.32 72.86 73.26 73.18 72.68 73.09 74.41 75.65 75.51 74.69 75.87 74.31 71.62 70.26 69.29 70.13 70.44 69.18 68.80 66.55 68.42 64.37 67.17 68.41 68.26 69.89 72.02 70.81 69.68 71.47 71.23 70.48 68.99 71.04 66.87 65.78 64.53 61.88 62.39 63.61 65.33 63.44 65.81 64.62 64.03 63.80 63.89 63.15 64.56 64.48 62.80 61.86 62.86 63.95 65.60 68.86 69.63 67.63 65.60 65.08 67.74 67.67 68.88 66.54 68.21 67.84 64.37 64.81 68.06 68.46 68.77 68.44 67.58 64.38 67.17 67.24 67.39 65.36 65.76 68.83 70.53 69.04 70.23 67.26 67.57 69.98 68.54 70.47 72.21 74.63 75.74 73.84 75.80 76.24 76.59 76.50 73.90 75.20 75.02 74.45 73.91 70.31"
+                },
+
+                {
+                        "id": "c80d622f-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2421115,
+                        "end": 2443995,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "be0f9d7b-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2421115,
+                        "end": 2443995,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c4918f-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2421115,
+                        "end": 2443995,
+                        "content": "1"
+                },
+
+                {
+                        "id": "61272dd1-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2421115,
+                        "end": 2443995,
+                        "content": "towards"
+                },
+
+                {
+                        "id": "a2520fef-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2421115,
+                        "end": 2443995,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc4d-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2421115,
+                        "end": 2443995,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9f1-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2421115,
+                        "end": 2443995,
+                        "content": "location"
+                },
+
+                {
+                        "id": "5bebd45b-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2430240,
+                        "end": 2432079,
+                        "content": "Now what should we do?"
+                },
+
+                {
+                        "id": "1b39ac18-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2430240,
+                        "end": 2432079,
+                        "content": "joyful"
+                },
+
+                {
+                        "id": "5bebd45c-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2432080,
+                        "end": 2433479,
+                        "content": "That's a big guy."
+                },
+
+                {
+                        "id": "1b39ac19-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2432080,
+                        "end": 2433479,
+                        "content": "joyful"
+                },
+
+                {
+                        "id": "5bebd45d-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2433480,
+                        "end": 2437079,
+                        "content": "Should I shoot that?"
+                },
+
+                {
+                        "id": "1b39ac1a-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2433480,
+                        "end": 2437079,
+                        "content": "joyful"
+                },
+
+                {
+                        "id": "5bebd45e-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2437080,
+                        "end": 2438839,
+                        "content": "Bam!"
+                },
+
+                {
+                        "id": "1b39ac1b-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2437080,
+                        "end": 2438839,
+                        "content": "joyful"
+                },
+
+                {
+                        "id": "5bebd45f-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2438840,
+                        "end": 2440079,
+                        "content": "That guy has a broken arm."
+                },
+
+                {
+                        "id": "1b39ac1c-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2438840,
+                        "end": 2440079,
+                        "content": "joyful"
+                },
+
+                {
+                        "id": "5bebd460-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2440080,
+                        "end": 2441679,
+                        "content": "That guy has arms."
+                },
+
+                {
+                        "id": "1b39ac1d-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2440080,
+                        "end": 2441679,
+                        "content": "joyful"
+                },
+
+                {
+                        "id": "5bebd461-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2441680,
+                        "end": 2444319,
+                        "content": "Let's shoot his arms!"
+                },
+
+                {
+                        "id": "1b39ac1e-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2441680,
+                        "end": 2444319,
+                        "content": "joyful"
+                },
+
+                {
+                        "id": "c80d6230-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2443995,
+                        "end": 2461475,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "be0f9d7c-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2443995,
+                        "end": 2461475,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c49190-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2443995,
+                        "end": 2461475,
+                        "content": "1"
+                },
+
+                {
+                        "id": "61272dd2-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2443995,
+                        "end": 2461475,
+                        "content": "right"
+                },
+
+                {
+                        "id": "a2520ff0-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2443995,
+                        "end": 2461475,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "e6a8fc4e-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2443995,
+                        "end": 2461475,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9f2-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2443995,
+                        "end": 2461475,
+                        "content": "single,human being"
+                },
+
+                {
+                        "id": "5bebd462-894f-11ee-9ee7-5bac873e9ace",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2444320,
+                        "end": 2446079,
+                        "content": "Boom, Boom."
+                },
+
+                {
+                        "id": "1b39ac1f-8f90-11ee-bf0b-3993b09b3170",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2444320,
+                        "end": 2446079,
+                        "content": "joyful"
+                },
+
+                {
+                        "id": "c80d6231-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2461475,
+                        "end": 2486435,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "be0f9d7d-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2461475,
+                        "end": 2486435,
+                        "content": ""
+                },
+
+                {
+                        "id": "8478cba4-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2461475,
+                        "end": 2543515,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "d7c49191-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2461475,
+                        "end": 2486435,
+                        "content": "1"
+                },
+
+                {
+                        "id": "61272dd3-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2461475,
+                        "end": 2486435,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "a2520ff1-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2461475,
+                        "end": 2486435,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc4f-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2461475,
+                        "end": 2486435,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "aa0b096a-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2461475,
+                        "end": 2486435,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "b226598f-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2461475,
+                        "end": 2486435,
+                        "content": "right"
+                },
+
+                {
+                        "id": "71ebc9f3-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2461475,
+                        "end": 2486435,
+                        "content": "object,location"
+                },
+
+                {
+                        "id": "c80d6232-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2486435,
+                        "end": 2501035,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "be0f9d7e-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2486435,
+                        "end": 2501035,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c49192-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2486435,
+                        "end": 2501035,
+                        "content": "2"
+                },
+
+                {
+                        "id": "61272dd4-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2486435,
+                        "end": 2501035,
+                        "content": "left"
+                },
+
+                {
+                        "id": "a2520ff2-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2486435,
+                        "end": 2501035,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc50-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2486435,
+                        "end": 2501035,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9f4-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2486435,
+                        "end": 2501035,
+                        "content": "group,human being"
+                },
+
+                {
+                        "id": "96a69f94-8f8b-11ee-bf0b-3993b09b3170",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2500000,
+                        "end": 2600000,
+                        "content": "69.79 70.29 71.79 74.06 73.24 71.49 69.03 69.07 68.62 65.61 65.90 67.21 63.72 64.18 68.87 69.20 69.44 67.62 65.30 66.51 67.70 71.60 71.31 71.28 70.39 71.05 71.60 73.04 74.24 76.25 76.20 76.09 75.44 78.10 75.01 74.57 76.63 77.52 76.55 78.08 78.74 76.38 75.87 78.11 79.11 77.14 78.34 78.23 76.34 76.91 75.86 74.36 75.23 74.76 75.09 71.75 72.30 72.41 72.70 71.63 73.70 73.51 73.44 70.73 68.01 68.88 68.64 69.01 66.81 67.20 67.44 68.04 67.40 67.01 66.72 66.33 65.01 67.09 68.64 69.87 68.86 68.70 68.22 66.39 66.38 68.85 71.04 71.82 73.96 73.14 72.32 74.20 74.71 77.32 76.18 76.98 78.21 78.77 78.11 78.41 80.05 77.25 76.34 77.09 77.90 76.94 77.20 79.65 80.01 79.54 81.06 79.72 79.28 80.44 80.28 79.72 79.95 77.24 76.88 77.90 77.44 77.09 75.33 75.96 76.61 76.23 76.94 77.51 77.43 79.03 77.64 77.34 75.92 74.08 73.10 76.18 76.23 74.91 75.34 74.00 74.48 73.34 73.31 70.41 72.26 72.22 72.58 72.18 71.24 71.73 71.86 72.13 74.95 73.87 72.04 74.61 76.30 77.75 74.84 73.59 70.69 71.58 72.76 70.68 71.72 72.92 73.44 73.39 73.43 73.85 73.39 73.30 75.25 77.08 75.62 73.50 73.65 73.21 71.67 71.27 71.86 72.14 72.25 71.08 70.77 71.65 72.97 71.89 72.44 71.55 68.85 66.66 66.49 68.27 64.95 66.64 64.98 68.35 65.75 64.44 64.44 67.95 66.23 66.26 65.01 66.67 66.00 65.41 64.30 65.71 64.31 66.42 67.25 67.30 66.35 67.84 67.61 68.42 67.20 65.86 65.68 65.43 68.57 67.06 66.18 70.34 67.99 68.28 66.69 69.05 70.41 70.54 68.56 68.48 69.37 70.11 70.10 70.98 73.07 73.03 74.35 74.69 74.54 73.27 73.26 75.71 74.94 75.50 77.37 76.51 77.68 78.26 76.52 77.86 77.16 73.67 75.18 75.04 77.87 79.87 80.42 80.44 78.26 76.72 78.67 77.33 78.16 75.58 76.85 77.63 73.90 74.90 74.95 75.47 72.86 73.40 73.40 74.62 74.00 75.45 76.07 74.99 75.71 76.16 73.70 74.29 74.48 74.64 73.22 74.21 73.05 70.04 71.76 74.12 73.24 72.27 71.72 71.51 72.49 71.01 71.49 70.43 70.98 68.79 69.20 69.50 69.37 69.26 70.86 71.72 72.58 70.49 69.02 68.68 67.61 67.97 69.41 68.26 68.63 68.02 66.14 66.24 63.80 68.87 68.79 64.94 69.75 68.59 66.86 65.34 67.24 67.69 66.33 66.07 70.86 66.93 68.87 68.34 69.71 66.27 69.81 67.45 68.56 71.35 69.33 73.22 71.89 68.89 66.21 67.93 68.06 66.09 69.08 67.12 66.05 69.97 68.16 71.02 68.85 69.17 67.99 67.09 66.01 66.76 69.60 69.80 72.37 70.11 69.46 72.08 71.16 69.54 68.98 69.48 68.96 68.40 68.80 68.01 68.99 68.92 72.20 73.63 70.13 69.69 69.30 69.93 72.13 68.95 68.21 70.65 70.26 69.73 69.81 66.93 70.62 70.75 69.83 69.13 69.68 68.49 68.56 69.41 67.45 69.84 69.61 69.84 69.17 67.60 67.13 65.99 66.51 66.64 68.03 69.63 66.71 67.75 66.40 62.05 63.93 63.85 62.95 68.08 64.28 66.60 64.20 65.92 66.48 67.02 62.60 66.90 66.88 71.70 69.74 69.13 68.39 62.43 63.08 60.91 61.42 61.69 60.00 63.08 61.76 62.91 60.66 62.20 62.45 62.09 63.78 65.13 61.59 62.39 63.77 61.87 60.48 62.16 61.23 61.61 60.97 62.49 61.91 60.22 61.79 62.01 64.27 61.80 65.08 64.24 61.48 61.97 60.60 62.05 64.21 63.21 64.56 61.79 62.61 65.00 60.98 62.69 61.30 59.03 62.01 59.44 61.18 60.40 60.84 59.78 58.88 62.97 59.55 59.33 68.73 60.61 72.10 58.04 62.04 62.88 60.27 62.97 62.77 58.91 58.40 58.31 56.03 56.47 57.10 57.47 57.95 56.81 54.48 54.75 56.19 56.13 54.55 53.05 56.65 55.67 54.32 55.34 54.44 56.05 55.85 56.89 55.49 62.51 58.52 55.28 69.10 74.26 79.04 73.69 76.80 76.02 79.79 75.58 54.76 56.30 56.99 57.43 58.59 58.82 67.38 71.45 72.38 69.90 68.91 65.61 66.09 66.87 57.20 55.31 66.51 73.46 62.64 67.43 69.49 69.06 62.42 50.63 48.43 48.98 51.47 49.02 49.80 53.33 81.42 69.54 75.78 74.57 65.25 66.16 65.45 66.87 68.29 65.33 56.72 56.17 58.65 62.08 61.64 63.87 62.72 58.25 49.48 46.48 47.38 50.83 50.71 47.77 48.93 66.92 75.35 72.51 65.24 72.21 77.11 61.49 63.69 63.32 57.96 74.21 61.63 61.41 52.79 70.40 60.46 54.86 45.56 45.27 45.55 66.96 70.23 62.75 58.49 61.56 49.64 45.44 62.41 67.06 70.70 60.06 55.80 63.14 78.92 72.64 70.16 56.95 51.92 63.58 59.89 71.77 62.52 56.30 45.56 61.79 62.70 46.45 44.51 45.32 43.99 43.44 44.08 45.86 45.09 46.91 46.42 43.99 43.37 41.88 42.20 42.39 47.44 50.30 76.69 75.93 71.47 48.89 48.10 49.63 50.34 48.46 51.04 52.46 58.98 59.12 70.53 55.32 54.27 46.84 44.36 42.63 48.80 45.65 45.27 45.53 45.55 47.45 48.34 49.69 48.95 50.25 50.70 46.09 52.14 49.08 47.15 45.78 47.45 46.10 51.29 45.34 47.80 46.00 44.27 44.08 46.72 44.28 47.15 46.93 45.30 45.24 48.59 45.52 42.52 45.62 72.85 47.42 47.51 46.46 48.28 53.50 47.02 47.38 43.94 43.98 62.97 47.46 49.56 50.45 53.65 54.81 53.46 48.89 52.27 48.78 45.96 66.77 73.85 82.22 82.84 80.11 81.07 73.64 81.32 84.22 83.19 53.26 50.20 47.24 54.41 51.42 47.47 47.87 44.81 45.14 65.54 46.53 52.65 50.53 55.00 57.74 46.19 52.36 72.44 73.58 82.05 80.44 48.80 46.13 46.88 44.92 45.71 44.80 45.28 44.49 44.49 44.68 45.07 45.87 46.25 44.40 46.89 43.75 47.88 46.01 74.30 78.26 70.91 65.97 66.23 74.95 76.57 72.42 50.83 52.18 50.81 50.91 48.58 45.52 47.53 42.88 45.67 45.24 44.58 47.01 47.25 45.04 44.48 45.16 45.29 46.04 48.73 52.46 52.04 52.96 54.71 50.89 49.95 46.86 47.85 79.12 80.35 84.96 71.50 71.77 73.47 74.42 70.30 64.05 65.81 78.63 71.97 81.65 72.27 62.07 72.17 72.42 73.43 51.51 52.62 57.01 55.15 55.83 52.31 51.52 52.21 49.30 47.98 74.71 75.53 65.88 69.96 84.09 83.25 77.74 74.30 78.37 78.37 55.26 75.24 74.28 75.13 55.62 56.45 52.96 49.90 47.02 51.50 50.00 51.11 55.71 67.92 75.29 75.14 63.77 66.00 63.07 79.05 77.28 75.36 67.27 66.44 56.51 53.84 52.23 76.33 78.54 76.42 66.18 73.23 76.86 75.12 60.04 66.73 56.87 76.21 76.23 51.69 50.42 76.66 77.18 78.45 78.11 63.07 66.13 70.41 75.74 76.95 66.57 49.46 45.06 51.61 50.62 54.47 52.36 50.37 49.97 50.55 48.46 45.54 46.43 49.30 51.12 47.81 46.27 47.79 63.64 74.82 72.89 78.90 75.26 73.24 44.96 57.36 44.77 49.17 48.42 47.33 80.01 80.32 78.36 61.89 64.72 59.64 70.35 81.57 80.53 62.89 58.36 48.13 68.69 69.59 66.80 51.37 50.21 50.34 49.99 50.33 62.03 80.73 79.32 52.58 54.51 55.46 51.67 63.59 69.45 71.25 61.09 55.33 49.00 50.47 49.37 51.35 49.28 48.41 51.15 73.80 74.49 77.64 64.17 76.75 81.56 82.29 74.67 76.52 76.14 82.03 78.94 75.15 57.15 53.30 48.50 45.62 51.57 49.32 47.23 47.26 48.26 42.58 43.79 46.35 46.11 45.22 48.08 49.30 47.46 66.43 74.81"
+                },
+
+                {
+                        "id": "c80d6235-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2501035,
+                        "end": 2522155,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "be0f9d7f-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2501035,
+                        "end": 2522155,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c49193-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2501035,
+                        "end": 2522155,
+                        "content": "0"
+                },
+
+                {
+                        "id": "a2520ff3-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2501035,
+                        "end": 2522155,
+                        "content": "extreme low-angle"
+                },
+
+                {
+                        "id": "e6a8fc51-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2501035,
+                        "end": 2522155,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "ab4da922-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2501035,
+                        "end": 2522155,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "b2265990-8f89-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2501035,
+                        "end": 2522155,
+                        "content": "circle"
+                },
+
+                {
+                        "id": "71ebc9f5-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2501035,
+                        "end": 2522155,
+                        "content": "object"
+                },
+
+                {
+                        "id": "c80d6237-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2522155,
+                        "end": 2532035,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "be0f9d80-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2522155,
+                        "end": 2532035,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c49194-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2522155,
+                        "end": 2532035,
+                        "content": "1"
+                },
+
+                {
+                        "id": "61272dd6-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2522155,
+                        "end": 2532035,
+                        "content": "towards"
+                },
+
+                {
+                        "id": "a2520ff4-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2522155,
+                        "end": 2532035,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc52-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2522155,
+                        "end": 2532035,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9f6-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2522155,
+                        "end": 2532035,
+                        "content": "group,human being"
+                },
+
+                {
+                        "id": "c80d6238-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2532035,
+                        "end": 2539195,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "be0f9d81-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2532035,
+                        "end": 2539195,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c49195-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2532035,
+                        "end": 2539195,
+                        "content": "1"
+                },
+
+                {
+                        "id": "61272dd7-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2532035,
+                        "end": 2539195,
+                        "content": "left"
+                },
+
+                {
+                        "id": "a2520ff5-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2532035,
+                        "end": 2539195,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc53-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2532035,
+                        "end": 2539195,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9f7-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2532035,
+                        "end": 2539195,
+                        "content": "location"
+                },
+
+                {
+                        "id": "edb4ed2c-8f91-11ee-bf0b-3993b09b3170",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2532035,
+                        "end": 2543515,
+                        "content": "explosive,pause"
+                },
+
+                {
+                        "id": "c80d6239-8f7d-11ee-bf0b-3993b09b3170",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2539195,
+                        "end": 2543515,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "be0f9d82-8f80-11ee-bf0b-3993b09b3170",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2539195,
+                        "end": 2543515,
+                        "content": ""
+                },
+
+                {
+                        "id": "d7c49196-8f81-11ee-bf0b-3993b09b3170",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2539195,
+                        "end": 2543515,
+                        "content": "1"
+                },
+
+                {
+                        "id": "61272dd8-8f85-11ee-bf0b-3993b09b3170",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2539195,
+                        "end": 2543515,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "a2520ff6-8f87-11ee-bf0b-3993b09b3170",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2539195,
+                        "end": 2543515,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e6a8fc54-8f88-11ee-bf0b-3993b09b3170",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2539195,
+                        "end": 2543515,
+                        "content": "static"
+                },
+
+                {
+                        "id": "71ebc9f8-8f8a-11ee-bf0b-3993b09b3170",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/home/qwertz/Videos/Reichardt_Kelly_Night%2520Moves_2013.mp4",
+                        "begin": 2539195,
+                        "end": 2543515,
+                        "content": "single,human being"
+                }
+
+] }

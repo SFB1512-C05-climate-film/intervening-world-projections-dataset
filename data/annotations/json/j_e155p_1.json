@@ -1,0 +1,1470 @@
+{ "annotations": [
+
+                {
+                        "id": "10ecf12a-e2c8-11ee-a09a-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2691480,
+                        "end": 2697600,
+                        "content": "326"
+                },
+
+                {
+                        "id": "a42a2134-fe55-11ef-9bac-7242363b2846",
+                        "type": "Scene",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2691480,
+                        "end": 2891480,
+                        "content": "Scene 16_Blue Whales Under Threat"
+                },
+
+                {
+                        "id": "6f5484a8-fe56-11ef-862a-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2691480,
+                        "end": 2697600,
+                        "content": "1"
+                },
+
+                {
+                        "id": "f9e6d12a-fe56-11ef-862a-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2691480,
+                        "end": 2697600,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "ff6bbe80-fe56-11ef-862a-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2691480,
+                        "end": 2697600,
+                        "content": "1"
+                },
+
+                {
+                        "id": "00cd2048-fe57-11ef-862a-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2691480,
+                        "end": 2697600,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "0627e474-fe57-11ef-862a-7242363b2846",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2691480,
+                        "end": 2707120,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "0779b6b8-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2691480,
+                        "end": 2697600,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "e197e0c2-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2691480,
+                        "end": 2697600,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "e315f1f0-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2691480,
+                        "end": 2697600,
+                        "content": "left,forward"
+                },
+
+                {
+                        "id": "e52ca89e-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2691480,
+                        "end": 2697600,
+                        "content": "extreme high-angle"
+                },
+
+                {
+                        "id": "e646f324-fe57-11ef-862a-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2691480,
+                        "end": 2697600,
+                        "content": ""
+                },
+
+                {
+                        "id": "a573a652-fe5d-11ef-862a-7242363b2846",
+                        "type": "MontageFigureMacro",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2691480,
+                        "end": 2707120,
+                        "content": "framing"
+                },
+
+                {
+                        "id": "94e09c4e-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2694812,
+                        "end": 2701921,
+                        "content": "Over ninety percent on the living space\nfor life on our planet, is in the oceans"
+                },
+
+                {
+                        "id": "0ca26398-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2694812,
+                        "end": 2701921,
+                        "content": "Over ninety percent on the living space for life on our planet, is in the oceans"
+                },
+
+                {
+                        "id": "10ecf652-e2c8-11ee-a09a-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2697600,
+                        "end": 2707120,
+                        "content": "327"
+                },
+
+                {
+                        "id": "6f549c7c-fe56-11ef-862a-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2697600,
+                        "end": 2707120,
+                        "content": "2"
+                },
+
+                {
+                        "id": "f9e6e796-fe56-11ef-862a-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2697600,
+                        "end": 2707120,
+                        "content": "extreme long shot"
+                },
+
+                {
+                        "id": "ff6bd9b0-fe56-11ef-862a-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2697600,
+                        "end": 2707120,
+                        "content": "0"
+                },
+
+                {
+                        "id": "0779d1de-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2697600,
+                        "end": 2707120,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "e197ec7a-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2697600,
+                        "end": 2707120,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "e3161536-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2697600,
+                        "end": 2707120,
+                        "content": "forward"
+                },
+
+                {
+                        "id": "e52cb3ca-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2697600,
+                        "end": 2707120,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "e6470c4c-fe57-11ef-862a-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2697600,
+                        "end": 2707120,
+                        "content": ""
+                },
+
+                {
+                        "id": "d623b2de-fe5c-11ef-862a-7242363b2846",
+                        "type": "MusicMood",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2700996,
+                        "end": 2774225,
+                        "content": "gentle"
+                },
+
+                {
+                        "id": "94e0a536-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2702511,
+                        "end": 2706178,
+                        "content": "Home to the biggest animal that exists"
+                },
+
+                {
+                        "id": "0ca272ca-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2702511,
+                        "end": 2706178,
+                        "content": "Home to the biggest animal that exists"
+                },
+
+                {
+                        "id": "94e0ae00-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2706305,
+                        "end": 2708840,
+                        "content": "or has ever existed."
+                },
+
+                {
+                        "id": "0ca279fa-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2706305,
+                        "end": 2708840,
+                        "content": "or has ever existed."
+                },
+
+                {
+                        "id": "10ecfb48-e2c8-11ee-a09a-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2707120,
+                        "end": 2712720,
+                        "content": "328"
+                },
+
+                {
+                        "id": "6f54ab68-fe56-11ef-862a-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2707120,
+                        "end": 2712720,
+                        "content": "3"
+                },
+
+                {
+                        "id": "f9e6f4b6-fe56-11ef-862a-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2707120,
+                        "end": 2712720,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "ff6be36a-fe56-11ef-862a-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2707120,
+                        "end": 2712720,
+                        "content": "1"
+                },
+
+                {
+                        "id": "00cd50cc-fe57-11ef-862a-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2707120,
+                        "end": 2712720,
+                        "content": "up,undirected"
+                },
+
+                {
+                        "id": "06280ac6-fe57-11ef-862a-7242363b2846",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2707120,
+                        "end": 2718960,
+                        "content": "slow motion"
+                },
+
+                {
+                        "id": "0779de18-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2707120,
+                        "end": 2712720,
+                        "content": "shaking"
+                },
+
+                {
+                        "id": "e52cba0a-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2707120,
+                        "end": 2712720,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "e6471660-fe57-11ef-862a-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2707120,
+                        "end": 2712720,
+                        "content": ""
+                },
+
+                {
+                        "id": "94e0b6d4-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2710204,
+                        "end": 2713112,
+                        "content": "the blue whale."
+                },
+
+                {
+                        "id": "0ca28094-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2710204,
+                        "end": 2713112,
+                        "content": "the blue whale."
+                },
+
+                {
+                        "id": "10ee72ca-e2c8-11ee-a09a-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2712720,
+                        "end": 2718960,
+                        "content": "329"
+                },
+
+                {
+                        "id": "6f54b93c-fe56-11ef-862a-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2712720,
+                        "end": 2718960,
+                        "content": "4"
+                },
+
+                {
+                        "id": "f9e70028-fe56-11ef-862a-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2712720,
+                        "end": 2718960,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "ff6becac-fe56-11ef-862a-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2712720,
+                        "end": 2718960,
+                        "content": "1"
+                },
+
+                {
+                        "id": "00cd5ee6-fe57-11ef-862a-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2712720,
+                        "end": 2718960,
+                        "content": "left,down,undirected"
+                },
+
+                {
+                        "id": "0779e9f8-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2712720,
+                        "end": 2718960,
+                        "content": "tilt,pan"
+                },
+
+                {
+                        "id": "e197f846-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2712720,
+                        "end": 2718960,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "e3162800-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2712720,
+                        "end": 2718960,
+                        "content": "down,left"
+                },
+
+                {
+                        "id": "e52cbfd2-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2712720,
+                        "end": 2718960,
+                        "content": "extreme high-angle"
+                },
+
+                {
+                        "id": "e647201a-fe57-11ef-862a-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2712720,
+                        "end": 2718960,
+                        "content": ""
+                },
+
+                {
+                        "id": "10ee7b44-e2c8-11ee-a09a-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2718960,
+                        "end": 2730720,
+                        "content": "330"
+                },
+
+                {
+                        "id": "6f54c5e4-fe56-11ef-862a-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2718960,
+                        "end": 2730720,
+                        "content": "5"
+                },
+
+                {
+                        "id": "f9e70bfe-fe56-11ef-862a-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2718960,
+                        "end": 2730720,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "ff6bf508-fe56-11ef-862a-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2718960,
+                        "end": 2730720,
+                        "content": "1"
+                },
+
+                {
+                        "id": "00cd6c92-fe57-11ef-862a-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2718960,
+                        "end": 2730720,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "06281d68-fe57-11ef-862a-7242363b2846",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2718960,
+                        "end": 2730720,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "0779f416-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2718960,
+                        "end": 2730720,
+                        "content": "pan"
+                },
+
+                {
+                        "id": "e197fdb4-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2718960,
+                        "end": 2730720,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "e316303e-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2718960,
+                        "end": 2730720,
+                        "content": "circle"
+                },
+
+                {
+                        "id": "e52cc590-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2718960,
+                        "end": 2730720,
+                        "content": "extreme high-angle"
+                },
+
+                {
+                        "id": "e64727ae-fe57-11ef-862a-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2718960,
+                        "end": 2730720,
+                        "content": ""
+                },
+
+                {
+                        "id": "94e0bfa8-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2719935,
+                        "end": 2723314,
+                        "content": "Some weigh nearly two hundred tons"
+                },
+
+                {
+                        "id": "0ca28706-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2719935,
+                        "end": 2723314,
+                        "content": "Some weigh nearly two hundred tons"
+                },
+
+                {
+                        "id": "94e0c9e4-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2723557,
+                        "end": 2727052,
+                        "content": "twice the size of the largest dinosaur."
+                },
+
+                {
+                        "id": "0ca28da0-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2723557,
+                        "end": 2727052,
+                        "content": "twice the size of the largest dinosaur."
+                },
+
+                {
+                        "id": "10ee80da-e2c8-11ee-a09a-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2730720,
+                        "end": 2767840,
+                        "content": "331"
+                },
+
+                {
+                        "id": "6f5540d2-fe56-11ef-862a-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2730720,
+                        "end": 2741979,
+                        "content": "6"
+                },
+
+                {
+                        "id": "f9e7170c-fe56-11ef-862a-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2730720,
+                        "end": 2741979,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "ff6bfd0a-fe56-11ef-862a-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2730720,
+                        "end": 2741979,
+                        "content": "1"
+                },
+
+                {
+                        "id": "00cd7a84-fe57-11ef-862a-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2730720,
+                        "end": 2741979,
+                        "content": "right,undirected"
+                },
+
+                {
+                        "id": "06283028-fe57-11ef-862a-7242363b2846",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2730720,
+                        "end": 2891480,
+                        "content": "slow motion"
+                },
+
+                {
+                        "id": "0779fe02-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2730720,
+                        "end": 2741979,
+                        "content": "minimal"
+                },
+
+                {
+                        "id": "e52ccb1c-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2730720,
+                        "end": 2741979,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "e6472f56-fe57-11ef-862a-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2730720,
+                        "end": 2741979,
+                        "content": ""
+                },
+
+                {
+                        "id": "94e0d344-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2731750,
+                        "end": 2738541,
+                        "content": "Despite their great size, we still have little idea\nof where they travel in the vast oceans"
+                },
+
+                {
+                        "id": "0ca293fe-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2731750,
+                        "end": 2738541,
+                        "content": "Despite their great size, we still have little idea of where they travel in the vast oceans"
+                },
+
+                {
+                        "id": "94e0dcae-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2738701,
+                        "end": 2742877,
+                        "content": "and none at all\nof where they go to breed."
+                },
+
+                {
+                        "id": "0ca2b10e-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2738701,
+                        "end": 2742877,
+                        "content": "and none at all of where they go to breed."
+                },
+
+                {
+                        "id": "9a1a6018-fe56-11ef-862a-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2741979,
+                        "end": 2767840,
+                        "content": "7"
+                },
+
+                {
+                        "id": "f9e721ca-fe56-11ef-862a-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2741979,
+                        "end": 2767840,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "ff6c0516-fe56-11ef-862a-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2741979,
+                        "end": 2767840,
+                        "content": "1,[VS]"
+                },
+
+                {
+                        "id": "00cd8808-fe57-11ef-862a-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2741979,
+                        "end": 2767840,
+                        "content": "left,down,[VS],towards,right"
+                },
+
+                {
+                        "id": "077a07f8-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2741979,
+                        "end": 2767840,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "e19808ae-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2741979,
+                        "end": 2767840,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "e31640b0-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2741979,
+                        "end": 2767840,
+                        "content": "forward,left,right"
+                },
+
+                {
+                        "id": "e52cd08a-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2741979,
+                        "end": 2767840,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e64736e0-fe57-11ef-862a-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2741979,
+                        "end": 2767840,
+                        "content": ""
+                },
+
+                {
+                        "id": "f4533018-fe5c-11ef-862a-7242363b2846",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2741979,
+                        "end": 2744329,
+                        "content": "explosive"
+                },
+
+                {
+                        "id": "10ee8620-e2c8-11ee-a09a-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2767840,
+                        "end": 2805480,
+                        "content": "332"
+                },
+
+                {
+                        "id": "6f55507c-fe56-11ef-862a-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2767840,
+                        "end": 2805480,
+                        "content": "8"
+                },
+
+                {
+                        "id": "f9e72cd8-fe56-11ef-862a-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2767840,
+                        "end": 2805480,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "ff6c11d2-fe56-11ef-862a-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2767840,
+                        "end": 2805480,
+                        "content": "1"
+                },
+
+                {
+                        "id": "00cd94a6-fe57-11ef-862a-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2767840,
+                        "end": 2805480,
+                        "content": "up,undirected"
+                },
+
+                {
+                        "id": "077a11e4-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2767840,
+                        "end": 2805480,
+                        "content": "tilt"
+                },
+
+                {
+                        "id": "e1981268-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2767840,
+                        "end": 2805480,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "e31648a8-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2767840,
+                        "end": 2805480,
+                        "content": "down"
+                },
+
+                {
+                        "id": "e52cd602-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2767840,
+                        "end": 2805480,
+                        "content": "extreme high-angle"
+                },
+
+                {
+                        "id": "e6473e2e-fe57-11ef-862a-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2767840,
+                        "end": 2805480,
+                        "content": ""
+                },
+
+                {
+                        "id": "94e0e67c-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2771348,
+                        "end": 2775683,
+                        "content": "The largest animal on Earth\nfeeds almost exclusively"
+                },
+
+                {
+                        "id": "0ca2b79e-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2771348,
+                        "end": 2775683,
+                        "content": "The largest animal on Earth feeds almost exclusively"
+                },
+
+                {
+                        "id": "183b5bd6-fe5d-11ef-862a-7242363b2846",
+                        "type": "MusicMood",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2774225,
+                        "end": 2803973,
+                        "content": "sad"
+                },
+
+                {
+                        "id": "94e0effa-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2775922,
+                        "end": 2781979,
+                        "content": "on one of the smallest\nkrill, shrimp-like crustaceans."
+                },
+
+                {
+                        "id": "0ca2bdf2-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2775922,
+                        "end": 2781979,
+                        "content": "on one of the smallest krill, shrimp-like crustaceans."
+                },
+
+                {
+                        "id": "94e0f978-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2783079,
+                        "end": 2788690,
+                        "content": "They take many tons of water into their\nballooning throats in a single gulp"
+                },
+
+                {
+                        "id": "0ca2c41e-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2783079,
+                        "end": 2788690,
+                        "content": "They take many tons of water into their ballooning throats in a single gulp"
+                },
+
+                {
+                        "id": "94e10260-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2788865,
+                        "end": 2792484,
+                        "content": "and sieve out what it contains."
+                },
+
+                {
+                        "id": "0ca2ca2c-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2788865,
+                        "end": 2792484,
+                        "content": "and sieve out what it contains."
+                },
+
+                {
+                        "id": "94e10bd4-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2798461,
+                        "end": 2805188,
+                        "content": "Every day, each one swallows\nsome four million krill."
+                },
+
+                {
+                        "id": "0ca2d030-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2798461,
+                        "end": 2805188,
+                        "content": "Every day, each one swallows some four million krill."
+                },
+
+                {
+                        "id": "319f4740-fe5d-11ef-862a-7242363b2846",
+                        "type": "MusicMood",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2803973,
+                        "end": 2890640,
+                        "content": "ominous,sad"
+                },
+
+                {
+                        "id": "10ee8b3e-e2c8-11ee-a09a-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2805480,
+                        "end": 2840920,
+                        "content": "333"
+                },
+
+                {
+                        "id": "6f555edc-fe56-11ef-862a-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2805480,
+                        "end": 2840920,
+                        "content": "9"
+                },
+
+                {
+                        "id": "f9e73750-fe56-11ef-862a-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2805480,
+                        "end": 2840920,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "ff6c1b00-fe56-11ef-862a-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2805480,
+                        "end": 2840920,
+                        "content": "1"
+                },
+
+                {
+                        "id": "00cda07c-fe57-11ef-862a-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2805480,
+                        "end": 2840920,
+                        "content": "left,down,right,undirected"
+                },
+
+                {
+                        "id": "077a1ba8-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2805480,
+                        "end": 2840920,
+                        "content": "tilt,pan"
+                },
+
+                {
+                        "id": "e1981826-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2805480,
+                        "end": 2840920,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "e31650dc-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2805480,
+                        "end": 2840920,
+                        "content": "down,right,up"
+                },
+
+                {
+                        "id": "e52cdb52-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2805480,
+                        "end": 2840920,
+                        "content": "extreme high-angle"
+                },
+
+                {
+                        "id": "e6474c34-fe57-11ef-862a-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2805480,
+                        "end": 2840920,
+                        "content": ""
+                },
+
+                {
+                        "id": "94e11674-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2807277,
+                        "end": 2814195,
+                        "content": "Such gargantuan harvests depend\non the continuing fertility of the oceans"
+                },
+
+                {
+                        "id": "0ca2d620-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2807277,
+                        "end": 2814195,
+                        "content": "Such gargantuan harvests depend on the continuing fertility of the oceans"
+                },
+
+                {
+                        "id": "94e1207e-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2816442,
+                        "end": 2820922,
+                        "content": "But global changes now threaten\nthe great blooms of plankton"
+                },
+
+                {
+                        "id": "0ca2dc06-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2816442,
+                        "end": 2820922,
+                        "content": "But global changes now threaten the great blooms of plankton"
+                },
+
+                {
+                        "id": "94e1297a-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2821018,
+                        "end": 2823584,
+                        "content": "on which the whales depend."
+                },
+
+                {
+                        "id": "0ca2e246-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2821018,
+                        "end": 2823584,
+                        "content": "on which the whales depend."
+                },
+
+                {
+                        "id": "94e13276-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2825674,
+                        "end": 2828511,
+                        "content": "Once and not so long ago"
+                },
+
+                {
+                        "id": "0ca2e85e-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2825674,
+                        "end": 2828511,
+                        "content": "Once and not so long ago"
+                },
+
+                {
+                        "id": "94e13bfe-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2828926,
+                        "end": 2832959,
+                        "content": "three hundred thousand blue whales\nroamed the oceans"
+                },
+
+                {
+                        "id": "0ca2ee80-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2828926,
+                        "end": 2832959,
+                        "content": "three hundred thousand blue whales roamed the oceans"
+                },
+
+                {
+                        "id": "94e14586-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2833612,
+                        "end": 2838315,
+                        "content": "now, less than three percent\nof that number remains."
+                },
+
+                {
+                        "id": "0ca2f484-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2833612,
+                        "end": 2838315,
+                        "content": "now, less than three percent of that number remains."
+                },
+
+                {
+                        "id": "10ee9052-e2c8-11ee-a09a-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2840920,
+                        "end": 2891480,
+                        "content": "334"
+                },
+
+                {
+                        "id": "6f556ba2-fe56-11ef-862a-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2840920,
+                        "end": 2850780,
+                        "content": "10"
+                },
+
+                {
+                        "id": "f9e74588-fe56-11ef-862a-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2840920,
+                        "end": 2850780,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "ff6d0628-fe56-11ef-862a-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2840920,
+                        "end": 2850780,
+                        "content": "1"
+                },
+
+                {
+                        "id": "00cdac16-fe57-11ef-862a-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2840920,
+                        "end": 2850780,
+                        "content": "up,right,undirected"
+                },
+
+                {
+                        "id": "077a259e-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2840920,
+                        "end": 2850780,
+                        "content": "static"
+                },
+
+                {
+                        "id": "e52ce084-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2840920,
+                        "end": 2850780,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "e64753aa-fe57-11ef-862a-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2840920,
+                        "end": 2850780,
+                        "content": ""
+                },
+
+                {
+                        "id": "4bde29c8-fe5d-11ef-862a-7242363b2846",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2840920,
+                        "end": 2843000,
+                        "content": "explosive"
+                },
+
+                {
+                        "id": "94e14e5a-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2842332,
+                        "end": 2845887,
+                        "content": "Our planet is still full of wonders."
+                },
+
+                {
+                        "id": "0ca2fa7e-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2842332,
+                        "end": 2845887,
+                        "content": "Our planet is still full of wonders."
+                },
+
+                {
+                        "id": "94e158f0-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2846190,
+                        "end": 2852709,
+                        "content": "As we explore them, so we gain\nnot only understanding, but power."
+                },
+
+                {
+                        "id": "0ca3008c-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2846190,
+                        "end": 2852709,
+                        "content": "As we explore them, so we gain not only understanding, but power."
+                },
+
+                {
+                        "id": "d1c338be-fe56-11ef-862a-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2850780,
+                        "end": 2891480,
+                        "content": "11"
+                },
+
+                {
+                        "id": "f9e75032-fe56-11ef-862a-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2850780,
+                        "end": 2891480,
+                        "content": "medium long shot,[TO],extreme long shot"
+                },
+
+                {
+                        "id": "ff6d1500-fe56-11ef-862a-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2850780,
+                        "end": 2891480,
+                        "content": "1"
+                },
+
+                {
+                        "id": "00cdb738-fe57-11ef-862a-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2850780,
+                        "end": 2891480,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "077a2f62-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2850780,
+                        "end": 2891480,
+                        "content": "zoom"
+                },
+
+                {
+                        "id": "e19822d0-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2850780,
+                        "end": 2891480,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "e31660a4-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2850780,
+                        "end": 2891480,
+                        "content": "back"
+                },
+
+                {
+                        "id": "e52ce5e8-fe57-11ef-862a-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2850780,
+                        "end": 2891480,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "e6475af8-fe57-11ef-862a-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2850780,
+                        "end": 2891480,
+                        "content": ""
+                },
+
+                {
+                        "id": "ad203456-fe5d-11ef-862a-7242363b2846",
+                        "type": "MontageFigureMacro",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2850780,
+                        "end": 2891480,
+                        "content": "framing"
+                },
+
+                {
+                        "id": "94e162f0-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2854304,
+                        "end": 2859118,
+                        "content": "It's not just the future of the whale\nthat today lies in our hands"
+                },
+
+                {
+                        "id": "0ca3069a-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2854304,
+                        "end": 2859118,
+                        "content": "It's not just the future of the whale that today lies in our hands"
+                },
+
+                {
+                        "id": "94e16c3c-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2859340,
+                        "end": 2865637,
+                        "content": "it's the survival of the natural world\nin all parts of the living planet."
+                },
+
+                {
+                        "id": "0ca30e56-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2859340,
+                        "end": 2865637,
+                        "content": "it's the survival of the natural world in all parts of the living planet."
+                },
+
+                {
+                        "id": "94e175b0-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2866704,
+                        "end": 2871215,
+                        "content": "We can now destroy,\nor we can cherish."
+                },
+
+                {
+                        "id": "0ca31482-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2866704,
+                        "end": 2871215,
+                        "content": "We can now destroy, or we can cherish."
+                },
+
+                {
+                        "id": "94e17eca-fe55-11ef-9bac-7242363b2846",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2873560,
+                        "end": 2880382,
+                        "content": "The choice is ours."
+                },
+
+                {
+                        "id": "0ca31acc-fe56-11ef-862a-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_11_Ocean_Deep_Fothergill_Alastair.mp4",
+                        "begin": 2873560,
+                        "end": 2880382,
+                        "content": "The choice is ours."
+                }
+
+] }

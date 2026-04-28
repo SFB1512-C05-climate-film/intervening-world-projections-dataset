@@ -1,0 +1,1209 @@
+{ "annotations": [
+
+                {
+                        "id": "5bfe1c28-9293-11ee-be56-7242363b2847",
+                        "type": "sound_enveloppe",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1361700,
+                        "end": 1461700,
+                        "content": "11.82 3.46 4.29 1.94 5.30 4.56 0.00 4.34 4.68 2.03 8.05 8.57 7.69 11.48 4.43 13.29 12.98 16.10 17.67 18.68 18.29 17.04 20.54 19.74 24.58 19.87 62.97 66.08 69.21 74.20 66.70 73.50 64.56 50.60 64.11 33.95 16.20 19.84 16.18 64.04 61.48 57.86 62.07 59.81 48.83 74.09 72.06 60.40 55.81 55.16 59.08 48.94 44.22 54.36 47.68 49.52 54.69 57.26 33.68 26.15 27.15 32.20 30.78 30.20 29.95 35.15 33.12 32.76 37.27 33.98 70.57 72.65 71.65 66.85 66.52 61.70 57.40 69.78 64.25 62.21 55.23 56.22 72.36 72.14 61.61 54.66 65.65 62.28 62.42 58.63 52.35 38.91 55.34 65.23 46.65 68.71 59.64 45.25 66.78 67.82 70.86 66.24 62.11 63.82 57.38 37.79 42.15 61.46 63.80 67.48 72.91 77.05 73.67 66.37 70.12 46.32 52.25 51.08 39.10 40.46 38.74 39.71 72.46 67.44 41.14 74.63 71.07 67.07 68.50 75.69 69.93 72.43 77.63 68.14 60.98 74.36 63.23 40.95 43.74 39.92 39.18 44.94 42.82 42.74 45.39 45.97 43.39 47.09 43.76 46.48 43.47 44.06 46.58 42.11 43.45 44.47 43.00 44.15 42.60 44.73 43.49 43.91 41.45 44.97 50.21 54.93 55.02 51.26 55.44 54.67 55.55 53.00 56.91 56.20 56.44 54.78 56.77 58.24 60.18 66.79 58.13 61.20 60.80 59.67 58.79 59.49 60.82 61.08 57.86 55.07 59.44 63.94 60.02 63.15 62.56 66.63 61.48 62.55 63.51 61.55 59.54 60.54 60.26 54.83 58.31 58.66 61.29 58.45 58.92 58.14 57.69 56.95 55.46 53.47 53.36 56.31 56.46 58.87 60.31 56.78 61.79 59.67 62.91 61.71 61.78 59.38 52.97 54.69 56.34 54.66 54.25 63.36 61.45 71.68 67.60 58.16 79.85 77.60 68.10 66.49 64.23 75.76 74.43 73.02 71.22 61.67 79.96 68.05 75.86 73.61 73.01 63.91 68.14 71.48 55.07 66.30 56.45 70.40 63.06 74.14 55.37 73.95 58.64 68.27 63.71 67.40 60.00 67.75 67.06 59.63 67.25 68.97 67.19 70.42 64.82 63.47 64.43 66.72 77.34 80.55 86.87 88.14 92.30 96.22 92.93 92.16 89.94 91.31 89.68 86.19 90.31 83.71 86.64 85.64 89.73 84.67 80.48 76.05 78.41 86.53 85.97 88.64 84.00 85.49 78.16 80.25 77.20 76.19 72.21 78.61 74.60 81.48 77.24 72.34 72.66 69.60 71.11 68.04 66.69 64.44 66.71 62.14 61.07 66.40 65.28 64.47 63.12 61.93 63.73 63.04 60.72 63.34 63.46 59.77 62.77 59.43 59.88 58.68 60.39 59.89 57.35 59.41 61.43 56.74 58.62 77.16 75.55 72.36 72.47 73.36 83.35 65.71 85.43 70.22 64.66 71.04 70.95 68.26 66.08 51.95 65.04 67.74 57.22 68.56 70.09 70.75 53.74 71.23 68.28 73.00 67.99 58.06 72.42 72.49 69.54 72.48 62.11 68.34 64.98 65.99 63.80 61.49 66.31 63.44 61.47 63.20 64.42 66.13 66.43 68.37 70.39 68.33 71.43 70.69 71.22 71.25 67.44 69.37 69.70 68.56 69.74 65.64 69.30 67.17 67.29 71.86 69.76 67.07 70.96 69.72 69.49 71.94 69.12 69.09 70.54 69.04 72.08 74.56 72.67 69.64 70.61 69.00 69.56 67.87 68.05 67.49 69.55 68.82 70.31 72.90 75.91 75.97 72.24 69.49 70.26 77.58 78.31 76.89 78.33 81.28 75.55 71.13 70.31 71.08 68.95 70.25 70.64 72.01 69.62 70.10 68.82 70.44 73.20 71.24 71.99 74.05 75.91 73.45 73.45 91.20 72.17 75.83 73.34 71.99 73.07 70.12 71.79 71.47 70.81 70.06 70.98 72.83 72.54 76.68 71.20 70.24 74.10 73.86 72.73 71.76 72.67 74.09 77.18 72.82 75.64 75.28 79.42 73.78 75.43 76.05 72.55 73.85 74.67 71.53 72.49 73.46 75.11 70.82 75.41 75.14 74.76 77.90 75.83 74.27 79.60 72.22 76.06 74.43 74.98 74.39 70.81 75.47 76.17 74.56 74.89 75.64 71.22 74.04 71.59 67.97 69.86 67.56 71.59 73.01 73.97 69.05 73.16 72.15 69.24 70.73 69.20 70.32 71.78 73.36 71.09 72.36 74.30 73.35 71.74 73.37 73.23 73.77 73.01 73.45 75.28 73.70 74.83 73.50 70.14 75.09 74.51 78.53 78.44 77.13 81.12 80.95 82.75 84.28 81.06 81.82 84.87 78.83 79.57 80.39 81.74 80.88 82.88 79.98 80.72 80.18 78.60 81.76 79.80 82.56 82.07 79.47 81.22 83.41 82.25 79.64 83.36 82.47 81.88 78.62 73.99 78.64 72.11 72.71 72.81 73.10 75.94 74.49 76.94 78.62 76.88 75.61 78.75 74.14 74.40 78.18 75.12 75.42 74.68 74.99 76.35 81.25 79.75 74.71 74.28 80.76 79.47 81.42 79.56 79.40 77.70 76.22 73.69 73.90 78.32 74.73 78.07 76.47 77.09 73.87 75.05 73.91 73.74 70.90 74.58 77.38 75.19 75.54 73.19 75.24 78.57 75.53 75.67 79.23 75.18 76.15 76.22 79.60 82.14 83.23 84.25 85.18 84.89 83.39 83.65 83.79 85.80 89.14 93.77 94.17 90.06 90.30 92.47 93.18 91.19 93.54 93.91 92.53 93.01 89.42 89.97 90.63 86.57 92.85 96.50 87.68 86.67 88.75 87.38 86.62 86.09 84.18 84.37 88.69 86.72 81.08 83.94 81.12 80.60 83.22 84.48 81.36 77.49 77.94 77.67 75.51 74.09 75.80 72.72 77.05 74.60 71.04 71.72 75.53 74.41 79.56 80.95 79.94 73.92 80.03 81.52 75.91 77.73 73.90 75.40 73.32 72.29 75.93 73.92 73.68 74.66 76.78 73.85 72.92 75.51 74.82 73.58 73.54 84.07 91.56 93.73 92.53 98.80 96.62 94.63 96.14 100.00 96.43 97.12 99.34 100.00 99.18 99.62 99.76 97.36 98.07 93.01 91.11 89.47 85.15 89.70 84.93 88.90 84.30 84.66 85.24 82.92 81.04 82.17 83.09 80.77 82.02 82.58 84.61 77.47 80.71 80.81 78.64 73.81 78.61 78.87 76.12 73.41 73.80 72.44 71.76 67.82 69.17 63.45 66.89 67.21 62.37 63.30 58.29 61.25 59.28 55.92 57.86 55.34 52.06 54.53 52.81 52.82 54.46 51.70 53.08 51.00 48.43 47.45 47.89 54.27 51.43 49.41 48.32 51.47 47.43 45.28 43.05 40.45 38.35 35.17 35.05 38.81 38.84 36.64 35.05 32.67 35.39 34.78 36.87 37.88 40.10 42.09 34.07 30.05 27.23 25.87 26.42 26.63 24.06 24.30 24.02 23.80 28.23 25.80 30.65 32.72 36.74 37.11 35.43 38.25 35.04 32.72 34.44 39.10 35.29 28.56 33.88 31.62 27.01 28.99 27.14 27.30 29.90 43.00 41.72 45.60 45.41 46.95 47.44 37.65 48.56 48.94 43.52 39.75 41.16 29.18 25.95 23.08 31.17 28.26 23.87 25.86 23.28 24.74 28.65 25.92 27.89 22.74 23.73 22.93 19.59 18.80 18.59 20.50 21.09 18.09 17.83 13.99 16.12 13.15 11.54 9.92 16.68 15.88 13.51 12.42 11.54 12.64 12.12 15.32 14.58 23.69 26.57 20.50 25.35 27.99 26.84 33.96 32.10 26.09 25.03 27.85 24.42 25.95 39.47 48.33 38.92 35.63 33.15 34.25 33.33 34.67 36.35 35.20 37.88 36.89 38.18 39.05 41.39 56.80 67.11 72.48 70.50 69.08 71.12 69.22 76.73 73.35 69.13 74.08 70.49 67.96 74.97 64.66 69.49 73.33 70.99 61.87 68.57 63.49 61.64 57.69 57.55 56.28 55.13 56.51 55.91 56.15 58.80 59.18 57.32 55.21 52.41 52.90 51.47 52.84 50.46 51.64 53.08 52.00 50.84 50.89 49.76 49.20 74.07 65.34 69.29 80.86 75.83 72.35 60.56 53.07 48.56 54.57 74.58 68.19 59.25 64.50 65.73 64.63 61.76 57.71 61.35 72.10 72.30 71.49 68.67 64.09 76.66 73.72 73.43 66.20 61.44 73.81 67.69"
+                },
+
+                {
+                        "id": "650628a6-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1361700,
+                        "end": 1367740,
+                        "content": "1"
+                },
+
+                {
+                        "id": "7cb4793a-9293-11ee-be56-7242363b2847",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1361700,
+                        "end": 1461700,
+                        "content": "11.82 3.46 4.29 1.94 5.30 4.56 0.00 4.34 4.68 2.03 8.05 8.57 7.69 11.48 4.43 13.29 12.98 16.10 17.67 18.68 18.29 17.04 20.54 19.74 24.58 19.87 62.97 66.08 69.21 74.20 66.70 73.50 64.56 50.60 64.11 33.95 16.20 19.84 16.18 64.04 61.48 57.86 62.07 59.81 48.83 74.09 72.06 60.40 55.81 55.16 59.08 48.94 44.22 54.36 47.68 49.52 54.69 57.26 33.68 26.15 27.15 32.20 30.78 30.20 29.95 35.15 33.12 32.76 37.27 33.98 70.57 72.65 71.65 66.85 66.52 61.70 57.40 69.78 64.25 62.21 55.23 56.22 72.36 72.14 61.61 54.66 65.65 62.28 62.42 58.63 52.35 38.91 55.34 65.23 46.65 68.71 59.64 45.25 66.78 67.82 70.86 66.24 62.11 63.82 57.38 37.79 42.15 61.46 63.80 67.48 72.91 77.05 73.67 66.37 70.12 46.32 52.25 51.08 39.10 40.46 38.74 39.71 72.46 67.44 41.14 74.63 71.07 67.07 68.50 75.69 69.93 72.43 77.63 68.14 60.98 74.36 63.23 40.95 43.74 39.92 39.18 44.94 42.82 42.74 45.39 45.97 43.39 47.09 43.76 46.48 43.47 44.06 46.58 42.11 43.45 44.47 43.00 44.15 42.60 44.73 43.49 43.91 41.45 44.97 50.21 54.93 55.02 51.26 55.44 54.67 55.55 53.00 56.91 56.20 56.44 54.78 56.77 58.24 60.18 66.79 58.13 61.20 60.80 59.67 58.79 59.49 60.82 61.08 57.86 55.07 59.44 63.94 60.02 63.15 62.56 66.63 61.48 62.55 63.51 61.55 59.54 60.54 60.26 54.83 58.31 58.66 61.29 58.45 58.92 58.14 57.69 56.95 55.46 53.47 53.36 56.31 56.46 58.87 60.31 56.78 61.79 59.67 62.91 61.71 61.78 59.38 52.97 54.69 56.34 54.66 54.25 63.36 61.45 71.68 67.60 58.16 79.85 77.60 68.10 66.49 64.23 75.76 74.43 73.02 71.22 61.67 79.96 68.05 75.86 73.61 73.01 63.91 68.14 71.48 55.07 66.30 56.45 70.40 63.06 74.14 55.37 73.95 58.64 68.27 63.71 67.40 60.00 67.75 67.06 59.63 67.25 68.97 67.19 70.42 64.82 63.47 64.43 66.72 77.34 80.55 86.87 88.14 92.30 96.22 92.93 92.16 89.94 91.31 89.68 86.19 90.31 83.71 86.64 85.64 89.73 84.67 80.48 76.05 78.41 86.53 85.97 88.64 84.00 85.49 78.16 80.25 77.20 76.19 72.21 78.61 74.60 81.48 77.24 72.34 72.66 69.60 71.11 68.04 66.69 64.44 66.71 62.14 61.07 66.40 65.28 64.47 63.12 61.93 63.73 63.04 60.72 63.34 63.46 59.77 62.77 59.43 59.88 58.68 60.39 59.89 57.35 59.41 61.43 56.74 58.62 77.16 75.55 72.36 72.47 73.36 83.35 65.71 85.43 70.22 64.66 71.04 70.95 68.26 66.08 51.95 65.04 67.74 57.22 68.56 70.09 70.75 53.74 71.23 68.28 73.00 67.99 58.06 72.42 72.49 69.54 72.48 62.11 68.34 64.98 65.99 63.80 61.49 66.31 63.44 61.47 63.20 64.42 66.13 66.43 68.37 70.39 68.33 71.43 70.69 71.22 71.25 67.44 69.37 69.70 68.56 69.74 65.64 69.30 67.17 67.29 71.86 69.76 67.07 70.96 69.72 69.49 71.94 69.12 69.09 70.54 69.04 72.08 74.56 72.67 69.64 70.61 69.00 69.56 67.87 68.05 67.49 69.55 68.82 70.31 72.90 75.91 75.97 72.24 69.49 70.26 77.58 78.31 76.89 78.33 81.28 75.55 71.13 70.31 71.08 68.95 70.25 70.64 72.01 69.62 70.10 68.82 70.44 73.20 71.24 71.99 74.05 75.91 73.45 73.45 91.20 72.17 75.83 73.34 71.99 73.07 70.12 71.79 71.47 70.81 70.06 70.98 72.83 72.54 76.68 71.20 70.24 74.10 73.86 72.73 71.76 72.67 74.09 77.18 72.82 75.64 75.28 79.42 73.78 75.43 76.05 72.55 73.85 74.67 71.53 72.49 73.46 75.11 70.82 75.41 75.14 74.76 77.90 75.83 74.27 79.60 72.22 76.06 74.43 74.98 74.39 70.81 75.47 76.17 74.56 74.89 75.64 71.22 74.04 71.59 67.97 69.86 67.56 71.59 73.01 73.97 69.05 73.16 72.15 69.24 70.73 69.20 70.32 71.78 73.36 71.09 72.36 74.30 73.35 71.74 73.37 73.23 73.77 73.01 73.45 75.28 73.70 74.83 73.50 70.14 75.09 74.51 78.53 78.44 77.13 81.12 80.95 82.75 84.28 81.06 81.82 84.87 78.83 79.57 80.39 81.74 80.88 82.88 79.98 80.72 80.18 78.60 81.76 79.80 82.56 82.07 79.47 81.22 83.41 82.25 79.64 83.36 82.47 81.88 78.62 73.99 78.64 72.11 72.71 72.81 73.10 75.94 74.49 76.94 78.62 76.88 75.61 78.75 74.14 74.40 78.18 75.12 75.42 74.68 74.99 76.35 81.25 79.75 74.71 74.28 80.76 79.47 81.42 79.56 79.40 77.70 76.22 73.69 73.90 78.32 74.73 78.07 76.47 77.09 73.87 75.05 73.91 73.74 70.90 74.58 77.38 75.19 75.54 73.19 75.24 78.57 75.53 75.67 79.23 75.18 76.15 76.22 79.60 82.14 83.23 84.25 85.18 84.89 83.39 83.65 83.79 85.80 89.14 93.77 94.17 90.06 90.30 92.47 93.18 91.19 93.54 93.91 92.53 93.01 89.42 89.97 90.63 86.57 92.85 96.50 87.68 86.67 88.75 87.38 86.62 86.09 84.18 84.37 88.69 86.72 81.08 83.94 81.12 80.60 83.22 84.48 81.36 77.49 77.94 77.67 75.51 74.09 75.80 72.72 77.05 74.60 71.04 71.72 75.53 74.41 79.56 80.95 79.94 73.92 80.03 81.52 75.91 77.73 73.90 75.40 73.32 72.29 75.93 73.92 73.68 74.66 76.78 73.85 72.92 75.51 74.82 73.58 73.54 84.07 91.56 93.73 92.53 98.80 96.62 94.63 96.14 100.00 96.43 97.12 99.34 100.00 99.18 99.62 99.76 97.36 98.07 93.01 91.11 89.47 85.15 89.70 84.93 88.90 84.30 84.66 85.24 82.92 81.04 82.17 83.09 80.77 82.02 82.58 84.61 77.47 80.71 80.81 78.64 73.81 78.61 78.87 76.12 73.41 73.80 72.44 71.76 67.82 69.17 63.45 66.89 67.21 62.37 63.30 58.29 61.25 59.28 55.92 57.86 55.34 52.06 54.53 52.81 52.82 54.46 51.70 53.08 51.00 48.43 47.45 47.89 54.27 51.43 49.41 48.32 51.47 47.43 45.28 43.05 40.45 38.35 35.17 35.05 38.81 38.84 36.64 35.05 32.67 35.39 34.78 36.87 37.88 40.10 42.09 34.07 30.05 27.23 25.87 26.42 26.63 24.06 24.30 24.02 23.80 28.23 25.80 30.65 32.72 36.74 37.11 35.43 38.25 35.04 32.72 34.44 39.10 35.29 28.56 33.88 31.62 27.01 28.99 27.14 27.30 29.90 43.00 41.72 45.60 45.41 46.95 47.44 37.65 48.56 48.94 43.52 39.75 41.16 29.18 25.95 23.08 31.17 28.26 23.87 25.86 23.28 24.74 28.65 25.92 27.89 22.74 23.73 22.93 19.59 18.80 18.59 20.50 21.09 18.09 17.83 13.99 16.12 13.15 11.54 9.92 16.68 15.88 13.51 12.42 11.54 12.64 12.12 15.32 14.58 23.69 26.57 20.50 25.35 27.99 26.84 33.96 32.10 26.09 25.03 27.85 24.42 25.95 39.47 48.33 38.92 35.63 33.15 34.25 33.33 34.67 36.35 35.20 37.88 36.89 38.18 39.05 41.39 56.80 67.11 72.48 70.50 69.08 71.12 69.22 76.73 73.35 69.13 74.08 70.49 67.96 74.97 64.66 69.49 73.33 70.99 61.87 68.57 63.49 61.64 57.69 57.55 56.28 55.13 56.51 55.91 56.15 58.80 59.18 57.32 55.21 52.41 52.90 51.47 52.84 50.46 51.64 53.08 52.00 50.84 50.89 49.76 49.20 74.07 65.34 69.29 80.86 75.83 72.35 60.56 53.07 48.56 54.57 74.58 68.19 59.25 64.50 65.73 64.63 61.76 57.71 61.35 72.10 72.30 71.49 68.67 64.09 76.66 73.72 73.43 66.20 61.44 73.81 67.69"
+                },
+
+                {
+                        "id": "8b1e1148-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1361700,
+                        "end": 1367740,
+                        "content": "1"
+                },
+
+                {
+                        "id": "8d13af58-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1361700,
+                        "end": 1367740,
+                        "content": "extreme long shot"
+                },
+
+                {
+                        "id": "ca0d5c14-9294-11ee-be56-7242363b2847",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1361700,
+                        "end": 1367740,
+                        "content": "slow motion"
+                },
+
+                {
+                        "id": "37681d9e-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1361700,
+                        "end": 1367740,
+                        "content": "0"
+                },
+
+                {
+                        "id": "650633dc-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1367740,
+                        "end": 1373500,
+                        "content": "2"
+                },
+
+                {
+                        "id": "8b1e20a2-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1367740,
+                        "end": 1373500,
+                        "content": "2"
+                },
+
+                {
+                        "id": "8d13cf24-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1367740,
+                        "end": 1373500,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "ca0d8a36-9294-11ee-be56-7242363b2847",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1367740,
+                        "end": 1378260,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "37683cde-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1367740,
+                        "end": 1373500,
+                        "content": "2"
+                },
+
+                {
+                        "id": "650640de-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1373500,
+                        "end": 1378260,
+                        "content": "3"
+                },
+
+                {
+                        "id": "8b1e2930-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1373500,
+                        "end": 1378260,
+                        "content": "3"
+                },
+
+                {
+                        "id": "8d13eb9e-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1373500,
+                        "end": 1378260,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "376845f8-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1373500,
+                        "end": 1378260,
+                        "content": "2"
+                },
+
+                {
+                        "id": "6506467e-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1378260,
+                        "end": 1384820,
+                        "content": "4"
+                },
+
+                {
+                        "id": "8b1e315a-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1378260,
+                        "end": 1384820,
+                        "content": "4"
+                },
+
+                {
+                        "id": "8d13f9cc-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1378260,
+                        "end": 1384820,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "ca0d959e-9294-11ee-be56-7242363b2847",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1378260,
+                        "end": 1384820,
+                        "content": "slow motion"
+                },
+
+                {
+                        "id": "37684e40-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1378260,
+                        "end": 1384820,
+                        "content": "0,[VS],1"
+                },
+
+                {
+                        "id": "e00491f8-9295-11ee-be56-7242363b2847",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1378260,
+                        "end": 1384820,
+                        "content": "whirring"
+                },
+
+                {
+                        "id": "65064b9c-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1384820,
+                        "end": 1390100,
+                        "content": "5"
+                },
+
+                {
+                        "id": "8b1e3916-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1384820,
+                        "end": 1390100,
+                        "content": "5"
+                },
+
+                {
+                        "id": "8d140714-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1384820,
+                        "end": 1390100,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "ca0db9f2-9294-11ee-be56-7242363b2847",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1384820,
+                        "end": 1390100,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "37685692-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1384820,
+                        "end": 1390100,
+                        "content": "2"
+                },
+
+                {
+                        "id": "ec1978be-9295-11ee-be56-7242363b2847",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1389421,
+                        "end": 1394611,
+                        "content": "subside"
+                },
+
+                {
+                        "id": "6506509c-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1390100,
+                        "end": 1395660,
+                        "content": "6"
+                },
+
+                {
+                        "id": "8b1e40c8-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1390100,
+                        "end": 1395660,
+                        "content": "6"
+                },
+
+                {
+                        "id": "8d141a7e-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1390100,
+                        "end": 1395660,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "ca0dc6e0-9294-11ee-be56-7242363b2847",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1390100,
+                        "end": 1395660,
+                        "content": "slow motion"
+                },
+
+                {
+                        "id": "37685ebc-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1390100,
+                        "end": 1395660,
+                        "content": "1"
+                },
+
+                {
+                        "id": "650655e2-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1395660,
+                        "end": 1404660,
+                        "content": "7"
+                },
+
+                {
+                        "id": "8b1e4870-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1395660,
+                        "end": 1404660,
+                        "content": "7"
+                },
+
+                {
+                        "id": "8d14279e-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1395660,
+                        "end": 1404660,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "ca0eccf2-9294-11ee-be56-7242363b2847",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1395660,
+                        "end": 1515780,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "3768672c-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1395660,
+                        "end": 1404660,
+                        "content": "3"
+                },
+
+                {
+                        "id": "11cf50a6-9296-11ee-be56-7242363b2847",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1401354,
+                        "end": 1417060,
+                        "content": "whirring"
+                },
+
+                {
+                        "id": "65065ae2-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1404660,
+                        "end": 1409780,
+                        "content": "8"
+                },
+
+                {
+                        "id": "8b1e500e-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1404660,
+                        "end": 1409780,
+                        "content": "8"
+                },
+
+                {
+                        "id": "8d143540-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1404660,
+                        "end": 1409780,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "37686f42-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1404660,
+                        "end": 1409780,
+                        "content": "2"
+                },
+
+                {
+                        "id": "6506605a-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1409780,
+                        "end": 1413340,
+                        "content": "9"
+                },
+
+                {
+                        "id": "8b1e5798-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1409780,
+                        "end": 1413340,
+                        "content": "9"
+                },
+
+                {
+                        "id": "8d1441fc-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1409780,
+                        "end": 1413340,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "3768774e-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1409780,
+                        "end": 1413340,
+                        "content": "2"
+                },
+
+                {
+                        "id": "650665a0-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1413340,
+                        "end": 1417060,
+                        "content": "10"
+                },
+
+                {
+                        "id": "8b1e5f54-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1413340,
+                        "end": 1417060,
+                        "content": "10"
+                },
+
+                {
+                        "id": "8d144e86-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1413340,
+                        "end": 1417060,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "37687f50-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1413340,
+                        "end": 1417060,
+                        "content": "2"
+                },
+
+                {
+                        "id": "65066ab4-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1417060,
+                        "end": 1420940,
+                        "content": "11"
+                },
+
+                {
+                        "id": "8b1e6b02-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1417060,
+                        "end": 1420940,
+                        "content": "11"
+                },
+
+                {
+                        "id": "8d145b06-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1417060,
+                        "end": 1420940,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "37688752-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1417060,
+                        "end": 1420940,
+                        "content": "2,[VS],0"
+                },
+
+                {
+                        "id": "05c5756a-9296-11ee-be56-7242363b2847",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1417060,
+                        "end": 1420940,
+                        "content": "subside"
+                },
+
+                {
+                        "id": "65066faa-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1420940,
+                        "end": 1422660,
+                        "content": "12"
+                },
+
+                {
+                        "id": "8b1e72b4-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1420940,
+                        "end": 1422660,
+                        "content": "12"
+                },
+
+                {
+                        "id": "8d146786-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1420940,
+                        "end": 1422660,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "37688f4a-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1420940,
+                        "end": 1422660,
+                        "content": "1"
+                },
+
+                {
+                        "id": "52a4f05e-9296-11ee-be56-7242363b2847",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1420940,
+                        "end": 1426340,
+                        "content": "whirring"
+                },
+
+                {
+                        "id": "650674e6-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1422660,
+                        "end": 1426340,
+                        "content": "13"
+                },
+
+                {
+                        "id": "8b1e7a34-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1422660,
+                        "end": 1426340,
+                        "content": "13"
+                },
+
+                {
+                        "id": "8d147424-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1422660,
+                        "end": 1426340,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "3768971a-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1422660,
+                        "end": 1426340,
+                        "content": "2"
+                },
+
+                {
+                        "id": "650679fa-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1426340,
+                        "end": 1429780,
+                        "content": "14"
+                },
+
+                {
+                        "id": "8b1e8196-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1426340,
+                        "end": 1429780,
+                        "content": "14"
+                },
+
+                {
+                        "id": "8d148072-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1426340,
+                        "end": 1429780,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "37689fc6-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1426340,
+                        "end": 1429780,
+                        "content": "3"
+                },
+
+                {
+                        "id": "1fa21b32-9296-11ee-be56-7242363b2847",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1426340,
+                        "end": 1429780,
+                        "content": "explosive,subside"
+                },
+
+                {
+                        "id": "65067edc-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1429780,
+                        "end": 1433980,
+                        "content": "15"
+                },
+
+                {
+                        "id": "8b1e88f8-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1429780,
+                        "end": 1433980,
+                        "content": "15"
+                },
+
+                {
+                        "id": "8d148cc0-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1429780,
+                        "end": 1433980,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "3768a8c2-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1429780,
+                        "end": 1433980,
+                        "content": "2"
+                },
+
+                {
+                        "id": "5fdb4994-9296-11ee-be56-7242363b2847",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1429780,
+                        "end": 1433980,
+                        "content": "whirring"
+                },
+
+                {
+                        "id": "650683f0-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1433980,
+                        "end": 1438020,
+                        "content": "16"
+                },
+
+                {
+                        "id": "8b1e9078-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1433980,
+                        "end": 1438020,
+                        "content": "16"
+                },
+
+                {
+                        "id": "8d149922-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1433980,
+                        "end": 1438020,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "3768b7d6-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1433980,
+                        "end": 1438020,
+                        "content": "3"
+                },
+
+                {
+                        "id": "31e44e96-9296-11ee-be56-7242363b2847",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1433980,
+                        "end": 1438020,
+                        "content": "explosive,subside"
+                },
+
+                {
+                        "id": "650688e6-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1438020,
+                        "end": 1442380,
+                        "content": "17"
+                },
+
+                {
+                        "id": "8b1e980c-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1438020,
+                        "end": 1442380,
+                        "content": "17"
+                },
+
+                {
+                        "id": "8d14a5b6-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1438020,
+                        "end": 1442380,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "3768bff6-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1438020,
+                        "end": 1442380,
+                        "content": "1"
+                },
+
+                {
+                        "id": "65068dfa-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1442380,
+                        "end": 1452220,
+                        "content": "18"
+                },
+
+                {
+                        "id": "8b1e9ff0-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1442380,
+                        "end": 1452220,
+                        "content": "18"
+                },
+
+                {
+                        "id": "8d14b20e-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1442380,
+                        "end": 1452220,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "3768c820-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1442380,
+                        "end": 1452220,
+                        "content": "0"
+                },
+
+                {
+                        "id": "42f3bae6-9296-11ee-be56-7242363b2847",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1442380,
+                        "end": 1452220,
+                        "content": "pause"
+                },
+
+                {
+                        "id": "650694a8-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1452220,
+                        "end": 1459220,
+                        "content": "19"
+                },
+
+                {
+                        "id": "8b1ea766-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1452220,
+                        "end": 1459220,
+                        "content": "19"
+                },
+
+                {
+                        "id": "8d14be7a-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1452220,
+                        "end": 1459220,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "3768cfb4-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1452220,
+                        "end": 1459220,
+                        "content": "1"
+                },
+
+                {
+                        "id": "76a934e2-9296-11ee-be56-7242363b2847",
+                        "type": "MusicMood",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1452220,
+                        "end": 1513780,
+                        "content": "sad"
+                },
+
+                {
+                        "id": "6506999e-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1459220,
+                        "end": 1466740,
+                        "content": "20"
+                },
+
+                {
+                        "id": "8b1eaec8-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1459220,
+                        "end": 1466740,
+                        "content": "20"
+                },
+
+                {
+                        "id": "8d14cabe-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1459220,
+                        "end": 1466740,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "3768d75c-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1459220,
+                        "end": 1466740,
+                        "content": "1"
+                },
+
+                {
+                        "id": "5bffafde-9293-11ee-be56-7242363b2847",
+                        "type": "sound_enveloppe",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1461700,
+                        "end": 1538700,
+                        "content": "60.79 61.02 61.62 60.60 61.84 56.99 59.61 62.68 59.25 59.12 82.33 80.66 70.94 69.29 73.87 57.11 55.95 55.96 56.34 60.61 58.63 56.47 70.75 62.27 68.33 64.55 65.91 72.26 70.91 65.91 65.15 66.97 62.59 70.38 74.00 68.87 66.10 62.72 56.58 50.38 49.43 52.39 60.16 55.18 53.34 51.54 53.15 51.63 50.80 50.17 55.30 66.94 61.22 60.02 60.28 51.20 52.25 66.16 53.90 59.91 60.70 56.79 55.88 53.62 55.98 53.48 55.39 54.37 54.00 54.53 55.07 54.76 54.85 56.02 53.79 54.89 54.27 54.37 55.06 55.93 55.15 56.04 53.11 55.82 57.96 56.81 57.95 57.64 56.27 55.58 54.54 56.28 55.85 53.33 52.67 53.41 54.67 55.18 57.71 58.23 56.95 55.84 55.74 55.67 56.16 60.31 59.85 59.82 62.32 65.43 60.06 58.22 58.58 58.43 55.98 55.87 54.51 54.29 56.52 55.23 57.95 56.66 57.40 56.71 55.81 58.93 68.75 65.01 63.18 59.91 58.28 56.31 55.93 58.08 57.36 56.86 55.89 56.68 55.81 58.51 58.81 59.14 55.87 54.95 53.85 53.69 55.12 55.54 56.81 57.39 57.26 58.10 55.67 60.25 60.97 61.01 60.73 59.01 69.31 71.08 65.33 81.81 64.40 71.33 66.67 70.82 73.81 75.95 75.20 72.26 61.99 61.54 61.47 59.68 56.16 51.18 51.71 68.50 70.27 71.94 61.23 71.26 66.58 66.17 76.33 71.93 66.64 65.60 58.57 56.77 55.30 56.32 57.99 59.37 60.70 58.96 59.90 59.39 56.47 56.49 55.59 54.58 57.74 57.42 56.97 55.62 56.44 57.92 58.07 57.12 56.93 57.11 57.08 56.28 57.13 58.19 59.32 59.76 59.28 59.58 60.39 60.52 62.99 63.00 61.55 59.00 58.29 57.24 61.42 60.31 58.95 72.37 74.40 67.99 66.02 79.33 66.48 66.76 73.05 58.74 60.13 64.48 71.26 80.47 76.42 74.51 75.14 66.71 70.69 66.14 73.78 77.16 68.11 68.18 67.84 64.20 60.82 71.50 71.29 66.30 75.96 78.25 69.70 76.35 71.25 63.93 59.80 59.12 61.17 59.89 59.39 58.60 56.83 54.30 55.68 58.01 56.81 57.14 56.92 56.50 58.31 59.78 60.83 59.98 58.49 56.75 54.87 54.62 57.21 57.91 57.76 58.31 56.10 55.28 54.80 56.96 58.14 57.25 57.90 56.85 57.08 57.43 58.33 57.04 58.41 59.44 56.26 54.45 55.09 57.78 52.16 53.73 51.32 50.38 52.09 51.53 52.94 53.49 53.40 50.60 52.04 51.87 51.54 48.73 48.71 49.32 48.66 51.44 50.05 51.48 49.23 49.18 51.30 54.47 54.48 54.76 50.98 50.57 49.05 52.13 52.75 51.17 52.52 48.56 49.48 48.07 48.37 50.30 52.38 52.28 51.61 50.20 50.01 48.58 48.48 52.08 53.96 56.54 54.63 55.84 56.15 54.09 51.18 51.49 60.52 59.42 67.72 67.17 62.48 58.16 57.18 53.05 47.49 46.02 45.15 43.82 43.34 43.59 42.96 78.24 63.76 69.94 71.72 66.83 67.46 54.62 49.60 65.56 59.16 73.81 62.29 68.59 66.09 67.69 57.55 53.24 44.97 41.69 34.85 37.30 36.88 38.04 74.18 66.88 68.82 73.91 66.59 62.76 73.26 69.27 60.39 59.97 66.05 65.23 64.77 69.49 65.71 63.39 64.85 57.35 52.98 55.39 66.11 71.40 67.54 66.33 70.78 84.07 67.07 62.60 45.89 31.61 31.50 31.14 32.31 50.31 31.78 35.16 35.41 41.34 34.26 31.03 30.86 32.88 32.32 33.54 32.87 34.93 34.53 31.76 30.88 36.53 36.80 35.26 33.01 37.65 36.60 32.96 35.28 40.00 34.33 37.16 35.67 33.03 30.07 28.51 24.23 20.81 23.36 21.18 22.36 28.99 27.44 32.63 28.70 25.51 39.39 24.94 33.42 27.29 26.87 71.51 67.35 71.03 73.34 72.26 77.58 75.76 52.54 72.77 69.76 72.98 66.28 68.25 61.58 59.22 53.59 69.97 62.74 58.73 39.57 29.58 69.40 71.36 69.48 74.08 70.30 69.26 59.66 63.77 64.74 50.39 45.74 49.82 40.64 43.31 68.44 65.91 62.19 63.15 66.89 58.70 58.58 57.25 75.29 61.03 65.28 65.89 61.35 60.07 68.09 65.23 61.92 62.28 53.06 59.41 52.94 54.77 55.25 54.15 57.35 58.91 57.47 55.99 47.76 54.54 57.82 53.61 54.81 55.84 52.92 50.82 54.83 55.03 57.84 58.75 64.44 65.30 67.33 67.08 64.70 62.30 67.26 63.07 59.67 56.74 58.45 58.43 61.99 60.24 56.95 57.17 63.15 58.25 78.65 82.33 71.07 74.11 69.63 67.83 66.93 68.40 68.61 65.52 64.95 58.52 53.13 50.71 48.95 48.88 68.80 68.70 68.19 81.32 65.20 65.59 52.74 55.02 64.50 63.24 72.51 71.19 51.03 59.72 56.87 44.74 45.83 44.64 40.30 39.29 38.75 35.04 32.99 36.78 41.10 41.98 57.73 55.63 44.78 43.41 44.37 49.86 52.92 52.08 55.15 57.36 54.74 55.39 50.00 67.47 66.20 82.01 76.36 66.17 80.56 68.60 69.03 71.09 77.80 76.64 66.24 67.85 69.75 63.50 69.83 71.79 61.73 67.40 66.72 53.85 53.99 54.44 69.48 70.62 74.19 75.62 74.99 71.15 66.02 66.12 66.88 65.40 61.35 58.77 71.67 71.85 77.39 57.59 66.57 66.55 72.94 74.35 68.08 77.26 71.41 67.42 65.18 66.74 61.45 61.70 61.82 63.56 61.47 59.46 57.64 52.25 53.68 56.04 59.75 58.34 54.34 50.76 46.75 45.69 44.46 44.96 42.59 43.57 42.90 38.33 40.57 45.12 42.67 46.26 45.87 42.73 46.62 49.52 49.48 47.66 50.79 51.86 50.98 49.15 49.75 51.71 49.35 49.86 52.48 51.38 48.03 49.96 48.31 47.84 54.02 55.91 58.12 56.03 55.82 56.76 53.65 52.43 48.82 48.71 48.16 47.95 49.74 49.05 47.08 55.38 52.79 54.55 53.99 51.07 51.03 48.95 48.55 53.04 54.19 52.96 53.86 52.42 51.90 50.90 50.67 48.92 48.21 49.94 48.46 48.85 49.77 53.57 54.12 54.56 49.55 54.44 54.32 53.43 54.22 53.80"
+                },
+
+                {
+                        "id": "7cb49730-9293-11ee-be56-7242363b2847",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1461700,
+                        "end": 1538700,
+                        "content": "60.79 61.02 61.62 60.60 61.84 56.99 59.61 62.68 59.25 59.12 82.33 80.66 70.94 69.29 73.87 57.11 55.95 55.96 56.34 60.61 58.63 56.47 70.75 62.27 68.33 64.55 65.91 72.26 70.91 65.91 65.15 66.97 62.59 70.38 74.00 68.87 66.10 62.72 56.58 50.38 49.43 52.39 60.16 55.18 53.34 51.54 53.15 51.63 50.80 50.17 55.30 66.94 61.22 60.02 60.28 51.20 52.25 66.16 53.90 59.91 60.70 56.79 55.88 53.62 55.98 53.48 55.39 54.37 54.00 54.53 55.07 54.76 54.85 56.02 53.79 54.89 54.27 54.37 55.06 55.93 55.15 56.04 53.11 55.82 57.96 56.81 57.95 57.64 56.27 55.58 54.54 56.28 55.85 53.33 52.67 53.41 54.67 55.18 57.71 58.23 56.95 55.84 55.74 55.67 56.16 60.31 59.85 59.82 62.32 65.43 60.06 58.22 58.58 58.43 55.98 55.87 54.51 54.29 56.52 55.23 57.95 56.66 57.40 56.71 55.81 58.93 68.75 65.01 63.18 59.91 58.28 56.31 55.93 58.08 57.36 56.86 55.89 56.68 55.81 58.51 58.81 59.14 55.87 54.95 53.85 53.69 55.12 55.54 56.81 57.39 57.26 58.10 55.67 60.25 60.97 61.01 60.73 59.01 69.31 71.08 65.33 81.81 64.40 71.33 66.67 70.82 73.81 75.95 75.20 72.26 61.99 61.54 61.47 59.68 56.16 51.18 51.71 68.50 70.27 71.94 61.23 71.26 66.58 66.17 76.33 71.93 66.64 65.60 58.57 56.77 55.30 56.32 57.99 59.37 60.70 58.96 59.90 59.39 56.47 56.49 55.59 54.58 57.74 57.42 56.97 55.62 56.44 57.92 58.07 57.12 56.93 57.11 57.08 56.28 57.13 58.19 59.32 59.76 59.28 59.58 60.39 60.52 62.99 63.00 61.55 59.00 58.29 57.24 61.42 60.31 58.95 72.37 74.40 67.99 66.02 79.33 66.48 66.76 73.05 58.74 60.13 64.48 71.26 80.47 76.42 74.51 75.14 66.71 70.69 66.14 73.78 77.16 68.11 68.18 67.84 64.20 60.82 71.50 71.29 66.30 75.96 78.25 69.70 76.35 71.25 63.93 59.80 59.12 61.17 59.89 59.39 58.60 56.83 54.30 55.68 58.01 56.81 57.14 56.92 56.50 58.31 59.78 60.83 59.98 58.49 56.75 54.87 54.62 57.21 57.91 57.76 58.31 56.10 55.28 54.80 56.96 58.14 57.25 57.90 56.85 57.08 57.43 58.33 57.04 58.41 59.44 56.26 54.45 55.09 57.78 52.16 53.73 51.32 50.38 52.09 51.53 52.94 53.49 53.40 50.60 52.04 51.87 51.54 48.73 48.71 49.32 48.66 51.44 50.05 51.48 49.23 49.18 51.30 54.47 54.48 54.76 50.98 50.57 49.05 52.13 52.75 51.17 52.52 48.56 49.48 48.07 48.37 50.30 52.38 52.28 51.61 50.20 50.01 48.58 48.48 52.08 53.96 56.54 54.63 55.84 56.15 54.09 51.18 51.49 60.52 59.42 67.72 67.17 62.48 58.16 57.18 53.05 47.49 46.02 45.15 43.82 43.34 43.59 42.96 78.24 63.76 69.94 71.72 66.83 67.46 54.62 49.60 65.56 59.16 73.81 62.29 68.59 66.09 67.69 57.55 53.24 44.97 41.69 34.85 37.30 36.88 38.04 74.18 66.88 68.82 73.91 66.59 62.76 73.26 69.27 60.39 59.97 66.05 65.23 64.77 69.49 65.71 63.39 64.85 57.35 52.98 55.39 66.11 71.40 67.54 66.33 70.78 84.07 67.07 62.60 45.89 31.61 31.50 31.14 32.31 50.31 31.78 35.16 35.41 41.34 34.26 31.03 30.86 32.88 32.32 33.54 32.87 34.93 34.53 31.76 30.88 36.53 36.80 35.26 33.01 37.65 36.60 32.96 35.28 40.00 34.33 37.16 35.67 33.03 30.07 28.51 24.23 20.81 23.36 21.18 22.36 28.99 27.44 32.63 28.70 25.51 39.39 24.94 33.42 27.29 26.87 71.51 67.35 71.03 73.34 72.26 77.58 75.76 52.54 72.77 69.76 72.98 66.28 68.25 61.58 59.22 53.59 69.97 62.74 58.73 39.57 29.58 69.40 71.36 69.48 74.08 70.30 69.26 59.66 63.77 64.74 50.39 45.74 49.82 40.64 43.31 68.44 65.91 62.19 63.15 66.89 58.70 58.58 57.25 75.29 61.03 65.28 65.89 61.35 60.07 68.09 65.23 61.92 62.28 53.06 59.41 52.94 54.77 55.25 54.15 57.35 58.91 57.47 55.99 47.76 54.54 57.82 53.61 54.81 55.84 52.92 50.82 54.83 55.03 57.84 58.75 64.44 65.30 67.33 67.08 64.70 62.30 67.26 63.07 59.67 56.74 58.45 58.43 61.99 60.24 56.95 57.17 63.15 58.25 78.65 82.33 71.07 74.11 69.63 67.83 66.93 68.40 68.61 65.52 64.95 58.52 53.13 50.71 48.95 48.88 68.80 68.70 68.19 81.32 65.20 65.59 52.74 55.02 64.50 63.24 72.51 71.19 51.03 59.72 56.87 44.74 45.83 44.64 40.30 39.29 38.75 35.04 32.99 36.78 41.10 41.98 57.73 55.63 44.78 43.41 44.37 49.86 52.92 52.08 55.15 57.36 54.74 55.39 50.00 67.47 66.20 82.01 76.36 66.17 80.56 68.60 69.03 71.09 77.80 76.64 66.24 67.85 69.75 63.50 69.83 71.79 61.73 67.40 66.72 53.85 53.99 54.44 69.48 70.62 74.19 75.62 74.99 71.15 66.02 66.12 66.88 65.40 61.35 58.77 71.67 71.85 77.39 57.59 66.57 66.55 72.94 74.35 68.08 77.26 71.41 67.42 65.18 66.74 61.45 61.70 61.82 63.56 61.47 59.46 57.64 52.25 53.68 56.04 59.75 58.34 54.34 50.76 46.75 45.69 44.46 44.96 42.59 43.57 42.90 38.33 40.57 45.12 42.67 46.26 45.87 42.73 46.62 49.52 49.48 47.66 50.79 51.86 50.98 49.15 49.75 51.71 49.35 49.86 52.48 51.38 48.03 49.96 48.31 47.84 54.02 55.91 58.12 56.03 55.82 56.76 53.65 52.43 48.82 48.71 48.16 47.95 49.74 49.05 47.08 55.38 52.79 54.55 53.99 51.07 51.03 48.95 48.55 53.04 54.19 52.96 53.86 52.42 51.90 50.90 50.67 48.92 48.21 49.94 48.46 48.85 49.77 53.57 54.12 54.56 49.55 54.44 54.32 53.43 54.22 53.80"
+                },
+
+                {
+                        "id": "65069ed0-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1466740,
+                        "end": 1473340,
+                        "content": "21"
+                },
+
+                {
+                        "id": "8b1eb648-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1466740,
+                        "end": 1473340,
+                        "content": "21"
+                },
+
+                {
+                        "id": "8d14d964-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1466740,
+                        "end": 1473340,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "3768df04-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1466740,
+                        "end": 1473340,
+                        "content": "2"
+                },
+
+                {
+                        "id": "6506a3f8-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1473340,
+                        "end": 1488300,
+                        "content": "22"
+                },
+
+                {
+                        "id": "8b1ebdb4-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1473340,
+                        "end": 1488300,
+                        "content": "22"
+                },
+
+                {
+                        "id": "8d14e62a-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1473340,
+                        "end": 1488300,
+                        "content": "shoulder closeup,[TO],medium shot"
+                },
+
+                {
+                        "id": "3768e6de-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1473340,
+                        "end": 1488300,
+                        "content": "1"
+                },
+
+                {
+                        "id": "6506a8e4-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1488300,
+                        "end": 1493620,
+                        "content": "23"
+                },
+
+                {
+                        "id": "8b1ec52a-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1488300,
+                        "end": 1493620,
+                        "content": "23"
+                },
+
+                {
+                        "id": "8d14f2dc-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1488300,
+                        "end": 1493620,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "3768ee68-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1488300,
+                        "end": 1493620,
+                        "content": "1"
+                },
+
+                {
+                        "id": "6506ade4-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1493620,
+                        "end": 1498340,
+                        "content": "24"
+                },
+
+                {
+                        "id": "8b1eccfa-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1493620,
+                        "end": 1498340,
+                        "content": "24"
+                },
+
+                {
+                        "id": "8d14ff52-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1493620,
+                        "end": 1498340,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "3768f57a-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1493620,
+                        "end": 1498340,
+                        "content": "1"
+                },
+
+                {
+                        "id": "6506b2e4-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1498340,
+                        "end": 1507300,
+                        "content": "25"
+                },
+
+                {
+                        "id": "8b1ed484-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1498340,
+                        "end": 1507300,
+                        "content": "25"
+                },
+
+                {
+                        "id": "8d150c18-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1498340,
+                        "end": 1507300,
+                        "content": "closeup"
+                },
+
+                {
+                        "id": "3768fca0-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1498340,
+                        "end": 1507300,
+                        "content": "1"
+                },
+
+                {
+                        "id": "6506b7ee-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1507300,
+                        "end": 1511500,
+                        "content": "26"
+                },
+
+                {
+                        "id": "8b1ede20-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1507300,
+                        "end": 1511500,
+                        "content": "26"
+                },
+
+                {
+                        "id": "8d151f6e-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1507300,
+                        "end": 1511500,
+                        "content": "extreme closeup"
+                },
+
+                {
+                        "id": "376903bc-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1507300,
+                        "end": 1511500,
+                        "content": "1"
+                },
+
+                {
+                        "id": "6506bcee-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1511500,
+                        "end": 1515780,
+                        "content": "27"
+                },
+
+                {
+                        "id": "8b1ee5d2-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1511500,
+                        "end": 1515780,
+                        "content": "27"
+                },
+
+                {
+                        "id": "8d152d38-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1511500,
+                        "end": 1515780,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "37690dd0-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1511500,
+                        "end": 1515780,
+                        "content": "1"
+                },
+
+                {
+                        "id": "d2c6beac-9368-11ee-ab61-7242363b2847",
+                        "type": "MusicMood",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1514771,
+                        "end": 1538587,
+                        "content": "sad"
+                },
+
+                {
+                        "id": "6506c216-9293-11ee-be56-7242363b2847",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1515780,
+                        "end": 1538700,
+                        "content": "28"
+                },
+
+                {
+                        "id": "8b1eee1a-9293-11ee-be56-7242363b2847",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1515780,
+                        "end": 1538700,
+                        "content": "28"
+                },
+
+                {
+                        "id": "8d153aa8-9293-11ee-be56-7242363b2847",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1515780,
+                        "end": 1538700,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "ca0ed6b6-9294-11ee-be56-7242363b2847",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1515780,
+                        "end": 1538700,
+                        "content": "slow motion"
+                },
+
+                {
+                        "id": "3769169a-9295-11ee-be56-7242363b2847",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Seven%2520Worlds%2520One%2520Planet/Seven_Worlds_One_Planet_Episode_01_Antartica_Devas_Fredi.mp4",
+                        "begin": 1515780,
+                        "end": 1538700,
+                        "content": "0,[VS],1"
+                }
+
+] }

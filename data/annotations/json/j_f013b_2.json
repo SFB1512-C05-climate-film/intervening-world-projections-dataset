@@ -1,0 +1,3684 @@
+{ "annotations": [
+
+                {
+                        "id": "28e85d88-5aa1-11ed-b51a-7242363b2846",
+                        "type": "sound_enveloppe",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 700000,
+                        "end": 800000,
+                        "content": "81.41 78.18 82.98 79.79 82.20 81.08 79.03 77.03 86.94 87.90 79.98 86.16 78.14 76.26 78.18 75.42 75.76 73.25 69.90 85.43 85.45 86.33 85.61 83.66 75.32 84.34 84.22 84.23 74.96 77.79 72.55 67.38 68.07 73.20 69.02 67.14 63.56 74.22 88.02 89.39 89.17 84.12 84.02 84.05 86.58 83.45 81.71 76.23 88.02 84.20 83.51 82.39 81.70 87.91 83.73 84.06 81.96 80.85 80.02 82.72 78.50 78.71 73.46 85.07 85.54 87.22 84.83 74.60 70.14 83.05 79.82 81.36 76.93 77.57 82.07 86.00 78.17 78.44 79.61 77.79 65.50 66.27 64.17 84.11 89.81 82.96 79.44 76.55 71.09 65.14 80.36 77.43 66.75 63.45 58.41 58.90 56.86 81.84 82.41 86.15 89.62 78.18 91.36 87.08 90.75 90.76 88.00 76.39 79.46 78.90 79.86 76.43 73.00 81.91 79.04 82.34 85.26 79.67 74.60 78.13 73.65 73.63 71.00 68.84 68.61 64.32 62.22 67.06 79.77 85.80 85.40 85.88 85.78 88.39 80.85 75.48 74.57 81.68 81.67 83.53 86.57 86.72 79.49 68.29 60.19 60.45 72.82 64.87 77.93 75.27 78.16 84.36 84.02 86.62 87.02 78.37 86.20 88.31 90.28 90.73 88.62 81.65 86.83 87.51 72.31 87.33 84.05 86.52 74.78 78.91 75.80 78.19 83.20 76.14 75.91 71.57 73.82 73.24 70.12 74.04 65.47 64.14 56.99 58.71 56.71 75.98 71.17 79.45 83.13 80.36 84.76 80.23 89.65 83.35 84.86 87.21 89.53 88.80 83.26 82.67 81.80 83.80 81.86 79.50 81.14 83.71 77.58 76.61 75.26 78.76 82.40 81.03 79.02 78.76 80.57 78.36 83.30 80.69 79.19 78.72 77.53 77.13 76.26 78.76 78.59 78.17 77.59 77.80 87.51 90.09 90.07 91.37 89.97 90.56 89.78 92.32 89.57 87.61 87.46 91.11 88.45 85.88 82.34 91.60 90.06 85.01 83.44 82.02 92.34 92.24 79.12 85.09 85.11 83.36 91.40 92.33 90.86 88.70 85.10 81.79 87.56 90.91 89.52 88.17 85.31 89.64 89.03 87.34 85.09 86.38 90.14 86.47 83.33 86.92 86.38 86.27 85.67 81.03 87.29 87.90 86.02 83.13 81.29 81.13 91.33 91.59 90.88 84.46 91.01 92.54 90.09 87.63 86.90 90.97 89.32 85.36 89.08 92.37 89.04 88.88 91.08 90.69 88.55 87.10 89.39 88.84 87.53 88.92 87.38 87.27 84.20 84.79 81.31 88.81 87.66 85.81 88.68 87.49 87.92 83.37 84.70 82.06 82.02 82.89 80.16 84.69 88.20 92.59 90.62 88.03 89.56 90.66 90.66 86.75 86.21 87.58 87.07 86.90 87.87 87.83 87.56 87.99 87.67 86.75 89.42 87.45 86.60 90.36 94.37 93.40 94.02 88.73 90.09 87.93 87.98 87.80 91.35 89.55 92.75 93.47 91.67 88.62 87.89 87.40 86.85 90.55 89.07 90.73 92.76 90.60 90.86 91.07 91.23 90.18 90.41 91.20 92.27 92.15 91.50 93.17 92.20 92.49 92.15 91.13 91.43 93.71 92.94 94.33 94.11 93.92 93.46 87.78 92.84 91.69 88.69 87.34 90.00 90.76 89.82 82.26 84.76 84.23 84.71 86.93 86.84 91.46 92.80 91.89 91.39 83.66 92.54 91.36 84.10 91.45 91.99 92.03 91.34 89.57 92.47 88.33 91.06 90.79 85.46 90.01 89.63 89.20 85.50 85.07 92.50 86.35 86.89 91.88 89.40 87.56 86.73 85.89 84.10 83.92 86.78 88.77 91.81 93.03 91.53 85.52 88.34 85.72 84.70 83.67 92.38 92.69 88.04 85.28 85.38 90.72 92.16 91.41 89.07 84.08 88.64 89.25 84.91 83.78 82.81 85.43 85.56 87.07 91.63 91.79 91.79 91.81 87.34 89.06 90.65 89.56 89.64 88.54 88.10 91.46 91.06 86.22 89.84 90.39 85.79 85.31 91.48 84.37 86.54 84.15 83.70 82.69 84.60 83.90 85.23 82.88 83.46 85.53 83.91 83.85 82.70 83.54 84.42 85.87 83.68 83.38 85.39 84.37 83.33 84.89 82.74 84.21 85.04 84.06 84.70 83.38 85.05 86.59 91.48 82.75 91.58 85.67 87.95 82.77 89.78 89.69 85.50 90.52 90.75 86.54 84.02 86.40 88.36 85.53 81.93 83.25 82.87 84.22 86.01 89.13 85.99 86.64 92.64 84.86 86.13 84.36 87.32 91.88 87.52 84.72 87.45 88.30 86.56 83.90 84.60 87.11 86.41 85.98 87.00 86.53 85.98 85.51 86.24 87.09 87.08 86.78 91.61 90.09 86.44 88.64 87.77 88.13 86.27 87.98 87.63 89.63 88.46 90.27 89.86 89.79 91.47 90.88 89.16 87.64 86.58 88.37 90.26 89.64 89.21 88.77 89.89 88.31 87.63 86.14 88.06 90.12 87.24 89.15 88.26 88.25 86.94 91.22 89.88 86.97 84.79 81.96 89.69 89.92 90.21 88.33 86.51 89.06 89.38 94.11 91.66 89.85 90.64 91.90 89.61 91.88 93.37 91.36 90.17 90.98 93.99 93.93 94.35 94.30 94.19 94.39 91.28 91.74 89.53 89.40 87.99 90.71 88.95 89.28 88.55 90.80 93.59 93.26 93.28 93.63 93.59 93.17 89.53 93.10 92.21 92.26 88.90 91.35 87.43 88.38 88.01 86.21 86.58 85.33 87.88 88.01 88.11 88.12 88.10 86.67 84.74 84.62 86.50 87.22 86.63 85.57 83.87 84.31 83.92 87.32 85.66 84.91 84.28 84.27 83.70 86.42 85.81 84.81 82.30 83.91 82.50 84.35 83.34 83.72 85.97 83.47 82.98 82.93 81.24 80.95 79.46 81.16 80.69 80.27 81.39 81.48 77.63 80.56 80.64 80.73 78.85 80.35 90.21 89.72 88.43 87.14 88.46 83.66 83.06 83.59 82.87 80.72 90.64 91.91 85.02 79.54 80.66 84.94 82.59 77.40 74.89 75.80 78.10 77.97 76.65 75.68 78.10 79.21 81.05 80.93 78.84 78.40 79.21 77.20 77.06 76.25 89.57 89.15 85.21 76.70 90.70 88.50 88.24 79.33 78.08 75.73 81.30 77.75 76.53 75.32 73.60 73.24 70.95 69.73 74.53 71.21 71.45 72.80 72.75 71.64 73.96 75.25 70.36 80.40 81.07 80.57 77.69 82.05 89.08 87.96 80.88 79.67 77.55 74.40 76.68 76.05 79.03 79.26 83.02 79.25 70.18 65.93 66.38 67.56 64.69 64.69 64.74 64.63 63.63 60.75 60.83 61.37 65.11 63.65 59.86 58.31 60.26 59.51 58.78 58.74 56.34 58.04 56.73 59.20 57.92 56.61 57.26 56.80 57.89 56.53 53.87 55.93 55.36 54.73 56.39 54.12 53.89 52.83 53.57 54.73 52.06 54.83 54.57 53.86 52.96 51.05 51.39 50.10 51.07 51.35 51.19 52.92 51.28 50.64 50.94 51.71 51.30 51.26 50.18 49.93 49.81 50.87 52.40 81.69 81.81 82.99 80.60 84.10 82.36 58.64 53.18 52.28 51.74 51.83 52.45 53.60 52.73 52.79 51.02 50.98 53.39 54.83 56.78 52.75 57.50 56.54 62.48 55.60 52.28 60.67 61.46 63.65 61.48 70.50 74.99 67.99 70.38 77.30 67.35 63.05 61.42 60.31 61.18 63.20 62.04 61.35 69.35 69.97 66.56 70.13 66.10 63.64 80.54 84.77 77.75 84.95 69.40 86.74 85.76 82.66 78.77 83.61 83.05 83.73 83.70 81.34 66.17 62.42 62.69 72.62 75.40 79.39 81.12 78.67 81.29 84.72 83.32 83.86 85.51 85.44 68.24 82.17 64.08 63.35 63.07 62.91 64.30 62.77 63.62 64.36 63.42 85.19 83.70 85.09 88.27 84.75 69.52 82.67 85.04 86.49 80.36 63.28 70.26 72.16 84.20 83.17 82.01 80.41 76.60 62.34 83.99 85.08 80.04 82.39 75.89 72.89 61.80 76.21 84.72 86.38 80.39 82.81 81.62 79.04 84.16 77.17 76.91 86.33 84.21 77.89 72.37 79.81 81.32 84.45 74.65 71.56 60.39 59.15 62.09 58.41 61.91 80.70 72.16 80.33 80.98 86.30 86.03 82.23 75.97 61.48 81.83 67.38 83.92 86.04 76.35 61.51 84.55 83.86"
+                },
+
+                {
+                        "id": "d60c8db0-61c5-11ed-b1b5-6c400895e6a0",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 700000,
+                        "end": 800000,
+                        "content": "81.41 78.18 82.98 79.79 82.20 81.08 79.03 77.03 86.94 87.90 79.98 86.16 78.14 76.26 78.18 75.42 75.76 73.25 69.90 85.43 85.45 86.33 85.61 83.66 75.32 84.34 84.22 84.23 74.96 77.79 72.55 67.38 68.07 73.20 69.02 67.14 63.56 74.22 88.02 89.39 89.17 84.12 84.02 84.05 86.58 83.45 81.71 76.23 88.02 84.20 83.51 82.39 81.70 87.91 83.73 84.06 81.96 80.85 80.02 82.72 78.50 78.71 73.46 85.07 85.54 87.22 84.83 74.60 70.14 83.05 79.82 81.36 76.93 77.57 82.07 86.00 78.17 78.44 79.61 77.79 65.50 66.27 64.17 84.11 89.81 82.96 79.44 76.55 71.09 65.14 80.36 77.43 66.75 63.45 58.41 58.90 56.86 81.84 82.41 86.15 89.62 78.18 91.36 87.08 90.75 90.76 88.00 76.39 79.46 78.90 79.86 76.43 73.00 81.91 79.04 82.34 85.26 79.67 74.60 78.13 73.65 73.63 71.00 68.84 68.61 64.32 62.22 67.06 79.77 85.80 85.40 85.88 85.78 88.39 80.85 75.48 74.57 81.68 81.67 83.53 86.57 86.72 79.49 68.29 60.19 60.45 72.82 64.87 77.93 75.27 78.16 84.36 84.02 86.62 87.02 78.37 86.20 88.31 90.28 90.73 88.62 81.65 86.83 87.51 72.31 87.33 84.05 86.52 74.78 78.91 75.80 78.19 83.20 76.14 75.91 71.57 73.82 73.24 70.12 74.04 65.47 64.14 56.99 58.71 56.71 75.98 71.17 79.45 83.13 80.36 84.76 80.23 89.65 83.35 84.86 87.21 89.53 88.80 83.26 82.67 81.80 83.80 81.86 79.50 81.14 83.71 77.58 76.61 75.26 78.76 82.40 81.03 79.02 78.76 80.57 78.36 83.30 80.69 79.19 78.72 77.53 77.13 76.26 78.76 78.59 78.17 77.59 77.80 87.51 90.09 90.07 91.37 89.97 90.56 89.78 92.32 89.57 87.61 87.46 91.11 88.45 85.88 82.34 91.60 90.06 85.01 83.44 82.02 92.34 92.24 79.12 85.09 85.11 83.36 91.40 92.33 90.86 88.70 85.10 81.79 87.56 90.91 89.52 88.17 85.31 89.64 89.03 87.34 85.09 86.38 90.14 86.47 83.33 86.92 86.38 86.27 85.67 81.03 87.29 87.90 86.02 83.13 81.29 81.13 91.33 91.59 90.88 84.46 91.01 92.54 90.09 87.63 86.90 90.97 89.32 85.36 89.08 92.37 89.04 88.88 91.08 90.69 88.55 87.10 89.39 88.84 87.53 88.92 87.38 87.27 84.20 84.79 81.31 88.81 87.66 85.81 88.68 87.49 87.92 83.37 84.70 82.06 82.02 82.89 80.16 84.69 88.20 92.59 90.62 88.03 89.56 90.66 90.66 86.75 86.21 87.58 87.07 86.90 87.87 87.83 87.56 87.99 87.67 86.75 89.42 87.45 86.60 90.36 94.37 93.40 94.02 88.73 90.09 87.93 87.98 87.80 91.35 89.55 92.75 93.47 91.67 88.62 87.89 87.40 86.85 90.55 89.07 90.73 92.76 90.60 90.86 91.07 91.23 90.18 90.41 91.20 92.27 92.15 91.50 93.17 92.20 92.49 92.15 91.13 91.43 93.71 92.94 94.33 94.11 93.92 93.46 87.78 92.84 91.69 88.69 87.34 90.00 90.76 89.82 82.26 84.76 84.23 84.71 86.93 86.84 91.46 92.80 91.89 91.39 83.66 92.54 91.36 84.10 91.45 91.99 92.03 91.34 89.57 92.47 88.33 91.06 90.79 85.46 90.01 89.63 89.20 85.50 85.07 92.50 86.35 86.89 91.88 89.40 87.56 86.73 85.89 84.10 83.92 86.78 88.77 91.81 93.03 91.53 85.52 88.34 85.72 84.70 83.67 92.38 92.69 88.04 85.28 85.38 90.72 92.16 91.41 89.07 84.08 88.64 89.25 84.91 83.78 82.81 85.43 85.56 87.07 91.63 91.79 91.79 91.81 87.34 89.06 90.65 89.56 89.64 88.54 88.10 91.46 91.06 86.22 89.84 90.39 85.79 85.31 91.48 84.37 86.54 84.15 83.70 82.69 84.60 83.90 85.23 82.88 83.46 85.53 83.91 83.85 82.70 83.54 84.42 85.87 83.68 83.38 85.39 84.37 83.33 84.89 82.74 84.21 85.04 84.06 84.70 83.38 85.05 86.59 91.48 82.75 91.58 85.67 87.95 82.77 89.78 89.69 85.50 90.52 90.75 86.54 84.02 86.40 88.36 85.53 81.93 83.25 82.87 84.22 86.01 89.13 85.99 86.64 92.64 84.86 86.13 84.36 87.32 91.88 87.52 84.72 87.45 88.30 86.56 83.90 84.60 87.11 86.41 85.98 87.00 86.53 85.98 85.51 86.24 87.09 87.08 86.78 91.61 90.09 86.44 88.64 87.77 88.13 86.27 87.98 87.63 89.63 88.46 90.27 89.86 89.79 91.47 90.88 89.16 87.64 86.58 88.37 90.26 89.64 89.21 88.77 89.89 88.31 87.63 86.14 88.06 90.12 87.24 89.15 88.26 88.25 86.94 91.22 89.88 86.97 84.79 81.96 89.69 89.92 90.21 88.33 86.51 89.06 89.38 94.11 91.66 89.85 90.64 91.90 89.61 91.88 93.37 91.36 90.17 90.98 93.99 93.93 94.35 94.30 94.19 94.39 91.28 91.74 89.53 89.40 87.99 90.71 88.95 89.28 88.55 90.80 93.59 93.26 93.28 93.63 93.59 93.17 89.53 93.10 92.21 92.26 88.90 91.35 87.43 88.38 88.01 86.21 86.58 85.33 87.88 88.01 88.11 88.12 88.10 86.67 84.74 84.62 86.50 87.22 86.63 85.57 83.87 84.31 83.92 87.32 85.66 84.91 84.28 84.27 83.70 86.42 85.81 84.81 82.30 83.91 82.50 84.35 83.34 83.72 85.97 83.47 82.98 82.93 81.24 80.95 79.46 81.16 80.69 80.27 81.39 81.48 77.63 80.56 80.64 80.73 78.85 80.35 90.21 89.72 88.43 87.14 88.46 83.66 83.06 83.59 82.87 80.72 90.64 91.91 85.02 79.54 80.66 84.94 82.59 77.40 74.89 75.80 78.10 77.97 76.65 75.68 78.10 79.21 81.05 80.93 78.84 78.40 79.21 77.20 77.06 76.25 89.57 89.15 85.21 76.70 90.70 88.50 88.24 79.33 78.08 75.73 81.30 77.75 76.53 75.32 73.60 73.24 70.95 69.73 74.53 71.21 71.45 72.80 72.75 71.64 73.96 75.25 70.36 80.40 81.07 80.57 77.69 82.05 89.08 87.96 80.88 79.67 77.55 74.40 76.68 76.05 79.03 79.26 83.02 79.25 70.18 65.93 66.38 67.56 64.69 64.69 64.74 64.63 63.63 60.75 60.83 61.37 65.11 63.65 59.86 58.31 60.26 59.51 58.78 58.74 56.34 58.04 56.73 59.20 57.92 56.61 57.26 56.80 57.89 56.53 53.87 55.93 55.36 54.73 56.39 54.12 53.89 52.83 53.57 54.73 52.06 54.83 54.57 53.86 52.96 51.05 51.39 50.10 51.07 51.35 51.19 52.92 51.28 50.64 50.94 51.71 51.30 51.26 50.18 49.93 49.81 50.87 52.40 81.69 81.81 82.99 80.60 84.10 82.36 58.64 53.18 52.28 51.74 51.83 52.45 53.60 52.73 52.79 51.02 50.98 53.39 54.83 56.78 52.75 57.50 56.54 62.48 55.60 52.28 60.67 61.46 63.65 61.48 70.50 74.99 67.99 70.38 77.30 67.35 63.05 61.42 60.31 61.18 63.20 62.04 61.35 69.35 69.97 66.56 70.13 66.10 63.64 80.54 84.77 77.75 84.95 69.40 86.74 85.76 82.66 78.77 83.61 83.05 83.73 83.70 81.34 66.17 62.42 62.69 72.62 75.40 79.39 81.12 78.67 81.29 84.72 83.32 83.86 85.51 85.44 68.24 82.17 64.08 63.35 63.07 62.91 64.30 62.77 63.62 64.36 63.42 85.19 83.70 85.09 88.27 84.75 69.52 82.67 85.04 86.49 80.36 63.28 70.26 72.16 84.20 83.17 82.01 80.41 76.60 62.34 83.99 85.08 80.04 82.39 75.89 72.89 61.80 76.21 84.72 86.38 80.39 82.81 81.62 79.04 84.16 77.17 76.91 86.33 84.21 77.89 72.37 79.81 81.32 84.45 74.65 71.56 60.39 59.15 62.09 58.41 61.91 80.70 72.16 80.33 80.98 86.30 86.03 82.23 75.97 61.48 81.83 67.38 83.92 86.04 76.35 61.51 84.55 83.86"
+                },
+
+                {
+                        "id": "74d355ba-5aa4-11ed-8f78-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 710552,
+                        "content": "223"
+                },
+
+                {
+                        "id": "81f879be-5aa4-11ed-8f78-7242363b2846",
+                        "type": "Scene",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 754400,
+                        "content": "Scene_02"
+                },
+
+                {
+                        "id": "ed4fb7a8-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 710552,
+                        "content": "medium closeup,[TO],medium shot"
+                },
+
+                {
+                        "id": "34c2c564-6102-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 725200,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "634b93d4-6102-11ed-8348-a08cfdc6ff91",
+                        "type": "ColourRange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 722360,
+                        "content": "darkgreen,darkblue,white"
+                },
+
+                {
+                        "id": "d11d1944-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 710552,
+                        "content": "0"
+                },
+
+                {
+                        "id": "a8c9e1de-6109-11ed-8348-a08cfdc6ff91",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 710552,
+                        "content": "still"
+                },
+
+                {
+                        "id": "11b3b450-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 710552,
+                        "content": "zoom,pan"
+                },
+
+                {
+                        "id": "4a29032e-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 710552,
+                        "content": "fast"
+                },
+
+                {
+                        "id": "52a7d1fe-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 710552,
+                        "content": "left,back"
+                },
+
+                {
+                        "id": "2a0e176c-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 710552,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c1498d62-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 710552,
+                        "content": "223"
+                },
+
+                {
+                        "id": "c5d4303a-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 710552,
+                        "content": "223"
+                },
+
+                {
+                        "id": "c97f097a-61c4-11ed-b1b5-6c400895e6a0",
+                        "type": "MontageFigureMacro",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 754400,
+                        "content": "framing"
+                },
+
+                {
+                        "id": "2a976a5e-61c5-11ed-b1b5-6c400895e6a0",
+                        "type": "FoundFootage",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 710552,
+                        "content": "archive photography"
+                },
+
+                {
+                        "id": "7841ddba-61c6-11ed-b1b5-6c400895e6a0",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 754400,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "df33efa4-61c6-11ed-b1b5-6c400895e6a0",
+                        "type": "MusicMood",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 754400,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "8ef5489c-61c8-11ed-b1b5-6c400895e6a0",
+                        "type": "MusicIntensity",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 754400,
+                        "content": "1,[TO],3"
+                },
+
+                {
+                        "id": "27bc3400-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 704888,
+                        "end": 710552,
+                        "content": "group,human being"
+                },
+
+                {
+                        "id": "95b3d5f4-60e2-11ed-a288-a08cfdc6ff91",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 710552,
+                        "end": 718160,
+                        "content": "224"
+                },
+
+                {
+                        "id": "ed4fb7a9-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 710552,
+                        "end": 718160,
+                        "content": "extreme long shot"
+                },
+
+                {
+                        "id": "d11d1945-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 710552,
+                        "end": 718160,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9e986d87-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 710552,
+                        "end": 718160,
+                        "content": "right"
+                },
+
+                {
+                        "id": "bca489b6-6109-11ed-8348-a08cfdc6ff91",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 710552,
+                        "end": 723840,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "11b3b451-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 710552,
+                        "end": 718160,
+                        "content": "zoom"
+                },
+
+                {
+                        "id": "4a29032f-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 710552,
+                        "end": 718160,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "52a7d1ff-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 710552,
+                        "end": 718160,
+                        "content": "forward"
+                },
+
+                {
+                        "id": "2a0e63e8-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 710552,
+                        "end": 718160,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c149a072-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 710552,
+                        "end": 718160,
+                        "content": "224"
+                },
+
+                {
+                        "id": "c5d44246-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 710552,
+                        "end": 718160,
+                        "content": "224"
+                },
+
+                {
+                        "id": "27bc638a-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 710552,
+                        "end": 718160,
+                        "content": "graphics"
+                },
+
+                {
+                        "id": "b24c7fae-61c8-11ed-b1b5-6c400895e6a0",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 712342,
+                        "end": 714192,
+                        "content": "whirring"
+                },
+
+                {
+                        "id": "710efe18-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 718160,
+                        "end": 719840,
+                        "content": "225"
+                },
+
+                {
+                        "id": "ed4fb7aa-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 718160,
+                        "end": 719840,
+                        "content": "extreme long shot"
+                },
+
+                {
+                        "id": "d11d1946-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 718160,
+                        "end": 719840,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9e986d88-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 718160,
+                        "end": 719840,
+                        "content": "left"
+                },
+
+                {
+                        "id": "11b3b452-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 718160,
+                        "end": 719840,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "4a290330-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 718160,
+                        "end": 719840,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "52a7d200-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 718160,
+                        "end": 719840,
+                        "content": "forward"
+                },
+
+                {
+                        "id": "2a0e81f2-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 718160,
+                        "end": 719840,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c149ab6c-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 718160,
+                        "end": 719840,
+                        "content": "225"
+                },
+
+                {
+                        "id": "c5d44e9e-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 718160,
+                        "end": 719840,
+                        "content": "225"
+                },
+
+                {
+                        "id": "27bc811c-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 718160,
+                        "end": 719840,
+                        "content": "location"
+                },
+
+                {
+                        "id": "710f02dc-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 719840,
+                        "end": 722360,
+                        "content": "226"
+                },
+
+                {
+                        "id": "ed4fb7ab-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 719840,
+                        "end": 722360,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "d11d1947-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 719840,
+                        "end": 722360,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9e986d89-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 719840,
+                        "end": 722360,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "11b3b453-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 719840,
+                        "end": 722360,
+                        "content": "shaking"
+                },
+
+                {
+                        "id": "4a290331-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 719840,
+                        "end": 722360,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "52a7d201-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 719840,
+                        "end": 722360,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "2a0e9818-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 719840,
+                        "end": 722360,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c149b634-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 719840,
+                        "end": 722360,
+                        "content": "226"
+                },
+
+                {
+                        "id": "c5d45a2e-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 719840,
+                        "end": 722360,
+                        "content": "226"
+                },
+
+                {
+                        "id": "27bc9ae4-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 719840,
+                        "end": 722360,
+                        "content": "single,human being"
+                },
+
+                {
+                        "id": "710f0782-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 722360,
+                        "end": 723138,
+                        "content": "227"
+                },
+
+                {
+                        "id": "ed4fb7ac-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 722360,
+                        "end": 723138,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "042c3f9c-6103-11ed-8348-a08cfdc6ff91",
+                        "type": "ColourRange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 722360,
+                        "end": 725200,
+                        "content": "grey"
+                },
+
+                {
+                        "id": "d11d1948-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 722360,
+                        "end": 723138,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9e986d8a-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 722360,
+                        "end": 723138,
+                        "content": "right"
+                },
+
+                {
+                        "id": "11b3b454-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 722360,
+                        "end": 723138,
+                        "content": "pan"
+                },
+
+                {
+                        "id": "4a290332-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 722360,
+                        "end": 723138,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "52a7d202-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 722360,
+                        "end": 723138,
+                        "content": "right"
+                },
+
+                {
+                        "id": "2a0eace0-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 722360,
+                        "end": 723138,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c149c336-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 722360,
+                        "end": 723138,
+                        "content": "227"
+                },
+
+                {
+                        "id": "c5d46b5e-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 722360,
+                        "end": 723138,
+                        "content": "227"
+                },
+
+                {
+                        "id": "59264728-61c5-11ed-b1b5-6c400895e6a0",
+                        "type": "FoundFootage",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 722360,
+                        "end": 726600,
+                        "content": "historical"
+                },
+
+                {
+                        "id": "ec744e92-61c7-11ed-b1b5-6c400895e6a0",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 722360,
+                        "end": 725200,
+                        "content": "whirring"
+                },
+
+                {
+                        "id": "27bcb2b8-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 722360,
+                        "end": 723138,
+                        "content": "object"
+                },
+
+                {
+                        "id": "e63a97a6-60e2-11ed-a288-a08cfdc6ff91",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723138,
+                        "end": 723840,
+                        "content": "228"
+                },
+
+                {
+                        "id": "ed4fb7ad-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723138,
+                        "end": 723840,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "d11d1949-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723138,
+                        "end": 723840,
+                        "content": "2"
+                },
+
+                {
+                        "id": "9e986d8b-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723138,
+                        "end": 723840,
+                        "content": "right"
+                },
+
+                {
+                        "id": "11b3b455-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723138,
+                        "end": 723840,
+                        "content": "static"
+                },
+
+                {
+                        "id": "2a0ec202-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723138,
+                        "end": 723840,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c149cdc2-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723138,
+                        "end": 723840,
+                        "content": "228"
+                },
+
+                {
+                        "id": "c5d47798-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723138,
+                        "end": 723840,
+                        "content": "228"
+                },
+
+                {
+                        "id": "27bcd630-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723138,
+                        "end": 723840,
+                        "content": "object"
+                },
+
+                {
+                        "id": "710f0c3c-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723840,
+                        "end": 724606,
+                        "content": "229"
+                },
+
+                {
+                        "id": "ed4fb7ae-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723840,
+                        "end": 724606,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "d11d194a-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723840,
+                        "end": 724606,
+                        "content": "3"
+                },
+
+                {
+                        "id": "9e986d8c-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723840,
+                        "end": 724606,
+                        "content": "towards"
+                },
+
+                {
+                        "id": "ec855f44-6112-11ed-8348-a08cfdc6ff91",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723840,
+                        "end": 750133,
+                        "content": "timelapse"
+                },
+
+                {
+                        "id": "11b3b456-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723840,
+                        "end": 724606,
+                        "content": "tilt"
+                },
+
+                {
+                        "id": "4a290334-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723840,
+                        "end": 724606,
+                        "content": "fast"
+                },
+
+                {
+                        "id": "52a7d204-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723840,
+                        "end": 724606,
+                        "content": "down"
+                },
+
+                {
+                        "id": "2a0ed652-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723840,
+                        "end": 724606,
+                        "content": "high-angle,[TO],extreme high-angle"
+                },
+
+                {
+                        "id": "c149d830-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723840,
+                        "end": 724606,
+                        "content": "229"
+                },
+
+                {
+                        "id": "c5d48332-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723840,
+                        "end": 724606,
+                        "content": "229"
+                },
+
+                {
+                        "id": "27bcea80-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 723840,
+                        "end": 724606,
+                        "content": "object"
+                },
+
+                {
+                        "id": "07c378de-60e3-11ed-a288-a08cfdc6ff91",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 724606,
+                        "end": 725200,
+                        "content": "230"
+                },
+
+                {
+                        "id": "ed4fb7af-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 724606,
+                        "end": 725200,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "d11d194b-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 724606,
+                        "end": 725200,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9e986d8d-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 724606,
+                        "end": 725200,
+                        "content": "up"
+                },
+
+                {
+                        "id": "11b3b457-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 724606,
+                        "end": 725200,
+                        "content": "static"
+                },
+
+                {
+                        "id": "2a0eea98-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 724606,
+                        "end": 725200,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c149e28a-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 724606,
+                        "end": 725200,
+                        "content": "230"
+                },
+
+                {
+                        "id": "c5d48eea-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 724606,
+                        "end": 725200,
+                        "content": "230"
+                },
+
+                {
+                        "id": "27bcfe94-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 724606,
+                        "end": 725200,
+                        "content": "group,human being,object"
+                },
+
+                {
+                        "id": "710f110a-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725200,
+                        "end": 725640,
+                        "content": "231"
+                },
+
+                {
+                        "id": "7f408738-6103-11ed-8348-a08cfdc6ff91",
+                        "type": "ColourRange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725200,
+                        "end": 740629,
+                        "content": "darkblue,yellow,black,white"
+                },
+
+                {
+                        "id": "3fb6c778-610b-11ed-8348-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725200,
+                        "end": 725640,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "50168f7c-610b-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725200,
+                        "end": 725640,
+                        "content": "2"
+                },
+
+                {
+                        "id": "7307f82c-610b-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725200,
+                        "end": 725640,
+                        "content": "left"
+                },
+
+                {
+                        "id": "11b3b458-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725200,
+                        "end": 725640,
+                        "content": "static"
+                },
+
+                {
+                        "id": "2a0eff7e-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725200,
+                        "end": 725640,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c149ee74-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725200,
+                        "end": 725640,
+                        "content": "231"
+                },
+
+                {
+                        "id": "c5d49b42-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725200,
+                        "end": 725640,
+                        "content": "231"
+                },
+
+                {
+                        "id": "36f37f74-61c8-11ed-b1b5-6c400895e6a0",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725200,
+                        "end": 727840,
+                        "content": "swell"
+                },
+
+                {
+                        "id": "27bd12c6-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725200,
+                        "end": 725640,
+                        "content": "location,object"
+                },
+
+                {
+                        "id": "4cae4d86-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725200,
+                        "end": 725640,
+                        "content": "dark"
+                },
+
+                {
+                        "id": "ed4fb7b2-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725680,
+                        "end": 726600,
+                        "content": "long shot,medium long shot"
+                },
+
+                {
+                        "id": "d11d194e-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725680,
+                        "end": 726600,
+                        "content": "2"
+                },
+
+                {
+                        "id": "9e986d90-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725680,
+                        "end": 726600,
+                        "content": "away,up,right"
+                },
+
+                {
+                        "id": "710f1a10-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725680,
+                        "end": 726600,
+                        "content": "232"
+                },
+
+                {
+                        "id": "11b3b459-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725680,
+                        "end": 726600,
+                        "content": "zoom,pan"
+                },
+
+                {
+                        "id": "4a290337-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725680,
+                        "end": 726600,
+                        "content": "fast"
+                },
+
+                {
+                        "id": "52a7d207-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725680,
+                        "end": 726600,
+                        "content": "forward,right"
+                },
+
+                {
+                        "id": "2a0f256c-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725680,
+                        "end": 726600,
+                        "content": "straight-angle,[TO],low-angle"
+                },
+
+                {
+                        "id": "c149f9b4-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725680,
+                        "end": 726600,
+                        "content": "232"
+                },
+
+                {
+                        "id": "c5d4a650-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725680,
+                        "end": 726600,
+                        "content": "232"
+                },
+
+                {
+                        "id": "27bd270c-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725680,
+                        "end": 726600,
+                        "content": "object"
+                },
+
+                {
+                        "id": "8dd2b86a-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 725680,
+                        "end": 726600,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "710f1eb6-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 726600,
+                        "end": 727040,
+                        "content": "233"
+                },
+
+                {
+                        "id": "ed4fb7b3-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 726600,
+                        "end": 727040,
+                        "content": "extreme long shot"
+                },
+
+                {
+                        "id": "d11d194f-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 726600,
+                        "end": 727040,
+                        "content": "2"
+                },
+
+                {
+                        "id": "9e986d91-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 726600,
+                        "end": 727040,
+                        "content": "up,[VS],down"
+                },
+
+                {
+                        "id": "11b3b45a-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 726600,
+                        "end": 727040,
+                        "content": "static"
+                },
+
+                {
+                        "id": "2a0f393a-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 726600,
+                        "end": 727040,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c14a0aee-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 726600,
+                        "end": 727040,
+                        "content": "233"
+                },
+
+                {
+                        "id": "c5d4b726-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 726600,
+                        "end": 727040,
+                        "content": "233"
+                },
+
+                {
+                        "id": "850467bc-61c5-11ed-b1b5-6c400895e6a0",
+                        "type": "FoundFootage",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 726600,
+                        "end": 750133,
+                        "content": "stock footage"
+                },
+
+                {
+                        "id": "27bd3b48-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 726600,
+                        "end": 727040,
+                        "content": "mass,object"
+                },
+
+                {
+                        "id": "4fabf1f0-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 726600,
+                        "end": 727040,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "710f237a-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727040,
+                        "end": 727480,
+                        "content": "234"
+                },
+
+                {
+                        "id": "ed4fb7b4-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727040,
+                        "end": 727480,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "d11d1950-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727040,
+                        "end": 727480,
+                        "content": "3"
+                },
+
+                {
+                        "id": "9e986d92-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727040,
+                        "end": 727480,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "11b3b45b-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727040,
+                        "end": 727480,
+                        "content": "zoom"
+                },
+
+                {
+                        "id": "4a290339-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727040,
+                        "end": 727480,
+                        "content": "fast"
+                },
+
+                {
+                        "id": "52a7d209-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727040,
+                        "end": 727480,
+                        "content": "back"
+                },
+
+                {
+                        "id": "2a0f4cf4-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727040,
+                        "end": 727480,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c14a189a-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727040,
+                        "end": 727480,
+                        "content": "234"
+                },
+
+                {
+                        "id": "c5d4c1c6-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727040,
+                        "end": 727480,
+                        "content": "234"
+                },
+
+                {
+                        "id": "27bd4f48-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727040,
+                        "end": 727480,
+                        "content": "location"
+                },
+
+                {
+                        "id": "90480ed8-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727040,
+                        "end": 727480,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "710f2802-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727480,
+                        "end": 727840,
+                        "content": "235"
+                },
+
+                {
+                        "id": "ed4fb7b5-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727480,
+                        "end": 727840,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "d11d1951-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727480,
+                        "end": 727840,
+                        "content": "3"
+                },
+
+                {
+                        "id": "9e986d93-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727480,
+                        "end": 727840,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "11b3b45c-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727480,
+                        "end": 727840,
+                        "content": "pan"
+                },
+
+                {
+                        "id": "4a29033a-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727480,
+                        "end": 727840,
+                        "content": "fast"
+                },
+
+                {
+                        "id": "52a7d20a-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727480,
+                        "end": 727840,
+                        "content": "right"
+                },
+
+                {
+                        "id": "2a0f61c6-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727480,
+                        "end": 727840,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c14a2448-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727480,
+                        "end": 727840,
+                        "content": "235"
+                },
+
+                {
+                        "id": "c5d4cc34-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727480,
+                        "end": 727840,
+                        "content": "235"
+                },
+
+                {
+                        "id": "27bd6370-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727480,
+                        "end": 727840,
+                        "content": "location"
+                },
+
+                {
+                        "id": "5157f562-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727480,
+                        "end": 727840,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "710f2cbc-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727840,
+                        "end": 728400,
+                        "content": "236"
+                },
+
+                {
+                        "id": "ed4fb7b6-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727840,
+                        "end": 728400,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "d11d1952-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727840,
+                        "end": 728400,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9e986d94-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727840,
+                        "end": 728400,
+                        "content": "towards,down"
+                },
+
+                {
+                        "id": "11b3b45d-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727840,
+                        "end": 728400,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "4a29033b-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727840,
+                        "end": 728400,
+                        "content": "fast"
+                },
+
+                {
+                        "id": "52a7d20b-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727840,
+                        "end": 728400,
+                        "content": "forward"
+                },
+
+                {
+                        "id": "2a0f75da-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727840,
+                        "end": 728400,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c14a301e-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727840,
+                        "end": 728400,
+                        "content": "236"
+                },
+
+                {
+                        "id": "c5d4d72e-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727840,
+                        "end": 728400,
+                        "content": "236"
+                },
+
+                {
+                        "id": "27bd7784-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727840,
+                        "end": 728400,
+                        "content": "object"
+                },
+
+                {
+                        "id": "685afa2a-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 727840,
+                        "end": 728400,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "710f314e-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728400,
+                        "end": 728880,
+                        "content": "237"
+                },
+
+                {
+                        "id": "ed4fb7b7-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728400,
+                        "end": 728880,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "d11d1953-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728400,
+                        "end": 728880,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9e986d95-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728400,
+                        "end": 728880,
+                        "content": "right,[VS],left"
+                },
+
+                {
+                        "id": "11b3b45e-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728400,
+                        "end": 728880,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "4a29033c-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728400,
+                        "end": 728880,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "52a7d20c-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728400,
+                        "end": 728880,
+                        "content": "right"
+                },
+
+                {
+                        "id": "2a0f89da-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728400,
+                        "end": 728880,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c14a3b86-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728400,
+                        "end": 728880,
+                        "content": "237"
+                },
+
+                {
+                        "id": "c5d4e1a6-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728400,
+                        "end": 728880,
+                        "content": "237"
+                },
+
+                {
+                        "id": "27bd8ba2-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728400,
+                        "end": 728880,
+                        "content": "mass,non-human being,group,object"
+                },
+
+                {
+                        "id": "9266fb2a-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728400,
+                        "end": 728880,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "710f3702-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728880,
+                        "end": 729406,
+                        "content": "238"
+                },
+
+                {
+                        "id": "ed4fb7b8-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728880,
+                        "end": 729406,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "d11d1954-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728880,
+                        "end": 729406,
+                        "content": "3"
+                },
+
+                {
+                        "id": "9e986d96-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728880,
+                        "end": 729406,
+                        "content": "up"
+                },
+
+                {
+                        "id": "11b3b45f-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728880,
+                        "end": 729406,
+                        "content": "static"
+                },
+
+                {
+                        "id": "2a0f9e5c-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728880,
+                        "end": 729406,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "c14a4aea-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728880,
+                        "end": 729406,
+                        "content": "238"
+                },
+
+                {
+                        "id": "c5d4ec00-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728880,
+                        "end": 729406,
+                        "content": "238"
+                },
+
+                {
+                        "id": "27bd9fac-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728880,
+                        "end": 729406,
+                        "content": "object"
+                },
+
+                {
+                        "id": "5499653a-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 728880,
+                        "end": 729406,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "22174eae-60e3-11ed-a288-a08cfdc6ff91",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729406,
+                        "end": 729800,
+                        "content": "239"
+                },
+
+                {
+                        "id": "ed4fb7b9-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729406,
+                        "end": 729800,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "d11d1955-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729406,
+                        "end": 729800,
+                        "content": "0"
+                },
+
+                {
+                        "id": "11b3b460-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729406,
+                        "end": 729800,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "4a29033e-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729406,
+                        "end": 729800,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "52a7d20e-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729406,
+                        "end": 729800,
+                        "content": "back"
+                },
+
+                {
+                        "id": "2a0fb54a-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729406,
+                        "end": 729800,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c14a558a-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729406,
+                        "end": 729800,
+                        "content": "239"
+                },
+
+                {
+                        "id": "c5d4f68c-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729406,
+                        "end": 729800,
+                        "content": "239"
+                },
+
+                {
+                        "id": "27bdb438-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729406,
+                        "end": 729800,
+                        "content": "object"
+                },
+
+                {
+                        "id": "5538726a-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729406,
+                        "end": 729800,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "710f3bb2-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729800,
+                        "end": 730240,
+                        "content": "240"
+                },
+
+                {
+                        "id": "ed4fb7ba-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729800,
+                        "end": 730240,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "d11d1956-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729800,
+                        "end": 730240,
+                        "content": "0"
+                },
+
+                {
+                        "id": "11b3b461-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729800,
+                        "end": 730240,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "4a29033f-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729800,
+                        "end": 730240,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "52a7d20f-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729800,
+                        "end": 730240,
+                        "content": "right"
+                },
+
+                {
+                        "id": "2a0fce36-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729800,
+                        "end": 730240,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c14a5ff8-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729800,
+                        "end": 730240,
+                        "content": "240"
+                },
+
+                {
+                        "id": "c5d50104-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729800,
+                        "end": 730240,
+                        "content": "240"
+                },
+
+                {
+                        "id": "27bdc892-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729800,
+                        "end": 730240,
+                        "content": "location"
+                },
+
+                {
+                        "id": "953901cc-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 729800,
+                        "end": 730240,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "710f404e-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730240,
+                        "end": 730600,
+                        "content": "241"
+                },
+
+                {
+                        "id": "ed4fb7bb-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730240,
+                        "end": 730600,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "d11d1957-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730240,
+                        "end": 730600,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9e986d99-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730240,
+                        "end": 730600,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "11b3b462-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730240,
+                        "end": 730600,
+                        "content": "pan"
+                },
+
+                {
+                        "id": "4625b9d8-6116-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730240,
+                        "end": 730600,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "52a7d210-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730240,
+                        "end": 730600,
+                        "content": "right"
+                },
+
+                {
+                        "id": "2a0fe4f2-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730240,
+                        "end": 730600,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c14a6a5c-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730240,
+                        "end": 730600,
+                        "content": "241"
+                },
+
+                {
+                        "id": "c5d50b54-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730240,
+                        "end": 730600,
+                        "content": "241"
+                },
+
+                {
+                        "id": "27bddd28-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730240,
+                        "end": 730600,
+                        "content": "location"
+                },
+
+                {
+                        "id": "843aceb4-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730240,
+                        "end": 730600,
+                        "content": "dark"
+                },
+
+                {
+                        "id": "710f44f4-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730600,
+                        "end": 731200,
+                        "content": "242"
+                },
+
+                {
+                        "id": "ed4fb7bc-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730600,
+                        "end": 731200,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "d11d1958-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730600,
+                        "end": 731200,
+                        "content": "3"
+                },
+
+                {
+                        "id": "9e986d9a-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730600,
+                        "end": 731200,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "11b3b463-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730600,
+                        "end": 731200,
+                        "content": "static"
+                },
+
+                {
+                        "id": "2a0ff924-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730600,
+                        "end": 731200,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c14a74ac-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730600,
+                        "end": 731200,
+                        "content": "242"
+                },
+
+                {
+                        "id": "c5d516d0-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730600,
+                        "end": 731200,
+                        "content": "242"
+                },
+
+                {
+                        "id": "154d7c94-61c8-11ed-b1b5-6c400895e6a0",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730600,
+                        "end": 731200,
+                        "content": "whirring"
+                },
+
+                {
+                        "id": "27bdf204-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730600,
+                        "end": 731200,
+                        "content": "location,object"
+                },
+
+                {
+                        "id": "82701e54-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 730600,
+                        "end": 731200,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "710f4990-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731200,
+                        "end": 731600,
+                        "content": "243"
+                },
+
+                {
+                        "id": "ed4fb7bd-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731200,
+                        "end": 731600,
+                        "content": "extreme long shot"
+                },
+
+                {
+                        "id": "d11d1959-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731200,
+                        "end": 731600,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9e986d9b-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731200,
+                        "end": 731600,
+                        "content": "up"
+                },
+
+                {
+                        "id": "11b3b464-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731200,
+                        "end": 731600,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "4a290342-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731200,
+                        "end": 731600,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "52a7d212-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731200,
+                        "end": 731600,
+                        "content": "right"
+                },
+
+                {
+                        "id": "2a100d06-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731200,
+                        "end": 731600,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c14a7efc-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731200,
+                        "end": 731600,
+                        "content": "243"
+                },
+
+                {
+                        "id": "c5d5224c-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731200,
+                        "end": 731600,
+                        "content": "243"
+                },
+
+                {
+                        "id": "27be0910-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731200,
+                        "end": 731600,
+                        "content": "location"
+                },
+
+                {
+                        "id": "5acb08be-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731200,
+                        "end": 731600,
+                        "content": "bright"
+                },
+
+                {
+                        "id": "710f4e0e-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731600,
+                        "end": 732080,
+                        "content": "244"
+                },
+
+                {
+                        "id": "ed4fb7be-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731600,
+                        "end": 732080,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "d11d195a-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731600,
+                        "end": 732080,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9e986d9c-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731600,
+                        "end": 732080,
+                        "content": "up"
+                },
+
+                {
+                        "id": "11b3b465-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731600,
+                        "end": 732080,
+                        "content": "static"
+                },
+
+                {
+                        "id": "2a1020f2-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731600,
+                        "end": 732080,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c14a8938-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731600,
+                        "end": 732080,
+                        "content": "244"
+                },
+
+                {
+                        "id": "c5d52dd2-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731600,
+                        "end": 732080,
+                        "content": "244"
+                },
+
+                {
+                        "id": "27be1e14-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731600,
+                        "end": 732080,
+                        "content": "location"
+                },
+
+                {
+                        "id": "6beb98de-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 731600,
+                        "end": 732080,
+                        "content": "dark"
+                },
+
+                {
+                        "id": "710f52a0-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732080,
+                        "end": 732640,
+                        "content": "245"
+                },
+
+                {
+                        "id": "ed4fb7bf-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732080,
+                        "end": 732640,
+                        "content": "extreme long shot"
+                },
+
+                {
+                        "id": "d11d195b-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732080,
+                        "end": 732640,
+                        "content": "2"
+                },
+
+                {
+                        "id": "9e986d9d-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732080,
+                        "end": 732640,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "11b3b466-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732080,
+                        "end": 732640,
+                        "content": "static"
+                },
+
+                {
+                        "id": "2a103538-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732080,
+                        "end": 732640,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c14a937e-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732080,
+                        "end": 732640,
+                        "content": "245"
+                },
+
+                {
+                        "id": "c5d53a02-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732080,
+                        "end": 732640,
+                        "content": "245"
+                },
+
+                {
+                        "id": "27be328c-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732080,
+                        "end": 732640,
+                        "content": "location"
+                },
+
+                {
+                        "id": "813e819c-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732080,
+                        "end": 732640,
+                        "content": "dark"
+                },
+
+                {
+                        "id": "ed4fb7c0-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732640,
+                        "end": 740629,
+                        "content": "extreme long shot"
+                },
+
+                {
+                        "id": "d9f58e7a-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732640,
+                        "end": 740629,
+                        "content": "246"
+                },
+
+                {
+                        "id": "f79323ac-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732640,
+                        "end": 740629,
+                        "content": "3"
+                },
+
+                {
+                        "id": "9e986d9e-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732640,
+                        "end": 740629,
+                        "content": "undirected,[TO],spin"
+                },
+
+                {
+                        "id": "11b3b467-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732640,
+                        "end": 740629,
+                        "content": "zoom"
+                },
+
+                {
+                        "id": "4a290345-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732640,
+                        "end": 740629,
+                        "content": "fast"
+                },
+
+                {
+                        "id": "52a7d215-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732640,
+                        "end": 740629,
+                        "content": "back"
+                },
+
+                {
+                        "id": "2a104bcc-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732640,
+                        "end": 740629,
+                        "content": "extreme low-angle,[TO],straight-angle"
+                },
+
+                {
+                        "id": "c14a9dd8-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732640,
+                        "end": 740629,
+                        "content": "246"
+                },
+
+                {
+                        "id": "c5d5459c-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732640,
+                        "end": 740629,
+                        "content": "246"
+                },
+
+                {
+                        "id": "27be49e8-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732640,
+                        "end": 740629,
+                        "content": "graphics"
+                },
+
+                {
+                        "id": "5c7fc9e2-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 732640,
+                        "end": 740629,
+                        "content": "medium,[TO],dark"
+                },
+
+                {
+                        "id": "5005ce00-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 736762,
+                        "end": 740629,
+                        "content": "red,greenyellow"
+                },
+
+                {
+                        "id": "452f513e-60e3-11ed-a288-a08cfdc6ff91",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 740629,
+                        "end": 741160,
+                        "content": "247"
+                },
+
+                {
+                        "id": "ed4fb7c1-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 740629,
+                        "end": 741160,
+                        "content": "extreme long shot"
+                },
+
+                {
+                        "id": "ce84a680-6103-11ed-8348-a08cfdc6ff91",
+                        "type": "ColourRange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 740629,
+                        "end": 754400,
+                        "content": "white,sandybrown,darkblue"
+                },
+
+                {
+                        "id": "d11d195c-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 740629,
+                        "end": 741160,
+                        "content": "0"
+                },
+
+                {
+                        "id": "11b3b468-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 740629,
+                        "end": 741160,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "4a290346-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 740629,
+                        "end": 741160,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "52a7d216-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 740629,
+                        "end": 741160,
+                        "content": "left"
+                },
+
+                {
+                        "id": "2a105fea-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 740629,
+                        "end": 741160,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c14aa83c-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 740629,
+                        "end": 741160,
+                        "content": "247"
+                },
+
+                {
+                        "id": "c5d54fe2-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 740629,
+                        "end": 741160,
+                        "content": "247"
+                },
+
+                {
+                        "id": "27be5e06-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 740629,
+                        "end": 741160,
+                        "content": "location"
+                },
+
+                {
+                        "id": "6dc18768-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 740629,
+                        "end": 741160,
+                        "content": "bright"
+                },
+
+                {
+                        "id": "710f5c0a-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 741160,
+                        "end": 742000,
+                        "content": "248"
+                },
+
+                {
+                        "id": "ed4fb7c2-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 741160,
+                        "end": 742000,
+                        "content": "extreme long shot"
+                },
+
+                {
+                        "id": "d11d195d-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 741160,
+                        "end": 742000,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9e986da0-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 741160,
+                        "end": 742000,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "11b3b469-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 741160,
+                        "end": 742000,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "4a290347-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 741160,
+                        "end": 742000,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "52a7d217-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 741160,
+                        "end": 742000,
+                        "content": "forward"
+                },
+
+                {
+                        "id": "2a1073c2-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 741160,
+                        "end": 742000,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c14ab28c-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 741160,
+                        "end": 742000,
+                        "content": "248"
+                },
+
+                {
+                        "id": "c5d55c6c-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 741160,
+                        "end": 742000,
+                        "content": "248"
+                },
+
+                {
+                        "id": "27be7260-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 741160,
+                        "end": 742000,
+                        "content": "location"
+                },
+
+                {
+                        "id": "73a1378c-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 741160,
+                        "end": 742000,
+                        "content": "dark"
+                },
+
+                {
+                        "id": "710f6088-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742000,
+                        "end": 742960,
+                        "content": "249"
+                },
+
+                {
+                        "id": "ed4fb7c3-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742000,
+                        "end": 742960,
+                        "content": "extreme long shot"
+                },
+
+                {
+                        "id": "d11d195e-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742000,
+                        "end": 742960,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9e986da1-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742000,
+                        "end": 742960,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "11b3b46a-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742000,
+                        "end": 742960,
+                        "content": "zoom"
+                },
+
+                {
+                        "id": "4a290348-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742000,
+                        "end": 742960,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "52a7d218-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742000,
+                        "end": 742960,
+                        "content": "back"
+                },
+
+                {
+                        "id": "2a1087f4-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742000,
+                        "end": 742960,
+                        "content": "extreme low-angle"
+                },
+
+                {
+                        "id": "c14abcc8-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742000,
+                        "end": 742960,
+                        "content": "249"
+                },
+
+                {
+                        "id": "c5d56928-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742000,
+                        "end": 742960,
+                        "content": "249"
+                },
+
+                {
+                        "id": "27be8840-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742000,
+                        "end": 742960,
+                        "content": "location"
+                },
+
+                {
+                        "id": "5fffbb2c-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742000,
+                        "end": 742960,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "710f652e-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742960,
+                        "end": 743640,
+                        "content": "250"
+                },
+
+                {
+                        "id": "ed4fb7c4-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742960,
+                        "end": 743640,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "d11d195f-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742960,
+                        "end": 743640,
+                        "content": "2"
+                },
+
+                {
+                        "id": "9e986da2-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742960,
+                        "end": 743640,
+                        "content": "right"
+                },
+
+                {
+                        "id": "11b3b46b-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742960,
+                        "end": 743640,
+                        "content": "static"
+                },
+
+                {
+                        "id": "2a109bb8-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742960,
+                        "end": 743640,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c14ac72c-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742960,
+                        "end": 743640,
+                        "content": "250"
+                },
+
+                {
+                        "id": "c5d573c8-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742960,
+                        "end": 743640,
+                        "content": "250"
+                },
+
+                {
+                        "id": "577f9bc4-61c8-11ed-b1b5-6c400895e6a0",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742960,
+                        "end": 744389,
+                        "content": "whirring"
+                },
+
+                {
+                        "id": "27be9f2e-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742960,
+                        "end": 743640,
+                        "content": "location,group,object"
+                },
+
+                {
+                        "id": "75603b9a-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 742960,
+                        "end": 743640,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "710f69de-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 743640,
+                        "end": 744389,
+                        "content": "251"
+                },
+
+                {
+                        "id": "ed4fb7c5-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 743640,
+                        "end": 744389,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "d11d1960-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 743640,
+                        "end": 744389,
+                        "content": "3"
+                },
+
+                {
+                        "id": "9e986da3-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 743640,
+                        "end": 744389,
+                        "content": "towards"
+                },
+
+                {
+                        "id": "11b3b46c-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 743640,
+                        "end": 744389,
+                        "content": "static"
+                },
+
+                {
+                        "id": "2a10b094-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 743640,
+                        "end": 744389,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c14ad168-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 743640,
+                        "end": 744389,
+                        "content": "251"
+                },
+
+                {
+                        "id": "c5d57e4a-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 743640,
+                        "end": 744389,
+                        "content": "251"
+                },
+
+                {
+                        "id": "27beb82e-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 743640,
+                        "end": 744389,
+                        "content": "location"
+                },
+
+                {
+                        "id": "609d544a-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 743640,
+                        "end": 744389,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "58c4b69e-60e3-11ed-a288-a08cfdc6ff91",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 744389,
+                        "end": 745000,
+                        "content": "252"
+                },
+
+                {
+                        "id": "ed4fb7c6-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 744389,
+                        "end": 745000,
+                        "content": "extreme long shot"
+                },
+
+                {
+                        "id": "d11d1961-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 744389,
+                        "end": 745000,
+                        "content": "0"
+                },
+
+                {
+                        "id": "11b3b46d-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 744389,
+                        "end": 745000,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "4a29034b-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 744389,
+                        "end": 745000,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "52a7d21b-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 744389,
+                        "end": 745000,
+                        "content": "right"
+                },
+
+                {
+                        "id": "2a10c462-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 744389,
+                        "end": 745000,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c14adbb8-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 744389,
+                        "end": 745000,
+                        "content": "252"
+                },
+
+                {
+                        "id": "c5d588fe-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 744389,
+                        "end": 745000,
+                        "content": "252"
+                },
+
+                {
+                        "id": "27becc60-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 744389,
+                        "end": 745000,
+                        "content": "location"
+                },
+
+                {
+                        "id": "7e893dd4-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 744389,
+                        "end": 745000,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "710f6e70-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745000,
+                        "end": 745600,
+                        "content": "253"
+                },
+
+                {
+                        "id": "d11d1962-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745000,
+                        "end": 745600,
+                        "content": "0"
+                },
+
+                {
+                        "id": "11b3b46e-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745000,
+                        "end": 745600,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "4a29034c-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745000,
+                        "end": 745600,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "52a7d21c-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745000,
+                        "end": 745600,
+                        "content": "forward"
+                },
+
+                {
+                        "id": "2a10d7f4-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745000,
+                        "end": 745600,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "c14ae7fc-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745000,
+                        "end": 745600,
+                        "content": "253"
+                },
+
+                {
+                        "id": "c5d593b2-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745000,
+                        "end": 745600,
+                        "content": "253"
+                },
+
+                {
+                        "id": "27bee0c4-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745000,
+                        "end": 745600,
+                        "content": "location"
+                },
+
+                {
+                        "id": "61d11c98-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745000,
+                        "end": 745600,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "ed4fb7c7-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745100,
+                        "end": 745600,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "710f7302-5a9d-11ed-a3b2-7242363b2846",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745600,
+                        "end": 747151,
+                        "content": "254"
+                },
+
+                {
+                        "id": "ed4fb7c8-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745600,
+                        "end": 747151,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "9eba1f92-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745600,
+                        "end": 747151,
+                        "content": "red"
+                },
+
+                {
+                        "id": "d11d1963-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745600,
+                        "end": 747151,
+                        "content": "2"
+                },
+
+                {
+                        "id": "9e986da6-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745600,
+                        "end": 747151,
+                        "content": "up"
+                },
+
+                {
+                        "id": "11b3b46f-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745600,
+                        "end": 747151,
+                        "content": "minimal,tilt"
+                },
+
+                {
+                        "id": "4a29034d-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745600,
+                        "end": 747151,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "52a7d21d-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745600,
+                        "end": 747151,
+                        "content": "up"
+                },
+
+                {
+                        "id": "2a10eb7c-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745600,
+                        "end": 747151,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c14af472-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745600,
+                        "end": 747151,
+                        "content": "254"
+                },
+
+                {
+                        "id": "c5d59e3e-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745600,
+                        "end": 747151,
+                        "content": "254"
+                },
+
+                {
+                        "id": "27bef578-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745600,
+                        "end": 747151,
+                        "content": "location"
+                },
+
+                {
+                        "id": "62afbf8e-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 745600,
+                        "end": 747151,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "5d48c81e-6100-11ed-8348-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 747151,
+                        "end": 748629,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "5f6c2ce4-6100-11ed-8348-a08cfdc6ff91",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 747151,
+                        "end": 748629,
+                        "content": "255"
+                },
+
+                {
+                        "id": "d11d1964-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 747151,
+                        "end": 748629,
+                        "content": "2"
+                },
+
+                {
+                        "id": "9e986da7-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 747151,
+                        "end": 748629,
+                        "content": "up"
+                },
+
+                {
+                        "id": "11b3b470-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 747151,
+                        "end": 748629,
+                        "content": "static"
+                },
+
+                {
+                        "id": "2a10ff18-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 747151,
+                        "end": 748629,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c14b021e-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 747151,
+                        "end": 748629,
+                        "content": "255"
+                },
+
+                {
+                        "id": "c5d5a960-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 747151,
+                        "end": 748629,
+                        "content": "255"
+                },
+
+                {
+                        "id": "27bf090a-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 747151,
+                        "end": 748629,
+                        "content": "location"
+                },
+
+                {
+                        "id": "634927fa-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 747151,
+                        "end": 748629,
+                        "content": "dark"
+                },
+
+                {
+                        "id": "723b45fc-60e3-11ed-a288-a08cfdc6ff91",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 748629,
+                        "end": 750133,
+                        "content": "256"
+                },
+
+                {
+                        "id": "ed4fb7c9-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 748629,
+                        "end": 750133,
+                        "content": "extreme long shot"
+                },
+
+                {
+                        "id": "d11d1965-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 748629,
+                        "end": 750133,
+                        "content": "1"
+                },
+
+                {
+                        "id": "9e986da8-6107-11ed-8348-a08cfdc6ff91",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 748629,
+                        "end": 750133,
+                        "content": "right"
+                },
+
+                {
+                        "id": "11b3b471-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 748629,
+                        "end": 750133,
+                        "content": "minimal"
+                },
+
+                {
+                        "id": "4a29034f-6115-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 748629,
+                        "end": 750133,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "52a7d21f-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 748629,
+                        "end": 750133,
+                        "content": "left"
+                },
+
+                {
+                        "id": "2a1112a0-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 748629,
+                        "end": 750133,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c14b0e1c-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 748629,
+                        "end": 750133,
+                        "content": "256"
+                },
+
+                {
+                        "id": "c5d5b3e2-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 748629,
+                        "end": 750133,
+                        "content": "256"
+                },
+
+                {
+                        "id": "27bf1cba-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 748629,
+                        "end": 750133,
+                        "content": "location"
+                },
+
+                {
+                        "id": "413841aa-6389-11ed-aef4-acbc32b57d75",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 748629,
+                        "end": 750133,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "8251dbcc-60e3-11ed-a288-a08cfdc6ff91",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 750133,
+                        "end": 754400,
+                        "content": "257"
+                },
+
+                {
+                        "id": "ed4fb7ca-60e5-11ed-a288-a08cfdc6ff91",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 750133,
+                        "end": 754400,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "3e6eafc4-6102-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 750133,
+                        "end": 754400,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "d11d1966-6104-11ed-8348-a08cfdc6ff91",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 750133,
+                        "end": 754400,
+                        "content": "0"
+                },
+
+                {
+                        "id": "11b3b472-6113-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 750133,
+                        "end": 754400,
+                        "content": "zoom"
+                },
+
+                {
+                        "id": "52a7d220-6117-11ed-8348-a08cfdc6ff91",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 750133,
+                        "end": 754400,
+                        "content": "forward"
+                },
+
+                {
+                        "id": "02af5b90-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 750133,
+                        "end": 754400,
+                        "content": "still"
+                },
+
+                {
+                        "id": "2a112646-61c1-11ed-b1b5-6c400895e6a0",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 750133,
+                        "end": 754400,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c14b19a2-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 750133,
+                        "end": 754400,
+                        "content": "257"
+                },
+
+                {
+                        "id": "c5d5be32-61c3-11ed-b1b5-6c400895e6a0",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 750133,
+                        "end": 754400,
+                        "content": "257"
+                },
+
+                {
+                        "id": "9dac98d4-61c5-11ed-b1b5-6c400895e6a0",
+                        "type": "FoundFootage",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 750133,
+                        "end": 754400,
+                        "content": "archive photography"
+                },
+
+                {
+                        "id": "27bf3088-61c9-11ed-b1b5-6c400895e6a0",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Fisher_Stevens_BEFORE_THE_FLOOD_2016.mp4",
+                        "begin": 750133,
+                        "end": 754400,
+                        "content": "single,human being"
+                }
+
+] }

@@ -1,0 +1,2469 @@
+{ "annotations": [
+
+                {
+                        "id": "2ae49b38-fdba-11ef-bfd3-7242363b2846",
+                        "type": "MusicMood",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1204381,
+                        "end": 1268265,
+                        "content": "calm"
+                },
+
+                {
+                        "id": "20e313c0-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1216720,
+                        "end": 1241640,
+                        "content": "190"
+                },
+
+                {
+                        "id": "d6a21a76-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1216720,
+                        "end": 1241640,
+                        "content": "190"
+                },
+
+                {
+                        "id": "df3bc33e-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1216720,
+                        "end": 1241640,
+                        "content": "medium long shot,[TO],long shot"
+                },
+
+                {
+                        "id": "e35201c2-fda3-11ef-bfd3-7242363b2846",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1216720,
+                        "end": 1513000,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "e66de916-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1216720,
+                        "end": 1241640,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb5026c-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1216720,
+                        "end": 1241640,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f187ac88-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1216720,
+                        "end": 1241640,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c47a22-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1216720,
+                        "end": 1241640,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "f4a117f6-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1216720,
+                        "end": 1241640,
+                        "content": "forward,left"
+                },
+
+                {
+                        "id": "f6eb9748-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1216720,
+                        "end": 1241640,
+                        "content": "straight-angle,[TO],high-angle"
+                },
+
+                {
+                        "id": "acf8c224-fdbb-11ef-bfd3-7242363b2846",
+                        "type": "MontageFigureMacro",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1216720,
+                        "end": 1513000,
+                        "content": "montage"
+                },
+
+                {
+                        "id": "40d0a684-fda2-11ef-a8d7-7242363b2846",
+                        "type": "Scene",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1216730,
+                        "end": 1513000,
+                        "content": "Scene 09_Mountains Sculpted By Glaciers"
+                },
+
+                {
+                        "id": "21896e64-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1222735,
+                        "end": 1226364,
+                        "content": "The Alps were raised some 15 million years ago"
+                },
+
+                {
+                        "id": "e42bbb34-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1222735,
+                        "end": 1226364,
+                        "content": "The Alps were raised some 15 million years ago"
+                },
+
+                {
+                        "id": "2189dbb0-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1226455,
+                        "end": 1230892,
+                        "content": "as Africa, drifting northwards,\ncollided with the southern edge of Europe."
+                },
+
+                {
+                        "id": "e42bd3ee-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1226455,
+                        "end": 1230892,
+                        "content": "as Africa, drifting northwards, collided with the southern edge of Europe."
+                },
+
+                {
+                        "id": "218a492e-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1237055,
+                        "end": 1241173,
+                        "content": "These spires are the eroded remains\nof an ancient seabed"
+                },
+
+                {
+                        "id": "e42be19a-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1237055,
+                        "end": 1241173,
+                        "content": "These spires are the eroded remains of an ancient seabed"
+                },
+
+                {
+                        "id": "218ab80a-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1241255,
+                        "end": 1244406,
+                        "content": "that once stretched between the two continents."
+                },
+
+                {
+                        "id": "e42bee74-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1241255,
+                        "end": 1244406,
+                        "content": "that once stretched between the two continents."
+                },
+
+                {
+                        "id": "20e3679e-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1241640,
+                        "end": 1252880,
+                        "content": "191"
+                },
+
+                {
+                        "id": "d6a229bc-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1241640,
+                        "end": 1252880,
+                        "content": "191"
+                },
+
+                {
+                        "id": "df3be77e-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1241640,
+                        "end": 1252880,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "e66e0874-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1241640,
+                        "end": 1252880,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb5182e-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1241640,
+                        "end": 1252880,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f187b8c2-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1241640,
+                        "end": 1252880,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c492c8-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1241640,
+                        "end": 1252880,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "f4a13826-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1241640,
+                        "end": 1252880,
+                        "content": "forward"
+                },
+
+                {
+                        "id": "f6eba508-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1241640,
+                        "end": 1252880,
+                        "content": "straight-angle,[TO],high-angle"
+                },
+
+                {
+                        "id": "20e3bc1c-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1252880,
+                        "end": 1273120,
+                        "content": "192"
+                },
+
+                {
+                        "id": "d6a231a0-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1252880,
+                        "end": 1273120,
+                        "content": "192"
+                },
+
+                {
+                        "id": "df3bfaf2-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1252880,
+                        "end": 1273120,
+                        "content": "medium long shot,[TO],long shot"
+                },
+
+                {
+                        "id": "e66e145e-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1252880,
+                        "end": 1273120,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb522d8-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1252880,
+                        "end": 1273120,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f187beda-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1252880,
+                        "end": 1273120,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c49ac0-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1252880,
+                        "end": 1273120,
+                        "content": "medium,[TO],slow"
+                },
+
+                {
+                        "id": "f4a14604-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1252880,
+                        "end": 1273120,
+                        "content": "circle,up,back"
+                },
+
+                {
+                        "id": "f6ebab2a-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1252880,
+                        "end": 1273120,
+                        "content": "extreme high-angle"
+                },
+
+                {
+                        "id": "218b25f6-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1261095,
+                        "end": 1264928,
+                        "content": "But these arejust the Alpine foothills."
+                },
+
+                {
+                        "id": "e42bfb44-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1261095,
+                        "end": 1264928,
+                        "content": "But these arejust the Alpine foothills."
+                },
+
+                {
+                        "id": "218b9342-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1265014,
+                        "end": 1269087,
+                        "content": "The range at its centre rises to three miles high"
+                },
+
+                {
+                        "id": "e42c07ec-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1265014,
+                        "end": 1269087,
+                        "content": "The range at its centre rises to three miles high"
+                },
+
+                {
+                        "id": "9274bb66-fdba-11ef-bfd3-7242363b2846",
+                        "type": "MusicMood",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1268265,
+                        "end": 1323400,
+                        "content": "solemn"
+                },
+
+                {
+                        "id": "218c125e-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1269174,
+                        "end": 1272007,
+                        "content": "and is crowned with permanent snows."
+                },
+
+                {
+                        "id": "e42c14b2-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1269174,
+                        "end": 1272007,
+                        "content": "and is crowned with permanent snows."
+                },
+
+                {
+                        "id": "20e410cc-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1273120,
+                        "end": 1284280,
+                        "content": "193"
+                },
+
+                {
+                        "id": "d6a239a2-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1273120,
+                        "end": 1284280,
+                        "content": "193"
+                },
+
+                {
+                        "id": "df3c0bc8-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1273120,
+                        "end": 1284280,
+                        "content": "medium long shot,[TO],long shot"
+                },
+
+                {
+                        "id": "e66e1ef4-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1273120,
+                        "end": 1284280,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb52c38-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1273120,
+                        "end": 1284280,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f187c4d4-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1273120,
+                        "end": 1284280,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c4a1a0-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1273120,
+                        "end": 1284280,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "f4a1523e-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1273120,
+                        "end": 1284280,
+                        "content": "forward,up"
+                },
+
+                {
+                        "id": "f6ebb0fc-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1273120,
+                        "end": 1284280,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "20e464fa-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1284280,
+                        "end": 1293640,
+                        "content": "194"
+                },
+
+                {
+                        "id": "d6a24104-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1284280,
+                        "end": 1293640,
+                        "content": "194"
+                },
+
+                {
+                        "id": "df3c1bfe-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1284280,
+                        "end": 1293640,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "e66e2944-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1284280,
+                        "end": 1293640,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb53584-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1284280,
+                        "end": 1293640,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f187caa6-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1284280,
+                        "end": 1293640,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c4a97a-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1284280,
+                        "end": 1293640,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "f4a15e82-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1284280,
+                        "end": 1293640,
+                        "content": "circle"
+                },
+
+                {
+                        "id": "f6ebbb92-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1284280,
+                        "end": 1293640,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "218c82c0-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1285334,
+                        "end": 1289930,
+                        "content": "The Matterhorn, its summit too steep\nto hold a snowfield."
+                },
+
+                {
+                        "id": "e42c2114-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1285334,
+                        "end": 1289930,
+                        "content": "The Matterhorn, its summit too steep to hold a snowfield."
+                },
+
+                {
+                        "id": "20e4ba68-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1293640,
+                        "end": 1306000,
+                        "content": "195"
+                },
+
+                {
+                        "id": "d6a24870-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1293640,
+                        "end": 1306000,
+                        "content": "195"
+                },
+
+                {
+                        "id": "df3c2b9e-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1293640,
+                        "end": 1306000,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "e66e3362-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1293640,
+                        "end": 1306000,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb53e9e-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1293640,
+                        "end": 1306000,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f187d03c-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1293640,
+                        "end": 1306000,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c4b032-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1293640,
+                        "end": 1306000,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "f4a16a8a-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1293640,
+                        "end": 1306000,
+                        "content": "forward"
+                },
+
+                {
+                        "id": "f6ebc13c-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1293640,
+                        "end": 1306000,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "218cf2f0-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1298694,
+                        "end": 1302403,
+                        "content": "Mont Blanc, the highest peak in Western Europe."
+                },
+
+                {
+                        "id": "e42c2d76-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1298694,
+                        "end": 1302403,
+                        "content": "Mont Blanc, the highest peak in Western Europe."
+                },
+
+                {
+                        "id": "20e50ef0-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1306000,
+                        "end": 1323400,
+                        "content": "196"
+                },
+
+                {
+                        "id": "d6a24fdc-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1306000,
+                        "end": 1323400,
+                        "content": "196"
+                },
+
+                {
+                        "id": "df3c3b48-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1306000,
+                        "end": 1323400,
+                        "content": "long shot,[TO],extreme long shot"
+                },
+
+                {
+                        "id": "e66e3d76-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1306000,
+                        "end": 1323400,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb547c2-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1306000,
+                        "end": 1323400,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f187d6b8-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1306000,
+                        "end": 1323400,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c4b898-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1306000,
+                        "end": 1323400,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "f4a17692-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1306000,
+                        "end": 1323400,
+                        "content": "forward,right"
+                },
+
+                {
+                        "id": "f6ebc92a-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1306000,
+                        "end": 1323400,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "218d6168-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1315374,
+                        "end": 1318730,
+                        "content": "The distinctivejagged shapes of the Alps"
+                },
+
+                {
+                        "id": "e42c3974-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1315374,
+                        "end": 1318730,
+                        "content": "The distinctivejagged shapes of the Alps"
+                },
+
+                {
+                        "id": "218dcf18-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1318814,
+                        "end": 1322284,
+                        "content": "were carved by those great mountain sculptors,"
+                },
+
+                {
+                        "id": "e42c4428-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1318814,
+                        "end": 1322284,
+                        "content": "were carved by those great mountain sculptors,"
+                },
+
+                {
+                        "id": "218e3cf0-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1322374,
+                        "end": 1324410,
+                        "content": "the glaciers."
+                },
+
+                {
+                        "id": "e42c4f54-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1322374,
+                        "end": 1324410,
+                        "content": "the glaciers."
+                },
+
+                {
+                        "id": "20e5656c-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1323400,
+                        "end": 1335760,
+                        "content": "197"
+                },
+
+                {
+                        "id": "d6a25716-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1323400,
+                        "end": 1335760,
+                        "content": "197"
+                },
+
+                {
+                        "id": "df3c4b10-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1323400,
+                        "end": 1335760,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "e66e4794-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1323400,
+                        "end": 1335760,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb550c8-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1323400,
+                        "end": 1335760,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f187dc3a-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1323400,
+                        "end": 1335760,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c4bf28-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1323400,
+                        "end": 1335760,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "f4a180b0-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1323400,
+                        "end": 1335760,
+                        "content": "back,left"
+                },
+
+                {
+                        "id": "f6ebcfa6-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1323400,
+                        "end": 1335760,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "a982fd4a-fdba-11ef-bfd3-7242363b2846",
+                        "type": "MusicMood",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1323400,
+                        "end": 1396825,
+                        "content": "ominous"
+                },
+
+                {
+                        "id": "218ead98-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1329533,
+                        "end": 1333651,
+                        "content": "Immense rivers of moving ice, laden with rock,"
+                },
+
+                {
+                        "id": "e42c5a12-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1329533,
+                        "end": 1333651,
+                        "content": "Immense rivers of moving ice, laden with rock,"
+                },
+
+                {
+                        "id": "218f1b0c-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1333733,
+                        "end": 1338363,
+                        "content": "grind their way down the mountains,\ngouging out deep valleys."
+                },
+
+                {
+                        "id": "e42c650c-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1333733,
+                        "end": 1338363,
+                        "content": "grind their way down the mountains, gouging out deep valleys."
+                },
+
+                {
+                        "id": "20e5bb5c-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1335760,
+                        "end": 1343240,
+                        "content": "198"
+                },
+
+                {
+                        "id": "d6a25e3c-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1335760,
+                        "end": 1343240,
+                        "content": "198"
+                },
+
+                {
+                        "id": "df3c5a2e-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1335760,
+                        "end": 1343240,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "e66e51c6-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1335760,
+                        "end": 1343240,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb5613a-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1335760,
+                        "end": 1343240,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f187e2ca-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1335760,
+                        "end": 1343240,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c4c676-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1335760,
+                        "end": 1343240,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "f4a18b14-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1335760,
+                        "end": 1343240,
+                        "content": "right"
+                },
+
+                {
+                        "id": "f6ebd4f6-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1335760,
+                        "end": 1343240,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "20e61002-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1343240,
+                        "end": 1352400,
+                        "content": "199"
+                },
+
+                {
+                        "id": "d6a2654e-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1343240,
+                        "end": 1352400,
+                        "content": "199"
+                },
+
+                {
+                        "id": "df3c69c4-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1343240,
+                        "end": 1352400,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "e66e5bda-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1343240,
+                        "end": 1352400,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb569a0-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1343240,
+                        "end": 1352400,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f187ecca-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1343240,
+                        "end": 1352400,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c4ccfc-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1343240,
+                        "end": 1352400,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "f4a1958c-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1343240,
+                        "end": 1352400,
+                        "content": "forward"
+                },
+
+                {
+                        "id": "f6ebdbea-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1343240,
+                        "end": 1352400,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "219295d4-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1345093,
+                        "end": 1349166,
+                        "content": "They're the most powerful\nerosive force on our planet."
+                },
+
+                {
+                        "id": "e42c7498-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1345093,
+                        "end": 1349166,
+                        "content": "They're the most powerful erosive force on our planet."
+                },
+
+                {
+                        "id": "20e6649e-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1352400,
+                        "end": 1364560,
+                        "content": "200"
+                },
+
+                {
+                        "id": "d6a26c74-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1352400,
+                        "end": 1364560,
+                        "content": "200"
+                },
+
+                {
+                        "id": "df3c791e-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1352400,
+                        "end": 1364560,
+                        "content": "medium long shot,[TO],medium shot"
+                },
+
+                {
+                        "id": "e66e65e4-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1352400,
+                        "end": 1364560,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb5717a-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1352400,
+                        "end": 1364560,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f187f242-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1352400,
+                        "end": 1364560,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c4d3a0-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1352400,
+                        "end": 1364560,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "f4a19faa-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1352400,
+                        "end": 1364560,
+                        "content": "forward,down,circle"
+                },
+
+                {
+                        "id": "f6ebe1b2-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1352400,
+                        "end": 1364560,
+                        "content": "high-angle,[TO],extreme high-angle"
+                },
+
+                {
+                        "id": "21930870-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1357333,
+                        "end": 1361121,
+                        "content": "A moulin, a shaft in the ice opened by meltwater"
+                },
+
+                {
+                        "id": "e42c7f4c-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1357333,
+                        "end": 1361121,
+                        "content": "A moulin, a shaft in the ice opened by meltwater"
+                },
+
+                {
+                        "id": "21937846-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1361213,
+                        "end": 1364808,
+                        "content": "as it plunges into the depths of the glacier."
+                },
+
+                {
+                        "id": "e42c8a1e-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1361213,
+                        "end": 1364808,
+                        "content": "as it plunges into the depths of the glacier."
+                },
+
+                {
+                        "id": "20e6baac-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1364560,
+                        "end": 1377380,
+                        "content": "201"
+                },
+
+                {
+                        "id": "d6a273b8-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1364560,
+                        "end": 1377380,
+                        "content": "201"
+                },
+
+                {
+                        "id": "df3c8814-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1364560,
+                        "end": 1377380,
+                        "content": "medium closeup,[TO],shoulder closeup"
+                },
+
+                {
+                        "id": "e66e6fbc-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1364560,
+                        "end": 1377380,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb5794a-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1364560,
+                        "end": 1377380,
+                        "content": "1,[VS],0"
+                },
+
+                {
+                        "id": "efaf7d64-fda3-11ef-bfd3-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1364560,
+                        "end": 1377380,
+                        "content": "down"
+                },
+
+                {
+                        "id": "f187f7b0-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1364560,
+                        "end": 1377380,
+                        "content": "pan,tilt,zoom"
+                },
+
+                {
+                        "id": "f2c4da62-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1364560,
+                        "end": 1377380,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "f4a1b328-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1364560,
+                        "end": 1377380,
+                        "content": "down,right,forward"
+                },
+
+                {
+                        "id": "f6ebe7ca-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1364560,
+                        "end": 1377380,
+                        "content": "straight-angle,[TO],extreme high-angle"
+                },
+
+                {
+                        "id": "20e70f0c-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1377380,
+                        "end": 1378300,
+                        "content": "202"
+                },
+
+                {
+                        "id": "d6a27e44-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1377380,
+                        "end": 1378300,
+                        "content": "202"
+                },
+
+                {
+                        "id": "df3c9732-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1377380,
+                        "end": 1378300,
+                        "content": "neither"
+                },
+
+                {
+                        "id": "e66e79bc-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1377380,
+                        "end": 1378300,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb5812e-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1377380,
+                        "end": 1378300,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f187fd3c-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1377380,
+                        "end": 1378300,
+                        "content": "static"
+                },
+
+                {
+                        "id": "f6ebed06-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1377380,
+                        "end": 1378300,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "20e764ac-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1378300,
+                        "end": 1401704,
+                        "content": "203"
+                },
+
+                {
+                        "id": "d6a2856a-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1378300,
+                        "end": 1401704,
+                        "content": "203"
+                },
+
+                {
+                        "id": "df3ca696-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1378300,
+                        "end": 1401704,
+                        "content": "shoulder closeup,[TO],extreme closeup"
+                },
+
+                {
+                        "id": "e66e8380-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1378300,
+                        "end": 1401704,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb588f4-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1378300,
+                        "end": 1401704,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f188028c-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1378300,
+                        "end": 1401704,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c4e7be-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1378300,
+                        "end": 1401704,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "f4a1c980-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1378300,
+                        "end": 1401704,
+                        "content": "down"
+                },
+
+                {
+                        "id": "f6ebf256-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1378300,
+                        "end": 1401704,
+                        "content": "straight-angle,[TO],extreme high-angle"
+                },
+
+                {
+                        "id": "055c4900-fdbb-11ef-bfd3-7242363b2846",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1378300,
+                        "end": 1403120,
+                        "content": "swell"
+                },
+
+                {
+                        "id": "2193e678-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1379693,
+                        "end": 1384050,
+                        "content": "Like the water running through it,\nthe ice itself is constantly moving,"
+                },
+
+                {
+                        "id": "e42c94be-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1379693,
+                        "end": 1384050,
+                        "content": "Like the water running through it, the ice itself is constantly moving,"
+                },
+
+                {
+                        "id": "2194552c-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1384133,
+                        "end": 1387364,
+                        "content": "flowing down the valley with unstoppable force."
+                },
+
+                {
+                        "id": "e42c9f22-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1384133,
+                        "end": 1387364,
+                        "content": "flowing down the valley with unstoppable force."
+                },
+
+                {
+                        "id": "2194c44e-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1389493,
+                        "end": 1391484,
+                        "content": "(CREAKING)"
+                },
+
+                {
+                        "id": "20e7c0b4-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1401704,
+                        "end": 1403120,
+                        "content": "204"
+                },
+
+                {
+                        "id": "d6a28c72-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1401704,
+                        "end": 1403120,
+                        "content": "204"
+                },
+
+                {
+                        "id": "df3cb5dc-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1401704,
+                        "end": 1403120,
+                        "content": "neither"
+                },
+
+                {
+                        "id": "e66e8d6c-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1401704,
+                        "end": 1403120,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb590ba-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1401704,
+                        "end": 1403120,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f1880822-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1401704,
+                        "end": 1403120,
+                        "content": "static"
+                },
+
+                {
+                        "id": "f6ebf832-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1401704,
+                        "end": 1403120,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "20e816f4-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1403120,
+                        "end": 1415000,
+                        "content": "205"
+                },
+
+                {
+                        "id": "d6a293a2-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1403120,
+                        "end": 1415000,
+                        "content": "205"
+                },
+
+                {
+                        "id": "df3cc842-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1403120,
+                        "end": 1415000,
+                        "content": "medium long shot,[TO],long shot"
+                },
+
+                {
+                        "id": "e66e9758-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1403120,
+                        "end": 1415000,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb59880-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1403120,
+                        "end": 1415000,
+                        "content": "0,[VS],1"
+                },
+
+                {
+                        "id": "f1880e12-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1403120,
+                        "end": 1415000,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c4f4f2-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1403120,
+                        "end": 1415000,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "f4a1ddf8-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1403120,
+                        "end": 1415000,
+                        "content": "back,up,right"
+                },
+
+                {
+                        "id": "f6ebfd8c-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1403120,
+                        "end": 1415000,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "ff4f39e4-fe52-11ef-bfd3-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1403120,
+                        "end": 1415000,
+                        "content": "down"
+                },
+
+                {
+                        "id": "219537da-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1406053,
+                        "end": 1408362,
+                        "content": "Alpine glaciers may seem immense,"
+                },
+
+                {
+                        "id": "e42cb494-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1406053,
+                        "end": 1408362,
+                        "content": "Alpine glaciers may seem immense,"
+                },
+
+                {
+                        "id": "2195a922-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1408453,
+                        "end": 1411411,
+                        "content": "but they're dwarfed by those in the great ranges"
+                },
+
+                {
+                        "id": "e42cbf70-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1408453,
+                        "end": 1411411,
+                        "content": "but they're dwarfed by those in the great ranges"
+                },
+
+                {
+                        "id": "219619c0-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1411493,
+                        "end": 1414644,
+                        "content": "that divide the Indian subcontinent from Tibet."
+                },
+
+                {
+                        "id": "e42cca38-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1411493,
+                        "end": 1414644,
+                        "content": "that divide the Indian subcontinent from Tibet."
+                },
+
+                {
+                        "id": "20e86bae-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1415000,
+                        "end": 1432920,
+                        "content": "206"
+                },
+
+                {
+                        "id": "d6a29aaa-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1415000,
+                        "end": 1432920,
+                        "content": "206"
+                },
+
+                {
+                        "id": "df3cd602-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1415000,
+                        "end": 1432920,
+                        "content": "medium long shot,[TO],long shot"
+                },
+
+                {
+                        "id": "e66ea162-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1415000,
+                        "end": 1432920,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb5a0b4-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1415000,
+                        "end": 1432920,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f1881358-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1415000,
+                        "end": 1432920,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c4fb64-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1415000,
+                        "end": 1432920,
+                        "content": "fast"
+                },
+
+                {
+                        "id": "f4a1e7e4-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1415000,
+                        "end": 1432920,
+                        "content": "forward,right,up"
+                },
+
+                {
+                        "id": "f6ec02dc-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1415000,
+                        "end": 1432920,
+                        "content": "high-angle,[TO],low-angle"
+                },
+
+                {
+                        "id": "1e73d7b4-fdbb-11ef-bfd3-7242363b2846",
+                        "type": "MusicMood",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1415000,
+                        "end": 1513000,
+                        "content": "tense"
+                },
+
+                {
+                        "id": "21968932-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1419093,
+                        "end": 1424247,
+                        "content": "This is the boulder—strewn snout\nof the giant Baltoro Glacier"
+                },
+
+                {
+                        "id": "e42cd4d8-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1419093,
+                        "end": 1424247,
+                        "content": "This is the boulder—strewn snout of the giant Baltoro Glacier"
+                },
+
+                {
+                        "id": "2196f9b2-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1424333,
+                        "end": 1427131,
+                        "content": "in the Karakoram Mountains of Pakistan."
+                },
+
+                {
+                        "id": "e42cdf8c-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1424333,
+                        "end": 1427131,
+                        "content": "in the Karakoram Mountains of Pakistan."
+                },
+
+                {
+                        "id": "20e8c072-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1432920,
+                        "end": 1451040,
+                        "content": "207"
+                },
+
+                {
+                        "id": "d6a2a202-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1432920,
+                        "end": 1451040,
+                        "content": "207"
+                },
+
+                {
+                        "id": "df3ce390-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1432920,
+                        "end": 1451040,
+                        "content": "medium long shot,[TO],extreme long shot"
+                },
+
+                {
+                        "id": "e66eab44-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1432920,
+                        "end": 1451040,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb5a884-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1432920,
+                        "end": 1451040,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f18818da-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1432920,
+                        "end": 1451040,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c501fe-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1432920,
+                        "end": 1451040,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "f4a1f1da-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1432920,
+                        "end": 1451040,
+                        "content": "right,circle"
+                },
+
+                {
+                        "id": "f6ec08a4-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1432920,
+                        "end": 1451040,
+                        "content": "straight-angle,[TO],high-angle"
+                },
+
+                {
+                        "id": "21976906-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1436253,
+                        "end": 1439325,
+                        "content": "It's the biggest mountain glacier on Earth,"
+                },
+
+                {
+                        "id": "e42cea5e-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1436253,
+                        "end": 1439325,
+                        "content": "It's the biggest mountain glacier on Earth,"
+                },
+
+                {
+                        "id": "2197d83c-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1439413,
+                        "end": 1442610,
+                        "content": "43 miles long and over three miles wide."
+                },
+
+                {
+                        "id": "e42cf526-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1439413,
+                        "end": 1442610,
+                        "content": "43 miles long and over three miles wide."
+                },
+
+                {
+                        "id": "21984a42-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1443253,
+                        "end": 1448930,
+                        "content": "This huge, ice—filled valley is so large\nit's clearly visible from space."
+                },
+
+                {
+                        "id": "e42cffb2-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1443253,
+                        "end": 1448930,
+                        "content": "This huge, ice—filled valley is so large it's clearly visible from space."
+                },
+
+                {
+                        "id": "20e91784-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1451040,
+                        "end": 1460320,
+                        "content": "208"
+                },
+
+                {
+                        "id": "d6a2a98c-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1451040,
+                        "end": 1460320,
+                        "content": "208"
+                },
+
+                {
+                        "id": "df3cf132-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1451040,
+                        "end": 1460320,
+                        "content": "extreme long shot"
+                },
+
+                {
+                        "id": "e66eb512-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1451040,
+                        "end": 1460320,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb5b022-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1451040,
+                        "end": 1460320,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f1881e3e-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1451040,
+                        "end": 1460320,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c5088e-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1451040,
+                        "end": 1460320,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "f4a1fbbc-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1451040,
+                        "end": 1460320,
+                        "content": "circle"
+                },
+
+                {
+                        "id": "f6ec0e4e-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1451040,
+                        "end": 1460320,
+                        "content": "extreme high-angle"
+                },
+
+                {
+                        "id": "20e96f04-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1460320,
+                        "end": 1480440,
+                        "content": "209"
+                },
+
+                {
+                        "id": "d6a2b0bc-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1460320,
+                        "end": 1480440,
+                        "content": "209"
+                },
+
+                {
+                        "id": "df3cffe2-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1460320,
+                        "end": 1480440,
+                        "content": "medium shot,[TO],long shot"
+                },
+
+                {
+                        "id": "e66ebeea-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1460320,
+                        "end": 1480440,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb5b7fc-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1460320,
+                        "end": 1480440,
+                        "content": "0,[VS],1"
+                },
+
+                {
+                        "id": "f188237a-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1460320,
+                        "end": 1480440,
+                        "content": "zoom,floating"
+                },
+
+                {
+                        "id": "f2c5118a-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1460320,
+                        "end": 1480440,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "f4a205da-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1460320,
+                        "end": 1480440,
+                        "content": "back,right"
+                },
+
+                {
+                        "id": "f6ec1394-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1460320,
+                        "end": 1480440,
+                        "content": "high-angle,[TO],straight-angle"
+                },
+
+                {
+                        "id": "b811ea9e-fda4-11ef-bfd3-7242363b2846",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1460320,
+                        "end": 1480440,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "2198bbc6-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1471573,
+                        "end": 1476044,
+                        "content": "This is the greatest concentration\nof peaks over five miles high"
+                },
+
+                {
+                        "id": "e42d0cb4-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1471573,
+                        "end": 1476044,
+                        "content": "This is the greatest concentration of peaks over five miles high"
+                },
+
+                {
+                        "id": "21992b24-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1476133,
+                        "end": 1478522,
+                        "content": "to be found anywhere on Earth."
+                },
+
+                {
+                        "id": "e42d175e-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1476133,
+                        "end": 1478522,
+                        "content": "to be found anywhere on Earth."
+                },
+
+                {
+                        "id": "20e9c6e8-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1480440,
+                        "end": 1490960,
+                        "content": "210"
+                },
+
+                {
+                        "id": "d6a2b7c4-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1480440,
+                        "end": 1490960,
+                        "content": "210"
+                },
+
+                {
+                        "id": "df3d0e6a-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1480440,
+                        "end": 1490960,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "e66eceda-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1480440,
+                        "end": 1490960,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb5bfa4-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1480440,
+                        "end": 1490960,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f18828ca-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1480440,
+                        "end": 1490960,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c51842-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1480440,
+                        "end": 1490960,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "f4a2100c-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1480440,
+                        "end": 1490960,
+                        "content": "left"
+                },
+
+                {
+                        "id": "f6ec1902-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1480440,
+                        "end": 1490960,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "21999a0a-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1481533,
+                        "end": 1484605,
+                        "content": "They're the most dangerous mountains of all."
+                },
+
+                {
+                        "id": "e42d20dc-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1481533,
+                        "end": 1484605,
+                        "content": "They're the most dangerous mountains of all."
+                },
+
+                {
+                        "id": "219a08fa-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1484693,
+                        "end": 1490006,
+                        "content": "K2 and her sister peaks\nhave claimed more lives than any others."
+                },
+
+                {
+                        "id": "e42d2afa-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1484693,
+                        "end": 1490006,
+                        "content": "K2 and her sister peaks have claimed more lives than any others."
+                },
+
+                {
+                        "id": "20ea1e86-fda2-11ef-8fe6-7242363b2846",
+                        "type": "209bd10e-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1490960,
+                        "end": 1513000,
+                        "content": "211"
+                },
+
+                {
+                        "id": "d6a2beea-fda2-11ef-bfd3-7242363b2846",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1490960,
+                        "end": 1513000,
+                        "content": "211"
+                },
+
+                {
+                        "id": "df3d1cb6-fda3-11ef-bfd3-7242363b2846",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1490960,
+                        "end": 1513000,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "e66ed8da-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1490960,
+                        "end": 1513000,
+                        "content": ""
+                },
+
+                {
+                        "id": "eeb5c738-fda3-11ef-bfd3-7242363b2846",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1490960,
+                        "end": 1513000,
+                        "content": "0"
+                },
+
+                {
+                        "id": "f1882e1a-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1490960,
+                        "end": 1513000,
+                        "content": "floating"
+                },
+
+                {
+                        "id": "f2c51ee6-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1490960,
+                        "end": 1513000,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "f4a21a16-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1490960,
+                        "end": 1513000,
+                        "content": "left,circle"
+                },
+
+                {
+                        "id": "f6ec1e66-fda3-11ef-bfd3-7242363b2846",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1490960,
+                        "end": 1513000,
+                        "content": "straight-angle,[TO],high-angle"
+                },
+
+                {
+                        "id": "219a7baa-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1501533,
+                        "end": 1504570,
+                        "content": "The peaks here rise so precipitously,"
+                },
+
+                {
+                        "id": "e42d366c-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1501533,
+                        "end": 1504570,
+                        "content": "The peaks here rise so precipitously,"
+                },
+
+                {
+                        "id": "219aec5c-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1504653,
+                        "end": 1507166,
+                        "content": "the glaciers are so steep and crevassed,"
+                },
+
+                {
+                        "id": "e42d3fc2-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1504653,
+                        "end": 1507166,
+                        "content": "the glaciers are so steep and crevassed,"
+                },
+
+                {
+                        "id": "219b5e94-fda2-11ef-8fe6-7242363b2846",
+                        "type": "21465e26-fda2-11ef-8fe6-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1507252,
+                        "end": 1512087,
+                        "content": "that few except the most skilled mountaineers\ncan penetrate these ranges."
+                },
+
+                {
+                        "id": "e42d4968-fda2-11ef-bfd3-7242363b2846",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_02_Mountains_Fothergill_Alastair.mp4",
+                        "begin": 1507252,
+                        "end": 1512087,
+                        "content": "that few except the most skilled mountaineers can penetrate these ranges."
+                }
+
+] }

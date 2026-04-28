@@ -1,0 +1,1713 @@
+{ "annotations": [
+
+                {
+                        "id": "b7f9fac8-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1447680,
+                        "end": 1457840,
+                        "content": "224"
+                },
+
+                {
+                        "id": "c7832a6e-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1447680,
+                        "end": 1457840,
+                        "content": "0"
+                },
+
+                {
+                        "id": "e467f380-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1447680,
+                        "end": 1457840,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "1004ead8-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1447680,
+                        "end": 1457840,
+                        "content": "pan"
+                },
+
+                {
+                        "id": "12623c04-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1447680,
+                        "end": 1457840,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "4f7cf6ec-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1447680,
+                        "end": 1457840,
+                        "content": "right"
+                },
+
+                {
+                        "id": "c985d652-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1447680,
+                        "end": 1457840,
+                        "content": "224"
+                },
+
+                {
+                        "id": "33facdb8-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1457840,
+                        "end": 1479400,
+                        "content": "225"
+                },
+
+                {
+                        "id": "3fcf0730-ff32-11ef-b837-7242363b2846",
+                        "type": "Scene",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1457840,
+                        "end": 1630240,
+                        "content": "Scene 11_Sea Ice Melting Under Polar Bears"
+                },
+
+                {
+                        "id": "b7fa6576-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1457840,
+                        "end": 1479400,
+                        "content": "225"
+                },
+
+                {
+                        "id": "c7835516-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1457840,
+                        "end": 1479400,
+                        "content": "0,[VS],1"
+                },
+
+                {
+                        "id": "df2de19a-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1457840,
+                        "end": 1479400,
+                        "content": "right,up"
+                },
+
+                {
+                        "id": "e46803ca-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1457840,
+                        "end": 1479400,
+                        "content": "extreme high-angle"
+                },
+
+                {
+                        "id": "1004fd16-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1457840,
+                        "end": 1479400,
+                        "content": "zoom,pan"
+                },
+
+                {
+                        "id": "12625072-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1457840,
+                        "end": 1479400,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "4f7d0952-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1457840,
+                        "end": 1479400,
+                        "content": "back,right"
+                },
+
+                {
+                        "id": "c985e746-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1457840,
+                        "end": 1479400,
+                        "content": "225"
+                },
+
+                {
+                        "id": "33fb24b6-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1479400,
+                        "end": 1483160,
+                        "content": "226"
+                },
+
+                {
+                        "id": "b7fa7a2a-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1479400,
+                        "end": 1483160,
+                        "content": "226"
+                },
+
+                {
+                        "id": "c7836f88-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1479400,
+                        "end": 1483160,
+                        "content": "1"
+                },
+
+                {
+                        "id": "df2dedc0-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1479400,
+                        "end": 1483160,
+                        "content": "right"
+                },
+
+                {
+                        "id": "e4680e88-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1479400,
+                        "end": 1483160,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "1005098c-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1479400,
+                        "end": 1483160,
+                        "content": "shaking"
+                },
+
+                {
+                        "id": "12625f36-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1479400,
+                        "end": 1483160,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "4f7d16fe-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1479400,
+                        "end": 1483160,
+                        "content": "up,down,right"
+                },
+
+                {
+                        "id": "c985f380-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1479400,
+                        "end": 1483160,
+                        "content": "226"
+                },
+
+                {
+                        "id": "33fb7d26-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1483160,
+                        "end": 1487800,
+                        "content": "227"
+                },
+
+                {
+                        "id": "b7fa89a2-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1483160,
+                        "end": 1487800,
+                        "content": "227"
+                },
+
+                {
+                        "id": "c78387ac-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1483160,
+                        "end": 1487800,
+                        "content": "1"
+                },
+
+                {
+                        "id": "df2df86a-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1483160,
+                        "end": 1487800,
+                        "content": "right"
+                },
+
+                {
+                        "id": "e4681932-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1483160,
+                        "end": 1487800,
+                        "content": "extreme high-angle"
+                },
+
+                {
+                        "id": "10051594-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1483160,
+                        "end": 1487800,
+                        "content": "shaking,zoom"
+                },
+
+                {
+                        "id": "126275fc-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1483160,
+                        "end": 1487800,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "4f7d245a-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1483160,
+                        "end": 1487800,
+                        "content": "down,back"
+                },
+
+                {
+                        "id": "c986028a-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1483160,
+                        "end": 1487800,
+                        "content": "227"
+                },
+
+                {
+                        "id": "33fbd46a-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1487800,
+                        "end": 1493040,
+                        "content": "228"
+                },
+
+                {
+                        "id": "b7fabba2-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1487800,
+                        "end": 1493040,
+                        "content": "228"
+                },
+
+                {
+                        "id": "c783a8cc-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1487800,
+                        "end": 1493040,
+                        "content": "1"
+                },
+
+                {
+                        "id": "df2e030a-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1487800,
+                        "end": 1493040,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "e46823b4-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1487800,
+                        "end": 1493040,
+                        "content": "high-angle,[TO],extreme high-angle"
+                },
+
+                {
+                        "id": "10052958-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1487800,
+                        "end": 1493040,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "12628452-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1487800,
+                        "end": 1493040,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "4f7d2fea-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1487800,
+                        "end": 1493040,
+                        "content": "forward,down"
+                },
+
+                {
+                        "id": "c9861806-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1487800,
+                        "end": 1493040,
+                        "content": "228"
+                },
+
+                {
+                        "id": "33fc2ae6-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1493040,
+                        "end": 1506680,
+                        "content": "229"
+                },
+
+                {
+                        "id": "b7fac994-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1493040,
+                        "end": 1506680,
+                        "content": "229"
+                },
+
+                {
+                        "id": "c783c42e-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1493040,
+                        "end": 1506680,
+                        "content": "0,[VS],1"
+                },
+
+                {
+                        "id": "df2e0d82-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1493040,
+                        "end": 1506680,
+                        "content": "right,towards"
+                },
+
+                {
+                        "id": "e4682e0e-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1493040,
+                        "end": 1506680,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "100534fc-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1493040,
+                        "end": 1506680,
+                        "content": "shaking"
+                },
+
+                {
+                        "id": "12629244-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1493040,
+                        "end": 1506680,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "4f7d46a6-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1493040,
+                        "end": 1506680,
+                        "content": "right,left"
+                },
+
+                {
+                        "id": "c9862440-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1493040,
+                        "end": 1506680,
+                        "content": "229"
+                },
+
+                {
+                        "id": "33fc81f8-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1506680,
+                        "end": 1513120,
+                        "content": "230"
+                },
+
+                {
+                        "id": "b7fad5ba-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1506680,
+                        "end": 1513120,
+                        "content": "230"
+                },
+
+                {
+                        "id": "c783dfa4-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1506680,
+                        "end": 1513120,
+                        "content": "0"
+                },
+
+                {
+                        "id": "e46839f8-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1506680,
+                        "end": 1513120,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "10053fd8-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1506680,
+                        "end": 1513120,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "12629ffa-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1506680,
+                        "end": 1513120,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "4f7d520e-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1506680,
+                        "end": 1513120,
+                        "content": "circle,right"
+                },
+
+                {
+                        "id": "c9863034-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1506680,
+                        "end": 1513120,
+                        "content": "230"
+                },
+
+                {
+                        "id": "33fcdb76-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1513120,
+                        "end": 1516320,
+                        "content": "231"
+                },
+
+                {
+                        "id": "b7fae136-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1513120,
+                        "end": 1516320,
+                        "content": "231"
+                },
+
+                {
+                        "id": "c783fb1a-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1513120,
+                        "end": 1516320,
+                        "content": "0,[VS],1"
+                },
+
+                {
+                        "id": "df2e2254-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1513120,
+                        "end": 1516320,
+                        "content": "away"
+                },
+
+                {
+                        "id": "e4684556-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1513120,
+                        "end": 1516320,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "10054a46-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1513120,
+                        "end": 1516320,
+                        "content": "static"
+                },
+
+                {
+                        "id": "c9863bc4-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1513120,
+                        "end": 1516320,
+                        "content": "231"
+                },
+
+                {
+                        "id": "33fd3300-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1516320,
+                        "end": 1519480,
+                        "content": "232"
+                },
+
+                {
+                        "id": "b7faec8a-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1516320,
+                        "end": 1519480,
+                        "content": "232"
+                },
+
+                {
+                        "id": "c784167c-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1516320,
+                        "end": 1519480,
+                        "content": "0,[VS],1"
+                },
+
+                {
+                        "id": "df2e2cc2-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1516320,
+                        "end": 1519480,
+                        "content": "away"
+                },
+
+                {
+                        "id": "e468567c-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1516320,
+                        "end": 1519480,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "100558ce-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1516320,
+                        "end": 1519480,
+                        "content": "static"
+                },
+
+                {
+                        "id": "c9864768-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1516320,
+                        "end": 1519480,
+                        "content": "232"
+                },
+
+                {
+                        "id": "33fd89e0-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1519480,
+                        "end": 1523280,
+                        "content": "233"
+                },
+
+                {
+                        "id": "b7faf900-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1519480,
+                        "end": 1523280,
+                        "content": "233"
+                },
+
+                {
+                        "id": "c7843012-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1519480,
+                        "end": 1523280,
+                        "content": "1"
+                },
+
+                {
+                        "id": "df2e3a5a-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1519480,
+                        "end": 1523280,
+                        "content": "right"
+                },
+
+                {
+                        "id": "e4686ad6-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1519480,
+                        "end": 1523280,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "10056562-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1519480,
+                        "end": 1523280,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "1262c7be-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1519480,
+                        "end": 1523280,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "4f7d734c-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1519480,
+                        "end": 1523280,
+                        "content": "left"
+                },
+
+                {
+                        "id": "c986530c-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1519480,
+                        "end": 1523280,
+                        "content": "233"
+                },
+
+                {
+                        "id": "33fde066-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1523280,
+                        "end": 1527240,
+                        "content": "234"
+                },
+
+                {
+                        "id": "b7fb0526-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1523280,
+                        "end": 1527240,
+                        "content": "234"
+                },
+
+                {
+                        "id": "c7844656-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1523280,
+                        "end": 1527240,
+                        "content": "0,[VS],2"
+                },
+
+                {
+                        "id": "df2e5120-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1523280,
+                        "end": 1527240,
+                        "content": "right"
+                },
+
+                {
+                        "id": "e4687738-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1523280,
+                        "end": 1527240,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "100571ba-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1523280,
+                        "end": 1527240,
+                        "content": "static"
+                },
+
+                {
+                        "id": "c986637e-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1523280,
+                        "end": 1527240,
+                        "content": "234"
+                },
+
+                {
+                        "id": "33fe385e-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1527240,
+                        "end": 1531960,
+                        "content": "235"
+                },
+
+                {
+                        "id": "b7fb1052-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1527240,
+                        "end": 1531960,
+                        "content": "235"
+                },
+
+                {
+                        "id": "c7845bfa-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1527240,
+                        "end": 1531960,
+                        "content": "1,[VS],0"
+                },
+
+                {
+                        "id": "df2e5d28-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1527240,
+                        "end": 1531960,
+                        "content": "down"
+                },
+
+                {
+                        "id": "e4688db8-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1527240,
+                        "end": 1531960,
+                        "content": "high-angle,[TO],extreme high-angle"
+                },
+
+                {
+                        "id": "1005802e-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1527240,
+                        "end": 1531960,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "1262e866-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1527240,
+                        "end": 1531960,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "4f7d881e-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1527240,
+                        "end": 1531960,
+                        "content": "forward,down"
+                },
+
+                {
+                        "id": "c98670d0-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1527240,
+                        "end": 1531960,
+                        "content": "235"
+                },
+
+                {
+                        "id": "33fe8f5c-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1531960,
+                        "end": 1534400,
+                        "content": "236"
+                },
+
+                {
+                        "id": "b7fb1b7e-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1531960,
+                        "end": 1534400,
+                        "content": "236"
+                },
+
+                {
+                        "id": "c784716c-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1531960,
+                        "end": 1534400,
+                        "content": "3"
+                },
+
+                {
+                        "id": "df2e6cbe-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1531960,
+                        "end": 1534400,
+                        "content": "right"
+                },
+
+                {
+                        "id": "e46898ee-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1531960,
+                        "end": 1534400,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "10058d9e-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1531960,
+                        "end": 1534400,
+                        "content": "static"
+                },
+
+                {
+                        "id": "c9867d96-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1531960,
+                        "end": 1534400,
+                        "content": "236"
+                },
+
+                {
+                        "id": "33fee6aa-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1534400,
+                        "end": 1537360,
+                        "content": "237"
+                },
+
+                {
+                        "id": "b7fb26a0-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1534400,
+                        "end": 1537360,
+                        "content": "237"
+                },
+
+                {
+                        "id": "c78488dc-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1534400,
+                        "end": 1537360,
+                        "content": "1,[VS],0"
+                },
+
+                {
+                        "id": "df2e7952-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1534400,
+                        "end": 1537360,
+                        "content": "right,away"
+                },
+
+                {
+                        "id": "e468a4ba-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1534400,
+                        "end": 1537360,
+                        "content": "topshot"
+                },
+
+                {
+                        "id": "10059a50-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1534400,
+                        "end": 1537360,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "1263031e-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1534400,
+                        "end": 1537360,
+                        "content": "fast"
+                },
+
+                {
+                        "id": "4f7d9dfe-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1534400,
+                        "end": 1537360,
+                        "content": "circle,right"
+                },
+
+                {
+                        "id": "c9868ad4-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1534400,
+                        "end": 1537360,
+                        "content": "237"
+                },
+
+                {
+                        "id": "33ff4014-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1537360,
+                        "end": 1540720,
+                        "content": "238"
+                },
+
+                {
+                        "id": "b7fb31d6-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1537360,
+                        "end": 1540720,
+                        "content": "238"
+                },
+
+                {
+                        "id": "c784a362-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1537360,
+                        "end": 1540720,
+                        "content": "1,[VS],2"
+                },
+
+                {
+                        "id": "df2e855a-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1537360,
+                        "end": 1540720,
+                        "content": "right"
+                },
+
+                {
+                        "id": "e468b0f4-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1537360,
+                        "end": 1540720,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "1005a752-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1537360,
+                        "end": 1540720,
+                        "content": "static"
+                },
+
+                {
+                        "id": "c98696f0-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1537360,
+                        "end": 1540720,
+                        "content": "238"
+                },
+
+                {
+                        "id": "33ff9802-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1540720,
+                        "end": 1547600,
+                        "content": "239"
+                },
+
+                {
+                        "id": "b7fb3cf8-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1540720,
+                        "end": 1547600,
+                        "content": "239"
+                },
+
+                {
+                        "id": "c784bbfe-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1540720,
+                        "end": 1547600,
+                        "content": "2"
+                },
+
+                {
+                        "id": "df2e91b2-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1540720,
+                        "end": 1547600,
+                        "content": "left,away,[VS],right"
+                },
+
+                {
+                        "id": "e468bb62-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1540720,
+                        "end": 1547600,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "1005b4cc-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1540720,
+                        "end": 1547600,
+                        "content": "static"
+                },
+
+                {
+                        "id": "c986a334-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1540720,
+                        "end": 1547600,
+                        "content": "239"
+                },
+
+                {
+                        "id": "33fff036-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1547600,
+                        "end": 1559280,
+                        "content": "240"
+                },
+
+                {
+                        "id": "b7fb4824-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1547600,
+                        "end": 1559280,
+                        "content": "240"
+                },
+
+                {
+                        "id": "c784d24c-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1547600,
+                        "end": 1559280,
+                        "content": "0"
+                },
+
+                {
+                        "id": "e468c594-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1547600,
+                        "end": 1559280,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "1005c0d4-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1547600,
+                        "end": 1559280,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "126326d2-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1547600,
+                        "end": 1559280,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "4f7dc6a8-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1547600,
+                        "end": 1559280,
+                        "content": "forward,up"
+                },
+
+                {
+                        "id": "c986aeb0-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1547600,
+                        "end": 1559280,
+                        "content": "240"
+                },
+
+                {
+                        "id": "34004748-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1559280,
+                        "end": 1574080,
+                        "content": "241"
+                },
+
+                {
+                        "id": "b7fb5346-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1559280,
+                        "end": 1574080,
+                        "content": "241"
+                },
+
+                {
+                        "id": "c784e7b4-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1559280,
+                        "end": 1574080,
+                        "content": "0,[VS],1"
+                },
+
+                {
+                        "id": "df2ea940-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1559280,
+                        "end": 1574080,
+                        "content": "away,right"
+                },
+
+                {
+                        "id": "e468cfda-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1559280,
+                        "end": 1574080,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "1005cb88-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1559280,
+                        "end": 1574080,
+                        "content": "shaking,pan"
+                },
+
+                {
+                        "id": "12633550-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1559280,
+                        "end": 1574080,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "4f7dd260-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1559280,
+                        "end": 1574080,
+                        "content": "right,left"
+                },
+
+                {
+                        "id": "c986ba04-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1559280,
+                        "end": 1574080,
+                        "content": "241"
+                },
+
+                {
+                        "id": "3400a008-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1574080,
+                        "end": 1581640,
+                        "content": "242"
+                },
+
+                {
+                        "id": "b7fb5e72-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1574080,
+                        "end": 1581640,
+                        "content": "242"
+                },
+
+                {
+                        "id": "c7850050-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1574080,
+                        "end": 1581640,
+                        "content": "0"
+                },
+
+                {
+                        "id": "e468da16-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1574080,
+                        "end": 1581640,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "1005d6f0-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1574080,
+                        "end": 1581640,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "12634220-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1574080,
+                        "end": 1581640,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "4f7de3cc-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1574080,
+                        "end": 1581640,
+                        "content": "forward,right"
+                },
+
+                {
+                        "id": "c986c580-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1574080,
+                        "end": 1581640,
+                        "content": "242"
+                },
+
+                {
+                        "id": "3400f878-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1581640,
+                        "end": 1598360,
+                        "content": "243"
+                },
+
+                {
+                        "id": "b7fb69bc-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1581640,
+                        "end": 1598360,
+                        "content": "243"
+                },
+
+                {
+                        "id": "c785fb04-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1581640,
+                        "end": 1598360,
+                        "content": "1"
+                },
+
+                {
+                        "id": "df2ebdd6-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1581640,
+                        "end": 1598360,
+                        "content": "away"
+                },
+
+                {
+                        "id": "e468e452-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1581640,
+                        "end": 1598360,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "1005e136-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1581640,
+                        "end": 1598360,
+                        "content": "shaking"
+                },
+
+                {
+                        "id": "12634d42-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1581640,
+                        "end": 1598360,
+                        "content": "slow"
+                },
+
+                {
+                        "id": "4f7df0a6-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1581640,
+                        "end": 1598360,
+                        "content": "up,right,down"
+                },
+
+                {
+                        "id": "c986d124-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1581640,
+                        "end": 1598360,
+                        "content": "243"
+                },
+
+                {
+                        "id": "3401503e-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1598360,
+                        "end": 1608840,
+                        "content": "244"
+                },
+
+                {
+                        "id": "b7fb7754-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1598360,
+                        "end": 1608840,
+                        "content": "244"
+                },
+
+                {
+                        "id": "c78613f0-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1598360,
+                        "end": 1608840,
+                        "content": "1"
+                },
+
+                {
+                        "id": "df2ec81c-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1598360,
+                        "end": 1608840,
+                        "content": "right"
+                },
+
+                {
+                        "id": "e468f0dc-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1598360,
+                        "end": 1608840,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "1005ebe0-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1598360,
+                        "end": 1608840,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "126357d8-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1598360,
+                        "end": 1608840,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "4f7dfcfe-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1598360,
+                        "end": 1608840,
+                        "content": "right"
+                },
+
+                {
+                        "id": "c986dc64-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1598360,
+                        "end": 1608840,
+                        "content": "244"
+                },
+
+                {
+                        "id": "3401a85e-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1608840,
+                        "end": 1618240,
+                        "content": "245"
+                },
+
+                {
+                        "id": "b7fb82a8-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1608840,
+                        "end": 1618240,
+                        "content": "245"
+                },
+
+                {
+                        "id": "c78629da-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1608840,
+                        "end": 1618240,
+                        "content": "0"
+                },
+
+                {
+                        "id": "e468fc44-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1608840,
+                        "end": 1618240,
+                        "content": "extreme high-angle"
+                },
+
+                {
+                        "id": "1005f66c-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1608840,
+                        "end": 1618240,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "126362aa-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1608840,
+                        "end": 1618240,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "4f7e0942-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1608840,
+                        "end": 1618240,
+                        "content": "right,up"
+                },
+
+                {
+                        "id": "c986e7e0-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1608840,
+                        "end": 1618240,
+                        "content": "245"
+                },
+
+                {
+                        "id": "3402025e-ff32-11ef-b837-7242363b2846",
+                        "type": "33a6b6ba-ff32-11ef-b837-7242363b2846",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1618240,
+                        "end": 1630240,
+                        "content": "246"
+                },
+
+                {
+                        "id": "b7fb8dc0-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1618240,
+                        "end": 1630240,
+                        "content": "246"
+                },
+
+                {
+                        "id": "c78642a8-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1618240,
+                        "end": 1630240,
+                        "content": "1,[VS],2"
+                },
+
+                {
+                        "id": "df2edca8-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1618240,
+                        "end": 1630240,
+                        "content": "away,left,[VS],undirected"
+                },
+
+                {
+                        "id": "e4690806-48cb-11ed-9e0a-4c327598eb11",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1618240,
+                        "end": 1630240,
+                        "content": "high-angle"
+                },
+
+                {
+                        "id": "10060314-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1618240,
+                        "end": 1630240,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "12636ffc-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1618240,
+                        "end": 1630240,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "4f7e143c-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1618240,
+                        "end": 1630240,
+                        "content": "circle,left"
+                },
+
+                {
+                        "id": "c986f38e-48cd-11ed-9e0a-4c327598eb11",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/yvop93/Desktop/Filme%2520und%2520Serien/Serien/Planet%2520Earth/Planet_Earth_Episode_06_Ice_Worlds_Fothergill_Alastair.mp4",
+                        "begin": 1618240,
+                        "end": 1630240,
+                        "content": "246"
+                }
+
+] }

@@ -1,0 +1,1956 @@
+{ "annotations": [
+
+                {
+                        "id": "ebf3b400-4a3c-11ed-85b6-4c327598eb11",
+                        "type": "sound_enveloppe",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3400000,
+                        "end": 3500000,
+                        "content": "75.58 73.17 72.38 74.02 84.86 76.17 79.65 75.09 79.35 77.47 73.80 77.03 77.07 73.77 74.48 72.81 69.36 77.04 75.45 74.41 78.30 74.09 73.86 79.50 83.24 77.83 78.55 75.87 77.54 73.26 76.40 74.40 75.30 72.88 73.26 74.29 69.81 73.99 76.49 76.91 74.97 71.60 72.06 69.51 81.85 72.93 78.80 75.47 74.40 72.87 68.32 75.18 76.72 71.78 73.44 72.87 72.51 77.57 76.28 75.56 76.67 73.48 71.91 74.06 81.68 76.01 80.58 75.02 75.37 72.51 71.82 76.39 77.35 73.12 74.54 71.83 71.91 76.32 76.07 75.23 74.99 71.79 75.08 71.58 82.02 77.85 79.08 74.09 76.74 74.05 73.08 75.18 78.17 74.73 75.98 73.20 71.17 75.97 75.52 74.17 74.70 72.91 75.64 74.57 79.05 71.59 76.68 75.42 74.35 74.83 75.02 76.41 76.13 75.02 74.10 73.22 71.00 77.43 76.74 73.65 71.00 71.78 71.48 75.43 81.29 77.58 79.27 78.47 74.88 74.77 74.61 76.68 74.02 74.08 74.04 73.22 72.43 73.57 74.31 73.51 72.74 71.09 72.56 71.40 82.11 72.19 76.72 74.74 72.40 73.44 74.06 74.39 76.36 73.89 72.30 73.37 72.09 74.00 75.81 75.70 72.06 73.61 73.63 74.87 78.33 74.56 75.96 76.18 73.44 72.63 75.37 77.73 77.80 78.70 77.10 76.44 75.40 77.22 77.10 76.97 74.47 73.70 74.70 74.55 81.24 75.23 77.87 78.14 76.56 73.76 75.04 74.05 73.57 75.30 76.23 73.80 74.74 73.94 75.44 75.96 73.37 71.52 73.24 73.74 79.05 75.87 76.17 72.81 72.92 74.14 73.44 75.14 72.46 71.69 72.42 70.02 70.02 73.45 72.12 71.06 70.85 71.84 69.72 71.12 74.37 70.59 72.25 71.29 69.87 71.44 70.32 70.88 70.51 70.42 68.86 71.24 70.96 71.52 70.30 72.62 71.55 72.15 70.05 71.50 74.36 72.13 73.88 72.22 71.92 70.84 71.54 72.56 71.07 69.71 70.50 71.21 71.11 71.39 70.87 69.61 70.14 68.96 69.92 69.65 70.29 68.33 72.01 72.59 69.69 71.05 68.85 68.83 69.65 68.80 68.55 68.92 69.20 68.86 68.36 68.15 69.38 68.69 69.28 70.10 68.98 68.05 69.18 68.37 68.01 68.08 69.92 68.79 67.58 68.19 68.26 68.73 68.42 68.50 69.14 69.46 68.37 68.99 68.75 68.70 67.37 68.93 68.20 67.64 68.21 68.33 67.87 67.92 68.35 67.84 68.81 66.39 66.98 67.15 66.27 67.93 65.83 67.40 68.07 67.62 67.44 67.66 66.85 66.99 67.15 67.46 67.35 65.79 67.76 66.14 66.21 66.04 68.07 67.68 67.59 65.62 65.63 67.02 65.82 65.03 66.37 65.84 65.52 65.32 66.07 65.37 65.98 65.53 65.13 65.13 65.92 65.91 64.55 63.66 65.77 67.36 64.69 64.33 63.16 63.74 65.02 64.91 65.07 65.34 65.98 66.02 65.25 64.84 65.15 63.58 63.74 63.91 63.60 65.00 63.89 63.78 64.05 64.29 64.15 64.39 63.47 62.84 62.51 62.96 63.19 63.72 63.48 61.95 61.66 61.98 63.44 66.07 66.71 66.70 68.68 66.02 67.98 67.91 67.26 68.09 66.32 67.30 67.87 68.32 69.58 69.10 67.36 67.82 69.31 68.11 67.41 67.65 68.55 68.15 67.68 67.51 67.44 67.99 67.50 68.99 69.26 68.89 68.50 67.96 69.41 69.85 69.79 69.25 68.41 67.70 66.91 68.23 69.08 69.96 69.39 69.39 67.56 68.53 70.07 69.60 68.36 67.84 67.39 66.94 67.73 68.93 69.18 68.69 68.71 66.79 68.80 68.60 67.96 68.95 67.17 67.37 67.07 66.78 68.19 67.56 67.63 68.36 66.79 66.80 67.51 67.22 67.34 65.83 64.97 66.11 65.29 65.23 64.59 64.84 62.95 63.25 64.06 64.28 63.61 64.73 64.32 64.47 63.95 63.09 63.69 63.29 64.06 63.26 62.09 63.37 63.94 64.42 63.48 63.94 63.32 63.29 62.54 62.60 64.61 63.28 62.64 61.64 62.15 63.08 62.85 61.76 61.62 62.93 62.28 61.41 63.04 62.93 60.41 62.01 64.82 62.55 62.04 61.89 62.37 62.65 61.38 62.28 62.99 61.76 62.38 62.29 63.56 62.29 62.48 61.71 61.56 62.83 62.78 61.75 62.32 61.07 62.17 62.04 62.95 61.23 61.43 60.81 60.36 60.40 61.31 61.68 60.36 61.31 60.34 61.27 61.86 60.02 59.32 59.42 61.02 62.00 61.29 59.19 58.13 59.79 61.03 61.53 60.57 60.75 61.30 61.00 59.62 61.14 60.87 60.32 60.02 61.16 60.95 60.59 60.71 59.85 60.72 59.52 58.14 58.64 58.82 58.61 55.42 57.69 56.76 56.54 57.31 56.82 53.76 55.43 72.89 82.62 82.39 82.76 78.75 79.04 77.55 73.44 80.50 80.35 78.42 78.64 78.10 77.30 77.24 77.97 78.42 73.21 75.37 74.28 73.07 79.82 74.88 76.31 73.33 69.81 80.48 75.14 74.75 76.61 75.82 76.98 77.64 77.36 77.04 77.94 80.91 81.00 78.01 78.31 79.32 75.95 80.83 77.85 76.14 75.61 75.75 74.85 74.63 71.29 78.51 78.74 75.01 70.16 72.83 80.56 73.89 78.62 74.18 77.77 73.65 70.31 78.92 75.50 75.68 75.61 75.34 73.14 71.84 68.84 69.41 51.93 51.72 51.27 50.98 50.49 50.71 51.46 50.48 52.47 51.37 51.55 53.10 52.19 50.54 52.18 52.11 50.72 49.63 51.04 50.30 50.08 51.07 69.30 78.18 80.41 76.97 75.28 81.08 83.86 79.53 68.36 76.98 77.94 78.36 76.51 75.12 76.84 75.32 78.35 77.33 73.38 65.65 51.36 78.55 78.41 78.92 75.82 68.80 80.93 76.93 57.95 79.84 76.59 75.62 80.22 79.51 79.83 78.55 78.68 79.02 79.31 82.80 78.27 79.51 74.12 67.30 81.26 78.75 79.51 71.51 76.76 81.54 71.71 73.40 71.76 73.87 71.86 69.58 55.89 51.22 51.56 52.90 55.84 57.12 58.19 57.50 57.83 58.97 58.70 59.25 62.06 60.92 62.49 60.68 60.04 65.89 64.42 64.43 63.74 63.77 75.46 76.93 70.92 75.18 74.04 73.52 71.63 78.36 74.99 74.63 79.27 80.85 79.53 77.73 76.27 78.75 81.61 78.72 80.96 80.11 79.17 71.66 70.63 71.71 70.62 69.83 73.05 71.47 71.53 68.60 71.59 71.77 69.99 71.83 67.21 71.98 71.84 71.98 70.51 70.35 70.49 68.98 67.32 66.02 64.22 67.18 66.41 66.25 63.68 68.61 69.81 68.51 68.98 66.93 66.78 70.76 69.29 70.34 75.94 81.77 83.64 81.77 79.75 80.48 77.95 78.81 79.68 81.23 79.76 83.50 79.95 82.29 79.41 85.05 82.01 77.61 83.40 82.88 83.03 81.62 82.52 81.20 78.07 83.32 77.24 84.48 79.03 74.65 79.67 76.50 77.08 74.66 60.21 63.88 66.65 75.40 77.19 80.07 84.92 82.87 82.67 82.46 82.10 79.45 80.66 79.18 82.74 78.02 76.84 72.64 67.37 65.66 64.66 68.88 67.94 79.28 83.01 81.15 83.89 81.86 80.13 82.98 79.41 78.39 75.46 76.52 76.76 68.61 63.25 62.60 78.87 82.97 82.95 81.23 79.23 80.14 80.37 80.84 77.23 78.66 83.49 80.85 80.06 82.04 80.00 76.50 76.73 73.25 64.63 64.65 65.25 63.37 70.13 68.51 69.12 68.74 67.24 70.61 71.71 72.96 70.65 70.69 72.49 73.58 77.86 80.99 81.11 82.61 84.51 86.77 86.58 84.29 83.32 83.48 81.62 80.09 79.05 78.93 77.17 79.25 77.44 74.66 74.42 76.69 78.26 77.18 76.60 75.22 76.08 74.21 73.85 72.95 70.88 73.01 72.31 71.30 72.89 71.90 73.01 70.06 70.33 69.07 70.78 70.47 71.82 69.60 75.23 73.93 70.30 71.58 74.62 70.78 68.89 69.33 69.93 78.20 75.95 74.25 71.39 74.69 74.03 75.87 74.79 71.10 77.17 78.66 75.76 74.75 72.94 74.44 73.33 72.35 72.00 72.61 81.15"
+                },
+
+                {
+                        "id": "5dec0d4e-5e7b-11ed-9a16-7242363b2847",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3400000,
+                        "end": 3500000,
+                        "content": "75.58 73.17 72.38 74.02 84.86 76.17 79.65 75.09 79.35 77.47 73.80 77.03 77.07 73.77 74.48 72.81 69.36 77.04 75.45 74.41 78.30 74.09 73.86 79.50 83.24 77.83 78.55 75.87 77.54 73.26 76.40 74.40 75.30 72.88 73.26 74.29 69.81 73.99 76.49 76.91 74.97 71.60 72.06 69.51 81.85 72.93 78.80 75.47 74.40 72.87 68.32 75.18 76.72 71.78 73.44 72.87 72.51 77.57 76.28 75.56 76.67 73.48 71.91 74.06 81.68 76.01 80.58 75.02 75.37 72.51 71.82 76.39 77.35 73.12 74.54 71.83 71.91 76.32 76.07 75.23 74.99 71.79 75.08 71.58 82.02 77.85 79.08 74.09 76.74 74.05 73.08 75.18 78.17 74.73 75.98 73.20 71.17 75.97 75.52 74.17 74.70 72.91 75.64 74.57 79.05 71.59 76.68 75.42 74.35 74.83 75.02 76.41 76.13 75.02 74.10 73.22 71.00 77.43 76.74 73.65 71.00 71.78 71.48 75.43 81.29 77.58 79.27 78.47 74.88 74.77 74.61 76.68 74.02 74.08 74.04 73.22 72.43 73.57 74.31 73.51 72.74 71.09 72.56 71.40 82.11 72.19 76.72 74.74 72.40 73.44 74.06 74.39 76.36 73.89 72.30 73.37 72.09 74.00 75.81 75.70 72.06 73.61 73.63 74.87 78.33 74.56 75.96 76.18 73.44 72.63 75.37 77.73 77.80 78.70 77.10 76.44 75.40 77.22 77.10 76.97 74.47 73.70 74.70 74.55 81.24 75.23 77.87 78.14 76.56 73.76 75.04 74.05 73.57 75.30 76.23 73.80 74.74 73.94 75.44 75.96 73.37 71.52 73.24 73.74 79.05 75.87 76.17 72.81 72.92 74.14 73.44 75.14 72.46 71.69 72.42 70.02 70.02 73.45 72.12 71.06 70.85 71.84 69.72 71.12 74.37 70.59 72.25 71.29 69.87 71.44 70.32 70.88 70.51 70.42 68.86 71.24 70.96 71.52 70.30 72.62 71.55 72.15 70.05 71.50 74.36 72.13 73.88 72.22 71.92 70.84 71.54 72.56 71.07 69.71 70.50 71.21 71.11 71.39 70.87 69.61 70.14 68.96 69.92 69.65 70.29 68.33 72.01 72.59 69.69 71.05 68.85 68.83 69.65 68.80 68.55 68.92 69.20 68.86 68.36 68.15 69.38 68.69 69.28 70.10 68.98 68.05 69.18 68.37 68.01 68.08 69.92 68.79 67.58 68.19 68.26 68.73 68.42 68.50 69.14 69.46 68.37 68.99 68.75 68.70 67.37 68.93 68.20 67.64 68.21 68.33 67.87 67.92 68.35 67.84 68.81 66.39 66.98 67.15 66.27 67.93 65.83 67.40 68.07 67.62 67.44 67.66 66.85 66.99 67.15 67.46 67.35 65.79 67.76 66.14 66.21 66.04 68.07 67.68 67.59 65.62 65.63 67.02 65.82 65.03 66.37 65.84 65.52 65.32 66.07 65.37 65.98 65.53 65.13 65.13 65.92 65.91 64.55 63.66 65.77 67.36 64.69 64.33 63.16 63.74 65.02 64.91 65.07 65.34 65.98 66.02 65.25 64.84 65.15 63.58 63.74 63.91 63.60 65.00 63.89 63.78 64.05 64.29 64.15 64.39 63.47 62.84 62.51 62.96 63.19 63.72 63.48 61.95 61.66 61.98 63.44 66.07 66.71 66.70 68.68 66.02 67.98 67.91 67.26 68.09 66.32 67.30 67.87 68.32 69.58 69.10 67.36 67.82 69.31 68.11 67.41 67.65 68.55 68.15 67.68 67.51 67.44 67.99 67.50 68.99 69.26 68.89 68.50 67.96 69.41 69.85 69.79 69.25 68.41 67.70 66.91 68.23 69.08 69.96 69.39 69.39 67.56 68.53 70.07 69.60 68.36 67.84 67.39 66.94 67.73 68.93 69.18 68.69 68.71 66.79 68.80 68.60 67.96 68.95 67.17 67.37 67.07 66.78 68.19 67.56 67.63 68.36 66.79 66.80 67.51 67.22 67.34 65.83 64.97 66.11 65.29 65.23 64.59 64.84 62.95 63.25 64.06 64.28 63.61 64.73 64.32 64.47 63.95 63.09 63.69 63.29 64.06 63.26 62.09 63.37 63.94 64.42 63.48 63.94 63.32 63.29 62.54 62.60 64.61 63.28 62.64 61.64 62.15 63.08 62.85 61.76 61.62 62.93 62.28 61.41 63.04 62.93 60.41 62.01 64.82 62.55 62.04 61.89 62.37 62.65 61.38 62.28 62.99 61.76 62.38 62.29 63.56 62.29 62.48 61.71 61.56 62.83 62.78 61.75 62.32 61.07 62.17 62.04 62.95 61.23 61.43 60.81 60.36 60.40 61.31 61.68 60.36 61.31 60.34 61.27 61.86 60.02 59.32 59.42 61.02 62.00 61.29 59.19 58.13 59.79 61.03 61.53 60.57 60.75 61.30 61.00 59.62 61.14 60.87 60.32 60.02 61.16 60.95 60.59 60.71 59.85 60.72 59.52 58.14 58.64 58.82 58.61 55.42 57.69 56.76 56.54 57.31 56.82 53.76 55.43 72.89 82.62 82.39 82.76 78.75 79.04 77.55 73.44 80.50 80.35 78.42 78.64 78.10 77.30 77.24 77.97 78.42 73.21 75.37 74.28 73.07 79.82 74.88 76.31 73.33 69.81 80.48 75.14 74.75 76.61 75.82 76.98 77.64 77.36 77.04 77.94 80.91 81.00 78.01 78.31 79.32 75.95 80.83 77.85 76.14 75.61 75.75 74.85 74.63 71.29 78.51 78.74 75.01 70.16 72.83 80.56 73.89 78.62 74.18 77.77 73.65 70.31 78.92 75.50 75.68 75.61 75.34 73.14 71.84 68.84 69.41 51.93 51.72 51.27 50.98 50.49 50.71 51.46 50.48 52.47 51.37 51.55 53.10 52.19 50.54 52.18 52.11 50.72 49.63 51.04 50.30 50.08 51.07 69.30 78.18 80.41 76.97 75.28 81.08 83.86 79.53 68.36 76.98 77.94 78.36 76.51 75.12 76.84 75.32 78.35 77.33 73.38 65.65 51.36 78.55 78.41 78.92 75.82 68.80 80.93 76.93 57.95 79.84 76.59 75.62 80.22 79.51 79.83 78.55 78.68 79.02 79.31 82.80 78.27 79.51 74.12 67.30 81.26 78.75 79.51 71.51 76.76 81.54 71.71 73.40 71.76 73.87 71.86 69.58 55.89 51.22 51.56 52.90 55.84 57.12 58.19 57.50 57.83 58.97 58.70 59.25 62.06 60.92 62.49 60.68 60.04 65.89 64.42 64.43 63.74 63.77 75.46 76.93 70.92 75.18 74.04 73.52 71.63 78.36 74.99 74.63 79.27 80.85 79.53 77.73 76.27 78.75 81.61 78.72 80.96 80.11 79.17 71.66 70.63 71.71 70.62 69.83 73.05 71.47 71.53 68.60 71.59 71.77 69.99 71.83 67.21 71.98 71.84 71.98 70.51 70.35 70.49 68.98 67.32 66.02 64.22 67.18 66.41 66.25 63.68 68.61 69.81 68.51 68.98 66.93 66.78 70.76 69.29 70.34 75.94 81.77 83.64 81.77 79.75 80.48 77.95 78.81 79.68 81.23 79.76 83.50 79.95 82.29 79.41 85.05 82.01 77.61 83.40 82.88 83.03 81.62 82.52 81.20 78.07 83.32 77.24 84.48 79.03 74.65 79.67 76.50 77.08 74.66 60.21 63.88 66.65 75.40 77.19 80.07 84.92 82.87 82.67 82.46 82.10 79.45 80.66 79.18 82.74 78.02 76.84 72.64 67.37 65.66 64.66 68.88 67.94 79.28 83.01 81.15 83.89 81.86 80.13 82.98 79.41 78.39 75.46 76.52 76.76 68.61 63.25 62.60 78.87 82.97 82.95 81.23 79.23 80.14 80.37 80.84 77.23 78.66 83.49 80.85 80.06 82.04 80.00 76.50 76.73 73.25 64.63 64.65 65.25 63.37 70.13 68.51 69.12 68.74 67.24 70.61 71.71 72.96 70.65 70.69 72.49 73.58 77.86 80.99 81.11 82.61 84.51 86.77 86.58 84.29 83.32 83.48 81.62 80.09 79.05 78.93 77.17 79.25 77.44 74.66 74.42 76.69 78.26 77.18 76.60 75.22 76.08 74.21 73.85 72.95 70.88 73.01 72.31 71.30 72.89 71.90 73.01 70.06 70.33 69.07 70.78 70.47 71.82 69.60 75.23 73.93 70.30 71.58 74.62 70.78 68.89 69.33 69.93 78.20 75.95 74.25 71.39 74.69 74.03 75.87 74.79 71.10 77.17 78.66 75.76 74.75 72.94 74.44 73.33 72.35 72.00 72.61 81.15"
+                },
+
+                {
+                        "id": "ffe3da98-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "subtitle1",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3467883,
+                        "end": 3471175,
+                        "content": "<i>that has no analog\nfor future projections.</i>"
+                },
+
+                {
+                        "id": "e6ace827-5da6-11ed-81a4-0c9d92c28c04",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3468690,
+                        "end": 3474648,
+                        "content": "This has put our climate system into a state that has no analog for future projections."
+                },
+
+                {
+                        "id": "23fd423d-5da8-11ed-b60a-0c9d92c28c04",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3468690,
+                        "end": 3474648,
+                        "content": "suffering"
+                },
+
+                {
+                        "id": "efcc6c92-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "subtitle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3469151,
+                        "end": 3473189,
+                        "content": "<i>sea level rise\nand ocean acidification.</i>"
+                },
+
+                {
+                        "id": "cb0cc37a-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3470053,
+                        "end": 3476601,
+                        "content": "457"
+                },
+
+                {
+                        "id": "e7d6f325-59ca-11ed-9571-0c9d92c28c04",
+                        "type": "Scene",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3470053,
+                        "end": 3611486,
+                        "content": "Scene 17_Climate Change 1_Gudong Seawall"
+                },
+
+                {
+                        "id": "fa0ab5c3-59cb-11ed-983a-0c9d92c28c04",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3470053,
+                        "end": 3476601,
+                        "content": "neither"
+                },
+
+                {
+                        "id": "febb9412-59cd-11ed-aa2d-0c9d92c28c04",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3470053,
+                        "end": 3476601,
+                        "content": "1"
+                },
+
+                {
+                        "id": "05458b1c-59ce-11ed-9290-0c9d92c28c04",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3470053,
+                        "end": 3476601,
+                        "content": ""
+                },
+
+                {
+                        "id": "cc9163d9-59d1-11ed-83a4-0c9d92c28c04",
+                        "type": "ColourRange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3470053,
+                        "end": 3476601,
+                        "content": "black,antiquewhite"
+                },
+
+                {
+                        "id": "ce920103-59d1-11ed-bef5-0c9d92c28c04",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3470053,
+                        "end": 3476601,
+                        "content": "dark"
+                },
+
+                {
+                        "id": "d148b617-59d1-11ed-94db-0c9d92c28c04",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3470053,
+                        "end": 3476601,
+                        "content": "writing"
+                },
+
+                {
+                        "id": "d3761422-59e5-11ed-9447-0c9d92c28c04",
+                        "type": "RecordingPlaybackSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3470053,
+                        "end": 3611486,
+                        "content": "normal"
+                },
+
+                {
+                        "id": "d8beb642-59e5-11ed-9fc8-0c9d92c28c04",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3470053,
+                        "end": 3476601,
+                        "content": "1"
+                },
+
+                {
+                        "id": "d1e14792-59ec-11ed-ae68-0c9d92c28c04",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3470053,
+                        "end": 3476601,
+                        "content": "static"
+                },
+
+                {
+                        "id": "dccf7f7c-59ec-11ed-a391-0c9d92c28c04",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3470053,
+                        "end": 3476601,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "c0cd06af-59f9-11ed-928d-0c9d92c28c04",
+                        "type": "MusicMood",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3474300,
+                        "end": 3622973,
+                        "content": "calm"
+                },
+
+                {
+                        "id": "29175499-5a8e-11ed-aede-0c9d92c28c04",
+                        "type": "MusicIntensity",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3474300,
+                        "end": 3622973,
+                        "content": "1,[TO],2"
+                },
+
+                {
+                        "id": "d7b73ce8-59f9-11ed-99c0-0c9d92c28c04",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3476434,
+                        "end": 3502626,
+                        "content": "subside,[VS],swell"
+                },
+
+                {
+                        "id": "cb0cde46-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3476601,
+                        "end": 3493535,
+                        "content": "460"
+                },
+
+                {
+                        "id": "05458b1d-59ce-11ed-af02-0c9d92c28c04",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3476601,
+                        "end": 3483737,
+                        "content": ""
+                },
+
+                {
+                        "id": "ca4b4a85-59ce-11ed-bc84-0c9d92c28c04",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3476601,
+                        "end": 3483737,
+                        "content": "2"
+                },
+
+                {
+                        "id": "d2844d3c-59ce-11ed-a725-0c9d92c28c04",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3476601,
+                        "end": 3483737,
+                        "content": "extreme closeup,[TO],long shot"
+                },
+
+                {
+                        "id": "cc918af0-59d1-11ed-a075-0c9d92c28c04",
+                        "type": "ColourRange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3476601,
+                        "end": 3493535,
+                        "content": "grey,white,black,cyan"
+                },
+
+                {
+                        "id": "ce92280b-59d1-11ed-b61f-0c9d92c28c04",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3476601,
+                        "end": 3493535,
+                        "content": "bright-dark"
+                },
+
+                {
+                        "id": "d148dd26-59d1-11ed-aead-0c9d92c28c04",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3476601,
+                        "end": 3483737,
+                        "content": "object"
+                },
+
+                {
+                        "id": "d5b66363-59e5-11ed-ad89-0c9d92c28c04",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3476601,
+                        "end": 3483737,
+                        "content": "down,[VS],up"
+                },
+
+                {
+                        "id": "d8bedd63-59e5-11ed-9a8c-0c9d92c28c04",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3476601,
+                        "end": 3483737,
+                        "content": "3"
+                },
+
+                {
+                        "id": "d1e16ea7-59ec-11ed-8ada-0c9d92c28c04",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3476601,
+                        "end": 3483737,
+                        "content": "minimal"
+                },
+
+                {
+                        "id": "dccf7f7d-59ec-11ed-a939-0c9d92c28c04",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3476601,
+                        "end": 3483737,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "f6e0f13a-59f7-11ed-9c60-0c9d92c28c04",
+                        "type": "MontageFigureMacro",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3476601,
+                        "end": 3493535,
+                        "content": "tbd"
+                },
+
+                {
+                        "id": "3330df7a-5edb-11ed-8b3d-acbc32b57d75",
+                        "type": "MontageFigureMicro",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3476601,
+                        "end": 3493535,
+                        "content": "match cut"
+                },
+
+                {
+                        "id": "ffe3eccc-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "subtitle1",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3478425,
+                        "end": 3482300,
+                        "content": "<i>Climate change results in\nunstable global temperatures,</i>"
+                },
+
+                {
+                        "id": "282f43f4-5da7-11ed-9eeb-0c9d92c28c04",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3482222,
+                        "end": 3491644,
+                        "content": "Climate change results in unstable global temperatures, extreme wheather events, sea level rise and ocean acidification."
+                },
+
+                {
+                        "id": "22aec287-5da8-11ed-9d74-0c9d92c28c04",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3482222,
+                        "end": 3491644,
+                        "content": "suffering"
+                },
+
+                {
+                        "id": "ffe3fdca-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "subtitle1",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3482342,
+                        "end": 3483925,
+                        "content": "<i>extreme weather events,</i>"
+                },
+
+                {
+                        "id": "4092095e-59ce-11ed-9701-0c9d92c28c04",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3483737,
+                        "end": 3488452,
+                        "content": ""
+                },
+
+                {
+                        "id": "cb24951f-59ce-11ed-bb05-0c9d92c28c04",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3483737,
+                        "end": 3488452,
+                        "content": "3"
+                },
+
+                {
+                        "id": "d3ca18fb-59ce-11ed-bc89-0c9d92c28c04",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3483737,
+                        "end": 3488452,
+                        "content": "extreme closeup,[TO],medium long shot"
+                },
+
+                {
+                        "id": "d148dd27-59d1-11ed-be8a-0c9d92c28c04",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3483737,
+                        "end": 3488452,
+                        "content": "object"
+                },
+
+                {
+                        "id": "d5b66364-59e5-11ed-9fc8-0c9d92c28c04",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3483737,
+                        "end": 3488452,
+                        "content": "down,[VS],up"
+                },
+
+                {
+                        "id": "d8bedd64-59e5-11ed-bd45-0c9d92c28c04",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3483737,
+                        "end": 3488452,
+                        "content": "3"
+                },
+
+                {
+                        "id": "d1e195b9-59ec-11ed-a7e3-0c9d92c28c04",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3483737,
+                        "end": 3488452,
+                        "content": "minimal"
+                },
+
+                {
+                        "id": "dccf7f7e-59ec-11ed-8c62-0c9d92c28c04",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3483737,
+                        "end": 3488452,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "ffe4113e-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "subtitle1",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3483967,
+                        "end": 3487967,
+                        "content": "<i>sea level rise\n.</i>"
+                },
+
+                {
+                        "id": "5f3ecbe2-59ce-11ed-b680-0c9d92c28c04",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3488452,
+                        "end": 3493535,
+                        "content": ""
+                },
+
+                {
+                        "id": "cbe312d6-59ce-11ed-8349-0c9d92c28c04",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3488452,
+                        "end": 3493535,
+                        "content": "4"
+                },
+
+                {
+                        "id": "d4985a07-59ce-11ed-a026-0c9d92c28c04",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3488452,
+                        "end": 3493535,
+                        "content": "extreme closeup,[TO],medium shot"
+                },
+
+                {
+                        "id": "d1490440-59d1-11ed-aade-0c9d92c28c04",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3488452,
+                        "end": 3493535,
+                        "content": "object"
+                },
+
+                {
+                        "id": "d5b68a64-59e5-11ed-ab7e-0c9d92c28c04",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3488452,
+                        "end": 3493535,
+                        "content": "down,[VS],up"
+                },
+
+                {
+                        "id": "d8bedd65-59e5-11ed-a5e0-0c9d92c28c04",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3488452,
+                        "end": 3493535,
+                        "content": "3"
+                },
+
+                {
+                        "id": "d1e195ba-59ec-11ed-bb2a-0c9d92c28c04",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3488452,
+                        "end": 3493535,
+                        "content": "minimal"
+                },
+
+                {
+                        "id": "dccf7f7f-59ec-11ed-ada2-0c9d92c28c04",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3488452,
+                        "end": 3493535,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "ffe4424e-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "subtitle1",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3489217,
+                        "end": 3491342,
+                        "content": "[waves crashing]"
+                },
+
+                {
+                        "id": "cb0d0be6-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3493535,
+                        "end": 3502585,
+                        "content": "465"
+                },
+
+                {
+                        "id": "fa0adcd3-59cb-11ed-b592-0c9d92c28c04",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3493535,
+                        "end": 3502585,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "febbbb10-59cd-11ed-8858-0c9d92c28c04",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3493535,
+                        "end": 3502585,
+                        "content": "5"
+                },
+
+                {
+                        "id": "05458b1e-59ce-11ed-bceb-0c9d92c28c04",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3493535,
+                        "end": 3502585,
+                        "content": ""
+                },
+
+                {
+                        "id": "ce92280c-59d1-11ed-a571-0c9d92c28c04",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3493535,
+                        "end": 3507090,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "d1490441-59d1-11ed-a125-0c9d92c28c04",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3493535,
+                        "end": 3502585,
+                        "content": "object"
+                },
+
+                {
+                        "id": "d5b68a65-59e5-11ed-8f6f-0c9d92c28c04",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3493535,
+                        "end": 3502585,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "d8bf0463-59e5-11ed-8ccb-0c9d92c28c04",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3493535,
+                        "end": 3502585,
+                        "content": "2"
+                },
+
+                {
+                        "id": "d1e195bb-59ec-11ed-ac39-0c9d92c28c04",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3493535,
+                        "end": 3502585,
+                        "content": "static"
+                },
+
+                {
+                        "id": "dccf7f80-59ec-11ed-816f-0c9d92c28c04",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3493535,
+                        "end": 3502585,
+                        "content": "top shot"
+                },
+
+                {
+                        "id": "6d1105a2-5e7d-11ed-9a16-7242363b2847",
+                        "type": "ColourRange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3493535,
+                        "end": 3611486,
+                        "content": "grey,cyan,white"
+                },
+
+                {
+                        "id": "ebf3d55c-4a3c-11ed-85b6-4c327598eb11",
+                        "type": "sound_enveloppe",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3500000,
+                        "end": 3600000,
+                        "content": "78.88 76.20 75.99 76.23 78.42 78.57 80.68 77.05 80.22 82.93 78.51 77.15 75.32 76.41 74.81 78.25 77.33 75.53 82.25 78.85 77.62 79.54 78.44 80.39 75.79 78.01 78.32 81.35 79.14 80.30 79.95 76.27 80.11 80.47 80.31 80.20 78.96 84.51 82.50 80.90 81.68 81.35 82.20 81.04 82.40 81.30 82.19 79.48 82.91 80.51 80.31 83.59 78.30 80.93 81.16 82.11 81.23 84.05 82.53 79.92 80.66 83.19 83.02 81.98 80.08 85.63 80.70 82.64 79.45 80.41 81.67 81.86 77.59 78.38 85.76 82.31 83.05 82.69 81.47 84.06 83.91 81.89 80.33 81.23 82.49 81.45 80.29 78.67 82.00 83.20 83.30 81.22 81.89 83.77 83.38 83.20 83.70 80.35 83.44 81.57 79.10 78.07 83.63 84.76 82.28 81.56 81.17 81.24 79.75 80.67 81.01 82.57 82.42 81.61 79.43 78.28 80.29 80.67 80.47 78.30 81.64 82.50 80.99 80.14 79.37 80.86 79.76 78.44 81.37 82.17 83.44 82.02 79.78 81.06 79.93 82.57 85.01 79.17 79.96 83.73 83.33 82.70 80.42 79.96 80.76 78.91 81.96 82.38 86.30 81.57 82.37 80.99 82.25 83.18 83.81 82.45 80.12 81.81 81.10 82.96 84.29 83.53 84.21 85.65 84.54 82.52 83.78 84.53 81.58 81.65 84.98 81.83 86.34 87.84 85.46 83.30 84.14 83.24 83.70 81.40 81.77 81.50 78.80 77.74 81.49 82.39 81.62 80.70 79.01 81.34 82.58 80.97 79.70 78.86 80.80 79.60 81.82 78.27 78.97 80.37 79.70 78.60 78.59 84.28 81.25 79.92 79.44 79.71 79.82 79.66 78.18 78.29 80.29 77.31 78.27 77.82 76.90 77.41 78.73 77.73 78.33 79.49 78.77 78.96 78.30 77.95 80.83 79.95 77.94 78.99 82.10 79.07 79.06 77.66 78.80 78.30 76.11 74.15 78.85 80.09 79.36 78.34 82.63 79.92 82.95 79.57 79.71 82.53 80.32 80.19 78.68 72.73 78.79 77.32 78.10 78.26 86.22 86.28 83.45 82.43 85.29 81.86 88.62 85.09 86.47 83.58 81.09 81.49 78.78 82.36 80.91 76.72 80.25 80.70 83.19 81.36 81.24 81.96 83.88 83.10 87.32 86.51 85.13 80.68 80.52 80.76 81.65 70.68 67.73 71.89 78.87 83.35 81.29 84.39 84.26 81.64 80.01 77.80 77.19 78.35 77.97 75.46 73.25 74.52 76.62 82.26 78.79 76.87 80.33 82.17 81.53 83.09 75.00 77.54 74.93 76.39 75.01 77.72 77.14 75.63 73.47 76.63 81.20 77.12 75.00 73.92 79.75 76.22 74.67 72.79 78.19 77.41 75.98 74.01 76.64 81.29 77.88 78.34 76.84 79.58 79.77 80.18 82.12 82.42 84.86 83.25 81.47 81.16 81.46 79.23 77.16 78.61 81.68 78.44 76.17 76.56 78.93 79.98 80.26 79.75 79.40 80.67 78.32 75.36 77.45 78.56 78.89 85.46 83.65 85.65 85.42 87.46 87.12 83.30 84.19 82.79 82.61 85.76 86.40 82.19 80.56 80.25 83.15 77.05 74.74 72.18 74.56 86.48 86.85 85.32 78.98 86.28 83.19 69.64 72.29 79.18 84.04 82.34 79.50 86.71 78.02 83.27 82.40 88.30 85.86 84.77 82.40 74.50 81.48 78.82 83.54 84.36 82.45 83.38 83.84 81.73 81.96 82.70 76.91 68.48 70.62 75.04 74.29 82.63 84.42 81.17 69.25 73.11 77.59 76.37 72.37 77.72 79.86 81.73 77.64 76.26 83.99 85.73 86.35 82.44 84.07 84.76 85.49 85.32 85.03 83.48 82.88 79.37 77.76 73.43 77.21 76.39 72.62 76.39 76.37 77.21 79.33 80.13 75.33 78.03 81.27 79.36 81.46 77.68 80.20 78.22 77.28 78.88 78.04 77.60 79.21 79.17 78.79 78.83 77.17 77.95 79.29 81.88 80.60 81.30 80.68 80.11 77.00 78.00 80.49 82.92 80.81 79.89 81.62 83.34 83.32 83.44 83.22 82.21 83.07 78.03 80.14 81.25 82.60 80.31 79.91 81.09 82.86 80.80 79.09 76.63 80.37 78.71 79.54 77.40 76.82 80.49 82.09 79.59 77.69 79.53 73.72 85.84 88.59 88.41 84.31 85.01 76.52 82.84 83.62 83.86 84.38 83.10 84.02 81.76 88.34 87.49 78.50 84.30 83.40 81.23 75.35 82.52 84.75 77.27 73.45 77.04 74.76 75.37 80.56 83.29 83.58 77.72 90.08 92.06 80.87 75.59 79.27 91.05 88.62 87.45 84.73 84.21 84.78 85.97 81.83 81.75 84.06 80.40 88.03 87.25 86.41 85.25 85.76 84.70 76.75 79.42 76.51 76.93 76.59 81.95 80.83 80.94 82.74 85.38 81.55 82.21 81.48 81.27 82.72 80.94 82.30 78.20 73.82 73.39 73.58 72.68 72.51 71.38 76.87 74.76 75.91 74.74 74.11 73.20 71.68 70.40 76.08 77.84 75.72 75.50 77.26 76.24 75.44 76.38 77.56 74.30 76.91 76.19 76.76 79.70 76.44 76.11 75.19 76.46 75.47 77.13 76.81 76.37 75.43 74.21 72.31 77.56 77.34 74.67 72.94 75.12 73.41 73.96 73.81 77.06 75.86 75.67 72.74 75.42 77.29 75.70 72.96 72.09 77.22 75.74 73.10 73.75 74.52 73.16 72.90 73.01 80.54 80.30 85.17 85.59 85.23 85.93 85.19 83.09 81.31 87.14 84.62 82.43 83.98 85.46 84.41 70.11 70.13 66.98 82.34 82.24 82.51 68.13 84.50 84.26 84.42 84.19 85.05 86.48 85.92 73.25 78.04 79.08 82.24 82.28 73.92 84.87 84.04 85.33 76.28 79.97 79.15 82.55 82.16 79.19 78.28 79.97 78.51 78.77 79.48 78.97 76.82 74.87 76.85 81.48 84.99 81.53 80.25 76.50 72.35 69.70 68.83 70.54 70.40 67.76 72.37 71.61 71.07 70.62 70.17 72.58 72.94 71.25 70.15 71.13 68.82 68.69 69.02 77.62 79.23 82.80 86.11 83.00 74.73 83.68 84.94 84.64 88.35 75.60 81.83 63.40 63.62 63.00 83.07 85.82 81.36 85.14 82.71 79.17 83.64 81.95 84.29 84.28 65.71 67.52 66.88 67.58 67.92 82.93 83.68 85.61 82.00 82.96 86.01 82.13 81.60 83.41 81.84 80.95 86.66 85.66 78.41 76.57 69.76 70.11 76.91 79.33 82.51 85.47 85.29 82.87 77.68 78.53 78.33 78.63 75.77 74.90 74.99 83.84 83.28 72.97 72.96 68.15 68.45 70.79 69.37 74.65 73.24 70.38 67.79 67.82 67.01 67.67 68.93 72.86 75.15 73.77 72.48 68.05 65.42 67.90 66.75 65.55 76.63 79.58 74.77 71.89 83.82 84.54 84.46 87.45 87.35 83.54 74.22 72.50 68.83 69.67 80.95 80.01 77.21 83.28 81.83 83.38 82.27 81.88 79.49 78.90 78.06 79.39 87.02 82.07 77.92 74.49 70.95 69.34 69.31 79.66 84.01 75.12 84.05 79.02 72.57 73.43 70.39 69.82 71.29 70.10 71.17 73.57 74.47 70.69 72.35 70.81 71.69 71.08 67.96 73.72 84.21 81.85 78.89 80.63 79.20 79.52 77.83 83.79 85.59 83.08 76.92 77.16 79.83 69.32 66.02 71.89 80.80 83.35 82.02 84.58 75.88 82.80 84.52 82.06 77.39 81.69 80.40 82.24 82.01 81.93 74.19 71.70 80.23 77.65 69.84 68.33 68.82 68.25 67.73 72.59 80.96 84.50 81.83 78.90 75.17 76.57 78.44 78.50 84.08 73.68 76.56 83.61 74.68 75.79 70.59 64.22 70.23 69.59 67.35 67.51 70.77 69.27 68.07 65.69 68.38 66.63 66.02 65.64 79.68 79.42 76.17 68.28 83.51 86.20 86.00 81.98 83.08 77.90 85.34 81.40 84.77 81.59 81.18 82.54 74.44 80.62 80.09 81.33 77.80 76.29 71.19 72.47 70.81 69.18 67.24 65.38 78.08 75.83 73.41 73.78 73.89 74.18 74.38 72.74 77.30 75.85 74.70 73.29 73.87 71.90 71.17 69.93 76.43 74.36 74.85 73.13 73.53 72.37 74.24 76.49 75.18 76.36 75.16 73.44 72.72 73.67 74.99 73.92 74.72 74.14 73.63 71.62"
+                },
+
+                {
+                        "id": "5dec27fc-5e7b-11ed-9a16-7242363b2847",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3500000,
+                        "end": 3600000,
+                        "content": "78.88 76.20 75.99 76.23 78.42 78.57 80.68 77.05 80.22 82.93 78.51 77.15 75.32 76.41 74.81 78.25 77.33 75.53 82.25 78.85 77.62 79.54 78.44 80.39 75.79 78.01 78.32 81.35 79.14 80.30 79.95 76.27 80.11 80.47 80.31 80.20 78.96 84.51 82.50 80.90 81.68 81.35 82.20 81.04 82.40 81.30 82.19 79.48 82.91 80.51 80.31 83.59 78.30 80.93 81.16 82.11 81.23 84.05 82.53 79.92 80.66 83.19 83.02 81.98 80.08 85.63 80.70 82.64 79.45 80.41 81.67 81.86 77.59 78.38 85.76 82.31 83.05 82.69 81.47 84.06 83.91 81.89 80.33 81.23 82.49 81.45 80.29 78.67 82.00 83.20 83.30 81.22 81.89 83.77 83.38 83.20 83.70 80.35 83.44 81.57 79.10 78.07 83.63 84.76 82.28 81.56 81.17 81.24 79.75 80.67 81.01 82.57 82.42 81.61 79.43 78.28 80.29 80.67 80.47 78.30 81.64 82.50 80.99 80.14 79.37 80.86 79.76 78.44 81.37 82.17 83.44 82.02 79.78 81.06 79.93 82.57 85.01 79.17 79.96 83.73 83.33 82.70 80.42 79.96 80.76 78.91 81.96 82.38 86.30 81.57 82.37 80.99 82.25 83.18 83.81 82.45 80.12 81.81 81.10 82.96 84.29 83.53 84.21 85.65 84.54 82.52 83.78 84.53 81.58 81.65 84.98 81.83 86.34 87.84 85.46 83.30 84.14 83.24 83.70 81.40 81.77 81.50 78.80 77.74 81.49 82.39 81.62 80.70 79.01 81.34 82.58 80.97 79.70 78.86 80.80 79.60 81.82 78.27 78.97 80.37 79.70 78.60 78.59 84.28 81.25 79.92 79.44 79.71 79.82 79.66 78.18 78.29 80.29 77.31 78.27 77.82 76.90 77.41 78.73 77.73 78.33 79.49 78.77 78.96 78.30 77.95 80.83 79.95 77.94 78.99 82.10 79.07 79.06 77.66 78.80 78.30 76.11 74.15 78.85 80.09 79.36 78.34 82.63 79.92 82.95 79.57 79.71 82.53 80.32 80.19 78.68 72.73 78.79 77.32 78.10 78.26 86.22 86.28 83.45 82.43 85.29 81.86 88.62 85.09 86.47 83.58 81.09 81.49 78.78 82.36 80.91 76.72 80.25 80.70 83.19 81.36 81.24 81.96 83.88 83.10 87.32 86.51 85.13 80.68 80.52 80.76 81.65 70.68 67.73 71.89 78.87 83.35 81.29 84.39 84.26 81.64 80.01 77.80 77.19 78.35 77.97 75.46 73.25 74.52 76.62 82.26 78.79 76.87 80.33 82.17 81.53 83.09 75.00 77.54 74.93 76.39 75.01 77.72 77.14 75.63 73.47 76.63 81.20 77.12 75.00 73.92 79.75 76.22 74.67 72.79 78.19 77.41 75.98 74.01 76.64 81.29 77.88 78.34 76.84 79.58 79.77 80.18 82.12 82.42 84.86 83.25 81.47 81.16 81.46 79.23 77.16 78.61 81.68 78.44 76.17 76.56 78.93 79.98 80.26 79.75 79.40 80.67 78.32 75.36 77.45 78.56 78.89 85.46 83.65 85.65 85.42 87.46 87.12 83.30 84.19 82.79 82.61 85.76 86.40 82.19 80.56 80.25 83.15 77.05 74.74 72.18 74.56 86.48 86.85 85.32 78.98 86.28 83.19 69.64 72.29 79.18 84.04 82.34 79.50 86.71 78.02 83.27 82.40 88.30 85.86 84.77 82.40 74.50 81.48 78.82 83.54 84.36 82.45 83.38 83.84 81.73 81.96 82.70 76.91 68.48 70.62 75.04 74.29 82.63 84.42 81.17 69.25 73.11 77.59 76.37 72.37 77.72 79.86 81.73 77.64 76.26 83.99 85.73 86.35 82.44 84.07 84.76 85.49 85.32 85.03 83.48 82.88 79.37 77.76 73.43 77.21 76.39 72.62 76.39 76.37 77.21 79.33 80.13 75.33 78.03 81.27 79.36 81.46 77.68 80.20 78.22 77.28 78.88 78.04 77.60 79.21 79.17 78.79 78.83 77.17 77.95 79.29 81.88 80.60 81.30 80.68 80.11 77.00 78.00 80.49 82.92 80.81 79.89 81.62 83.34 83.32 83.44 83.22 82.21 83.07 78.03 80.14 81.25 82.60 80.31 79.91 81.09 82.86 80.80 79.09 76.63 80.37 78.71 79.54 77.40 76.82 80.49 82.09 79.59 77.69 79.53 73.72 85.84 88.59 88.41 84.31 85.01 76.52 82.84 83.62 83.86 84.38 83.10 84.02 81.76 88.34 87.49 78.50 84.30 83.40 81.23 75.35 82.52 84.75 77.27 73.45 77.04 74.76 75.37 80.56 83.29 83.58 77.72 90.08 92.06 80.87 75.59 79.27 91.05 88.62 87.45 84.73 84.21 84.78 85.97 81.83 81.75 84.06 80.40 88.03 87.25 86.41 85.25 85.76 84.70 76.75 79.42 76.51 76.93 76.59 81.95 80.83 80.94 82.74 85.38 81.55 82.21 81.48 81.27 82.72 80.94 82.30 78.20 73.82 73.39 73.58 72.68 72.51 71.38 76.87 74.76 75.91 74.74 74.11 73.20 71.68 70.40 76.08 77.84 75.72 75.50 77.26 76.24 75.44 76.38 77.56 74.30 76.91 76.19 76.76 79.70 76.44 76.11 75.19 76.46 75.47 77.13 76.81 76.37 75.43 74.21 72.31 77.56 77.34 74.67 72.94 75.12 73.41 73.96 73.81 77.06 75.86 75.67 72.74 75.42 77.29 75.70 72.96 72.09 77.22 75.74 73.10 73.75 74.52 73.16 72.90 73.01 80.54 80.30 85.17 85.59 85.23 85.93 85.19 83.09 81.31 87.14 84.62 82.43 83.98 85.46 84.41 70.11 70.13 66.98 82.34 82.24 82.51 68.13 84.50 84.26 84.42 84.19 85.05 86.48 85.92 73.25 78.04 79.08 82.24 82.28 73.92 84.87 84.04 85.33 76.28 79.97 79.15 82.55 82.16 79.19 78.28 79.97 78.51 78.77 79.48 78.97 76.82 74.87 76.85 81.48 84.99 81.53 80.25 76.50 72.35 69.70 68.83 70.54 70.40 67.76 72.37 71.61 71.07 70.62 70.17 72.58 72.94 71.25 70.15 71.13 68.82 68.69 69.02 77.62 79.23 82.80 86.11 83.00 74.73 83.68 84.94 84.64 88.35 75.60 81.83 63.40 63.62 63.00 83.07 85.82 81.36 85.14 82.71 79.17 83.64 81.95 84.29 84.28 65.71 67.52 66.88 67.58 67.92 82.93 83.68 85.61 82.00 82.96 86.01 82.13 81.60 83.41 81.84 80.95 86.66 85.66 78.41 76.57 69.76 70.11 76.91 79.33 82.51 85.47 85.29 82.87 77.68 78.53 78.33 78.63 75.77 74.90 74.99 83.84 83.28 72.97 72.96 68.15 68.45 70.79 69.37 74.65 73.24 70.38 67.79 67.82 67.01 67.67 68.93 72.86 75.15 73.77 72.48 68.05 65.42 67.90 66.75 65.55 76.63 79.58 74.77 71.89 83.82 84.54 84.46 87.45 87.35 83.54 74.22 72.50 68.83 69.67 80.95 80.01 77.21 83.28 81.83 83.38 82.27 81.88 79.49 78.90 78.06 79.39 87.02 82.07 77.92 74.49 70.95 69.34 69.31 79.66 84.01 75.12 84.05 79.02 72.57 73.43 70.39 69.82 71.29 70.10 71.17 73.57 74.47 70.69 72.35 70.81 71.69 71.08 67.96 73.72 84.21 81.85 78.89 80.63 79.20 79.52 77.83 83.79 85.59 83.08 76.92 77.16 79.83 69.32 66.02 71.89 80.80 83.35 82.02 84.58 75.88 82.80 84.52 82.06 77.39 81.69 80.40 82.24 82.01 81.93 74.19 71.70 80.23 77.65 69.84 68.33 68.82 68.25 67.73 72.59 80.96 84.50 81.83 78.90 75.17 76.57 78.44 78.50 84.08 73.68 76.56 83.61 74.68 75.79 70.59 64.22 70.23 69.59 67.35 67.51 70.77 69.27 68.07 65.69 68.38 66.63 66.02 65.64 79.68 79.42 76.17 68.28 83.51 86.20 86.00 81.98 83.08 77.90 85.34 81.40 84.77 81.59 81.18 82.54 74.44 80.62 80.09 81.33 77.80 76.29 71.19 72.47 70.81 69.18 67.24 65.38 78.08 75.83 73.41 73.78 73.89 74.18 74.38 72.74 77.30 75.85 74.70 73.29 73.87 71.90 71.17 69.93 76.43 74.36 74.85 73.13 73.53 72.37 74.24 76.49 75.18 76.36 75.16 73.44 72.72 73.67 74.99 73.92 74.72 74.14 73.63 71.62"
+                },
+
+                {
+                        "id": "cb0d1514-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3502585,
+                        "end": 3507090,
+                        "content": "466"
+                },
+
+                {
+                        "id": "fa0adcd4-59cb-11ed-b94e-0c9d92c28c04",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3502585,
+                        "end": 3507090,
+                        "content": "shoulder closeup"
+                },
+
+                {
+                        "id": "febbbb11-59cd-11ed-b811-0c9d92c28c04",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3502585,
+                        "end": 3507090,
+                        "content": "6"
+                },
+
+                {
+                        "id": "05458b1f-59ce-11ed-981d-0c9d92c28c04",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3502585,
+                        "end": 3507090,
+                        "content": ""
+                },
+
+                {
+                        "id": "d1490442-59d1-11ed-8221-0c9d92c28c04",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3502585,
+                        "end": 3507090,
+                        "content": "object"
+                },
+
+                {
+                        "id": "d5b68a66-59e5-11ed-9976-0c9d92c28c04",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3502585,
+                        "end": 3507090,
+                        "content": "up"
+                },
+
+                {
+                        "id": "d8bf0464-59e5-11ed-8632-0c9d92c28c04",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3502585,
+                        "end": 3507090,
+                        "content": "2"
+                },
+
+                {
+                        "id": "d1e1bccd-59ec-11ed-adab-0c9d92c28c04",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3502585,
+                        "end": 3507090,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "dccfa68f-59ec-11ed-ad5e-0c9d92c28c04",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3502585,
+                        "end": 3507090,
+                        "content": "extreme high-angle"
+                },
+
+                {
+                        "id": "a026d88e-59f5-11ed-b970-0c9d92c28c04",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3502585,
+                        "end": 3507090,
+                        "content": "down,left"
+                },
+
+                {
+                        "id": "2028d592-59f8-11ed-b9bc-0c9d92c28c04",
+                        "type": "MontageFigureMacro",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3502585,
+                        "end": 3551446,
+                        "content": "circular"
+                },
+
+                {
+                        "id": "69f222ae-5e80-11ed-8cb2-7242363b2847",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3502585,
+                        "end": 3507090,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "9bbd2d39-59fa-11ed-abe1-0c9d92c28c04",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3502874,
+                        "end": 3532998,
+                        "content": "whirring"
+                },
+
+                {
+                        "id": "cb0d1e2e-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3507090,
+                        "end": 3511052,
+                        "content": "467"
+                },
+
+                {
+                        "id": "fa0b03e5-59cb-11ed-a3d1-0c9d92c28c04",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3507090,
+                        "end": 3511052,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "febbbb12-59cd-11ed-a5e3-0c9d92c28c04",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3507090,
+                        "end": 3511052,
+                        "content": "7"
+                },
+
+                {
+                        "id": "05458b20-59ce-11ed-8661-0c9d92c28c04",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3507090,
+                        "end": 3511052,
+                        "content": ""
+                },
+
+                {
+                        "id": "ce924f19-59d1-11ed-adf6-0c9d92c28c04",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3507090,
+                        "end": 3511052,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "d1492b54-59d1-11ed-8022-0c9d92c28c04",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3507090,
+                        "end": 3511052,
+                        "content": "single,human being,object"
+                },
+
+                {
+                        "id": "141035d8-59e4-11ed-91b6-0c9d92c28c04",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3507090,
+                        "end": 3511052,
+                        "content": "cyan,red"
+                },
+
+                {
+                        "id": "d8bf0465-59e5-11ed-a71e-0c9d92c28c04",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3507090,
+                        "end": 3511052,
+                        "content": "2"
+                },
+
+                {
+                        "id": "d1e1bcce-59ec-11ed-914f-0c9d92c28c04",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3507090,
+                        "end": 3511052,
+                        "content": "static"
+                },
+
+                {
+                        "id": "dccfa690-59ec-11ed-ae8f-0c9d92c28c04",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3507090,
+                        "end": 3511052,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "cb0d26ee-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3511052,
+                        "end": 3517767,
+                        "content": "468"
+                },
+
+                {
+                        "id": "fa0b03e6-59cb-11ed-a34e-0c9d92c28c04",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3511052,
+                        "end": 3517767,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "febbe220-59cd-11ed-aa7d-0c9d92c28c04",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3511052,
+                        "end": 3517767,
+                        "content": "8"
+                },
+
+                {
+                        "id": "0545b232-59ce-11ed-8672-0c9d92c28c04",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3511052,
+                        "end": 3517767,
+                        "content": ""
+                },
+
+                {
+                        "id": "ce924f1a-59d1-11ed-99ba-0c9d92c28c04",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3511052,
+                        "end": 3517767,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "d1492b55-59d1-11ed-acb3-0c9d92c28c04",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3511052,
+                        "end": 3517767,
+                        "content": "object"
+                },
+
+                {
+                        "id": "d5b6b18a-59e5-11ed-a31d-0c9d92c28c04",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3511052,
+                        "end": 3517767,
+                        "content": "right"
+                },
+
+                {
+                        "id": "d8bf2b8b-59e5-11ed-911d-0c9d92c28c04",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3511052,
+                        "end": 3517767,
+                        "content": "2"
+                },
+
+                {
+                        "id": "d1e1e3de-59ec-11ed-8179-0c9d92c28c04",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3511052,
+                        "end": 3517767,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "d969318b-59ec-11ed-9082-0c9d92c28c04",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3511052,
+                        "end": 3517767,
+                        "content": "left"
+                },
+
+                {
+                        "id": "dccfa691-59ec-11ed-983c-0c9d92c28c04",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3511052,
+                        "end": 3517767,
+                        "content": "extreme high-angle"
+                },
+
+                {
+                        "id": "6b46d9e2-5e80-11ed-8cb2-7242363b2847",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3511052,
+                        "end": 3517767,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "cb0d31ac-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3517767,
+                        "end": 3523565,
+                        "content": "469"
+                },
+
+                {
+                        "id": "fa0b03e7-59cb-11ed-a1b4-0c9d92c28c04",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3517767,
+                        "end": 3523565,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "febbe221-59cd-11ed-80cc-0c9d92c28c04",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3517767,
+                        "end": 3523565,
+                        "content": "9"
+                },
+
+                {
+                        "id": "0545b233-59ce-11ed-b3cf-0c9d92c28c04",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3517767,
+                        "end": 3523565,
+                        "content": ""
+                },
+
+                {
+                        "id": "ce924f1b-59d1-11ed-bdf8-0c9d92c28c04",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3517767,
+                        "end": 3523565,
+                        "content": "bright"
+                },
+
+                {
+                        "id": "d1492b56-59d1-11ed-8491-0c9d92c28c04",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3517767,
+                        "end": 3523565,
+                        "content": "object,human being"
+                },
+
+                {
+                        "id": "4fa84aae-59e4-11ed-8bca-0c9d92c28c04",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3517767,
+                        "end": 3523565,
+                        "content": "red"
+                },
+
+                {
+                        "id": "d5b6b18b-59e5-11ed-9346-0c9d92c28c04",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3517767,
+                        "end": 3523565,
+                        "content": "down,left"
+                },
+
+                {
+                        "id": "d8bf2b8c-59e5-11ed-98a3-0c9d92c28c04",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3517767,
+                        "end": 3523565,
+                        "content": "2"
+                },
+
+                {
+                        "id": "d1e1e3df-59ec-11ed-8932-0c9d92c28c04",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3517767,
+                        "end": 3523565,
+                        "content": "pan,tilt"
+                },
+
+                {
+                        "id": "d5271ea7-59ec-11ed-aa5a-0c9d92c28c04",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3517767,
+                        "end": 3523565,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "d969318c-59ec-11ed-acd5-0c9d92c28c04",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3517767,
+                        "end": 3523565,
+                        "content": "right,down"
+                },
+
+                {
+                        "id": "dccfa692-59ec-11ed-9033-0c9d92c28c04",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3517767,
+                        "end": 3523565,
+                        "content": "low-angle,[TO],straight-angle"
+                },
+
+                {
+                        "id": "ffe4566c-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "subtitle1",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3521633,
+                        "end": 3524425,
+                        "content": "[man in Chinese]"
+                },
+
+                {
+                        "id": "cb0d3b02-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3523565,
+                        "end": 3531156,
+                        "content": "470"
+                },
+
+                {
+                        "id": "fa0b2afd-59cb-11ed-989d-0c9d92c28c04",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3523565,
+                        "end": 3531156,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "febbe222-59cd-11ed-8e4f-0c9d92c28c04",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3523565,
+                        "end": 3531156,
+                        "content": "10"
+                },
+
+                {
+                        "id": "0545b234-59ce-11ed-b96a-0c9d92c28c04",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3523565,
+                        "end": 3531156,
+                        "content": ""
+                },
+
+                {
+                        "id": "ce924f1c-59d1-11ed-855c-0c9d92c28c04",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3523565,
+                        "end": 3531156,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "d1495264-59d1-11ed-ab57-0c9d92c28c04",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3523565,
+                        "end": 3531156,
+                        "content": "object,human being,group"
+                },
+
+                {
+                        "id": "53076ac1-59e4-11ed-bae2-0c9d92c28c04",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3523565,
+                        "end": 3531156,
+                        "content": "red"
+                },
+
+                {
+                        "id": "d5b6d889-59e5-11ed-ac7b-0c9d92c28c04",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3523565,
+                        "end": 3531156,
+                        "content": "spin"
+                },
+
+                {
+                        "id": "d8bf2b8d-59e5-11ed-946d-0c9d92c28c04",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3523565,
+                        "end": 3531156,
+                        "content": "3"
+                },
+
+                {
+                        "id": "d1e20af5-59ec-11ed-a047-0c9d92c28c04",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3523565,
+                        "end": 3531156,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "d969318d-59ec-11ed-bc03-0c9d92c28c04",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3523565,
+                        "end": 3531156,
+                        "content": "circle"
+                },
+
+                {
+                        "id": "dccfa693-59ec-11ed-80cd-0c9d92c28c04",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3523565,
+                        "end": 3531156,
+                        "content": "extreme high-angle"
+                },
+
+                {
+                        "id": "6c17935c-5e80-11ed-8cb2-7242363b2847",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3523565,
+                        "end": 3531156,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "b5811925-5da7-11ed-9ee3-0c9d92c28c04",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3525429,
+                        "end": 3530166,
+                        "content": "Chinese/Mandarin (subtitles)"
+                },
+
+                {
+                        "id": "0f865006-5da8-11ed-beb9-0c9d92c28c04",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3525429,
+                        "end": 3530166,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "cb0d4480-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3531156,
+                        "end": 3534951,
+                        "content": "471"
+                },
+
+                {
+                        "id": "fa0b2afe-59cb-11ed-a41c-0c9d92c28c04",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3531156,
+                        "end": 3534951,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "febbe223-59cd-11ed-85da-0c9d92c28c04",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3531156,
+                        "end": 3534951,
+                        "content": "11"
+                },
+
+                {
+                        "id": "0545b235-59ce-11ed-9d0a-0c9d92c28c04",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3531156,
+                        "end": 3534951,
+                        "content": ""
+                },
+
+                {
+                        "id": "ce927632-59d1-11ed-bac9-0c9d92c28c04",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3531156,
+                        "end": 3565690,
+                        "content": "bright"
+                },
+
+                {
+                        "id": "d1495265-59d1-11ed-a7cd-0c9d92c28c04",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3531156,
+                        "end": 3534951,
+                        "content": "single,human being,object"
+                },
+
+                {
+                        "id": "5619a8f0-59e4-11ed-8e0d-0c9d92c28c04",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3531156,
+                        "end": 3534951,
+                        "content": "cyan,red"
+                },
+
+                {
+                        "id": "d8bf529a-59e5-11ed-9018-0c9d92c28c04",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3531156,
+                        "end": 3534951,
+                        "content": "1"
+                },
+
+                {
+                        "id": "d1e20af6-59ec-11ed-9b5d-0c9d92c28c04",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3531156,
+                        "end": 3534951,
+                        "content": "static"
+                },
+
+                {
+                        "id": "dccfa694-59ec-11ed-83b8-0c9d92c28c04",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3531156,
+                        "end": 3534951,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "6fc2e694-5a8d-11ed-a7f8-0c9d92c28c04",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3533693,
+                        "end": 3535383,
+                        "content": "swell"
+                },
+
+                {
+                        "id": "cb0d4d4a-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3534951,
+                        "end": 3538204,
+                        "content": "472"
+                },
+
+                {
+                        "id": "fa0b2aff-59cb-11ed-980c-0c9d92c28c04",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3534951,
+                        "end": 3538204,
+                        "content": "medium long shot"
+                },
+
+                {
+                        "id": "febbe224-59cd-11ed-9c73-0c9d92c28c04",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3534951,
+                        "end": 3538204,
+                        "content": "12"
+                },
+
+                {
+                        "id": "0545b236-59ce-11ed-afa0-0c9d92c28c04",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3534951,
+                        "end": 3538204,
+                        "content": ""
+                },
+
+                {
+                        "id": "d1495266-59d1-11ed-97a1-0c9d92c28c04",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3534951,
+                        "end": 3538204,
+                        "content": "object,single,human being"
+                },
+
+                {
+                        "id": "580abd8a-59e4-11ed-92c0-0c9d92c28c04",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3534951,
+                        "end": 3538204,
+                        "content": "red"
+                },
+
+                {
+                        "id": "d8bf529b-59e5-11ed-8cad-0c9d92c28c04",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3534951,
+                        "end": 3538204,
+                        "content": "2"
+                },
+
+                {
+                        "id": "5a4c79f1-59ea-11ed-b145-0c9d92c28c04",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3534951,
+                        "end": 3538204,
+                        "content": "down"
+                },
+
+                {
+                        "id": "d1e23208-59ec-11ed-9d7f-0c9d92c28c04",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3534951,
+                        "end": 3538204,
+                        "content": "minimal"
+                },
+
+                {
+                        "id": "dccfcd9f-59ec-11ed-94a4-0c9d92c28c04",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3534951,
+                        "end": 3538204,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "7b4c7a82-5a8d-11ed-b05a-0c9d92c28c04",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3535383,
+                        "end": 3537173,
+                        "content": "subside"
+                },
+
+                {
+                        "id": "c6e499f1-5da7-11ed-8c0d-0c9d92c28c04",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3535533,
+                        "end": 3545363,
+                        "content": "Chinese/Mandarin (subtitles)"
+                },
+
+                {
+                        "id": "0cb8b24a-5da8-11ed-a54b-0c9d92c28c04",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3535533,
+                        "end": 3545363,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "cb0d5664-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3538204,
+                        "end": 3545295,
+                        "content": "473"
+                },
+
+                {
+                        "id": "fa0b5209-59cb-11ed-aa00-0c9d92c28c04",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3538204,
+                        "end": 3545295,
+                        "content": "long shot"
+                },
+
+                {
+                        "id": "febbe225-59cd-11ed-8b42-0c9d92c28c04",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3538204,
+                        "end": 3545295,
+                        "content": "13"
+                },
+
+                {
+                        "id": "0545b237-59ce-11ed-9cbb-0c9d92c28c04",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3538204,
+                        "end": 3545295,
+                        "content": ""
+                },
+
+                {
+                        "id": "d1497970-59d1-11ed-bc05-0c9d92c28c04",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3538204,
+                        "end": 3545295,
+                        "content": "object,human being,group"
+                },
+
+                {
+                        "id": "59b23ae2-59e4-11ed-a137-0c9d92c28c04",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3538204,
+                        "end": 3545295,
+                        "content": "red"
+                },
+
+                {
+                        "id": "d5b6ff9b-59e5-11ed-92ce-0c9d92c28c04",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3538204,
+                        "end": 3545295,
+                        "content": "up"
+                },
+
+                {
+                        "id": "d8bf529c-59e5-11ed-9932-0c9d92c28c04",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3538204,
+                        "end": 3545295,
+                        "content": "1"
+                },
+
+                {
+                        "id": "d1e23209-59ec-11ed-9fe2-0c9d92c28c04",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3538204,
+                        "end": 3545295,
+                        "content": "minimal"
+                },
+
+                {
+                        "id": "dccfcda0-59ec-11ed-90b0-0c9d92c28c04",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3538204,
+                        "end": 3545295,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e59e8a26-5edc-11ed-8b3d-acbc32b57d75",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3543523,
+                        "end": 3565491,
+                        "content": "whirring"
+                },
+
+                {
+                        "id": "cb0d5f74-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3545295,
+                        "end": 3551467,
+                        "content": "474"
+                },
+
+                {
+                        "id": "fa0b520a-59cb-11ed-8eb2-0c9d92c28c04",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3545295,
+                        "end": 3551467,
+                        "content": "medium closeup"
+                },
+
+                {
+                        "id": "febc0931-59cd-11ed-988d-0c9d92c28c04",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3545295,
+                        "end": 3551467,
+                        "content": "14"
+                },
+
+                {
+                        "id": "0545d99a-59ce-11ed-8d8f-0c9d92c28c04",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3545295,
+                        "end": 3551467,
+                        "content": ""
+                },
+
+                {
+                        "id": "d1497971-59d1-11ed-b8f0-0c9d92c28c04",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3545295,
+                        "end": 3551467,
+                        "content": "single,human being,object"
+                },
+
+                {
+                        "id": "5b47af83-59e4-11ed-9888-0c9d92c28c04",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3545295,
+                        "end": 3551467,
+                        "content": "cyan,red"
+                },
+
+                {
+                        "id": "d5b6ff9c-59e5-11ed-944b-0c9d92c28c04",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3545295,
+                        "end": 3551467,
+                        "content": "towards,[VS],away"
+                },
+
+                {
+                        "id": "d8bf799a-59e5-11ed-8790-0c9d92c28c04",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3545295,
+                        "end": 3551467,
+                        "content": "2"
+                },
+
+                {
+                        "id": "d1e25915-59ec-11ed-888c-0c9d92c28c04",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3545295,
+                        "end": 3551467,
+                        "content": "static"
+                },
+
+                {
+                        "id": "dccfcda1-59ec-11ed-97bc-0c9d92c28c04",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3545295,
+                        "end": 3551467,
+                        "content": "low-angle"
+                },
+
+                {
+                        "id": "cb0d692e-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3551467,
+                        "end": 3565690,
+                        "content": "475"
+                },
+
+                {
+                        "id": "fa0b520b-59cb-11ed-957f-0c9d92c28c04",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3551467,
+                        "end": 3565690,
+                        "content": "extreme long shot"
+                },
+
+                {
+                        "id": "febc0932-59cd-11ed-8ada-0c9d92c28c04",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3551467,
+                        "end": 3565690,
+                        "content": "15"
+                },
+
+                {
+                        "id": "0545d99b-59ce-11ed-b3a3-0c9d92c28c04",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3551467,
+                        "end": 3565690,
+                        "content": ""
+                },
+
+                {
+                        "id": "d1497972-59d1-11ed-bbd2-0c9d92c28c04",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3551467,
+                        "end": 3565690,
+                        "content": "object,human being,group"
+                },
+
+                {
+                        "id": "64c51575-59e4-11ed-9a41-0c9d92c28c04",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3551467,
+                        "end": 3565690,
+                        "content": "orange"
+                },
+
+                {
+                        "id": "d5b6ff9d-59e5-11ed-a78b-0c9d92c28c04",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3551467,
+                        "end": 3565690,
+                        "content": "right"
+                },
+
+                {
+                        "id": "d8bf799b-59e5-11ed-9123-0c9d92c28c04",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3551467,
+                        "end": 3565690,
+                        "content": "1"
+                },
+
+                {
+                        "id": "d1e25916-59ec-11ed-bd3b-0c9d92c28c04",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3551467,
+                        "end": 3565690,
+                        "content": "static"
+                },
+
+                {
+                        "id": "dccfcda2-59ec-11ed-9edf-0c9d92c28c04",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3551467,
+                        "end": 3565690,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "d55ca7db-5da7-11ed-82ed-0c9d92c28c04",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3551579,
+                        "end": 3559559,
+                        "content": "Chinese/Mandarin (subtitles)"
+                },
+
+                {
+                        "id": "0a6e628d-5da8-11ed-8674-0c9d92c28c04",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3551579,
+                        "end": 3559559,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "ed8d2872-5da7-11ed-8ca8-0c9d92c28c04",
+                        "type": "DialogueText",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3565099,
+                        "end": 3596129,
+                        "content": "Chinese/Mandarin (subtitles)"
+                },
+
+                {
+                        "id": "089621e4-5da8-11ed-954f-0c9d92c28c04",
+                        "type": "DialogueEmotion",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3565099,
+                        "end": 3596129,
+                        "content": "neutral"
+                },
+
+                {
+                        "id": "cb0d7392-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3565690,
+                        "end": 3571321,
+                        "content": "476"
+                },
+
+                {
+                        "id": "fa0b791c-59cb-11ed-a1d3-0c9d92c28c04",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3565690,
+                        "end": 3571321,
+                        "content": "medium shot"
+                },
+
+                {
+                        "id": "febc0933-59cd-11ed-989e-0c9d92c28c04",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3565690,
+                        "end": 3571321,
+                        "content": "16"
+                },
+
+                {
+                        "id": "0545d99c-59ce-11ed-9c21-0c9d92c28c04",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3565690,
+                        "end": 3571321,
+                        "content": ""
+                },
+
+                {
+                        "id": "ce927634-59d1-11ed-a0fc-0c9d92c28c04",
+                        "type": "ImageBrightness",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3565690,
+                        "end": 3611486,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "d149a081-59d1-11ed-aefa-0c9d92c28c04",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3565690,
+                        "end": 3571321,
+                        "content": "single,human being"
+                },
+
+                {
+                        "id": "668f0a8f-59e4-11ed-a00d-0c9d92c28c04",
+                        "type": "ColourAccent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3565690,
+                        "end": 3571321,
+                        "content": "red,orange"
+                },
+
+                {
+                        "id": "d8bf799c-59e5-11ed-9c3b-0c9d92c28c04",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3565690,
+                        "end": 3571321,
+                        "content": "1"
+                },
+
+                {
+                        "id": "d1e28027-59ec-11ed-9014-0c9d92c28c04",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3565690,
+                        "end": 3571321,
+                        "content": "static"
+                },
+
+                {
+                        "id": "dccfcda3-59ec-11ed-b8fe-0c9d92c28c04",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3565690,
+                        "end": 3571321,
+                        "content": "straight-angle"
+                },
+
+                {
+                        "id": "e15d5256-5ed9-11ed-8b3d-acbc32b57d75",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3565690,
+                        "end": 3571321,
+                        "content": "undirected"
+                },
+
+                {
+                        "id": "39a97cf2-5edd-11ed-8b3d-acbc32b57d75",
+                        "type": "SoundGestureDynamics",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3571293,
+                        "end": 3587428,
+                        "content": "subside,[VS],swell"
+                },
+
+                {
+                        "id": "cb0d7cb6-4a3d-11ed-85b6-4c327598eb11",
+                        "type": "scenechange",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3571321,
+                        "end": 3611486,
+                        "content": "477"
+                },
+
+                {
+                        "id": "fa0b791d-59cb-11ed-9af3-0c9d92c28c04",
+                        "type": "FieldSize",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3571321,
+                        "end": 3611486,
+                        "content": "long shot,[TO],extreme long shot"
+                },
+
+                {
+                        "id": "febc0934-59cd-11ed-ab0f-0c9d92c28c04",
+                        "type": "Shot",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3571321,
+                        "end": 3611486,
+                        "content": "17"
+                },
+
+                {
+                        "id": "0545d99d-59ce-11ed-a7c9-0c9d92c28c04",
+                        "type": "ShotDuration",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3571321,
+                        "end": 3611486,
+                        "content": ""
+                },
+
+                {
+                        "id": "d149a082-59d1-11ed-a55f-0c9d92c28c04",
+                        "type": "ImageContent",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3571321,
+                        "end": 3611486,
+                        "content": "location"
+                },
+
+                {
+                        "id": "d5b726ae-59e5-11ed-99b6-0c9d92c28c04",
+                        "type": "DominantMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3571321,
+                        "end": 3611486,
+                        "content": "undirected,away"
+                },
+
+                {
+                        "id": "d8bfa0ac-59e5-11ed-ad93-0c9d92c28c04",
+                        "type": "ImageIntrinsicMovement",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3571321,
+                        "end": 3611486,
+                        "content": "1"
+                },
+
+                {
+                        "id": "d1e28028-59ec-11ed-8e81-0c9d92c28c04",
+                        "type": "CameraMovementType",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3571321,
+                        "end": 3611486,
+                        "content": "tracking shot"
+                },
+
+                {
+                        "id": "d52745ba-59ec-11ed-be93-0c9d92c28c04",
+                        "type": "CameraMovementSpeed",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3571321,
+                        "end": 3611486,
+                        "content": "medium"
+                },
+
+                {
+                        "id": "d9697fbc-59ec-11ed-9d80-0c9d92c28c04",
+                        "type": "CameraMovementDirection",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3571321,
+                        "end": 3611486,
+                        "content": "forward,up"
+                },
+
+                {
+                        "id": "dccfcda4-59ec-11ed-80ce-0c9d92c28c04",
+                        "type": "CameraAngle",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3571321,
+                        "end": 3611486,
+                        "content": "extreme high-angle,[TO],high-angle"
+                },
+
+                {
+                        "id": "ebf3f1e0-4a3c-11ed-85b6-4c327598eb11",
+                        "type": "sound_enveloppe",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3600000,
+                        "end": 3700000,
+                        "content": "74.00 71.69 73.33 73.60 73.08 74.83 72.87 73.92 76.95 77.64 77.09 77.02 77.76 77.58 76.46 76.58 76.00 76.38 75.44 77.51 81.14 78.97 76.67 76.03 78.47 80.23 78.60 79.68 79.83 78.93 75.59 76.91 80.73 77.35 74.69 76.76 78.50 78.57 77.71 76.26 78.38 76.00 76.23 76.72 78.33 79.90 77.32 80.24 79.44 78.96 78.19 79.28 81.21 79.68 78.41 79.45 81.06 79.08 81.16 84.04 81.02 79.72 76.00 73.57 77.27 77.60 77.59 81.42 79.78 79.05 77.51 79.60 78.55 77.00 77.26 79.73 79.55 77.25 76.29 78.00 77.53 76.95 77.18 78.62 78.64 77.75 77.02 77.17 75.56 74.64 73.83 78.13 77.91 77.25 76.21 76.19 77.93 76.63 75.87 77.79 78.16 76.73 74.63 74.18 73.85 72.92 70.78 73.83 75.45 72.70 70.98 73.34 72.99 72.98 70.44 75.93 74.88 73.65 72.95 72.52 69.55 66.82 66.74 71.30 73.36 70.92 69.35 67.38 70.83 69.68 68.44 72.80 71.48 70.44 69.12 70.47 71.54 70.76 69.98 71.07 72.11 70.04 66.49 65.59 64.12 65.07 63.47 63.85 66.36 65.21 63.73 62.74 63.19 61.63 60.45 63.24 63.50 61.27 61.01 63.76 63.11 61.57 61.95 63.96 64.75 64.43 63.96 65.63 66.17 67.02 64.63 65.56 64.32 62.69 62.63 63.69 63.05 63.21 61.62 64.32 64.54 61.74 62.87 61.52 58.52 60.48 60.15 61.92 63.18 63.39 61.83 60.32 61.58 61.64 62.27 62.34 61.47 58.81 60.27 60.70 59.77 60.21 60.24 60.02 62.68 61.22 60.28 59.72 76.99 68.45 73.53 72.23 72.82 77.51 79.37 79.22 78.59 77.29 73.35 65.85 63.48 67.97 74.98 79.98 79.88 81.02 80.70 75.41 77.22 80.09 77.76 73.55 75.49 74.68 68.62 57.92 60.30 57.87 55.18 56.79 57.15 56.22 57.50 57.62 57.12 57.00 55.56 55.87 57.08 55.35 54.75 55.49 54.91 54.59 53.42 56.30 53.43 54.74 54.06 53.62 53.19 54.76 53.16 54.72 54.25 54.44 53.48 53.65 54.27 54.55 54.94 54.81 53.13 56.27 54.02 55.10 69.06 70.57 72.63 71.83 55.67 54.60 54.15 54.61 53.09 53.58 59.20 65.37 63.94 64.63 56.40 68.51 75.19 73.83 75.51 73.40 73.79 72.45 71.84 72.14 70.55 75.86 77.45 76.33 69.03 71.51 69.27 68.98 67.69 66.31 65.99 66.26 69.62 76.41 80.08 72.68 75.33 80.96 77.85 78.14 73.53 72.39 76.58 73.84 75.06 78.77 74.05 73.67 76.40 75.75 64.78 74.45 64.15 73.62 74.53 76.78 73.86 73.25 69.64 66.65 68.77 65.45 61.96 55.06 56.41 54.86 62.58 63.24 54.28 56.03 60.83 59.64 58.54 69.44 62.72 61.36 64.69 55.95 74.04 60.00 54.14 57.33 57.22 51.85 52.57 52.56 51.83 52.84 58.14 69.77 61.87 63.23 61.99 62.10 66.35 65.94 63.57 62.00 64.57 62.34 62.83 60.75 63.44 62.43 58.12 60.48 56.39 56.36 54.53 53.73 57.25 59.20 55.42 61.35 58.07 67.85 55.11 54.40 54.28 54.23 53.12 52.94 54.77 54.46 54.87 57.67 54.44 57.72 56.69 64.27 63.92 62.71 62.70 62.42 61.55 62.20 63.71 60.81 61.89 61.28 61.57 59.75 62.52 63.35 61.95 62.71 63.18 59.32 59.02 60.63 58.43 58.60 58.68 59.50 58.52 58.87 57.93 57.74 57.19 59.61 65.27 74.19 77.31 75.75 74.84 75.28 73.76 74.03 70.20 68.21 66.44 64.84 63.12 66.87 70.17 72.26 68.03 65.49 66.52 64.43 68.21 64.20 62.28 79.43 74.96 71.93 80.29 78.75 71.87 70.09 75.82 79.71 79.61 77.18 76.07 66.34 70.58 70.33 73.75 74.55 75.48 81.77 79.43 76.46 74.78 76.30 79.22 76.80 74.19 68.69 77.36 71.99 72.86 69.31 66.06 65.16 68.43 66.29 74.22 71.24 68.70 71.36 78.03 78.51 74.03 76.34 78.46 78.79 78.44 80.69 79.05 76.60 76.47 76.34 77.35 67.00 65.47 65.84 69.77 72.28 71.02 68.12 69.87 69.32 64.50 66.99 62.23 59.65 61.57 64.76 64.63 63.01 63.15 62.33 70.42 70.71 62.83 62.33 60.42 60.37 60.20 61.58 58.93 59.95 61.64 61.80 60.88 59.89 60.41 61.27 61.54 59.77 60.91 71.91 66.61 59.68 64.01 60.50 61.13 61.49 61.74 60.32 62.34 61.15 61.66 62.10 60.94 61.85 68.68 68.23 66.43 65.83 64.61 66.19 66.99 66.24 64.28 63.26 63.82 62.19 64.96 64.11 64.18 73.89 73.10 75.84 76.65 67.76 65.85 62.38 63.45 64.47 65.11 64.68 81.89 76.29 80.05 80.47 76.21 76.71 74.22 77.41 73.01 72.48 71.65 77.40 72.14 72.40 74.27 67.53 64.45 66.10 66.69 66.54 67.32 66.63 66.52 67.71 67.14 66.89 66.06 65.79 69.97 65.22 66.63 65.95 65.71 65.88 64.97 63.67 65.38 64.84 66.01 67.01 66.25 65.37 65.35 66.03 64.92 64.50 63.84 64.20 65.62 65.95 66.54 67.24 66.74 64.97 65.86 66.44 66.69 66.26 65.80 75.79 77.41 75.95 74.83 78.35 77.41 68.76 75.94 74.08 75.11 75.51 74.03 79.08 73.36 72.74 73.52 73.33 74.68 70.76 71.59 70.93 68.84 67.50 78.91 68.81 66.82 65.24 64.43 62.70 63.13 61.27 59.54 60.39 58.99 60.01 59.23 61.17 60.42 69.16 79.25 78.47 76.81 78.03 68.41 74.07 76.28 79.16 74.04 74.82 71.36 71.07 74.31 70.24 74.03 70.55 71.44 70.17 70.92 70.15 64.15 64.72 64.22 63.76 64.44 61.63 62.63 61.84 61.80 62.19 62.32 63.48 62.78 61.35 62.12 61.87 62.72 63.39 62.54 63.63 62.33 62.33 62.69 62.70 62.34 63.09 61.99 61.11 65.91 62.82 60.76 60.55 59.95 59.31 60.29 57.37 57.29 65.12 61.73 60.98 59.23 57.67 57.51 59.66 59.83 57.97 59.00 63.44 63.41 67.14 61.07 59.55 58.92 60.17 60.91 60.92 61.83 61.23 61.25 62.94 63.68 67.95 79.50 85.65 86.24 84.81 85.38 87.84 88.46 87.37 86.00 86.53 88.20 90.32 89.50 89.82 90.36 89.63 87.97 87.64 87.24 87.23 88.03 87.97 86.29 86.41 85.47 86.34 87.25 86.92 86.69 86.72 86.82 86.90 86.71 85.86 84.40 84.33 84.33 83.54 83.82 84.51 83.76 82.56 85.53 86.20 86.39 84.49 84.84 83.06 83.80 85.07 84.57 81.48 82.11 82.73 82.71 81.75 81.90 78.84 79.66 79.49 78.97 81.17 81.59 83.73 81.51 82.41 80.30 81.62 81.98 80.58 79.66 80.81 80.48 78.75 79.71 79.13 79.42 78.58 79.06 76.94 76.49 75.63 74.96 76.62 78.26 79.09 76.83 77.11 77.19 76.55 77.67 75.18 75.16 75.20 77.64 78.17 74.75 76.51 77.34 77.35 77.53 76.89 77.81 78.31 77.92 80.21 78.73 78.03 77.86 77.12 80.74 77.68 77.23 79.29 78.32 77.86 79.13 78.56 78.37 78.57 78.53 78.76 80.09 81.73 77.46 75.69 85.05 78.03 81.36 79.46 81.51 81.48 81.99 74.67 72.36 75.88 71.86 71.67 74.18 72.69 73.73 72.33 73.21 71.89 72.10 73.05 72.57 70.91 71.91 70.50 73.49 72.98 76.05 73.17 73.71 73.70 71.23 73.00 74.50 74.10 76.54 75.39 80.95 74.73 85.03 84.37 79.05 77.48 76.63 77.18 79.56 75.05 78.81 79.48 76.96 73.74 73.53 72.93 72.58 71.58 74.31 74.22 76.23 75.18 74.60 74.79 72.90 71.72 71.94 70.88 71.29 70.01 71.29 72.72 71.91 72.00 73.12 73.71 72.74 73.60 72.90 72.31 73.30 72.49 72.55 71.45 72.20 71.22 69.67 70.43 69.11 69.72 69.49 70.44 70.99 71.26 72.48 73.66 73.80 73.66 73.02 71.81 72.86 70.25 71.83 70.86"
+                },
+
+                {
+                        "id": "5dec32f6-5e7b-11ed-9a16-7242363b2847",
+                        "type": "Volume",
+                        "media": "file%3A///C%3A/Users/mattjes/Movies/Baichwal_Jennifer_et_al_Anthropocene-The%2520Human%2520Epoch_2018.mp4",
+                        "begin": 3600000,
+                        "end": 3700000,
+                        "content": "74.00 71.69 73.33 73.60 73.08 74.83 72.87 73.92 76.95 77.64 77.09 77.02 77.76 77.58 76.46 76.58 76.00 76.38 75.44 77.51 81.14 78.97 76.67 76.03 78.47 80.23 78.60 79.68 79.83 78.93 75.59 76.91 80.73 77.35 74.69 76.76 78.50 78.57 77.71 76.26 78.38 76.00 76.23 76.72 78.33 79.90 77.32 80.24 79.44 78.96 78.19 79.28 81.21 79.68 78.41 79.45 81.06 79.08 81.16 84.04 81.02 79.72 76.00 73.57 77.27 77.60 77.59 81.42 79.78 79.05 77.51 79.60 78.55 77.00 77.26 79.73 79.55 77.25 76.29 78.00 77.53 76.95 77.18 78.62 78.64 77.75 77.02 77.17 75.56 74.64 73.83 78.13 77.91 77.25 76.21 76.19 77.93 76.63 75.87 77.79 78.16 76.73 74.63 74.18 73.85 72.92 70.78 73.83 75.45 72.70 70.98 73.34 72.99 72.98 70.44 75.93 74.88 73.65 72.95 72.52 69.55 66.82 66.74 71.30 73.36 70.92 69.35 67.38 70.83 69.68 68.44 72.80 71.48 70.44 69.12 70.47 71.54 70.76 69.98 71.07 72.11 70.04 66.49 65.59 64.12 65.07 63.47 63.85 66.36 65.21 63.73 62.74 63.19 61.63 60.45 63.24 63.50 61.27 61.01 63.76 63.11 61.57 61.95 63.96 64.75 64.43 63.96 65.63 66.17 67.02 64.63 65.56 64.32 62.69 62.63 63.69 63.05 63.21 61.62 64.32 64.54 61.74 62.87 61.52 58.52 60.48 60.15 61.92 63.18 63.39 61.83 60.32 61.58 61.64 62.27 62.34 61.47 58.81 60.27 60.70 59.77 60.21 60.24 60.02 62.68 61.22 60.28 59.72 76.99 68.45 73.53 72.23 72.82 77.51 79.37 79.22 78.59 77.29 73.35 65.85 63.48 67.97 74.98 79.98 79.88 81.02 80.70 75.41 77.22 80.09 77.76 73.55 75.49 74.68 68.62 57.92 60.30 57.87 55.18 56.79 57.15 56.22 57.50 57.62 57.12 57.00 55.56 55.87 57.08 55.35 54.75 55.49 54.91 54.59 53.42 56.30 53.43 54.74 54.06 53.62 53.19 54.76 53.16 54.72 54.25 54.44 53.48 53.65 54.27 54.55 54.94 54.81 53.13 56.27 54.02 55.10 69.06 70.57 72.63 71.83 55.67 54.60 54.15 54.61 53.09 53.58 59.20 65.37 63.94 64.63 56.40 68.51 75.19 73.83 75.51 73.40 73.79 72.45 71.84 72.14 70.55 75.86 77.45 76.33 69.03 71.51 69.27 68.98 67.69 66.31 65.99 66.26 69.62 76.41 80.08 72.68 75.33 80.96 77.85 78.14 73.53 72.39 76.58 73.84 75.06 78.77 74.05 73.67 76.40 75.75 64.78 74.45 64.15 73.62 74.53 76.78 73.86 73.25 69.64 66.65 68.77 65.45 61.96 55.06 56.41 54.86 62.58 63.24 54.28 56.03 60.83 59.64 58.54 69.44 62.72 61.36 64.69 55.95 74.04 60.00 54.14 57.33 57.22 51.85 52.57 52.56 51.83 52.84 58.14 69.77 61.87 63.23 61.99 62.10 66.35 65.94 63.57 62.00 64.57 62.34 62.83 60.75 63.44 62.43 58.12 60.48 56.39 56.36 54.53 53.73 57.25 59.20 55.42 61.35 58.07 67.85 55.11 54.40 54.28 54.23 53.12 52.94 54.77 54.46 54.87 57.67 54.44 57.72 56.69 64.27 63.92 62.71 62.70 62.42 61.55 62.20 63.71 60.81 61.89 61.28 61.57 59.75 62.52 63.35 61.95 62.71 63.18 59.32 59.02 60.63 58.43 58.60 58.68 59.50 58.52 58.87 57.93 57.74 57.19 59.61 65.27 74.19 77.31 75.75 74.84 75.28 73.76 74.03 70.20 68.21 66.44 64.84 63.12 66.87 70.17 72.26 68.03 65.49 66.52 64.43 68.21 64.20 62.28 79.43 74.96 71.93 80.29 78.75 71.87 70.09 75.82 79.71 79.61 77.18 76.07 66.34 70.58 70.33 73.75 74.55 75.48 81.77 79.43 76.46 74.78 76.30 79.22 76.80 74.19 68.69 77.36 71.99 72.86 69.31 66.06 65.16 68.43 66.29 74.22 71.24 68.70 71.36 78.03 78.51 74.03 76.34 78.46 78.79 78.44 80.69 79.05 76.60 76.47 76.34 77.35 67.00 65.47 65.84 69.77 72.28 71.02 68.12 69.87 69.32 64.50 66.99 62.23 59.65 61.57 64.76 64.63 63.01 63.15 62.33 70.42 70.71 62.83 62.33 60.42 60.37 60.20 61.58 58.93 59.95 61.64 61.80 60.88 59.89 60.41 61.27 61.54 59.77 60.91 71.91 66.61 59.68 64.01 60.50 61.13 61.49 61.74 60.32 62.34 61.15 61.66 62.10 60.94 61.85 68.68 68.23 66.43 65.83 64.61 66.19 66.99 66.24 64.28 63.26 63.82 62.19 64.96 64.11 64.18 73.89 73.10 75.84 76.65 67.76 65.85 62.38 63.45 64.47 65.11 64.68 81.89 76.29 80.05 80.47 76.21 76.71 74.22 77.41 73.01 72.48 71.65 77.40 72.14 72.40 74.27 67.53 64.45 66.10 66.69 66.54 67.32 66.63 66.52 67.71 67.14 66.89 66.06 65.79 69.97 65.22 66.63 65.95 65.71 65.88 64.97 63.67 65.38 64.84 66.01 67.01 66.25 65.37 65.35 66.03 64.92 64.50 63.84 64.20 65.62 65.95 66.54 67.24 66.74 64.97 65.86 66.44 66.69 66.26 65.80 75.79 77.41 75.95 74.83 78.35 77.41 68.76 75.94 74.08 75.11 75.51 74.03 79.08 73.36 72.74 73.52 73.33 74.68 70.76 71.59 70.93 68.84 67.50 78.91 68.81 66.82 65.24 64.43 62.70 63.13 61.27 59.54 60.39 58.99 60.01 59.23 61.17 60.42 69.16 79.25 78.47 76.81 78.03 68.41 74.07 76.28 79.16 74.04 74.82 71.36 71.07 74.31 70.24 74.03 70.55 71.44 70.17 70.92 70.15 64.15 64.72 64.22 63.76 64.44 61.63 62.63 61.84 61.80 62.19 62.32 63.48 62.78 61.35 62.12 61.87 62.72 63.39 62.54 63.63 62.33 62.33 62.69 62.70 62.34 63.09 61.99 61.11 65.91 62.82 60.76 60.55 59.95 59.31 60.29 57.37 57.29 65.12 61.73 60.98 59.23 57.67 57.51 59.66 59.83 57.97 59.00 63.44 63.41 67.14 61.07 59.55 58.92 60.17 60.91 60.92 61.83 61.23 61.25 62.94 63.68 67.95 79.50 85.65 86.24 84.81 85.38 87.84 88.46 87.37 86.00 86.53 88.20 90.32 89.50 89.82 90.36 89.63 87.97 87.64 87.24 87.23 88.03 87.97 86.29 86.41 85.47 86.34 87.25 86.92 86.69 86.72 86.82 86.90 86.71 85.86 84.40 84.33 84.33 83.54 83.82 84.51 83.76 82.56 85.53 86.20 86.39 84.49 84.84 83.06 83.80 85.07 84.57 81.48 82.11 82.73 82.71 81.75 81.90 78.84 79.66 79.49 78.97 81.17 81.59 83.73 81.51 82.41 80.30 81.62 81.98 80.58 79.66 80.81 80.48 78.75 79.71 79.13 79.42 78.58 79.06 76.94 76.49 75.63 74.96 76.62 78.26 79.09 76.83 77.11 77.19 76.55 77.67 75.18 75.16 75.20 77.64 78.17 74.75 76.51 77.34 77.35 77.53 76.89 77.81 78.31 77.92 80.21 78.73 78.03 77.86 77.12 80.74 77.68 77.23 79.29 78.32 77.86 79.13 78.56 78.37 78.57 78.53 78.76 80.09 81.73 77.46 75.69 85.05 78.03 81.36 79.46 81.51 81.48 81.99 74.67 72.36 75.88 71.86 71.67 74.18 72.69 73.73 72.33 73.21 71.89 72.10 73.05 72.57 70.91 71.91 70.50 73.49 72.98 76.05 73.17 73.71 73.70 71.23 73.00 74.50 74.10 76.54 75.39 80.95 74.73 85.03 84.37 79.05 77.48 76.63 77.18 79.56 75.05 78.81 79.48 76.96 73.74 73.53 72.93 72.58 71.58 74.31 74.22 76.23 75.18 74.60 74.79 72.90 71.72 71.94 70.88 71.29 70.01 71.29 72.72 71.91 72.00 73.12 73.71 72.74 73.60 72.90 72.31 73.30 72.49 72.55 71.45 72.20 71.22 69.67 70.43 69.11 69.72 69.49 70.44 70.99 71.26 72.48 73.66 73.80 73.66 73.02 71.81 72.86 70.25 71.83 70.86"
+                }
+
+] }
