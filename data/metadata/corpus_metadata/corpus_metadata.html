@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Zeichensatz: UTF-8 unterstützt Sonderzeichen --> 
+
+  <!-- Titel der Browser-Registerkarte -->
+  <meta charset="utf-8" />
+  <title>QUADRIGA FS3 Korpusmetadaten</title>
+  <style>
+    /* Grundlayout der Seite */
+    body { font-family: Arial, sans-serif; margin: 30px; font-size: 14px; }
+
+    /* Container für die Tabelle mit Scrollbars */
+    #tableContainer {
+      overflow-x: auto;       /* horizontales Scrollen erlauben */
+      overflow-y: auto;       /* vertikales Scrollen erlauben */
+      max-height: 75vh;       /* maximale Höhe (75% der Fensterhöhe) */
+      margin: 20px auto;
+      width: 90%;
+      border: 1px solid #ccc;
+    }
+
+    /* Tabellen-Grundlayout */
+    table {
+      border-collapse: collapse; /* Darsellung des Gitternetzes */
+      width: 100%;
+      border-radius: 8px;
+      background-color: white;
+      white-space: nowrap; /* kein automatischer Zeilenumbruch (default) */
+    }
+
+    /* Tabellenkopf */
+    th {
+      background-color: #00796b;
+      color: white;
+      font-weight: bold;
+      padding: 8px 10px;
+      text-align: left;
+      cursor: pointer; /* Spalten sind klickbar */
+      position: sticky; /* Kopf bleibt beim Scrollen sichtbar */
+      top: 0;
+      z-index: 2;
+    }
+
+    /* Tabellenzellen */
+    td { 
+      padding: 6px 10px;
+      white-space: nowrap;
+    }
+
+    /* Zellen, in denen Zeilenumbrüche erlaubt sind */
+    td.breakable {
+      white-space: pre; 	  /* keine automatischen Zeilenumbrüche */
+      word-break: keep-all;    /* keine Worttrennungen */
+    }
+
+    /* Jede zweite Zeile leicht einfärben */
+    tr:nth-child(even) { background-color: #f9f9f9; }
+    
+    /* Hover-Effekt */
+    tr:hover { background-color: #e0f7fa; }
+
+    /* Suchbereich */
+    #searchContainer {
+      text-align: center;
+      margin: 20px auto;
+    }
+
+    /* Suchfeld & Dropdown */
+    #searchInput, #columnSelect {
+      padding: 8px;
+      font-size: 14px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      margin: 5px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Hauptüberschrift -->
+  <h1>QUADRIGA FS3 Korpusmetadaten</h1>
+
+<!-- Such- und Filterbereich -->
+<div id="searchContainer">
+  <input type="text" id="searchInput" placeholder="Search...">
+  <select id="columnSelect"></select>
+
+  <!-- Anzeige der Eintragsanzahl -->
+  <span id="entryCount" style="
+    display: inline-block;
+    margin-left: 15px;
+    padding: 6px 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background-color: #f9f9f9;
+    font-size: 14px;
+  ">Entries: 0</span>
+</div>
+  <!-- Tabellencontainer -->
+  <div id="tableContainer">
+    <table id="csvTable"></table>
+  </div>
+
+  <script>
+    /*
+      CSV-Daten als mehrzeiliger String.
+      Trennzeichen: Semikolon (;) wegen CSV aus Excel-Export
+    */
+    const csvText = `title;object_id;imdb_id;classification;country;year;director;runtime_min;duration_iso8601;season_episode;episode_title;modes_intervention;annotation_data;moviebarcode
+2040;f0162;tt7150512;documentary;AU;2018;Damon Gameau;92 Min.;PT1H32M;;;Escalation / de-escalation;TRUE;TRUE
+2067;f0522;tt1918734;feature film;AU;2020;Seth Larney;114 Min.;PT1H54M;;;;FALSE;TRUE
+Albatross;f025a;tt9914642;documentary;US;2017;Chris Jordan;97 Min.;PT1H37M;;;;FALSE;TRUE
+An Inconvenient Sequel: Truth to Power;f009a;tt6322922;documentary;US;2017;"Bonni Cohen; Jon Shenk";98 Min.;PT1H38M;;;;FALSE;TRUE
+An Inconvenient Truth;f020a;tt0497116;documentary;US;2006;Davis Guggenheim;96 Min.;PT1H36M;;;;FALSE;TRUE
+Annihilation;f049a;tt2798920;feature film;"US; GB";2018;Alex Garland;115 Min.;PT1H55M;;;;FALSE;TRUE
+Another Earth;f040a;tt1549572;feature film;US;2011;Mike Cahill;92 Min.;PT1H32M;;;;FALSE;TRUE
+Anthropocene: The Human Epoch;f002a;tt8399690;documentary;CA;2018;"Jennifer Baichwal; Edward Burtynsky; Nicholas de Pencier";87 Min.;PT1H27M;;;"Unintended Consequences; Escalation / de-escalation; Unintended Consequences; Escalation / de-escalation";TRUE;TRUE
+Awake: A Dream from Standing Rock;f012a;tt6691862;documentary;US;2017;"Myron Dewey; Josh Fox; James Spione";89 Min.;PT1H29M;;;"Disruptive scaling; Non-linear temporalities; Unintended Consequences; Post-anthropocentric reperspectivations";TRUE;TRUE
+Beasts of the Southern Wild;f065b;tt2125435;feature film;US;2012;Benh Zeitlin;93 Min.;PT1H33M;;;Destabilization / Restabilization;TRUE;TRUE
+Before the Flood;f013b;tt5929776;documentary;US;2016;Fisher Stevens;96 Min.;PT1H36M;;;Escalation / de-escalation;TRUE;TRUE
+Blade Runner 2049;f063b;tt1856101;feature film;"US; CA; ES";2017;Denis Villeneuve;164 Min.;PT2H44M;;;;FALSE;TRUE
+Blue Planet II;e066b;tt7473714;episode;"GB; US; CN; FR; DE";2018;James Honeyborne;51 Min.;PTH51M;S01E01;One Ocean;;FALSE;TRUE
+Blue Planet II;e067b;tt7579602;episode;"GB; US; CN; FR; DE";2018;James Honeyborne;54 Min.;PTH54M;S01E02;The Deep;;FALSE;TRUE
+Blue Planet II;e068b;tt7579754;episode;"GB; US; CN; FR; DE";2018;James Honeyborne;52 Min.;PTH52M;S01E04;Big Blue;;FALSE;TRUE
+Blue Planet II;e069b;tt7579776;episode;"GB; US; CN; FR; DE";2018;James Honeyborne;50 Min.;PTH50M;S01E06;Coasts;;FALSE;TRUE
+Blue Planet II;e070b;tt7579782;episode;"GB; US; CN; FR; DE";2018;James Honeyborne;53 Min.;PTH53M;S01E07;Our Blue Planet;;FALSE;TRUE
+Blue Planet II;e114t;tt7579764;episode;"GB; US; CN; FR; DE";2018;James Honeyborne;51 Min.;PTH51M;S01E03;Coral Reefs;;FALSE;TRUE
+Blue Planet II;e115t;tt7579758;episode;"GB; US; CN; FR; DE";2018;James Honeyborne;53 Min.;PTH53M;S01E05;Green Seas;;FALSE;TRUE
+Carbon Nation;f007c;tt1482991;documentary;US;2010;Peter Byck;86 Min.;PT1H26M;;;;FALSE;TRUE
+Chasing Ice;f032c;tt1579361;documentary;US;2012;Jeff Orlowski-Yang;75 Min.;PT1H15M;;;;FALSE;TRUE
+Children of Men;f042c;tt0206634;feature film;"US; GB; JP";2006;Alfonso Cuarón;109 Min.;PT1H49M;;;;FALSE;TRUE
+Climate of Change;f022c;tt1563712;documentary;US;2010;Brian Hill;86 Min.;PT1H26M;;;;FALSE;TRUE
+Dear Future Children;f005d;tt11191356;documentary;"DE; GB; AT";2021;Franz Böhm;89 Min.;PT1H29M;;;;FALSE;TRUE
+Everything Will Change;f029e;tt13086274;documentary;"DE; NL";2021;Marten Persiel;93 Min.;PT1H33M;;;Post-anthropocentric reperspectivations;TRUE;TRUE
+Everything's Cool;f019e;tt0810970;documentary;US;2007;"Daniel B. Gold; Judith Helfand";89 Min.;PT1H29M;;;;FALSE;TRUE
+First Reformed;f059f;tt6053438;feature film;"US; GB; AU";2017;Paul Schrader;113 Min.;PT1H53M;;;"Escalation / de-escalation; Disruptive scaling";TRUE;TRUE
+Frozen Planet;e213f;tt2095246;episode;"GB; US; ES; DE; GR; CA";2012;Paul Spillenger;58 Min.;PTH58M;S01E01;To the Ends of the Earth;;FALSE;TRUE
+Frozen Planet;e214f;tt2095243;episode;"GB; US; ES; DE; GR; CA";2012;"Mark Linfield; Paul Spillenger";58 Min.;PTH58M;S01E02;Spring;;FALSE;TRUE
+Frozen Planet;e215f;tt2095244;episode;"GB; US; ES; DE; GR; CA";2012;Paul Spillenger;59 Min.;PTH59M;S01E03;Summer;;FALSE;TRUE
+Frozen Planet;e216f;tt2095241;episode;"GB; US; ES; DE; GR; CA";2012;Paul Spillenger;58 Min.;PTH58M;S01E04;Autumn;;FALSE;TRUE
+Frozen Planet;e217f;tt2095247;episode;"GB; US; ES; DE; GR; CA";2012;Paul Spillenger;58 Min.;PTH58M;S01E05;Winter;;FALSE;TRUE
+Frozen Planet;e218f;tt2095245;episode;"GB; US; ES; DE; GR; CA";2012;Paul Spillenger;58 Min.;PTH58M;S01E06;The Last Frontier;;FALSE;TRUE
+Frozen Planet;e219f;tt2095242;episode;"GB; US; ES; DE; GR; CA";2012;Paul Spillenger;58 Min.;PTH58M;S01E07;On Thin Ice;;FALSE;TRUE
+Frozen Planet II;e220f;tt18468964;episode;GB;2023;Alex Lanchester;57 Min.;PTH57M;S01E01;Frozen Worlds;;FALSE;TRUE
+Frozen Planet II;e221f;tt21987364;episode;GB;2023;Rachel Scott;57 Min.;PTH57M;S01E02;Frozen Ocean;;FALSE;TRUE
+Frozen Planet II;e222f;tt21987366;episode;GB;2023;Alex Lanchester;58 Min.;PTH58M;S01E03;Frozen Peaks;;FALSE;TRUE
+Frozen Planet II;e223f;tt21987370;episode;GB;2023;Orla Doherty;58 Min.;PTH58M;S01E04;Frozen South;;FALSE;TRUE
+Frozen Planet II;e224f;tt21987376;episode;GB;2023;Jane Atkins;57 Min.;PTH57M;S01E05;Frozen Lands;;FALSE;TRUE
+Frozen Planet II;e225f;tt21987378;episode;GB;2023;James Reed;58 Min.;PTH58M;S01E06;Our Frozen Planet;;FALSE;TRUE
+Geostorm;f045g;tt1981128;feature film;"US; JP; AE; HK";2017;Dean Devlin;111 Min.;PT1H51M;;;;FALSE;TRUE
+Greta;f018i;tt10394738;documentary;"SE; DE; GB; US";2020;Nathan Grossman;97 Min.;PT1H37M;;;;FALSE;TRUE
+Guardians of the Earth;f028g;tt7214084;documentary;"DE; AT";2017;Filip Antoni Malinowski;86 Min.;PT1H26M;;;;FALSE;TRUE
+Hell;f047h;tt1643222;feature film;"DE; FR";2011;Tim Fehlbaum;89 Min.;PT1H29M;;;;FALSE;TRUE
+Home;f004h;tt1014762;documentary;FR;2009;Yann Arthus-Bertrand;118 Min.;PT1H58M;;;;FALSE;TRUE
+How to Blow Up a Pipeline;f043h;tt21440780;feature film;US;2022;Daniel Goldhaber;104 Min.;PT1H44M;;;Escalation / de-escalation;TRUE;TRUE
+How to Let Go of the World: and Love All the Things Climate Can't Change;f014h;tt5246328;documentary;US;2016;Josh Fox;127 Min.;PT2H07M;;;;FALSE;TRUE
+How To Save Our Planet;v088h;;video;;;;8 Min.;PTH8M;;;;FALSE;TRUE
+Inuit Knowledge and Climate Change;f026i;tt4081544;documentary;CA;2010;"Zacharias Kunuk; Ian Mauro";60 Min.;PT1H00M;;;Destabilization / Restabilization;TRUE;TRUE
+Knowing;f057k;tt0448011;feature film;"US; GB; AU";2009;Alex Proyas;121 Min.;PT2H01M;;;;FALSE;TRUE
+Kona fer í stríð;f046k;tt7279188;feature film;"FR; IS; UA";2018;Benedikt Erlingsson;101 Min.;PT1H41M;;;;FALSE;TRUE
+La cinquième saison;f064l;tt2298820;feature film;"BE; NL; FR";2012;"Peter Brosens; Jessica Woodworth";93 Min.;PT1H33M;;;Destabilization / Restabilization;TRUE;TRUE
+La glace et le ciel;f024l;tt4466550;documentary;FR;2015;Luc Jacquet;89 Min.;PT1H29M;;;;FALSE;TRUE
+Le syndrome du Titanic;f023l;tt1503718;documentary;FR;2009;"Nicolas Hulot; Jean-Albert Lièvre";93 Min.;PT1H33M;;;;FALSE;TRUE
+Les sentiers de l'utopie;f015l;tt3228338;documentary;FR;2007;;109 Min.;PT1H49M;;;;FALSE;TRUE
+Life;e071l;tt1561896;episode;"GB; US; IT; DE; GR";2009;Paul Spillenger;61 Min.;PT1H01M;S01E09;Plants;;FALSE;TRUE
+Life;e116l;tt1535233;episode;"GB; US; IT; DE; GR";2010;Martha Holmes;59 Min.;PTH59M;S01E01;Challenges of Life;;FALSE;TRUE
+Life;e117l;tt1558023;episode;"GB; US; IT; DE; GR";2009;Martha Holmes;59 Min.;PTH59M;S01E02;Reptiles and Amphibians;;FALSE;TRUE
+Life;e118l;tt1561895;episode;"GB; US; IT; DE; GR";2009;Martha Holmes;62 Min.;PT1H02M;S01E03;Mammals;;FALSE;TRUE
+Life;e119l;tt1561892;episode;"GB; US; IT; DE; GR";2009;Martha Holmes;61 Min.;PT1H01M;S01E04;Fish;;FALSE;TRUE
+Life;e120l;tt1561890;episode;"GB; US; IT; DE; GR";2009;Martha Holmes;62 Min.;PT1H02M;S01E05;Birds;;FALSE;TRUE
+Life;e121l;tt1561894;episode;"GB; US; IT; DE; GR";2009;Paul Spillenger;62 Min.;PT1H02M;S01E06;Insects;;FALSE;TRUE
+Life;e122l;tt1561893;episode;"GB; US; IT; DE; GR";2009;Martha Holmes;61 Min.;PT1H01M;S01E07;Hunters and Hunted;;FALSE;TRUE
+Life;e123l;tt1561891;episode;"GB; US; IT; DE; GR";2009;Martha Holmes;62 Min.;PT1H02M;S01E08;Creatures of the Deep;;FALSE;TRUE
+Life;e124l;tt1575290;episode;"GB; US; IT; DE; GR";2009;Martha Holmes;62 Min.;PT1H02M;S01E10;Primates;;FALSE;TRUE
+Life on Earth;e125t;tt0846518;episode;GB;1979;;55 Min.;PTH55M;S01E01;The Infinite Variety;;TRUE;TRUE
+Life on Earth;e137t;tt0846514;episode;GB;1979;;55 Min.;PTH55M;S01E13;The Compulsive Communicators;;TRUE;TRUE
+Life on Earth;e126t;tt0846511;episode;GB;1979;;55 Min.;PTH55M;S01E02;Building Bodies;;FALSE;TRUE
+Life on Earth;e127t;tt0846516;episode;GB;1979;;55 Min.;PTH55M;S01E03;The First Forests;;FALSE;TRUE
+Life on Earth;e128t;tt0846520;episode;GB;1979;;55 Min.;PTH55M;S01E04;The Swarming Hordes;;FALSE;TRUE
+Life on Earth;e129t;tt0846515;episode;GB;1979;;55 Min.;PTH55M;S01E05;The Conquest of the Waters;;FALSE;TRUE
+Life on Earth;e130t;tt0847338;episode;GB;1979;;55 Min.;PTH55M;S01E06;Invasion of the Land;;FALSE;TRUE
+Life on Earth;e131t;tt0847339;episode;GB;1979;;55 Min.;PTH55M;S01E07;Victors of the Dry Land;;FALSE;TRUE
+Life on Earth;e132t;tt0846513;episode;GB;1979;;55 Min.;PTH55M;S01E08;Lords of the Air;;FALSE;TRUE
+Life on Earth;e133t;tt0846519;episode;GB;1979;;55 Min.;PTH55M;S01E09;The Rise of the Mammals;;FALSE;TRUE
+Life on Earth;e134t;tt0846521;episode;GB;1979;;55 Min.;PTH55M;S01E10;Theme and Variations;;FALSE;TRUE
+Life on Earth;e135t;tt0846517;episode;GB;1979;;55 Min.;PTH55M;S01E11;The Hunters and Hunted;;FALSE;TRUE
+Life on Earth;e136t;tt0846512;episode;GB;1979;;55 Min.;PTH55M;S01E12;Life in the Trees;;FALSE;TRUE
+Live in the Freezer;e207l;tt0845273;episode;GB;1993;;30 Min.;PTH30M;S01E01;The Bountiful Sea;;FALSE;TRUE
+Live in the Freezer;e208l;tt0845275;episode;GB;1993;;30 Min.;PTH30M;S01E02;The Ice Retreats;;FALSE;TRUE
+Live in the Freezer;e209l;tt0845276;episode;GB;1993;;30 Min.;PTH30M;S01E03;The Race to Breed;;FALSE;TRUE
+Live in the Freezer;e210l;tt0845274;episode;GB;1993;;30 Min.;PTH30M;S01E04;The Door Closes;;FALSE;TRUE
+Live in the Freezer;e211l;tt0845272;episode;GB;1993;;30 Min.;PTH30M;S01E05;The Big Freeze;;FALSE;TRUE
+Live in the Freezer;e212l;tt0845271;episode;GB;1993;;30 Min.;PTH30M;S01E06;Footsteps in the Snow;;FALSE;TRUE
+Melancholia;f062m;tt1527186;feature film;"DK; SE; FR; DE; IT";2011;Lars von Trier;135 Min.;PT2H15M;;;;FALSE;TRUE
+Native Planet;e201n;tt3347602;episode;CA;2014;"Carmen Henriquez; Denis Paquette";45 Min.;PTH45M;S01E01;New Zealand;;FALSE;TRUE
+Native Planet;e202n;tt3347608;episode;CA;2014;"Carmen Henriquez; Denis Paquette";45 Min.;PTH45M;S01E02;Ecuador;;FALSE;TRUE
+Native Planet;e203n;tt3347612;episode;CA;2014;"Carmen Henriquez; Denis Paquette";45 Min.;PTH45M;S01E03;Canada;;FALSE;TRUE
+Native Planet;e204n;tt3347614;episode;CA;2014;"Carmen Henriquez; Denis Paquette";45 Min.;PTH45M;S01E04;Hawaii;;FALSE;TRUE
+Native Planet;e205n;tt3347616;episode;CA;2014;"Carmen Henriquez; Denis Paquette";45 Min.;PTH45M;S01E05;Navajo Nation;;FALSE;TRUE
+Native Planet;e206n;tt3347624;episode;CA;2014;"Carmen Henriquez; Denis Paquette";45 Min.;PTH45M;S01E06;Australia;;FALSE;TRUE
+Night Moves;f058n;tt2043933;feature film;US;2013;Kelly Reichardt;112 Min.;PT1H52M;;;Unintended Consequences;TRUE;TRUE
+Noah;f038n;tt1959490;feature film;US;2014;Darren Aronofsky;138 Min.;PT2H18M;;;;FALSE;TRUE
+Nowhere to Run: Nigeria's Climate and Environmental Crisis;f031n;tt5624478;documentary;NG;2015;Dan McCain;43 Min.;PTH43M;;;;FALSE;TRUE
+One Word;f037o;tt13187790;documentary;DE;2020;Viviana Uriona;83 Min.;PT1H23M;;;"Escalation / de-escalation; Disruptive scaling";TRUE;TRUE
+Our Planet;e138o;tt9253868;episode;"US; GB";2019;Adam Chapman;50 Min.;PTH50M;S01E01;One Planet;;TRUE;TRUE
+Our Planet;e139o;tt9253870;episode;"US; GB";2019;Sophie Lanfear;54 Min.;PTH54M;S01E02;Frozen Worlds;"Disruptive scaling; Destabilization / Restabilization; Escalation / de-escalation";TRUE;TRUE
+Our Planet;e141o;tt9253874;episode;"US; GB";2019;Hugh Pearson;50 Min.;PTH50M;S01E04;Coastal Seas;;TRUE;TRUE
+Our Planet;e143o;tt9253878;episode;"US; GB";2019;Hugh Pearson;49 Min.;PTH49M;S01E06;The High Seas;;TRUE;TRUE
+Our Planet;e145o;tt9253882;episode;"US; GB";2019;Jeff Wilson;49 Min.;PTH49M;S01E08;Forests;"Destabilization / Restabilization; Collision";TRUE;TRUE
+Our Planet;e146o;tt23457148;episode;"US; GB";2023;Toby Nowlan;49 Min.;PTH49M;S02E01;World on the Move;"Escalation / de-escalation; Disruptive scaling; Unintended Consequences";TRUE;TRUE
+Our Planet;e140o;tt9253872;episode;"US; GB";2019;Huw Cordey;51 Min.;PTH51M;S01E03;Jungles;;FALSE;TRUE
+Our Planet;e142o;tt9253876;episode;"US; GB";2019;Adam Chapman;51 Min.;PTH51M;S01E05;From Deserts to Grasslands;;FALSE;TRUE
+Our Planet;e144o;tt9253880;episode;"US; GB";2019;Mandi Stark;49 Min.;PTH49M;S01E07;Fresh Water;;FALSE;TRUE
+Our Planet;e147o;tt23457156;episode;"US; GB";2023;;50 Min.;PTH50M;S02E04;Freedom to Roam;;FALSE;TRUE
+Our Planet;e199o;tt23457158;episode;"US; GB";2023;;49 Min.;PTH49M;S02E02;Following the Sun;;FALSE;TRUE
+Our Planet;e200o;tt23457152;episode;"US; GB";2023;Toby Nowlan;49 Min.;PTH49M;S02E03;The Next Generation;;FALSE;TRUE
+Planet Earth;e148p;tt0797603;episode;"GB; CA; US; JP";2007;"Alastair Fothergill; Mark Linfield";49 Min.;PTH49M;S01E01;From Pole to Pole;;TRUE;TRUE
+Planet Earth;e149p;tt0797602;episode;"GB; CA; US; JP";2007;Alastair Fothergill;48 Min.;PTH48M;S01E02;Mountains;;TRUE;TRUE
+Planet Earth;e154p;tt0905879;episode;"GB; CA; US; JP";2007;"Alastair Fothergill; Mark Linfield";49 Min.;PTH49M;S01E10;Seasonal Forests;;TRUE;TRUE
+Planet Earth;e155p;tt0905878;episode;"GB; CA; US; JP";2007;Alastair Fothergill;49 Min.;PTH49M;S01E11;Ocean Deep;;TRUE;TRUE
+Planet Earth;e072p;tt0799305;episode;"GB; CA; US; JP";2007;Alastair Fothergill;49 Min.;PTH49M;S01E04;Caves;;FALSE;TRUE
+Planet Earth;e073p;tt0818059;episode;"GB; CA; US; JP";2007;Alastair Fothergill;49 Min.;PTH49M;S01E05;Deserts;;FALSE;TRUE
+Planet Earth;e074p;tt0905876;episode;"GB; CA; US; JP";2007;Alastair Fothergill;49 Min.;PTH49M;S01E06;Ice Worlds;Escalation / de-escalation;FALSE;TRUE
+Planet Earth;e150p;tt0797601;episode;"GB; CA; US; JP";2007;Alastair Fothergill;49 Min.;PTH49M;S01E03;Fresh Water;;FALSE;TRUE
+Planet Earth;e151p;tt0905875;episode;"GB; CA; US; JP";2007;Alastair Fothergill;49 Min.;PTH49M;S01E07;Great Plains;;FALSE;TRUE
+Planet Earth;e152p;tt0905877;episode;"GB; CA; US; JP";2007;Alastair Fothergill;49 Min.;PTH49M;S01E08;Jungles;;FALSE;TRUE
+Planet Earth;e153p;tt0905880;episode;"GB; CA; US; JP";2007;Alastair Fothergill;49 Min.;PTH49M;S01E09;Shallow Seas;;FALSE;TRUE
+Planet Earth II;e162p;tt6209134;episode;"GB; US";2017;Ed Charles;49 Min.;PTH49M;S01E04;Deserts;Escalation / de-escalation;TRUE;TRUE
+Planet Earth II;e075p;tt6209144;episode;"GB; DE; FR; CN; US";2016;Fredi Devas;49 Min.;PTH49M;S01E06;Cities;;FALSE;TRUE
+Planet Earth II;e159p;tt6142646;episode;"GB; US";2017;Elizabeth White;51 Min.;PTH51M;S01E01;Islands;;FALSE;TRUE
+Planet Earth II;e160p;tt6209126;episode;"GB; US";2017;Justin Anderson;49 Min.;PTH49M;S01E02;Mountains;;FALSE;TRUE
+Planet Earth II;e161p;tt6209130;episode;"GB; US";2017;Emma Napper;50 Min.;PTH50M;S01E03;Jungles;;FALSE;TRUE
+Planet Earth II;e163p;tt6209140;episode;"GB; US";2017;Chadden Hunter;49 Min.;PTH49M;S01E05;Grasslands;;FALSE;TRUE
+Planet Earth III;e076p;tt10750264;episode;"GB; US";2023;;59 Min.;PTH59M;S01E01;Coasts;"Escalation / de-escalation; Collision";TRUE;TRUE
+Planet Earth III;e077p;tt29585012;episode;"GB; US";2023;;58 Min.;PTH58M;S01E03;Deserts And Grasslands;Escalation / de-escalation;TRUE;TRUE
+Planet Earth III;e196p;tt29584994;episode;"GB; US";2023;;58 Min.;PTH58M;S01E02;Ocean;Unintended Consequences;TRUE;TRUE
+Planet Earth III;e197p;tt29585022;episode;"GB; US";2023;;58 Min.;PTH58M;S01E04;Freshwater;Disruptive scaling;TRUE;TRUE
+Planet Earth III;e078p;tt29585025;episode;"GB; US";2023;;59 Min.;PTH59M;S01E06;Extremes;;FALSE;TRUE
+Planet Earth III;e079p;tt29585027;episode;"GB; US";2023;;58 Min.;PTH58M;S01E07;Human;;FALSE;TRUE
+Planet Earth III;e080p;tt29585028;episode;"GB; US";2023;;58 Min.;PTH58M;S01E08;Heroes;;FALSE;TRUE
+Planet Earth III;e198p;tt29585026;episode;"GB; US";2023;;60 Min.;PT1H00M;S01E05;Forests;;FALSE;TRUE
+Planet Earth: The Future;e156p;tt1422382;episode;GB;2006;"Abigail Lees; Sarah Whalley";59 Min.;PTH59M;S01E01;Saving Species;;FALSE;TRUE
+Planet Earth: The Future;e157p;tt1422380;episode;GB;2006;;59 Min.;PTH59M;S01E02;Into the Wilderness;;FALSE;TRUE
+Planet Earth: The Future;e158p;tt1422381;episode;GB;2006;;59 Min.;PTH59M;S01E03;Living Together;;FALSE;TRUE
+Roter Himmel;f041r;tt26440619;feature film;DE;2023;Christian Petzold;102 Min.;PT1H42M;;;"Escalation / de-escalation; Unintended Consequences";TRUE;TRUE
+Seven Worlds One Planet;e081s;tt10340162;episode;"GB; CN; US; DE; FR";2019;Fredi Devas;59 Min.;PTH59M;S01E01;Anarctica;Escalation / de-escalation;TRUE;TRUE
+Seven Worlds One Planet;e083s;tt10340166;episode;"GB; CN; US; DE; FR";2019;Chadden Hunter;58 Min.;PTH58M;S01E03;South America;"Escalation / de-escalation; Disruptive scaling; Collision";TRUE;TRUE
+Seven Worlds One Planet;e082s;tt10340164;episode;"GB; CN; US; DE; FR";2019;Emma Napper;59 Min.;PTH59M;S01E02;Asia;;FALSE;TRUE
+Seven Worlds One Planet;e084s;tt10340168;episode;"GB; CN; US; DE; FR";2019;Emma Napper;60 Min.;PT1H00M;S01E04;Australia;;FALSE;TRUE
+Seven Worlds One Planet;e085s;tt10340170;episode;"GB; CN; US; DE; FR";2019;Giles Badger;58 Min.;PTH58M;S01E05;Europe;;FALSE;TRUE
+Seven Worlds One Planet;e086s;tt10340178;episode;"GB; CN; US; DE; FR";2019;Chadden Hunter;58 Min.;PTH58M;S01E06;North America;;FALSE;TRUE
+Seven Worlds One Planet;e087s;tt10340176;episode;"GB; CN; US; DE; FR";2019;Giles Badger;58 Min.;PTH58M;S01E07;Africa;;FALSE;TRUE
+Sila;f017s;tt4067672;documentary;"CH; US; GL";2015;Corina Gamma;70 Min.;PT1H10M;;;;FALSE;TRUE
+Six Degrees Could Change the World;f006s;tt1224519;documentary;US;2008;Ron Bowman;96 Min.;PT1H36M;;;;FALSE;TRUE
+Take Shelter;f054t;tt1675192;feature film;US;2011;Jeff Nichols;120 Min.;PT2H00M;;;;FALSE;TRUE
+Tending Nature;e089t;tt13267568;episode;US;2018;"Corbett Jones; Anna Rau";27 Min.;PTH27M;S01E02;Decolonizing Cuisine with Mak-'amham;;FALSE;TRUE
+Tending Nature;e090t;tt13292504;episode;US;2020;"Corbett Jones; Anna Rau";27 Min.;PTH27M;S03E01;Guarding Ancestral Grounds with the Wiyot;;FALSE;TRUE
+Tending Nature;e091t;;episode;US;;;27 Min.;PTH27M;S01E04;Healing the Body with United Indian Health Service;;FALSE;TRUE
+Tending Nature;e092t;tt13272436;episode;US;2019;"Corbett Jones; Anna Rau";27 Min.;PTH27M;S02E02;Holistic Healing with the Syuxtun Collective;;FALSE;TRUE
+Tending Nature;e093t;;episode;US;;;27 Min.;PTH27M;S02E04;Managing Groundwater with the Paiute;;FALSE;TRUE
+Tending Nature;e094t;tt13292578;episode;US;2020;"Corbett Jones; Anna Rau";27 Min.;PTH27M;S03E04;Cultivating Native Foodways with the Cultural Conservancy;;FALSE;TRUE
+Tending Nature;e095t;tt13292542;episode;US;2020;"Corbett Jones; Anna Rau";25 Min.;PTH25M;S02E02;Preserving the Desert with NALC;;FALSE;TRUE
+Tending Nature;e096t;tt13267528;episode;US;2018;"Corbett Jones; Anna Rau";27 Min.;PTH27M;S01E01;Protecting The Coast with the Tolowa Dee-Ni';;FALSE;TRUE
+Tending Nature;e097t;tt13292560;episode;US;2020;"Corbett Jones; Anna Rau";27 Min.;PTH27M;S03E03;Reclaiming Agriculture with the Yocha Dehe Wintun Nation;;FALSE;TRUE
+Tending Nature;e098t;;episode;US;;;27 Min.;PTH27M;S02E03;Restoring The River with the Yurok;;FALSE;TRUE
+Tending Nature;e099t;tt13267616;episode;US;2019;"Corbett Jones; Anna Rau";27 Min.;PTH27M;S02E01;Rethinking The Coast with the Ti'at Society;;FALSE;TRUE
+Tending Nature;e100t;tt13267582;episode;US;2018;"Corbett Jones; Anna Rau";27 Min.;PTH27M;S01E03;Tribal Hunting with the Pit River Peoples;;FALSE;TRUE
+Tending Nature;e192t;;episode;;;;57 Min.;PTH57M;;Special: Indigenous Land Stewardship;;FALSE;TRUE
+Tending the Wild;e185t;;episode;;;;18 Min.;PTH18M;S01E01;Cultural Burning;;FALSE;TRUE
+Tending the Wild;e186t;;episode;;;;18 Min.;PTH18M;S01E02;Keeping the River;;FALSE;TRUE
+Tending the Wild;e187t;;episode;;;;15 Min.;PTH15M;S01E03;Weaving Community;;FALSE;TRUE
+Tending the Wild;e188t;;episode;;;;15 Min.;PTH15M;S01E04;Decolonizing the Diet;;FALSE;TRUE
+Tending the Wild;e189t;;episode;;;;12 Min.;PTH12M;S01E05;Gathering Medicine;;FALSE;TRUE
+Tending the Wild;e190t;;episode;;;;12 Min.;PTH12M;S01E06;Living Desert;;FALSE;TRUE
+Tending the Wild;e191t;;episode;;;;61 Min.;PT1H01M;;Special;;FALSE;TRUE
+Tenet;f055t;tt6723592;feature film;"US; GB";2020;Christopher Nolan;150 Min.;PT2H30M;;;;FALSE;TRUE
+Tenki no ko;f060t;tt9426210;feature film;"JP; CN";2019;Makoto Shinkai;112 Min.;PT1H52M;;;;FALSE;TRUE
+Thank You for the Rain;f011t;tt6512856;documentary;"GB; NO";2017;Julia Dahr;87 Min.;PT1H27M;;;;FALSE;TRUE
+The 11th Hour;f010t;tt0492931;documentary;US;2007;"Leila Conners; Nadia Conners";95 Min.;PT1H35M;;;;FALSE;TRUE
+The Age of Stupid;f001t;tt1300563;documentary;GB;2009;Franny Armstrong;92 Min.;PT1H32M;;;Escalation / de-escalation;TRUE;TRUE
+The Blue Planet;e106t;tt0846812;episode;"GB; US; DE";2002;Alastair Fothergill;49 Min.;PTH49M;S01E01;Ocean World;;FALSE;TRUE
+The Blue Planet;e107t;tt0846339;episode;"GB; US; DE";2001;Alastair Fothergill;49 Min.;PTH49M;S01E02;The Deep;;FALSE;TRUE
+The Blue Planet;e108t;tt0846813;episode;"GB; US; DE";2001;Alastair Fothergill;48 Min.;PTH48M;S01E03;Open Ocean;;FALSE;TRUE
+The Blue Planet;e109t;tt0846811;episode;"GB; US; DE";2001;Alastair Fothergill;49 Min.;PTH49M;S01E04;Frozen Seas;;FALSE;TRUE
+The Blue Planet;e110t;tt0846814;episode;"GB; US; DE";2001;Alastair Fothergill;49 Min.;PTH49M;S01E05;Seasonal Seas;;FALSE;TRUE
+The Blue Planet;e111t;tt0846810;episode;"GB; US; DE";2001;Alastair Fothergill;49 Min.;PTH49M;S01E06;Coral Seas;;FALSE;TRUE
+The Blue Planet;e112t;tt0846815;episode;"GB; US; DE";2001;Alastair Fothergill;49 Min.;PTH49M;S01E07;Tidal Seas;;FALSE;TRUE
+The Blue Planet;e113t;tt0846338;episode;"GB; US; DE";2001;Alastair Fothergill;48 Min.;PTH48M;S01E08;Coasts;;FALSE;TRUE
+The Day After Tomorrow;f044t;tt0319262;feature film;US;2004;Roland Emmerich;124 Min;PT2H04M;;;;FALSE;TRUE
+The Great Warming;f035t;tt0904079;documentary;"CA; US";2006;Michael Taylor;85 Min.;PT1H25M;;;;FALSE;TRUE
+The Green Planet;e101t;tt16997844;episode;"GB; CN; DE; FR; US";2022;Paul Williams;44 Min.;PTH44M;S01E01;Tropical Worlds;;FALSE;TRUE
+The Green Planet;e102t;tt17070212;episode;"GB; CN; DE; FR; US";2022;Rosie Thomas;49 Min.;PTH49M;S01E03;Seasonal Worlds;;FALSE;TRUE
+The Green Planet;e103t;tt17348690;episode;"GB; CN; DE; FR; US";2022;Paul Williams;50 Min.;PTH50M;S01E04;Desert Worlds;;FALSE;TRUE
+The Green Planet;e104t;tt17352930;episode;"GB; CN; DE; FR; US";2022;Elisabeth Oakham;50 Min.;PTH50M;S01E05;Human Worlds;;FALSE;TRUE
+The Green Planet;e164t;tt16997852;episode;"GB; CN; DE; FR; US";2022;Peter Bassett;50 Min.;PTH50M;S01E02;Water Worlds;;FALSE;TRUE
+The Happening;f061t;tt0949731;feature film;"US; IN";2008;M. Night Shyamalan;91 Min.;PT1H31M;;;Post-anthropocentric reperspectivations;TRUE;TRUE
+The Hottest August;f034t;tt9761064;documentary;"CA; US";2019;Brett Story;94 Min.;PT1H34M;;;;FALSE;TRUE
+The Human Element;f030t;tt7825894;documentary;"US; IS";2018;Matthew Testa;76 Min.;PT1H16M;;;;FALSE;TRUE
+The Island President;f033t;tt1990352;documentary;US;2011;Jon Shenk;101 Min.;PT1H41M;;;;FALSE;TRUE
+The Last Survivors;f050t;tt2558318;feature film;US;2014;Tom Hammock;95 Min.;PT1H35M;;;;FALSE;TRUE
+The Living Planet;e165t;tt0842235;episode;GB;1984;Richard Brock;55 Min.;PTH55M;S01E01;The Building of the Earth;;FALSE;TRUE
+The Living Planet;e166t;tt0842234;episode;GB;1984;;55 Min.;PTH55M;S01E02;The Frozen World;;FALSE;TRUE
+The Living Planet;e167t;tt0842237;episode;GB;1984;Ian Calvert;55 Min.;PTH55M;S01E03;The Northern Forests;;FALSE;TRUE
+The Living Planet;e168t;tt0842398;episode;GB;1984;;55 Min.;PTH55M;S01E04;Jungles;;FALSE;TRUE
+The Living Planet;e169t;tt0842239;episode;GB;1984;Richard Matthews;55 Min.;PTH55M;S01E05;Seas of Grass;;FALSE;TRUE
+The Living Planet;e170t;tt0842233;episode;GB;1984;;55 Min.;PTH55M;S01E06;The Baking Deserts;;FALSE;TRUE
+The Living Planet;e171t;tt0842240;episode;GB;1984;;55 Min.;PTH55M;S01E07;The Sky Above;;FALSE;TRUE
+The Living Planet;e172t;tt0842400;episode;GB;1984;;55 Min.;PTH55M;S01E08;Sweet Fresh Water;;FALSE;TRUE
+The Living Planet;e173t;tt0842236;episode;GB;1984;;55 Min.;PTH55M;S01E09;The Margins of the Land;;FALSE;TRUE
+The Living Planet;e193t;tt0842401;episode;GB;1984;;55 Min.;PTH55M;S01E10;Worlds Apart;;FALSE;TRUE
+The Living Planet;e194t;tt0842238;episode;GB;1984;;55 Min.;PTH55M;S01E11;The Open Ocean;;FALSE;TRUE
+The Magnitude of All Things;f036t;tt12397050;documentary;CA;2020;Jennifer Abbott;86 Min.;PT1H26M;;;;FALSE;TRUE
+The Making of The Living Planet;f195t;n.n.;documentary;n.n.;n.n.;n.n.;39 Min.;PTH39M;;;;FALSE;TRUE
+The Road;f051t;tt0898367;feature film;US;2009;John Hillcoat;111 Min.;PT1H51M;;;;FALSE;TRUE
+The Trials of Life;e105t;tt0844239;episode;GB;1990;Michael Gunton;50 Min.;PTH50M;S01E01;Arriving;;FALSE;TRUE
+The Trials of Life;e174t;tt0844246;episode;GB;1990;Michael Gunton;49 Min.;PTH49M;S01E02;Growing Up;;FALSE;TRUE
+The Trials of Life;e175t;tt0844243;episode;GB;1990;Michael Gunton;49 Min.;PTH49M;S01E03;Finding Food;;FALSE;TRUE
+The Trials of Life;e176t;tt0844248;episode;GB;1990;Michael Gunton;49 Min.;PTH49M;S01E04;Hunting and Escaping;;FALSE;TRUE
+The Trials of Life;e177t;tt0844244;episode;GB;1990;Michael Gunton;48 Min.;PTH48M;S01E05;Finding the Way;;FALSE;TRUE
+The Trials of Life;e178t;tt0844247;episode;GB;1990;Michael Gunton;49 Min.;PTH49M;S01E06;Homemaking;;FALSE;TRUE
+The Trials of Life;e179t;tt0844249;episode;GB;1990;Michael Gunton;49 Min.;PTH49M;S01E07;Living Together;;FALSE;TRUE
+The Trials of Life;e180t;tt0844242;episode;GB;1990;Michael Gunton;49 Min.;PTH49M;S01E08;Fighting;;FALSE;TRUE
+The Trials of Life;e181t;tt0844245;episode;GB;1990;Michael Gunton;47 Min.;PTH47M;S01E09;Friends and Rivals;;FALSE;TRUE
+The Trials of Life;e182t;tt0844250;episode;GB;1990;Michael Gunton;49 Min.;PTH49M;S01E10;Talking to Strangers;;FALSE;TRUE
+The Trials of Life;e183t;tt0844241;episode;GB;1990;Michael Gunton;49 Min.;PTH49M;S01E11;Courting;;FALSE;TRUE
+The Trials of Life;e184t;tt0844240;episode;GB;1990;Michael Gunton;49 Min.;PTH49M;S01E12;Continuing the Line;;FALSE;TRUE
+This Changes Everything;f027t;tt1870548;documentary;"CA; US";2015;Avi Lewis;89 Min.;PT1H29M;;;;FALSE;TRUE
+ThuleTuvalu;f021t;tt3438802;documentary;"TV; GL; CH";2014;Matthias von Gunten;96 Min.;PT1H36M;;;Destabilization / Restabilization;TRUE;TRUE
+Tides;f048t;tt6506264;feature film;"DE; CH";2021;Tim Fehlbaum;104 Min.;PT1H44M;;;;FALSE;TRUE
+Une fois que tu sais;f008u;tt9430820;documentary;FR;2020;Emmanuel Cappellin;104 Min.;PT1H44M;;;"Destabilization / Restabilization; Escalation / de-escalation; Unintended Consequences";TRUE;TRUE
+Vesper;f039v;tt20225374;feature film;"LT; FR; GB; BE";2022;"Kristina Buozyte; Bruno Samper";114 Min.;PT1H54M;;;Escalation / de-escalation;TRUE;TRUE
+Weitermachen Sanssouci;f053w;tt7939182;feature film;DE;2019;Max Linz;80 Min.;PT1H20M;;;"Destabilization / Restabilization; Non-linear temporalities; Disruptive scaling; Post-anthropocentric reperspectivations";TRUE;TRUE
+Wer Wir Waren;f003w;tt12184602;documentary;DE;2021;Marc Bauder;115 Min.;PT1H55M;;;;FALSE;TRUE
+Young Ones;f056y;tt2693664;feature film;"US; IE; ZA";2014;Jake Paltrow;100 Min.;PT1H40M;;;;FALSE;TRUE
+`
+      .replace(/"/g, '') //CSV Anpassen, da Dropdown Menues von Excel falsch erkannt werden
+      .replace(/; /g, ', ') 
+    ;
+
+     
+    /*
+      Hauptfunktion:
+      - liest CSV
+      - erzeugt Tabelle
+      - baut Spaltenüberschriften
+      - füllt Dropdown
+    */
+    function showCSV(csv) {
+
+      /*
+      teilt die CSV in Zeilen und Spalten auf
+      ';' als Trennzeichen festlegen
+      */
+      const rows = csv.trim().split('\n').map(r => r.split(';'));
+      
+      // Tabelle leeren, um sie je nach Suchbegriff neu zu bauen      
+      const table = document.getElementById('csvTable');
+      table.innerHTML = '';
+
+      /* ## Tabellenkopf ## */
+      const headerRow = document.createElement('tr');
+      rows[0].forEach((h, index) => {
+        const th = document.createElement('th');
+        th.textContent = h;
+        
+        // Ermöglicht sortieren durch Klick auf den Tabellenkopf        
+        th.addEventListener('click', () => sortTable(index));
+        headerRow.appendChild(th);
+      });
+      table.appendChild(headerRow);
+      const headerNames = rows[0];
+
+      /* ## Dropdown mit Spaltennamen ## */
+      const select = document.getElementById('columnSelect');
+      select.innerHTML = '';
+
+      // Erstellt das Dropdown-Menü für die Suchfilter      
+      const allOption = document.createElement('option');
+      allOption.value = 'all';
+      allOption.textContent = 'All Columns';
+      select.appendChild(allOption);
+      
+      // Fügt die eizelnen Spalten als Suchfilter hinzu
+      headerNames.forEach(name => {
+        const opt = document.createElement('option');
+        opt.value = name;
+        opt.textContent = name;
+        select.appendChild(opt);
+      });
+
+      /* Definiert Spalten, in denen Zeilenumbrüche erlaubt sind */
+      const breakableColumns = ['title', 'episode_title'];
+
+      /* ## Tabelleninhalt ## */
+      rows.slice(1).forEach(r => {
+        const tr = document.createElement('tr');
+        r.forEach((cell, index) => {
+          const td = document.createElement('td');
+
+    // Für normale Spalten: Zeilenumbrüche entfernen
+		if (!breakableColumns.includes(headerNames[index])) {
+  cell = cell.replace(/\n/g, ' ');
+} else {
+  td.classList.add('breakable');
+
+  /*
+  Prüfen, ob Text zu breit ist.
+  Nur dann wird ein manueller Zeilenumbruch eingefügt.
+  */
+  const tempSpan = document.createElement('span');
+  tempSpan.style.visibility = 'hidden';
+  tempSpan.style.whiteSpace = 'nowrap';
+  tempSpan.textContent = cell;
+  document.body.appendChild(tempSpan);
+
+  const textWidth = tempSpan.offsetWidth;
+  const columnWidth = td.offsetWidth || 200; // fallback if empty
+
+  document.body.removeChild(tempSpan);
+
+  if (textWidth > columnWidth * 1.1) { // force break only if too wide
+    const midpoint = Math.floor(cell.length / 2);
+    const breakPos = cell.indexOf(' ', midpoint);
+    if (breakPos !== -1) {
+      cell = cell.slice(0, breakPos) + '\n' + cell.slice(breakPos + 1);
+    }
+  }
+}
+          // Spezialfall: imdb_id 
+          if (headerNames[index] === 'imdb_id') {
+            const a = document.createElement('a');
+            a.href = `https://www.imdb.com/title/${cell}/`; //generiert den Link zur entsprechenden imdb-Seite
+            a.textContent = cell; //angezeigter Text ist nur die imdb_id
+            a.target = '_blank';
+            td.appendChild(a);
+          } else {
+            td.textContent = cell;
+          }
+
+          tr.appendChild(td);
+        });
+        table.appendChild(tr);
+      });
+	  updateEntryCount();
+    }
+
+    // CSV anzeigen
+    showCSV(csvText);
+
+    /* ## Tabellen-Sortierung ## */
+    function sortTable(colIndex) {
+      const tableEl = document.getElementById('csvTable');
+      const rowsArray = Array.from(tableEl.querySelectorAll('tr:not(:first-child)'));
+      
+      // Prüfen, ob aktuell aufsteigend sortiert ist
+      const isAsc = tableEl.getAttribute('data-sort-col') == colIndex &&
+                    tableEl.getAttribute('data-sort-order') == 'asc';
+
+      rowsArray.sort((a, b) => {
+        const aText = a.children[colIndex].textContent;
+        const bText = b.children[colIndex].textContent;
+        
+        /* 
+        Numerische Tabellenwerte werden von String in Float umgewandelt, 
+        um sie für die Sortierung vergleichbar zu machen
+        */         
+        const aNum = parseFloat(aText.replace(',', '.'));
+        const bNum = parseFloat(bText.replace(',', '.'));
+        
+        /* Prüft, ob die zu sortierende Spalte Zahlen oder Text enthält */        
+        if (!isNaN(aNum) && !isNaN(bNum)) {
+          return isAsc ? bNum - aNum : aNum - bNum;
+        } else {
+          return isAsc ? bText.localeCompare(aText) : aText.localeCompare(bText);
+        }
+      });
+
+      // Neue Reihenfolge ins DOM schreiben
+      rowsArray.forEach(row => tableEl.appendChild(row));
+      
+      // Sortierstatus speichern
+      tableEl.setAttribute('data-sort-col', colIndex);
+      tableEl.setAttribute('data-sort-order', isAsc ? 'desc' : 'asc');
+    }
+
+    /* ## Filtern ## */
+    const searchInput = document.getElementById('searchInput');
+    const columnSelect = document.getElementById('columnSelect');
+
+    searchInput.addEventListener('input', filterTable);
+    columnSelect.addEventListener('change', filterTable);
+
+    function filterTable() {
+      const filter = searchInput.value.toLowerCase();
+      const selectedColumn = columnSelect.value;
+      const table = document.getElementById('csvTable');
+      const rows = table.querySelectorAll('tr:not(:first-child)');
+
+      rows.forEach(tr => {
+        if (!filter) { /* Bei leerer Suchzeile wird die gesamte Tabelle angezeigt */
+          tr.style.display = '';
+          return;
+        }
+
+        let textToCheck = '';
+        if (selectedColumn === 'all') { /* Alle Spalten werden durchsucht */
+          textToCheck = tr.textContent.toLowerCase();
+        } else { /* Ansonsten: Macht ein Array aus allen Spaltenüberschriften und ermittelt die zu dursuchende Spalte */
+          const header = Array.from(table.querySelectorAll('tr:first-child th'))
+          .findIndex(th => th.textContent === selectedColumn);
+          /* Jetzt wird der Zeileninhalt der jeweiligen Spalte durchsucht */          
+          textToCheck = tr.children[header].textContent.toLowerCase();
+        }
+        /* Bestimmt ob die Zeile angezeigt wird oder nicht */
+        tr.style.display = textToCheck.includes(filter) ? '' : 'none';
+      });
+    /* Passt den Eintragszähler an */
+	  updateEntryCount();
+    }
+    
+/* ## Eintragszähler ## */
+function updateEntryCount() {
+  const table = document.getElementById('csvTable');
+  const rows = table.querySelectorAll('tr:not(:first-child)');
+  const totalCount = rows.length;
+  const visibleCount = Array.from(rows).filter(r => r.style.display !== 'none').length;
+  document.getElementById('entryCount').textContent = `Entries: ${visibleCount} / ${totalCount} total`; 
+}
+;
+  </script>
+</body>
+</html>
