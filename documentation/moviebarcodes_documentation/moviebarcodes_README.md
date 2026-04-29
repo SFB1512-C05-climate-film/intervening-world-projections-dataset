@@ -2,7 +2,7 @@
 
 Moviebarcodes are schematic visual representations of the chromatic and luminance properties of moving-image material over time. Arranged horizontally from left to right, they map the temporal progression of a film’s or film-segment's colors and brightness values across its duration (Stratil 2024; Burghardt, Kao, Wolff 2016). The vertical axis represents the vertical distribution of these color and luminance values within the image frame.
 
-![Moviebarcode Example](../../data/moviebarcodes/mb_e158p_0.png) 
+<img src="../../data/moviebarcodes/mb_e158p_0.png" width="600">
 
 In this way, Moviebarcodes condense the color and brightness progressions of a time-based audiovisual work into a single, static image that preserves temporal order while abstracting from representational detail. While alternative mappings—such as swapping the temporal and spatial axes—are possible and may be analytically useful in specific cases, the guides accompanying this project focus exclusively on the configuration described above.
 
