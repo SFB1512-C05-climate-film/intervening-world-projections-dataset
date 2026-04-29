@@ -9,10 +9,13 @@
 *Abstract: A corpus of audiovisual research objects (films, documentaries, social media videos) on anthropogenic climate change, examining audio-visual patterns and future scenario construction across science, journalism, entertainment, and activism. Includes film metadata, AdA Filmontology annotation packages, and moviebarcode visualisations.*
 
 In what ways do audio-visual patterns project and discard different forms of world-making in the context of the ecological emergency? This project started from the premise that the interventionist quality of feature films, documentaries, and web videos on anthropogenic climate change consists in combining the dissemination of facts and political positions with affective strategies, the formation of participation, the development of future scenarios and spatial schemata of planetary ecology. Our hypothesis was that this modulation of perceptual scenarios takes place via transfers between different formats of audio-visual image production, between science, journalism, entertainment, and activism. 
+
 We investigated three different corpora and attempted to grasp the circulation of audiovisual strategies between them by relating them to overarching types of pattern and conflicts, what we termed "modes of intervention". The subprojects looked at 
 * a) documentaries and genres of entertainment cinema
 * b) social media videos and 
 * c) nature documentaries. 
+
+The modes of intervention are defined across seven scalable categories that identify reoccuring audiovisual patterns within the corpus material to examine and analyse strategies through which films and videos modulate forms of world-making in the context of ecological crisis. Further information and details can be accessed via the metadata-documentation. 
 
 ---
 
