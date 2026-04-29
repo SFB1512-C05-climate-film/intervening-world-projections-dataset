@@ -6,7 +6,7 @@
 
 ## About the project
 
-*Abstract: A corpus of audiovisual research objects (films, documentaries, social media videos) on anthropogenic climate change, examining audio-visual patterns and future scenario construction across science, journalism, entertainment, and activism. Includes film metadata, AdA Filmontology annotation packages, and moviebarcode visualisations.*
+Short description: *A corpus of audiovisual research objects (films, documentaries, social media videos) on anthropogenic climate change, examining audio-visual patterns and future scenario construction across science, journalism, entertainment, and activism. Includes film metadata, AdA Filmontology annotation packages, and moviebarcode visualisations.*
 
 In what ways do audio-visual patterns project and discard different forms of world-making in the context of the ecological emergency? This project started from the premise that the interventionist quality of feature films, documentaries, and web videos on anthropogenic climate change consists in combining the dissemination of facts and political positions with affective strategies, the formation of participation, the development of future scenarios and spatial schemata of planetary ecology. Our hypothesis was that this modulation of perceptual scenarios takes place via transfers between different formats of audio-visual image production, between science, journalism, entertainment, and activism. 
 
@@ -38,7 +38,7 @@ The dataset consists of four data types. Due to copyright restrictions, only the
 
 2. **Secondary Data**
     * Annotation data: 78 annotation packages in `azp` and `json`formats
-    * Moviebarcodes: 303 visualizations in `png` format
+    * Moviebarcodes: 303 visualisations in `png` format
     * Metadata: tabular descriptions of the corpus in `xlsx`, `csv`, `html`, and `json` formats
     * Metadatasschema in `yml` format
 
