@@ -4,13 +4,13 @@ Moviebarcodes are schematic visual representations of the chromatic and luminanc
 
 <img src="../../data/moviebarcodes/mb_e158p_0.png" width="800">
 
-In this way, Moviebarcodes condense the color and brightness progressions of a time-based audiovisual work into a single, static image that preserves temporal order while abstracting from representational detail. While alternative mappings—such as swapping the temporal and spatial axes—are possible and may be analytically useful in specific cases, the guides accompanying this project focus exclusively on the configuration described above.
+In this way, moviebarcodes condense the color and brightness progressions of a time-based audiovisual work into a single, static image that preserves temporal order while abstracting from representational detail. While alternative mappings—such as swapping the temporal and spatial axes—are possible and may be analytically useful in specific cases, the guides accompanying this project focus exclusively on the configuration described above.
 
 ## How are Moviebarcodes generated?
 
 Moviebarcodes are created in a multi-step process. First, individual frames are extracted from a video at regular intervals. Each extracted frame is then reduced to the width of one pixel, effectively averaging the color and luminance values of the frame along one spatial dimension. These pixel-wide abstractions are subsequently arranged horizontally according to their position in the films’s or clip's runtime, resulting in a composite image that abstracts and visualizes the film's/clip's temporal structure.
 
-We use the free and open-source tools ffmpeg and ImageMagick to generate the Moviebarcodes. Other methods are possible and may lead to slightly different outcomes. For the purposes of this project, however, this approach was chosen because it produces results that are reproducible, methodologically transparent, and easy to trace step by step. Detailed instructions for the workflow can be found in the respective tutorials.
+We use the free and open-source tools ffmpeg and ImageMagick to generate the moviebarcodes. Other methods are possible and may lead to slightly different outcomes. For the purposes of this project, however, this approach was chosen because it produces results that are reproducible, methodologically transparent, and easy to trace step by step. Detailed instructions for the workflow can be found in the respective tutorials.
 
 ## Why use Moviebarcodes in film analysis?
 
@@ -18,7 +18,7 @@ Moviebarcodes can serve as an analytical tool as well as a means of visual commu
 
 Moviebarcodes are particularly useful for tracing movements and modulations of visual composition through the progression of the barcode’s temporal axis. As analytical aids, they allow scholars to grasp at a glance how rhythms, repetitive structures, and gradual developments unfold over time on the level of color and luminance (Stratil 2024). Crucially, these temporal patterns can be observed independently of representational content, enabling an abstracted analysis of visual dynamics that foregrounds formal organization rather than depicted objects or representational elements.
 
-Conversely, Moviebarcodes are well suited as illustrative devices in scholarly argumentation. They can support analyses that assume audiovisual composition—that is, the concrete temporal arrangement of images and sounds—as a formal and aesthetic matrix shaping both processes of understanding and affective experience in spectators (Bakels, Grotkopp, Scherer, Stratil 2020; also see Müller/Kappelhoff 2018). In this sense, Moviebarcodes can help to visualize how meaning and emotion emerge from the temporal organization of moving images, rather than from isolated stills or representational elements alone (Stratil 2024).
+Conversely, moviebarcodes are well suited as illustrative devices in scholarly argumentation. They can support analyses that assume audiovisual composition—that is, the concrete temporal arrangement of images and sounds—as a formal and aesthetic matrix shaping both processes of understanding and affective experience in spectators (Bakels, Grotkopp, Scherer, Stratil 2020; also see Müller/Kappelhoff 2018). In this sense, moviebarcodes can help to visualize how meaning and emotion emerge from the temporal organization of moving images, rather than from isolated stills or representational elements alone (Stratil 2024).
 
 ## References
 
