@@ -1,72 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!-- Zeichensatz: UTF-8 unterstützt Sonderzeichen --> 
+  <!-- Character encoding: UTF-8 supports special characters --> 
 
-  <!-- Titel der Browser-Registerkarte -->
+  <!-- Title of the browser tab -->
   <meta charset="utf-8" />
   <title>Corpus metadata</title>
   <style>
-    /* Grundlayout der Seite */
+    /* Basic page layout */
     body { font-family: Arial, sans-serif; margin: 30px; font-size: 14px; }
 
-    /* Container für die Tabelle mit Scrollbars */
+    /* Container for the table with scrollbars */
     #tableContainer {
-      overflow-x: auto;       /* horizontales Scrollen erlauben */
-      overflow-y: auto;       /* vertikales Scrollen erlauben */
-      max-height: 75vh;       /* maximale Höhe (75% der Fensterhöhe) */
+      overflow-x: auto;       /* allow horizontal scrolling */
+      overflow-y: auto;       /* allow vertical scrolling */
+      max-height: 75vh;       /* maximum height (75% of window height */
       margin: 20px auto;
       width: 90%;
       border: 1px solid #ccc;
     }
 
-    /* Tabellen-Grundlayout */
+    /* Basic table layout */
     table {
-      border-collapse: collapse; /* Darsellung des Gitternetzes */
+      border-collapse: collapse; /* renders the grid lines */
       width: 100%;
       border-radius: 8px;
       background-color: white;
-      white-space: nowrap; /* kein automatischer Zeilenumbruch (default) */
+      white-space: nowrap; /* no automatic line breaks (default) */
     }
 
-    /* Tabellenkopf */
+    /* Table header */
     th {
       background-color: #00796b;
       color: white;
       font-weight: bold;
       padding: 8px 10px;
       text-align: left;
-      cursor: pointer; /* Spalten sind klickbar */
-      position: sticky; /* Kopf bleibt beim Scrollen sichtbar */
+      cursor: pointer; /* columns are clickable */
+      position: sticky; /* header stays visible while scrolling */
       top: 0;
       z-index: 2;
     }
 
-    /* Tabellenzellen */
+    /* Table cells */
     td { 
       padding: 6px 10px;
       white-space: nowrap;
     }
 
-    /* Zellen, in denen Zeilenumbrüche erlaubt sind */
+    /* Cells where line breaks are allowed */
     td.breakable {
-      white-space: pre; 	  /* keine automatischen Zeilenumbrüche */
-      word-break: keep-all;    /* keine Worttrennungen */
+      white-space: pre; 	  /* no automatic line breaks */
+      word-break: keep-all;    /* no word hyphenation */
     }
 
-    /* Jede zweite Zeile leicht einfärben */
+    /* Alternate row background color */
     tr:nth-child(even) { background-color: #f9f9f9; }
     
-    /* Hover-Effekt */
+    /* Hover effect */
     tr:hover { background-color: #e0f7fa; }
 
-    /* Suchbereich */
+    /* Search area  */
     #searchContainer {
       text-align: center;
       margin: 20px auto;
     }
 
-    /* Suchfeld & Dropdown */
+    /* Search field & dropdown  */
     #searchInput, #columnSelect {
       padding: 8px;
       font-size: 14px;
@@ -78,15 +78,15 @@
 </head>
 <body>
 
-  <!-- Hauptüberschrift -->
+  <!-- Main heading -->
   <h1>Corpus metadata</h1>
 
-<!-- Such- und Filterbereich -->
+<!-- Search and filter area -->
 <div id="searchContainer">
   <input type="text" id="searchInput" placeholder="Search...">
   <select id="columnSelect"></select>
 
-  <!-- Anzeige der Eintragsanzahl -->
+  <!-- Display entry count -->
   <span id="entryCount" style="
     display: inline-block;
     margin-left: 15px;
@@ -97,15 +97,15 @@
     font-size: 14px;
   ">Entries: 0</span>
 </div>
-  <!-- Tabellencontainer -->
+  <!-- Table container -->
   <div id="tableContainer">
     <table id="csvTable"></table>
   </div>
 
   <script>
     /*
-      CSV-Daten als mehrzeiliger String.
-      Trennzeichen: Semikolon (;) wegen CSV aus Excel-Export
+      CSV data as a multi-line string.
+      Delimiter: semicolon (;) due to CSV from Excel export
     */
     const csvText = `title;object_id;imdb_id;classification;country;year;director;runtime_min;duration_iso8601;season_episode;episode_title;modes_intervention;annotation_data;moviebarcode
 2040;f0162;tt7150512;documentary;AU;2018;Damon Gameau;92 Min.;PT1H32M;;;Escalation / de-escalation;TRUE;TRUE
@@ -334,54 +334,54 @@ Weitermachen Sanssouci;f053w;tt7939182;feature film;DE;2019;Max Linz;80 Min.;PT1
 Wer Wir Waren;f003w;tt12184602;documentary;DE;2021;Marc Bauder;115 Min.;PT1H55M;;;;FALSE;TRUE
 Young Ones;f056y;tt2693664;feature film;"US; IE; ZA";2014;Jake Paltrow;100 Min.;PT1H40M;;;;FALSE;TRUE
 `
-      .replace(/"/g, '') //CSV Anpassen, da Dropdown Menues von Excel falsch erkannt werden
+      .replace(/"/g, '') //Adjust CSV, because Excel misinterprets dropdown menus
       .replace(/; /g, ', ') 
     ;
 
      
     /*
-      Hauptfunktion:
-      - liest CSV
-      - erzeugt Tabelle
-      - baut Spaltenüberschriften
-      - füllt Dropdown
+      Main function:
+      - reading CSV
+      - generating table
+      - creates column headers
+      - fills dropdown
     */
     function showCSV(csv) {
 
       /*
-      teilt die CSV in Zeilen und Spalten auf
-      ';' als Trennzeichen festlegen
+       Split the CSV into rows and columns
+       set ‘;’ as the delimiter
       */
       const rows = csv.trim().split('\n').map(r => r.split(';'));
       
-      // Tabelle leeren, um sie je nach Suchbegriff neu zu bauen      
+      // Clear the table to rebuild based search term      
       const table = document.getElementById('csvTable');
       table.innerHTML = '';
 
-      /* ## Tabellenkopf ## */
+      /* ## Table header ## */
       const headerRow = document.createElement('tr');
       rows[0].forEach((h, index) => {
         const th = document.createElement('th');
         th.textContent = h;
         
-        // Ermöglicht sortieren durch Klick auf den Tabellenkopf        
+        // Allows sorting by clicking on the table header        
         th.addEventListener('click', () => sortTable(index));
         headerRow.appendChild(th);
       });
       table.appendChild(headerRow);
       const headerNames = rows[0];
 
-      /* ## Dropdown mit Spaltennamen ## */
+      /* ## Dropdown with column names ## */
       const select = document.getElementById('columnSelect');
       select.innerHTML = '';
 
-      // Erstellt das Dropdown-Menü für die Suchfilter      
+      // Creates the dropdown menu for the search filters       
       const allOption = document.createElement('option');
       allOption.value = 'all';
       allOption.textContent = 'All Columns';
       select.appendChild(allOption);
       
-      // Fügt die eizelnen Spalten als Suchfilter hinzu
+      // Adds individual columns as search filter options
       headerNames.forEach(name => {
         const opt = document.createElement('option');
         opt.value = name;
@@ -389,24 +389,24 @@ Young Ones;f056y;tt2693664;feature film;"US; IE; ZA";2014;Jake Paltrow;100 Min.;
         select.appendChild(opt);
       });
 
-      /* Definiert Spalten, in denen Zeilenumbrüche erlaubt sind */
+      /* Defines columns where line breaks are allowed */
       const breakableColumns = ['title', 'episode_title'];
 
-      /* ## Tabelleninhalt ## */
+      /* ## Table content ## */
       rows.slice(1).forEach(r => {
         const tr = document.createElement('tr');
         r.forEach((cell, index) => {
           const td = document.createElement('td');
 
-    // Für normale Spalten: Zeilenumbrüche entfernen
+    // For regular columns: remove line breaks
 		if (!breakableColumns.includes(headerNames[index])) {
   cell = cell.replace(/\n/g, ' ');
 } else {
   td.classList.add('breakable');
 
   /*
-  Prüfen, ob Text zu breit ist.
-  Nur dann wird ein manueller Zeilenumbruch eingefügt.
+  Check whether text is too wide.
+  Only then is a manual line break inserted.
   */
   const tempSpan = document.createElement('span');
   tempSpan.style.visibility = 'hidden';
@@ -427,11 +427,11 @@ Young Ones;f056y;tt2693664;feature film;"US; IE; ZA";2014;Jake Paltrow;100 Min.;
     }
   }
 }
-          // Spezialfall: imdb_id 
+          // Special case: imdb_id 
           if (headerNames[index] === 'imdb_id') {
             const a = document.createElement('a');
-            a.href = `https://www.imdb.com/title/${cell}/`; //generiert den Link zur entsprechenden imdb-Seite
-            a.textContent = cell; //angezeigter Text ist nur die imdb_id
+            a.href = `https://www.imdb.com/title/${cell}/`; //generates the link to the corresponding IMDb page
+            a.textContent = cell; //displayed text is the imdb_id only
             a.target = '_blank';
             td.appendChild(a);
           } else {
@@ -445,15 +445,15 @@ Young Ones;f056y;tt2693664;feature film;"US; IE; ZA";2014;Jake Paltrow;100 Min.;
 	  updateEntryCount();
     }
 
-    // CSV anzeigen
+    // Display CSV
     showCSV(csvText);
 
-    /* ## Tabellen-Sortierung ## */
+    /* ## Table sorting ## */
     function sortTable(colIndex) {
       const tableEl = document.getElementById('csvTable');
       const rowsArray = Array.from(tableEl.querySelectorAll('tr:not(:first-child)'));
       
-      // Prüfen, ob aktuell aufsteigend sortiert ist
+      // Check whether currently sorted ascending
       const isAsc = tableEl.getAttribute('data-sort-col') == colIndex &&
                     tableEl.getAttribute('data-sort-order') == 'asc';
 
@@ -462,13 +462,13 @@ Young Ones;f056y;tt2693664;feature film;"US; IE; ZA";2014;Jake Paltrow;100 Min.;
         const bText = b.children[colIndex].textContent;
         
         /* 
-        Numerische Tabellenwerte werden von String in Float umgewandelt, 
-        um sie für die Sortierung vergleichbar zu machen
+        Numeric table values are converted from string to float
+        to make them comparable for sorting
         */         
         const aNum = parseFloat(aText.replace(',', '.'));
         const bNum = parseFloat(bText.replace(',', '.'));
         
-        /* Prüft, ob die zu sortierende Spalte Zahlen oder Text enthält */        
+        /* Checks whether the column to be sorted contains numbers or text */        
         if (!isNaN(aNum) && !isNaN(bNum)) {
           return isAsc ? bNum - aNum : aNum - bNum;
         } else {
@@ -476,15 +476,15 @@ Young Ones;f056y;tt2693664;feature film;"US; IE; ZA";2014;Jake Paltrow;100 Min.;
         }
       });
 
-      // Neue Reihenfolge ins DOM schreiben
+      // Write new order to the DOM
       rowsArray.forEach(row => tableEl.appendChild(row));
       
-      // Sortierstatus speichern
+      // Save sort state
       tableEl.setAttribute('data-sort-col', colIndex);
       tableEl.setAttribute('data-sort-order', isAsc ? 'desc' : 'asc');
     }
 
-    /* ## Filtern ## */
+    /* ## Filtering ## */
     const searchInput = document.getElementById('searchInput');
     const columnSelect = document.getElementById('columnSelect');
 
@@ -498,28 +498,28 @@ Young Ones;f056y;tt2693664;feature film;"US; IE; ZA";2014;Jake Paltrow;100 Min.;
       const rows = table.querySelectorAll('tr:not(:first-child)');
 
       rows.forEach(tr => {
-        if (!filter) { /* Bei leerer Suchzeile wird die gesamte Tabelle angezeigt */
+        if (!filter) { /* If search field is empty, the entire table is displayed */
           tr.style.display = '';
           return;
         }
 
         let textToCheck = '';
-        if (selectedColumn === 'all') { /* Alle Spalten werden durchsucht */
+        if (selectedColumn === 'all') { /* All columns are searched */
           textToCheck = tr.textContent.toLowerCase();
-        } else { /* Ansonsten: Macht ein Array aus allen Spaltenüberschriften und ermittelt die zu dursuchende Spalte */
+        } else { /* Otherwise: creates an array of all column headers and identifies the column to search */
           const header = Array.from(table.querySelectorAll('tr:first-child th'))
           .findIndex(th => th.textContent === selectedColumn);
-          /* Jetzt wird der Zeileninhalt der jeweiligen Spalte durchsucht */          
+          /* Now the row content of the respective column is searched */          
           textToCheck = tr.children[header].textContent.toLowerCase();
         }
-        /* Bestimmt ob die Zeile angezeigt wird oder nicht */
+        /* Determines whether the row is shown or hidden*/
         tr.style.display = textToCheck.includes(filter) ? '' : 'none';
       });
-    /* Passt den Eintragszähler an */
+    /* Updates the entry counter */
 	  updateEntryCount();
     }
     
-/* ## Eintragszähler ## */
+/* ## Entry counter ## */
 function updateEntryCount() {
   const table = document.getElementById('csvTable');
   const rows = table.querySelectorAll('tr:not(:first-child)');
