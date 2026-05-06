@@ -11,10 +11,10 @@ For further details on patterns, standards, notes and examples, please refer to 
 | `title` | Original title of the audiovisual resource in its original language | [dc:title](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#title) | Title |
 | `object_id` | Project-specific unique identifier (ID) for the object (audiovisual resource) | [dc:identifier](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#identifier) | Identifier |
 | `imdb_id` | External IMDb identifier | [dc:identifier](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#identifier) | Identifier |
-| `classification` | Corpus-specific structural format of the object (audiovisual resource) | [dcterms:type](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/type) | Genre |
+| `classification` | Corpus-specific structural format of the object (audiovisual resource) | [dcterms:type](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#type) | Genre |
 | `country` | Country/countries of origin; ISO 3166-1 alpha-2 | [dcterms:spatial](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#spatial) | Country of Reference |
 | `year` | Year of initial release in the country of origin | [dcterms:issued](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#issued) | Year of Reference |
-| `director` | First and last name of the director(s); multiple directors separated by semicolon | [dcterms:creator](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/creator) | Credits |
+| `director` | First and last name of the director(s); multiple directors separated by semicolon | [dcterms:creator](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#creator) | Credits |
 | `runtime_min` | Runtime in minutes, human-readable | [dcterms:extent](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#extent) | Original Duration |
 | `duration_iso8601` | Runtime following ISO 8601 duration format, machine-readable | [dcterms:extent](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#extent) | Original Duration |
 | `season_episode` | Season and episode number for serial formats | [dcterms:isPartOf](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#isPartOf) | Series / Serial |
@@ -31,21 +31,21 @@ For further details on patterns, standards, notes and examples, please refer to 
 
 An example metadata record for an audiovisual resource is structured as follows:
 
- {
-    "title": "Everything Will Change",
-    "object_id": "f029e",
-    "imdb_id": "tt13086274",
-    "classification": "documentary",
-    "country": "DE; NL",
-    "year": 2021,
-    "director": "Marten Persiel",
-    "runtime_min": "93 Min.",
-    "duration_iso8601": "PT1H33M",
-    "season_episode": "",
-    "episode_title": "",
-    "modes_intervention": "Post-anthropocentric reperspectivations",
-    "annotation_data": true,
-    "moviebarcode": true
+ {<br>
+    "title": "Everything Will Change",<br>
+    "object_id": "f029e",<br>
+    "imdb_id": "tt13086274",<br>
+    "classification": "documentary",<br>
+    "country": "DE; NL",<br>
+    "year": 2021,<br>
+    "director": "Marten Persiel",<br>
+    "runtime_min": "93 Min.",<br>
+    "duration_iso8601": "PT1H33M",<br>
+    "season_episode": "",<br>
+    "episode_title": "",<br>
+    "modes_intervention": "Post-anthropocentric reperspectivations",<br>
+    "annotation_data": true,<br>
+    "moviebarcode": true<br>
   }
 
 ## Modes of Intervention 
@@ -74,7 +74,7 @@ In addition to the temporal and spatial scaling, the distributed, diffuse causat
 7. **Collisions**
 Many media productions, especially nature documentaries, still conceptualise nature as separate from the human realm. This dualism between nature and culture as a root cause of the climate crisis is increasingly manifesting as audiovisual boundaries: wild rainforest bordering cultivated palm tree plantations, fishing nets turning habitat into commodity, dams cutting off waterways for animals to redistribute water for agriculture. Could the clash between geometrically constructed human infrastructure and the chaotic force of extreme weather events make implicit structures of world projections more tangible and thereby challenge these extractivist approaches to nature? How can the interconnectedness of all life-forms be envisioned beyond the Western binary?
 
-## Adiitional Metadata-Files
+## Additional Metadata-Files
 
 Along with the corpus metadata there are two additional metadata files:
 
