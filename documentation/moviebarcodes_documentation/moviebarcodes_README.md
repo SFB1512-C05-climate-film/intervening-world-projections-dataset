@@ -20,6 +20,10 @@ Moviebarcodes are particularly useful for tracing movements and modulations of v
 
 Conversely, moviebarcodes are well suited as illustrative devices in scholarly argumentation. They can support analyses that assume audiovisual composition—that is, the concrete temporal arrangement of images and sounds—as a formal and aesthetic matrix shaping both processes of understanding and affective experience in spectators (Bakels, Grotkopp, Scherer, Stratil 2020; also see Müller/Kappelhoff 2018). In this sense, moviebarcodes can help to visualize how meaning and emotion emerge from the temporal organization of moving images, rather than from isolated stills or representational elements alone (Stratil 2024).
 
+## License Moviebarcode Codescripts
+
+Licensed under the [MIT License](https://opensource.org/license/mit). See [LICENSE.md](LICENSE.md) for details.
+
 ## References
 
 Bakels, J.‑H., Grotkopp, M., Scherer, T. J. J., & Stratil, J. (2020). Digitale Empirie? Computergestützte Filmanalyse im Spannungsfeld von Datenmodellen und Gestalttheorie. Advance online publication. https://doi.org/10.25969/mediarep/21683
