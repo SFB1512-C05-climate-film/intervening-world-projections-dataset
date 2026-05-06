@@ -1,0 +1,5 @@
+# The Project-Metadataschema: Descriptions and DC/EN-Mapping
+
+The metadata schema developed for the project is based on core elements of the Dublin Core (DC) standard and EN 15744. Key identification fields such as `title`, `identifier`, `country of production`, `year`, `director`, and `running time` align with established metadata elements. These fields serve both to ensure formal classification and clear identification, and to support further corpus analysis, for example by enabling calculations of country distribution or production periods.
+
+The following table lists all `13 fields` of the corpus metadata schema along with their equivalents in Dublin Core (DC) and EN 15744. Fields without a mapping are project-specific extensional categories that have no direct equivalent in either standard.
