@@ -48,7 +48,7 @@ The metadata serve both to document and describe the dataset, as well as to stru
 
 ## Authors and Contributors
 
-*For citing, please use the metadata in CITATION.cff.*
+*For citing, please use the metadata in [CITATION.cff](CITATION.cff).*
 
 ### Authors
 
