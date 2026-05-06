@@ -89,7 +89,7 @@ schema:
       description: "Runtime in minutes, human-readable"
       example: "87 Min."
     
-    - name: runtime_iso
+    - name: duration_iso8601
       type: string
       required: true
       dc-mapping: "dcterms:extent"

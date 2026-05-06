@@ -15,7 +15,7 @@ We investigated three different corpora and attempted to grasp the circulation o
 * b) social media videos and 
 * c) nature documentaries. 
 
-The modes of intervention are defined across seven scalable categories that identify reoccuring audiovisual patterns within the corpus material to examine and analyse strategies through which films and videos modulate forms of world-making in the context of ecological crisis. Further information and details can be accessed via the metadata-documentation. 
+The modes of intervention are defined across seven scalable categories that identify reoccuring audiovisual patterns within the corpus material to examine and analyse strategies through which films and videos modulate forms of world-making in the context of ecological crisis. Further information and details can be accessed via the [metadata-documentation](./documentation/tables_README.md). 
 
 ---
 
