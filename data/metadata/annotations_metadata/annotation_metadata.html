@@ -1,77 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!-- Zeichensatz: UTF-8 unterstützt Sonderzeichen --> 
+  
   <meta charset="utf-8" />
 
-  <!-- Titel der Browser-Registerkarte -->
+ 
   <title>Annotation metadata</title>
 
   <style>
-    /* Grundlayout der Seite */
+    
     body {
       font-family: Arial, sans-serif;
       margin: 30px;
       font-size: 14px;
     }
 
-    /* Container für die Tabelle mit Scrollbars */
+    
     #tableContainer {
-      overflow-x: auto;       /* horizontales Scrollen erlauben */
-      overflow-y: auto;       /* vertikales Scrollen erlauben */
-      max-height: 75vh;       /* maximale Höhe (75% der Fensterhöhe) */
+      overflow-x: auto;       
+      overflow-y: auto;       
+      max-height: 75vh;       
       margin: 20px auto;
       width: 90%;
       border: 1px solid #ccc;
     }
 
-    /* Tabellen-Grundlayout */
+    
     table {
-      border-collapse: collapse; /* Darsellung des Gitternetzes */
+      border-collapse: collapse; 
       width: 100%;
       border-radius: 8px;
       background-color: white;
-      white-space: nowrap; /* kein automatischer Zeilenumbruch (default) */
+      white-space: nowrap; 
     }
 
-    /* Tabellenkopf */
+    
     th {
       background-color: #00796b;
       color: white;
       font-weight: bold;
       padding: 8px 10px;
       text-align: left;
-      cursor: pointer; /* Spalten sind klickbar */
-      position: sticky; /* Kopf bleibt beim Scrollen sichtbar */
+      cursor: pointer; 
+      position: sticky; 
       top: 0;
       z-index: 2;
     }
 
-    /* Tabellenzellen */
+    
     td {
       padding: 6px 10px;
       white-space: nowrap;
     }
 
-    /* Zellen, in denen Zeilenumbrüche erlaubt sind */
+    
     td.breakable {
-      white-space: pre; /* keine automatischen Zeilenumbrüche */
-      word-break: keep-all; /* keine Worttrennungen */
+      white-space: pre; 
+      word-break: keep-all; 
     }
 
-    /* Jede zweite Zeile leicht einfärben */
+  
     tr:nth-child(even) { background-color: #f9f9f9; }
 
-    /* Hover-Effekt */
+    
     tr:hover { background-color: #e0f7fa; }
 
-    /* Suchbereich */
+    
     #searchContainer {
       text-align: center;
       margin: 20px auto;
     }
 
-    /* Suchfeld & Dropdown */
+   
     #searchInput,
     #columnSelect {
       padding: 8px;
@@ -85,15 +85,15 @@
 
 <body>
 
-  <!-- Hauptüberschrift -->
+  
   <h1>Annotation metadata</h1>
 
-  <!-- Such- und Filterbereich -->
+ 
   <div id="searchContainer">
     <input type="text" id="searchInput" placeholder="Search...">
     <select id="columnSelect"></select>
 
-    <!-- Anzeige der Eintragsanzahl -->
+    
     <span id="entryCount" style="
       display: inline-block;
       margin-left: 15px;
@@ -105,16 +105,13 @@
     ">Entries: 0</span>
   </div>
 
-  <!-- Tabellencontainer -->
+  
   <div id="tableContainer">
     <table id="csvTable"></table>
   </div>
 
   <script>
-    /*
-      CSV-Daten als mehrzeiliger String.
-      Trennzeichen: Semikolon (;) wegen CSV aus Excel-Export
-    */
+   
     const csvText = `title;classification_string;season_episode;episode_title;scene;timecode_scene;object_id;azp_id;json_id;modes_intervention;annotation_count;annotation_date
 2040;documentary;;;1;00:01:10-00:06:21;f0162;a_f0162_1;j_f0162_1;Escalation / de-escalation;696;15/11/22
 Anthropocene: The Human Epoch;documentary;;;1;00:57:50-01:00:11;f002a;a_f002a_1;j_f002a_1;Unintended Consequences;217;07/11/22
@@ -194,36 +191,25 @@ Weitermachen Sanssouci;feature film;;;1;00:11:50-00:12:30;f053w;a_f053w_1;j_f053
 Weitermachen Sanssouci;feature film;;;2;00:21:11-00:22:36;f053w;a_f053w_1;j_f053w_1;Destabilization / Restabilization, Non-linear temporalities, Post-anthropocentric reperspectivations;126;02/12/23
 Life on Earth;episode;S01E02;The Infinite Variety;1;00:00:33-00:04:36;e126t;a_e126_1;j_e126t_1;;352;22/05/25
 `
-      .replace(/"/g, '') //CSV Anpassen, da Dropdown Menues von Excel falsch erkannt werden
+      .replace(/"/g, '') 
       .replace(/; /g, ',') 
 ;
 
-    /*
-      Hauptfunktion:
-      - liest CSV
-      - erzeugt Tabelle
-      - baut Spaltenüberschriften
-      - füllt Dropdown
-    */
     function showCSV(csv) {
 
-      /*
-      teilt die CSV in Zeilen und Spalten auf
-      ';' als Trennzeichen festlegen
-      */
       const rows = csv.trim().split('\n').map(r => r.split(';'));
 
-      // Tabelle leeren, um sie je nach Suchbegriff neu zu bauen
+      
       const table = document.getElementById('csvTable');
       table.innerHTML = ''; 
 
-      /* ## Tabellenkopf ## */
+      
       const headerRow = document.createElement('tr');
       rows[0].forEach((h, index) => {
         const th = document.createElement('th');
         th.textContent = h;
 
-        // Ermöglicht sortieren durch Klick auf den Tabellenkopf
+        
         th.addEventListener('click', () => sortTable(index));
 
         headerRow.appendChild(th);
@@ -232,17 +218,17 @@ Life on Earth;episode;S01E02;The Infinite Variety;1;00:00:33-00:04:36;e126t;a_e1
       table.appendChild(headerRow);
       const headerNames = rows[0];
 
-      /* ## Dropdown mit Spaltennamen ## */
+      
       const select = document.getElementById('columnSelect');
       select.innerHTML = '';
 
-      // Erstellt das Dropdown-Menü für die Suchfilter
+      
       const allOption = document.createElement('option');
       allOption.value = 'all';
       allOption.textContent = 'All Columns';
       select.appendChild(allOption);
 
-      // Fügt die eizelnen Spalten als Suchfilter hinzu
+      
       headerNames.forEach(name => {
         const opt = document.createElement('option');
         opt.value = name;
@@ -251,26 +237,22 @@ Life on Earth;episode;S01E02;The Infinite Variety;1;00:00:33-00:04:36;e126t;a_e1
       });
 
       
-      /* Definiert Spalten, in denen Zeilenumbrüche erlaubt sind */
+      
       const breakableColumns = ['title', 'episode_title'];
 
-      /* ## Tabelleninhalt ## */
+      
       rows.slice(1).forEach(r => {
         const tr = document.createElement('tr');
 
         r.forEach((cell, index) => {
           const td = document.createElement('td');
 
-          // Für normale Spalten: Zeilenumbrüche entfernen
+          
           if (!breakableColumns.includes(headerNames[index])) {
             cell = cell.replace(/\n/g, ' ');
           } else {
             td.classList.add('breakable');
 
-            /*
-              Prüfen, ob Text zu breit ist.
-              Nur dann wird ein manueller Zeilenumbruch eingefügt.
-            */
             const tempSpan = document.createElement('span');
             tempSpan.style.visibility = 'hidden';
             tempSpan.style.whiteSpace = 'nowrap';
@@ -291,12 +273,12 @@ Life on Earth;episode;S01E02;The Infinite Variety;1;00:00:33-00:04:36;e126t;a_e1
             }
           }
 
-          // Spezialfall: imdb_id 
+          
           if (headerNames[index] === 'imdb_id') {
             const a = document.createElement('a');
-            a.href = `https://www.imdb.com/title/${cell}/`; //generiert den Link zur entsprechenden imdb-Seite
-            a.textContent = cell; //angezeigter Text ist nur die imdb_id
-            a.target = '_blank'; // öffnet den Link in neuem Tab
+            a.href = `https://www.imdb.com/title/${cell}/`; 
+            a.textContent = cell; 
+            a.target = '_blank'; 
             td.appendChild(a);
           } else {
             td.textContent = cell;
@@ -308,18 +290,18 @@ Life on Earth;episode;S01E02;The Infinite Variety;1;00:00:33-00:04:36;e126t;a_e1
         table.appendChild(tr);
       });
 
-      updateEntryCount(); // Eintragszähler aktualisieren
+      updateEntryCount(); 
     }
 
-    // CSV anzeigen
+  
     showCSV(csvText);
 
-    /* ## Tabellen-Sortierung ## */
+   
     function sortTable(colIndex) {
       const tableEl = document.getElementById('csvTable');
       const rowsArray = Array.from(tableEl.querySelectorAll('tr:not(:first-child)'));
 
-      // Prüfen, ob aktuell aufsteigend sortiert ist
+     
       const isAsc =
         tableEl.getAttribute('data-sort-col') == colIndex &&
         tableEl.getAttribute('data-sort-order') == 'asc';
@@ -328,14 +310,11 @@ Life on Earth;episode;S01E02;The Infinite Variety;1;00:00:33-00:04:36;e126t;a_e1
         const aText = a.children[colIndex].textContent;
         const bText = b.children[colIndex].textContent;
 
-        /* 
-        Numerische Tabellenwerte werden von String in Float umgewandelt, 
-        um sie für die Sortierung vergleichbar zu machen
-        */ 
+       
         const aNum = parseFloat(aText.replace(',', '.'));
         const bNum = parseFloat(bText.replace(',', '.'));
 
-        /* Prüft, ob die zu sortierende Spalte Zahlen oder Text enthält */
+     
         if (!isNaN(aNum) && !isNaN(bNum)) {
           return isAsc ? bNum - aNum : aNum - bNum;
         } else {
@@ -345,15 +324,15 @@ Life on Earth;episode;S01E02;The Infinite Variety;1;00:00:33-00:04:36;e126t;a_e1
         }
       });
 
-      // Neue Reihenfolge ins DOM schreiben
+     
       rowsArray.forEach(row => tableEl.appendChild(row));
 
-      // Sortierstatus speichern
+    
       tableEl.setAttribute('data-sort-col', colIndex);
       tableEl.setAttribute('data-sort-order', isAsc ? 'desc' : 'asc');
     }
 
-    /* ## Filtern ## */
+   
     const searchInput = document.getElementById('searchInput');
     const columnSelect = document.getElementById('columnSelect');
 
@@ -367,30 +346,30 @@ Life on Earth;episode;S01E02;The Infinite Variety;1;00:00:33-00:04:36;e126t;a_e1
       const rows = table.querySelectorAll('tr:not(:first-child)');
 
       rows.forEach(tr => {
-        if (!filter) { /* Bei leerer Suchzeile wird die gesamte Tabelle angezeigt */
+        if (!filter) { 
           tr.style.display = '';
           return;
         }
 
         let textToCheck = '';
 
-        if (selectedColumn === 'all') { /* Alle Spalten werden durchsucht */
+        if (selectedColumn === 'all') { 
           textToCheck = tr.textContent.toLowerCase();
-        } else { /* Ansonsten: Macht ein Array aus allen Spaltenüberschriften und ermittelt die zu dursuchende Spalte */
+        } else { 
           const headerIndex = Array.from(
             table.querySelectorAll('tr:first-child th')
           ).findIndex(th => th.textContent === selectedColumn);
-          /* Jetzt wird der Zeileninhalt der jeweiligen Spalte durchsucht */
+         
           textToCheck = tr.children[headerIndex].textContent.toLowerCase();
         }
-        /* Bestimmt ob die Zeile angezeigt wird oder nicht */
+        
         tr.style.display = textToCheck.includes(filter) ? '' : 'none';
       });
-      /* Passt den Eintragszähler an */
+      
       updateEntryCount();
     }
 
-    /* ## Eintragszähler ## */
+    
     function updateEntryCount() {
       const table = document.getElementById('csvTable');
       const rows = table.querySelectorAll('tr:not(:first-child)');
