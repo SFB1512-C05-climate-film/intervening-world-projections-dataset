@@ -14,7 +14,7 @@ The annotations were created with [Advene](https://www.advene.org/), an open-sou
 
 An example of the annotation interface using the AdA Ontology is shown below:
 
-<img src="../assets/annotation_interface_ontology.png" width="700">
+<img src="../assets/annotation_interface_ontology.png" width="900">
 
 ### AdA Filmontology
 
@@ -30,7 +30,7 @@ The film-analytical concepts, terms, and descriptions are defined using OWL (Web
 
 An example of the ontology structure is displayed below: 
 
-<img src="../assets/ada_ontology_structure_example.png" width="700">
+<img src="../assets/ada_ontology_structure_example.png" width="800">
 
 ### AdA Toolkit
 
