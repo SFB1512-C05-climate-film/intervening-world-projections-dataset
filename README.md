@@ -44,6 +44,10 @@ The dataset consists of four data types. Due to copyright restrictions, only the
 
 The metadata serve both to document and describe the dataset, as well as to structure and connect the individual data records.
 
+<p align="center">
+  <img src="./assets/dataset_architecture.png" width="700">
+</p>
+
 ---
 
 ## Authors and Contributors
