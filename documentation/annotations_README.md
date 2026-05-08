@@ -12,9 +12,25 @@ The annotations systematically document audiovisual patterns in the corpus — s
 
 The annotations were created with [Advene](https://www.advene.org/), an open-source tool for annotating and analysing audiovisual resources. Advene allows users to create timeline-based annotations linked directly to video timecodes and export them in multiple formats.
 
+An example of the annotation interface using the AdA Ontology is shown below:
+
+<img src="../assets/annotation_interface_ontology.png" width="700">
+
 ### AdA Filmontology
 
 The annotation schema is based on the [AdA Filmontology](https://projectada.github.io/ontology/), a systematic vocabulary and data model of film-analytical terms and concepts for fine-grained semantic video annotation. It provides standardised categories and values for describing audiovisual patterns, enabling systematic and reproducible analysis across different corpora.
+
+The film-analytical concepts, terms, and descriptions are defined using OWL (Web Ontology Language) and RDF (Resource Description Framework) within a threefold class-based structure and its associated properties:
+
+**Annotation levels** are general descriptive categories consisting of a set of related annotation types (e.g. acoustics or camera).
+
+**Annotation types** are concepts used for film analysis under which a film is annotated (e.g. music ➡️ mood or camera movement ➡️ tempo).
+
+**Annotation values** describe the specific properties that an annotation type can assume (e.g. camera movement ➡️ tempo ➡️ slow, medium, fast, variable).
+
+An example of the ontology structure is displayed below: 
+
+<img src="../assets/ada_ontology_structure_example.png" width="700">
 
 ### AdA Toolkit
 
