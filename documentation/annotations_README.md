@@ -56,3 +56,7 @@ For detailed workflows and descriptions please use the manual or the video tutor
 ## License
 
 The annotation data are licensed under **CC BY 4.0**. See [LICENSE.md](../LICENSE.md) for details.
+
+## References
+
+Bakels, J.-H., Grotkopp, M., Scherer, T., & Stratil, J. (2023). Screening the Financial Crisis: A Case Study for Ontology-based Film Analytical Video Annotations. URL: https://mediarep.org/entities/article/60fe5c87-5637-4f76-9b36-91a7e65bb360. Accessed: 2025-03-04.
