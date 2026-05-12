@@ -61,7 +61,7 @@ Freie Universität Berlin / CRC 1512 <br>
 *Project Lead and Supervision, Methodology and Conceptualisation, Research and Analysis*
 
 Yvonne Pfeilschifter <br>
-Freie Universität Berlin / CRC 1512<br>
+Freie Universität Berlin / CRC 1512 <br>
 *Subproject Lead, Methodology and Conceptualisation, Research and Analysis*
 
 Derya Demir <br>
@@ -77,6 +77,18 @@ Freie Universität Berlin / QUADRIGA <br>
 Raphael Schotten <br>
 Freie Universität Berlin <br>
 *Data Collection*
+
+Rebecca Zorko <br>
+Universität Zürich
+*Data Collection* 
+
+Pablo Trujillo Tobaria <br>
+Freie Universität Berlin / CRC 1512 <br>
+*Data Collection*
+
+Rebecca Zorko <br>
+Universität Zürich
+*Data Collection* 
 
 ---
 
