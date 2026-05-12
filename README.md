@@ -76,10 +76,6 @@ Freie Universität Berlin / QUADRIGA <br>
 
 Raphael Schotten <br>
 Freie Universität Berlin <br>
-*Data Collection*
-
-Rebecca Zorko <br>
-Universität Zürich
 *Data Collection* 
 
 Pablo Trujillo Tobaria <br>
@@ -87,7 +83,7 @@ Freie Universität Berlin / CRC 1512 <br>
 *Data Collection*
 
 Rebecca Zorko <br>
-Universität Zürich
+Universität Zürich <br>
 *Data Collection* 
 
 ---
