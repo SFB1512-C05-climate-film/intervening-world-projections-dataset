@@ -58,7 +58,7 @@ The metadata serve both to document and describe the dataset, as well as to stru
 
 Matthias Grotkopp <br>
 Freie Universität Berlin / CRC 1512 <br>
-*Project Lead and Supervision, Funding Acquisition, Methodology and Conceptualisation, Research and Analysis*
+*Project Lead and Supervision, Methodology and Conceptualisation, Research and Analysis*
 
 Yvonne Pfeilschifter <br>
 Freie Universität Berlin / CRC 1512<br>
