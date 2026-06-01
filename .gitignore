@@ -219,3 +219,6 @@ __marimo__/
 
 # Editor Setting
 .vscode/
+
+# DS Data
+.DS_Store
