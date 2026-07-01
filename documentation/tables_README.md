@@ -82,3 +82,5 @@ Along with the corpus metadata there are two additional metadata files:
 2. `moviebarcode metadata` for the moviebarcodes
 
 The primary linking element is the project-specific identifier, the `object_id`. Each `azp` file and each `png` file is assigned a unique identifier derived from the `object_id`, allowing it to be linked to the corresponding audiovisual resource. The metadata also include additional information, such as the date of creation and technical specifications.
+
+For example, the film *Anthropocene: The Human Epoch* (dir. Jennifer Baichwal, Edward Burtynsky, Nicholas de Pencier, Canada, 2018) is assigned the `object_id` `f002a`. The corresponding moviebarcode file is named `mb_f002a_0`, where the numeric suffix indicates whether the moviebarcode represents the entire film (`0`) or an annotated scene (scene 1 = `mb_f002a_1`, scene 2 = `mb_f002a_2`, etc.).
