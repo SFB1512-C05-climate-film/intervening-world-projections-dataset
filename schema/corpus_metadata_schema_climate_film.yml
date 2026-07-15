@@ -126,11 +126,11 @@ schema:
       type: string
       required: false
       vocabulary:
-      - destabilization/restabilization
-      - escalation/de-escalation
-      - disruptive scaling
-      - non-linear temporalities
-      - post-anthropocentric reperspectivations
-      - unintended consequences
-      - collisions
+      - Destabilization / Restabilization
+      - Escalation / de-escalation
+      - Disruptive scaling
+      - Non-linear temporalities
+      - Post-anthropocentric reperspectivations
+      - Unintended Consequences
+      - Collisions
       description: "Project-specific analysis categories"
