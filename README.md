@@ -52,6 +52,18 @@ The metadata serve both to document and describe the dataset, as well as to stru
 
 ---
 
+## Repository Template
+
+This repository can be used as a template for publishing audiovisual research data in the humanities. It provides a structured folder layout for datasets and the corresponding documentation files, following established research data management practices. The included data files serve as reference examples illustrating how the folder structure and documentation can be reused.
+
+### How to use this template
+
+1. Click **Use this template** → **Create a new repository**
+2. Adapt `README.md` with your project information
+3. Replace `CITATION.cff` with your own metadata
+4. Update `LICENSE.md` to match your licensing needs
+5. Add your data to the `data/` and `documentation/` subfolders
+
 ## Authors and Contributors
 
 *For citing, please use the metadata in [CITATION.cff](CITATION.cff).*
