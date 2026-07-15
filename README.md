@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.21371288.svg)](https://doi.org/10.5281/zenodo.21371288)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21371288-blue)](https://doi.org/10.5281/zenodo.21371288)
 
 # Intervening World Projections: Audiovisuality of Climate Change 
 
