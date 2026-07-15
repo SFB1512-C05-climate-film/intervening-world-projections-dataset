@@ -11,14 +11,14 @@ description: >
  and moviebarcode visualisations"
 publisher: "Freie Universität Berlin"
 contributors: "Lück, Konstantin; Schotten, Raphael"
-date: "2026-04-28"
+date: "2026-07-15"
 type: "Dataset"
 format: "AZP, JSON, PNG, CSV, HTML, XLSX"
-identifier: "TODO: DOI"
+identifier: "https://doi.org/10.5281/zenodo.21371288"
 source: > 
   "Audiovisual source files (MP4) of the corpus objects;
   source files are not published due to copyright restrictions"
 language: "en"
-relation: "TODO: Github URL"
+relation: "https://github.com/SFB1512-C05-climate-film/intervening-world-projections-dataset"
 coverage: "International; 1979 – 2023"
 rights: "CC BY-SA 4.0"

@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.21371288.svg)](https://doi.org/10.5281/zenodo.21371288)
+
 # Intervening World Projections: Audiovisuality of Climate Change 
 
 **Subproject C05 of the [Collaborative Research Center 1512 "Intervening Arts"](https://www.sfb-intervenierende-kuenste.de/en/index.html) (funded by the German Research Council)**

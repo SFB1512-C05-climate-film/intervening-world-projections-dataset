@@ -22,9 +22,9 @@ authors:
     orcid: 'https://orcid.org/0009-0000-2237-9400'
 identifiers:
 - type: doi
-  value: 10.5281/zenodo.15585269
+  value: https://doi.org/10.5281/zenodo.21371288
   description: Zenodo
-repository-code: 'https://github.com/SFB1512-C05-climate-film'
+repository-code: 'https://github.com/SFB1512-C05-climate-film/intervening-world-projections-dataset'
 abstract: >
   A corpus of audiovisual research objects (films,
   documentaries, and social media videos)  on anthropogenic
@@ -45,7 +45,7 @@ keywords:
   - digital humanities
 license: CC-BY-SA-4.0
 version: 1.0.0
-date-released: '2026-04-28'
+date-released: '2026-07-15'
 references:
   - type: standard
     title: "AdA Filmontology"
